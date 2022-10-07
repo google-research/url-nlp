@@ -1,6 +1,6 @@
 # Multilingual Grade School Math Benchmark (MGSM)
 
-MGSM is a benchmark of grade-school math problems, proposed in the paper "Language models are multilingual chain-of-thought reasoners" by Google Research.
+MGSM is a benchmark of grade-school math problems, proposed in the paper [Language models are multilingual chain-of-thought reasoners](http://arxiv.org/abs/2210.03057).
 
 The same 250 problems from [GSM8K](https://arxiv.org/abs/2110.14168) are each translated via human annotators in 10 languages. The 10 languages are:
 - Spanish
