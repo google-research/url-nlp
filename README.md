@@ -11,3 +11,6 @@ In particular, this repository contains data related to the following datasets a
 - `square_one_bias`: Ruder, S., Vulić, I., & Søgaard, A. (2022). [Square One Bias in NLP: Towards a Multi-Dimensional Exploration of the Research Manifold](https://aclanthology.org/2022.findings-acl.184). In *Findings of the Association for Computational Linguistics: ACL 2022*, 2340–2354.
 
 - `tata`:  Gehrmann, S., Ruder, S., Nikolaev, V., Botha, J. A., Chavinda, M., Parikh, A., & Rivera, C. (2022). TaTA: A Multilingual Table-to-Text Dataset for African Languages. arXiv preprint.
+
+
+- `GATITOS`: Jones, A., Caswell, I., Saxena, I., Firat, O. (2023) [BiLex Rx: Lexical Data Augmentation for Massively Multilingual Machine Translation](). arXiv preprint.
