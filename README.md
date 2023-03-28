@@ -13,4 +13,4 @@ In particular, this repository contains data related to the following datasets a
 - `tata`:  Gehrmann, S., Ruder, S., Nikolaev, V., Botha, J. A., Chavinda, M., Parikh, A., & Rivera, C. (2022). TaTA: A Multilingual Table-to-Text Dataset for African Languages. arXiv preprint.
 
 
-- `GATITOS`: Jones, A., Caswell, I., Saxena, I., Firat, O. (2023) [BiLex Rx: Lexical Data Augmentation for Massively Multilingual Machine Translation](). arXiv preprint.
+- `GATITOS`: Jones, A., Caswell, I., Saxena, I., Firat, O. (2023) [BiLex Rx: Lexical Data Augmentation for Massively Multilingual Machine Translation](https://arxiv.org/pdf/2303.15265.pdf). arXiv preprint.

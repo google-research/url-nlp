@@ -2,7 +2,7 @@
 
 The GATITOS (Google's Additional Translations Into Tail-languages: Often Short)
 dataset is a high-quality, multi-way parallel dataset of tokens and short
-phrases, intended for training and improving machine translation models. Experiments on this dataset and Panlex focusing on unsupervised translation in a 208-language model can be found in [BiLex Rx: Lexical Data Augmentation for Massively Multilingual Machine Translation]().
+phrases, intended for training and improving machine translation models. Experiments on this dataset and Panlex focusing on unsupervised translation in a 208-language model can be found in [BiLex Rx: Lexical Data Augmentation for Massively Multilingual Machine Translation](https://arxiv.org/pdf/2303.15265.pdf).
 
 ### About the Data and Data Collection
 
