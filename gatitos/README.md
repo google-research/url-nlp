@@ -26,19 +26,16 @@ source token, but some languages, like Konkani, sometimes provide several.
 
 | BCP-47 code | Language Name | Endonym      | Alternate names       | script |
 | ----------- | ------------- | ------------ | --------------------- | ------ |
-| ak          | Twi           | Twi          | Akan (Fante, Ashanti, | Latn   |
-:             :               :              : Akuapem, etc.)        :        :
+| ak          | Twi           | Twi          | Akan (Fante, Ashanti, Akuapem, etc.) | Latn   |
 | as          | Assamese      | অসমীয়া      | Asamiya, Asomiya      | Beng   |
 | ay          | Aymara        | Aymar aru    |                       | Latn   |
 | bho         | Bhojpuri      | भोजपुरी      |                       | Deva   |
 | bm          | Bambara       | Bámánánkán   |                       | Latn   |
-| ckb         | Kurdish       | سۆرانی       | Central Kurdish       | Arab   |
-:             : (Sorani)      :              :                       :        :
+| ckb         | Kurdish  (Sorani)   | سۆرانی       | Central Kurdish       | Arab   |
 | doi         | Dogri         | डोगरी        |                       | Deva   |
 | dv          | Dhivehi       | ދިވެހި       | Maldivian, Divehi     | Thaa   |
 | ee          | Ewe           | Eʋegbe       | Eve, Anlo, Anwona     | Latn   |
-| es          | Spanish       | español,     | Castilian             | Latn   |
-:             :               : castellano   :                       :        :
+| es          | Spanish       | español, castellano    | Castilian             | Latn   |
 | fr          | French        | français     |                       | Latn   |
 | gn          | Guarani       | avañeʼẽ      | Guaraní               | Latn   |
 | gom         | Konkani       | कोंकणी       |                       | Deva   |
@@ -49,17 +46,14 @@ source token, but some languages, like Konkani, sometimes provide several.
 | ln          | Lingala       | Lingála      | Ngala                 | Latn   |
 | lus         | Mizo          | Mizo ṭawng   | Lushai, Duhlian       | Latn   |
 | mai         | Maithili      | मैथिली       |                       | Deva   |
-| mni-Mtei    | Meiteilon     | ꯃꯤꯇꯩꯂꯣꯟ      | Meitei, Meetei,       | Mtei   |
-:             : (Manipuri)    :              : Meitheilon, Meeteilon :        :
+| mni-Mtei    | Meiteilon (Manipuri)    | ꯃꯤꯇꯩꯂꯣꯟ      | Meitei, Meetei, Meitheilon, Meeteilon     | Mtei   |
 | nso         | Sepedi        | Sepedi       | Pedi, Northern Sotho  | Latn   |
-| om          | Oromo         | Afaan Oromoo | Oromiffa, Oromigna,   | Latn   |
-:             :               :              : Afaan Oromoo          :        :
+| om          | Oromo         | Afaan Oromoo | Oromiffa, Oromigna, Afaan Oromoo  | Latn   |
 | qu          | Quechua       | Runa Simi    |                       | Latn   |
 | sa          | Sanskrit      | संस्कृतम्    |                       | Deva   |
 | ti          | Tigrinya      | ትግርኛ         | Tigrigna              | Ethi   |
 | ts          | Tsonga        | Xitsonga     | Xitsonga              | Latn   |
-| ff          | Fulfulde      | [many]       | Fula, Fulah, Fulbe,   | Latn   |
-:             :               :              : Fulani Pular, Pulaar  :        :
+| ff          | Fulfulde      | [many]       | Fula, Fulah, Fulbe, Fulani, Pular, Pulaar | Latn   |
 | kl          | Kalaallisut   | Kalaallisut  | Greenlandic           | Latn   |
 
 Please note that the language name can be a point of considerable tension, and
