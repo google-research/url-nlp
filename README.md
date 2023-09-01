@@ -14,3 +14,5 @@ In particular, this repository contains data related to the following datasets a
 
 
 - `GATITOS`: Jones, A., Caswell, I., Saxena, I., Firat, O. (2023) [BiLex Rx: Lexical Data Augmentation for Massively Multilingual Machine Translation](https://arxiv.org/pdf/2303.15265.pdf). arXiv preprint.
+
+- `FUN-LangID`: The 1600+ language LangID model described [here](https://github.com/google-research/url-nlp/fun-langid)
