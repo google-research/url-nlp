@@ -38,6 +38,7 @@ This model is not great when:
   * Your inputs are noisy, especially if they have repeating n-grams
   * You want to differentiate dialects or close languages
 
+_This is not an officially supported Google product._
 
 ## How does it work?
 
