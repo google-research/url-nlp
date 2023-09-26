@@ -1,3 +1,4 @@
+# coding: utf8
 """Very simple character 4-gram LangID classifier on up to 1634 languages.
 
 See README for details.
