@@ -24,8 +24,8 @@ aw cawi	accent
 cohlaan	accept
 luh	access
 luhnak lam	access
-laakhruak	accident
 ruahlopin	accident
+laakhruak	accident
 umthutnak	accommodation
 tlinh	accomplish
 tlinh	accomplished
@@ -67,8 +67,8 @@ duh	admire
 wunkhaan	admit
 i cawm	adopt
 duhnungmi	adorable
-thanchonak	advance
 tuah chung	advance
+thanchonak	advance
 hmai lei kal	advanced
 thathnemnak	advantage
 sunhsa	adventure
@@ -77,8 +77,9 @@ fakthanh	advertisement
 fakthanhnak	advertising
 ruahnak cheuhnak	advice
 ruahnak cheuh	advise
-dirkamh	advocate
 dirkamhtu	advocate
+dirkamh	advocate
+dawhnak lei	aesthetic
 rian	affair
 thlen	affect
 hawikom dawtnak	affection
@@ -92,7 +93,7 @@ a hnu ah	afterwards
 than	again
 doh	against
 kum	age
-agency	agency
+riantuanpiaknak	agency
 riantuan fialmi	agent
 a hrangmi	aggressive
 khulrang	agile
@@ -106,7 +107,6 @@ tinhmi	aim
 thli	air
 vanlawng bual	airport
 thutnaktlaar karlak lam	aisle
-hlauhnak	alarm
 ralrinpeknak	alarm
 zu	alcohol
 hliphlau tein um	alert
@@ -142,6 +142,7 @@ tha tein zoh	analysis
 pupa hna	ancestors
 thir cangai	anchor
 hlaan lio chan	ancient
+le	and
 cun	and
 cun nangmah	and you
 vanmi	angel
@@ -158,8 +159,8 @@ hnahnokmi	annoying
 kumfatin	annual
 min hngalhlo	anonymous
 a dang	another
-phi	answer
 a phichuak	answer
+phi	answer
 rak i ruahcia	anticipate
 thinlung tur rannak	anxiety
 lungrethei in umnak	anxious
@@ -179,7 +180,7 @@ a lang	appear
 muisam umtuning	appearance
 rak langh	appeared
 rawl deuhnak	appetite
-apple	apple
+epal	apple
 shouhhlua	application
 hman	apply
 tonnak caan sermi	appointment
@@ -200,8 +201,8 @@ catialmi chiahnak	archive
 an si	are
 nangmah ma	are you
 na riantam tuk maw	are you busy
-va na ngei cang maw	are you married
 nupi	are you married
+va na ngei cang maw	are you married
 Nupi va ngei cangmi na si maw silo ah a lawngmi dah	are you married or single
 Na um rih maw?	Are you still there?
 na um maw	are you there
@@ -212,7 +213,7 @@ thawh	arise
 ban	arm
 ralkap	army
 kiangkap	around
-tolrel	arrange
+tawlrel	arrange
 ningcang in chiahnak	arrangement
 phaknak	arrival
 phak	arrive
@@ -222,7 +223,7 @@ fei	arrow
 zungthiamnak	art
 capar	article
 serchommi	artificial
-artist	artist
+kutzungthiam	artist
 a si bantuk in	as
 a si chung paoh	as long as
 cu bantuk in	as well
@@ -258,8 +259,8 @@ thilchih	attach
 temchih	attached
 hrenkhihnak	attachment
 doh	attack
-zuam	attempt
 zuamnak	attempt
+zuam	attempt
 kai	attend
 kainak	attendance
 lungthin pek	attention
@@ -275,8 +276,8 @@ ni	aunty
 a sit	authentic
 catialtu	author
 nawlngeihnak	authority
-khuasik hram	autumn
 sikpar	autumn
+khuasik hram	autumn
 a ngah	available
 azatawk	average
 hrial	avoid
@@ -310,8 +311,8 @@ bengh	bank
 zudawr	bar
 ceoceo	barely
 chawdet	bargain
-thinghawng	bark
 uico bo	bark
+thinghawng	bark
 barli	barley
 khamtu	barrier
 achekhan	base
@@ -325,7 +326,6 @@ mibu	batch
 tikholh	bath
 tikhaan zunput	bathroom
 batteri	battery
-tha	battery
 raldoh	battle
 rili kam	bay
 si	be
@@ -386,7 +386,7 @@ tang ah	beyond
 Bhojpuri	Bhojpuri
 papek mi ngeih	bias
 tanhmi ngeih	biased
-satbing	bicycle
+setbing	bicycle
 nawlpek	bid
 a ngan	big
 satbing	bike
@@ -400,8 +400,8 @@ seh	bite
 a khami	bitter
 a nak	black
 belet	blade
-mi sualphawtnak	blame
 mi sualphawt	blame
+mi sualphawtnak	blame
 a lawngmi	blank
 puanbu	blanket
 khuai	blast
@@ -415,7 +415,7 @@ dawnhkhaan	block
 thi	blood
 chan lingcing	bloom
 chem	blow
-a dum muici	blue
+adum	blue
 a hnawlmi	blunt
 riantuanbu hruaitu	board
 bawd	board
@@ -425,8 +425,8 @@ a tlok	boil
 raltha	bold
 temtu	bond
 ruh	bone
-cauk	book
 cah	book
+cauk	book
 cawisanh	boost
 cung lei ah cawitu	boost
 chapmi	booster
@@ -448,21 +448,22 @@ cawk	bought
 hlok	bounce
 tuam	bound
 rikhiahnak	boundaries
-feibawm	bow
 lu khun	bow
+feibawm	bow
 khengkuar	bowl
 bawm	box
 ngakchia pa	boy
 tlangvaal	boyfriend
 kutkhih	bracelet
-thluk	brain
+thluak	brain
 tengnge	branch
 phun	brand
 a ral thami	brave
 awngka	breach
 pawngmuk changreu	bread
 dinh caan	break
-khuai/hrawh	break
+khuai	break
+hrawh	break
 thawhhlam	breakfast
 hnuk	breast
 thaw	breath
@@ -482,6 +483,7 @@ a rawkmi	broke
 a rawkmi	broken
 hmunphiah	broom
 pa unau	brother
+pasal nau	brother in law
 rak put	brought
 khawfi muici	brown
 hnor	brush
@@ -489,8 +491,8 @@ baltin	bucket
 hawikom	buddy
 tangka hmanding	budget
 hmaifa	bug
-ser	build
 sak	build
+ser	build
 inn	building
 ser	built
 a tam deuh	bulk
@@ -521,25 +523,25 @@ mangtha	bye
 kawpi hlum	cabbage
 hrawl a ngeimi bizu	cabinet
 saram chiahnak inn	cage
-cake	cake
+keihmuk	cake
 saram fa	calf
-chawnhnak	call
 chawnh	call
+chawnhnak	call
 ra ka chawn	call me
 auhmi	called
 thinlung daih	calm
 rak rat	came
-a buin tuanmi	campaign
 camping	campaign
-dur	can
+a buin tuanmi	campaign
 tuah khawh	can
+dur	can
 kho lo	can't
 Letthan	Cancel
-cancer	cancer
+khensar	cancer
 tuah khawh	capable
 tlum khawhnak	capacity
-tangka hram	capital
 cafang ngan	capital
+tangka hram	capital
 biatlang	caption
 tlaih	capture
 mawtaw	car
@@ -550,14 +552,14 @@ daithlaan	careless
 zawnruahnak	caring
 lattama	carpenter
 tuangphah	carpet
-khakyauh	carrot
+khazer	carrot
 i ken	carry
 pehzulh	carry on
 i ken	carry out
 thil a hung ummi	case
 tangka	cash
-cheuh	cast
 hlonh	cast
+cheuh	cast
 hauhruang ngei inn	castle
 a zaangdammi	casual
 ruahlo pin thil a ummi	casual
@@ -566,8 +568,8 @@ tlaih	catch
 thencheumi	category
 innzuat satil	cattle
 rak tlaih	caught
-canter	cause
 thil a cantertu	cause
+canter	cause
 ralrinpeknak	caution
 aa ralringmi	cautious
 lungkua	cave
@@ -580,12 +582,12 @@ kum zabu	century
 cereal	cereal
 phungphai	ceremony
 a si taktak ti zumh	certain
-pehl lo tein	certainly
+peh lo tein	certainly
 lathmat	certificate
 cikcin	chain
 thutdan	chair
-zuamcawhnak	challenge
 zuamcawh	challenge
+zuamcawhnak	challenge
 caantha	chance
 thlen	change
 buainak	chaos
@@ -600,13 +602,14 @@ bia i ruah	chat
 a man fawimi	cheap
 hlen	cheat
 hlenthawinak	cheating
-chek	check
 zohfel	check
+chek	check
 biang	cheek
 cheer	cheer
 lunglawm mi	cheerful
 lunglawm in rak au piak	cheers
 cawhnuk khal	cheese
+chemistry	chemistry
 sunhnak	cherish
 chess	chess
 taang	chest
@@ -616,8 +619,8 @@ nawlngeitu bik	chief
 ngakchia	child
 ngakchiat lio	childhood
 ngakchai pawl	children
-a daihnak	chill
 daihter	chill
+a daihnak	chill
 a daimi	chill
 meikhu chuahnak	chimneys
 khabe	chin
@@ -639,12 +642,12 @@ fianter	clarify
 cacawnnak khaan	class
 tlak	clay
 a thiang	clean
-a fiangmi	clear
 fianh	clear
+a fiangmi	clear
 cazi	clerk
 a fimmi	clever
-hmangtu	client
 thil cawtu	client
+hmangtu	client
 lungpang	cliff
 nikhua	climate
 kai	climb
@@ -675,7 +678,7 @@ riantuanhawi	colleague
 riantuanhawi	colleagues
 khawmh	collect
 khawmhmi	collection
-college	college
+khawleih sianginn	college
 muici	color
 muici ngeilo a hring ruahnak pawl thinhung ngai in a it	colorless green ideas slept furiously
 muici	colour
@@ -692,7 +695,7 @@ a raliomi	coming
 a rauh hlaan ah a ra lai	coming soon
 nawl pek	command
 fianter	comment
-sipuayi lei	commercial
+sipuazi lei	commercial
 puaisa man	commission
 biakam	commit
 biakamnak	commitment
@@ -732,11 +735,11 @@ a kaumi	comprehensive
 hawi sining hrawmnak	compromise
 hawi sining i hrawm	compromise
 tuah lo a ngah lo mi	compulsory
-computer	computer
+kompiota	computer
 thinlung chiah	concentrate
 ruahnak	concept
-theih duh	concern
 lungretheihnak	concern
+theih duh	concern
 biapi i rak ruah	concerned
 hlasak puai	concert
 a donghnak huapnak	conclusion
@@ -778,8 +781,8 @@ ek fer	constipation
 innsak liomi	construction
 dinei	consume
 ruahnak	consumption
-pehtlaih	contact
 pehtlaihnak	contact
+pehtlaih	contact
 chawnh khawh a simi	contagious
 aa tel	contain
 aa tel	contains
@@ -792,8 +795,8 @@ khawntinent	continent
 pehzulh	continue
 hnatla in biakam	contract
 hnatlaknak	contract
-dannak	contrast
 an i dannak langhter	contrast
+dannak	contrast
 pek	contribute
 pekmi bawmhnak	contribution
 uk	control
@@ -801,17 +804,17 @@ i el langmangmi	controversial
 caan rem	convenience
 a remmi thil	convenient
 biaruahnak	conversation
-lung i thlen	convert
 lungthlennak	convert
-lanhpi	convey
+lung i thlen	convert
 kalpi	convey
+lanhpi	convey
 lung fiang lak in chimh	convince
 lungfian lak in chimh	convinced
-rawlchuangtu	cook
 rawlchuan	cook
+rawlchuangtu	cook
 rawl chuannak	cooking
-a tha tuk	cool
 a daimi	cool
+a tha tuk	cool
 tuantinak	cooperation
 tuah khawh	cope
 darsen	copper
@@ -819,8 +822,8 @@ a muru	core
 fangvui	corn
 a kikam	corner
 a hmaan	correct
-a man	cost
 tangka dih ter	cost
+a man	cost
 hnipuan	costume
 innte	cottage
 lapar	cotton
@@ -834,8 +837,8 @@ ram	country
 khuate	countryside
 pahnih	couple
 ralthatnak	courage
-pehtlai in thil a ummi	course
 tiva luannak lam	course
+pehtlai in thil a ummi	course
 biaceihzung	court
 ziaza dawh tein tuahmi	courtesy
 tawin kuai unau	cousin
@@ -844,8 +847,8 @@ caw	cow
 miralchia	coward
 a tlamtlingmi	cozy
 cangai	crab
-thler	crack
 a kakmi	crack
+thler	crack
 zungthiamnak	craft
 a mak tak mi	crap
 khuai	crash
@@ -868,8 +871,8 @@ midang thil tuah a soimi	critical
 a that le thatlo kong chimnak	criticism
 tawi tein riam	crop
 tawi tein riam	crops
-tan	cross
 vailamtah tuang	cross
+tan	cross
 arkhuan	crow
 mibu	crowd
 mibu	crowded
@@ -877,8 +880,8 @@ siangpahrang luchinh	crown
 a biapi ngaimi	crucial
 zaangfahnak ngeilo mi	cruel
 tinbaw ngan	cruise
-man lak in rial	crush
 mibu	crush
+man lak in rial	crush
 tah	cry
 zil	cucumber
 i kuh	cuddle
@@ -889,7 +892,7 @@ bizu	cupboard
 kham	curb
 damter	cure
 damnak	cure
-karafui	curfew
+kalfiu	curfew
 theihdunak	curiosity
 theih duh	curious
 sam ker	curly
@@ -900,19 +903,20 @@ chiatserh	curse
 innka puanzar	curtain
 thutnak caah a nemmi	cushion
 zulh tawnmi phung	custom
-thil hangtu	customer
 thil cawtu	customer
+thil hangtu	customer
 zulh tawnmi phunglam	customs
 tan	cut
 tannak	cut
 duhnung	cute
 aa kualmi	cycle
-satbing citnak	cycling
+setbing citnak	cycling
 hringtu pa	dad
 hringtu pa	daddy
 nifatin	daily
 cawhnuk he aa pehtlaimi	dairy
 ti khamnak	dam
+rawhnak	damage
 damn	damn
 a cin	damp
 laam	dance
@@ -922,19 +926,19 @@ a muimi	dark
 dawtmi	darling
 zuanhnah	dash
 thil pakhat khat kong hngalhmi	data
-nithla	date
 tonnak	date
+nithla	date
 fanu	daughter
 chun	day
 thih	dead
 rikhiahmi caan	deadline
 a hnachetmi	deaf
-a tlawmtam	deal
 i tuaihmal	deal
+a tlawmtam	deal
 dawtmi	dear
 Dawtmi Nan Zapi	Dear All
-Dawtmi Thilcawtu	Dear Customer
 thilhmangtu	Dear Customer
+Dawtmi Thilcawtu	Dear Customer
 Upatmi Nulepa hna	Dear Parents
 Upatmi Saya	Dear Sir
 Upatmi siangngakchia pawl	Dear students
@@ -963,15 +967,15 @@ tuahmi	deed
 a thuk	deep
 sakhi	deer
 tlolh	default
-sungh	defeat
 sunghnak	defeat
+sungh	defeat
 dirkamh	defend
 fianter	define
 a si hrim	definitely
 a sullam	definition
 tahnak	degree
-khulnuar	delay
 nuarhnak	delay
+khulnuar	delay
 nuarh	delayed
 hlonh	delete
 tuah hrammi	deliberate
@@ -982,10 +986,9 @@ lung i hmuih	delighted
 kuat	deliver
 pekchanh	delivered
 thil chawnhnak	delivery
-duhsaknak	demand
 duh	demand
+duhsaknak	demand
 duhnak ngeih	demanding
-demoracy	democracy
 zauk pennak	democracy
 khuachia	demon
 langhternak in fianter	demonstrate
@@ -1010,8 +1013,8 @@ a phu	deserve
 design suai	design
 design	design
 langthernak	designation
-thinlung duhnak	desire
 thinlung nih duh	desire
+thinlung duhnak	desire
 cabuai	desk
 ruahchannak ngeih lo	despair
 ruahchannak ngeih lo	desperate
@@ -1082,21 +1085,21 @@ zorh	disposal
 bia i el	dispute
 lam hlat	distance
 aa dangmi	distinct
-thleidanmi	distinguish
 minthan	distinguish
+thleidanmi	distinguish
 tihphaannak	distress
 phawtzamhnak	distribution
 pengkhat	district
 hnahnawh	disturb
-tiluannak	ditch
 hlonh	ditch
+tiluannak	ditch
 mawngh	dive
 dannak	diverse
 i dannak	diversity
 thencheu	divide
 biaknak lei thil	divine
-then	divorce
 thennak	divorce
+then	divorce
 lungmih	dizzy
 tuah	do
 na si maw	do you
@@ -1120,13 +1123,13 @@ khacer hme phun	donkey
 a mak bak	dope
 pahnih	double
 karh	double
+lung awtawm	doubt
 lung awtawmnak	doubt
-lung awtawm/zumh lo	doubt
 changvut	dough
 a tang	down
 download	download
-a hran ser	draft
 a cian	draft
+a hran ser	draft
 hnuh	drag
 ti roter	drain
 drama	drama
@@ -1135,25 +1138,25 @@ suai	draw
 thilchiahnak bizu	drawer
 zuk suainak	drawing
 thinphan	dread
-mang	dream
 mang manh	dream
+mang	dream
 thilpuan	dress
 vih	drill
-dinawk	drink
 din	drink
+dinawk	drink
 mawngh	drive
-thumhthlaknak	drop
 thumh thlak	drop
+thumhthlaknak	drop
 thlak	dropped
 ramcar	drought
 zurit	drunk
 a rocar	dry
-cawmpei	duck
+compei	duck
 kawi	dude
 chung	due
 ruang ah	due to
-a hnawlmi	dull
 lung i panh lo	dull
+a hnawlmi	dull
 hlonh	dumb
 hlonh	dump
 caan tawisau	duration
@@ -1201,6 +1204,7 @@ kiu	elbow
 tar lei	elder
 upa deuh a simi	elderly
 a thami	elegant
+thil hrampi	element
 vui	elephant
 hleikhat	eleven
 a tlingtlakmi	eligible
@@ -1249,10 +1253,11 @@ a ning in	entire
 min bunh	entitled
 thil a um takmi	entity
 luhnak	entrance
-entrepreneur	entrepreneur
+sipuazituah thawktu	entrepreneur
 cawbawm	envelope
 pawngkam	environment
 nahchuah	envy
+tuanphuang	epic
 khulrang in chawnhkhawhmi zawtnak	epidemic
 aa tlukruangmi	equal
 thilri	equipment
@@ -1271,6 +1276,7 @@ rak dirhmi	established
 innlo	estate
 tuaktaan	estimate
 suaimi	estimated
+tbk	etc
 zungzal hmunmi	eternal
 tlangcungmi pawl	ethics
 a man khiah	evaluate
@@ -1285,8 +1291,8 @@ zapi	every
 zapi tein	everybody
 ho paoh	everyone
 zeithil paoh	everything
-tat-te	evidence
 langhtertu thil	evidence
+tet-te	evidence
 thil thalo	evil
 thlennak	evolution
 duhsah tein thil a cangmi	evolve
@@ -1313,8 +1319,8 @@ zaangfahnak te'n	excuse me
 tlinter	execute
 thahnak	execution
 a tuantu	executive
-pum cawlcanghnak	exercise
 pum cawlcanghnak tuah	exercise
+pum cawlcanghnak	exercise
 tha batter	exhaust
 thabat tuk	exhausted
 langhter	exhibit
@@ -1358,8 +1364,9 @@ mit	eye
 mit	eyes
 la	fabric
 khuaruahhar asimi	fabulous
+ton	face
 hmai	face
-ton/pah	face
+pah	face
 fawiter	facilitate
 thilri	facilities
 hmanmi thil	facility
@@ -1368,8 +1375,8 @@ tuahtu	factor
 thilsernak sehinn	factory
 a dikmi	facts
 a ziam	fade
-tlak	fail
 tlaknak	fail
+tlak	fail
 tlak	failed
 sunghzatlak	failure
 a dinmi	faint
@@ -1382,23 +1389,23 @@ zumhawktlak	faithful
 a deu	fake
 thalpi le khuasik thla karlak	fall
 tlak	fall
-A PALH	false
+a palhmi	false
 minthannak	fame
 aa lomi	familiar
 chungkhar	family
 mangtam	famine
 a minthang	famous
-thapetu	fan
 pangka	fan
-fancy	fancy
+thapetu	fan
+mithlangmi	fancy
 a thatuk	fantastic
 hlat	far
 thlahnak	farewell
 lo thlawh	farm
 lothlo	farmer
 khuruah har ngai a simi thil	fascinating
-ser	fashion
 hnipuan hrukaih ning	fashion
+ser	fashion
 a rang	fast
 thau	fat
 thihnak tiang a phaktertu thil	fatal
@@ -1409,8 +1416,8 @@ palhnak	fault
 duh bikmi	favorite
 papek	favour
 duhbikmi	favourite
-tih	fear
 tihnak	fear
+tih	fear
 rawl danghnak puai	feast
 ar	feather
 va hmul	feather
@@ -1422,8 +1429,8 @@ ngaihchiat	fed up
 man	fee
 rawl pek	feed
 ruahnak pekthan	feedback
-tuar	feel
 khaansar	feel
+tuar	feel
 tuarnak	feeling
 kedong	feet
 tlak	fell
@@ -1437,14 +1444,14 @@ va laak	fetch
 tak linh	fever
 tlawmpal	few
 a tlawm deuh	fewer
-tangka	fiance
+duhdawhmi	fiance
 serchom tuanbia	fiction
 rian hmun	field
 a hrangmi	fierce
 hleinga	fifteen
 sawmnga	fifty
-i velhnak	fight
 i velh	fight
+i velhnak	fight
 raldohnak	fighting
 a manzat	figure
 tuak	figure
@@ -1469,15 +1476,16 @@ a fekmi	firm
 a pakhatnak	first
 min hramthok	first name
 nga	fish
-i rup	fit
 i tlum	fit
+i rup	fit
 panga	five
 remh	fix
 remh	fixed
 thantaar	flag
 meiceu	flash
-a rawnmi/a permi	flat
 hmunrawn	flat
+a permi	flat
+a rawnmi	flat
 a tiluan	flaw
 a tling dihmi	flawless
 zam	flee
@@ -1493,8 +1501,8 @@ tilian	float
 a vuanmi	flood
 zeltuang	floor
 dot	flour
-luan	flow
 luannak	flow
+luan	flow
 pangpar	flower
 rai	flu
 nal	fluent
@@ -1502,8 +1510,8 @@ nal tein	fluently
 a buangmi	fluffy
 a hang	fluid
 zuan	fly
-lungchiah	focus
 lungchiahnak	focus
+lungchiah	focus
 tichum minmei	fog
 minmei tammi	foggy
 bil	fold
@@ -1512,12 +1520,12 @@ zulh	follow
 peh zulh	follow up
 zulh	following
 rawl	food
-hruh ter	fool
 mihrut	fool
+hruh ter	fool
 mihrut	foolish
 ke	foot
-bawlung	football
 pumpalulh	football
+bawlung	football
 caah	for
 Tahchunhnak ah	For example
 tahchunhnak ah	for instance
@@ -1533,8 +1541,8 @@ philh	forget
 ngaihthiam	forgive
 philh	forgot
 darkio zum	fork
-phun	form
 sersiam	form
+phun	form
 phungzulhnak in tuahmi	formal
 hlaan deuh	former
 vanthat ah	fortunately
@@ -1590,8 +1598,8 @@ inn hmanmi thilri	furniture
 tam deuh	further
 mah leng ah	furthermore
 hmai ei	future
-ngahnak	gain
 ngah	gain
+ngahnak	gain
 lentecelh	game
 a lawnnak	gap
 kudawng	garage
@@ -1604,8 +1612,8 @@ aa pummi bu	gathering
 tahnak	gauge
 rak pek	gave
 seh ha	gear
-pa sinak	gender
 nu	gender
+pa sinak	gender
 a tlangpi in	general
 a tlangpi in	generally
 a chuahter	generate
@@ -1639,8 +1647,8 @@ hmuh ta duak	glimpse
 vawlei pi huap	global
 ngaihchia a simi	gloomy
 kuthrolh	gloves
-a ceu	glow
 ceunak	glow
+a ceu	glow
 huncho	glow up
 kaw	glue
 kal	go
@@ -1658,8 +1666,9 @@ lai	going to
 sui	gold
 kal	gone
 lai	gonna
-a thami	good
+a bangmi thil	goo
 thatnak	good
+a thami	good
 chun tha	good afternoon
 mangtha	good bye
 chun tha	good day
@@ -1721,8 +1730,8 @@ congh	guard
 ruahdamh	guess
 mileng	guest
 lam hmuhsaktu	guidance
-lam hmuhsak	guide
 lam hmuhsaknak	guide
+lam hmuhsak	guide
 i phuhrun	guilty
 pa	guy
 pa pawl	guys
@@ -1732,7 +1741,7 @@ umnak hmun	habitat
 rak ngeih	had
 rial	hail
 sam	hair
-Laica	Hakha Chin
+Lai holh	Hakha Chin
 a cheu	half
 a lawngmi khaan	hall
 kut	hand
@@ -1789,10 +1798,10 @@ rocotu	heir
 damyah teih	heist
 tlaih	held
 hell ram	hell
-Hello	Hello
+Halo	Hello
 hello dawtmi	hello dear
-hello na dam maw	hello how are you
-hello zei dah na lawh	hello how are you doing
+halo na dam maw	hello how are you
+halo zei dah na lawh	hello how are you doing
 lu runvennak luchinh	helmet
 bawmh	help
 a thahnemmi	helpful
@@ -1806,8 +1815,7 @@ hmai khah lo	hesitate
 Hey	Hey
 Hi	Hi
 hi na dam maw	hi how are you
-Can	Hi there
-t be translated	Hi there
+Halo	Hi there
 thuhmi	hidden
 thuh	hide
 tlangbawi pawl uknak	hierarchy
@@ -1826,6 +1834,7 @@ rianpek	hiring
 amah pa ii	his
 sulhnu tuanbia	history
 tuk	hit
+Hmm	Hmm
 huammi	hobby
 tlaih	hold
 chikhat	hold on
@@ -1836,14 +1845,14 @@ inn	home
 innca	homework
 a dingmi	honest
 dik tein	honestly
-Khuaihliti	Honey
 Dawtmi	Honey
+Khuaihliti	Honey
 upat	honor
 sangchung	hood
-siau	hook
+sio	hook
 ke khat in peh	hop
-ruahchan	hope
 ruahchannak	hope
+ruahchan	hope
 ruahchan ngai in	hopefully
 ruahchannak umlo	hopeless
 a phei in	horizontal
@@ -1876,15 +1885,15 @@ voi zeizah	how often
 kum zeizah dah na si	how old are you
 nihin zeidah na lawh	how was your day
 zahan zei na lawh	how was your night
-siko hmanhseh law	however
+sihmanhsehlaw	however
 lengke kual a laifang	hub
 va	hubby
-kuhnak	hug
 kuh	hug
+kuhnak	hug
 a ngan tukmi	huge
 minung	human
 aa toidor	humble
-a sa ii a cinmi	humid
+a sa i a cinmi	humid
 dap	humidity
 zakhat	hundred
 pawtam	hungry
@@ -1894,8 +1903,8 @@ i ranh	hurry
 i ranh deuh	hurry up
 a faak	hurt
 va	husband
-I zuamnak	hustle
 thil pakhat khat i zuam	hustle
+I zuamnak	hustle
 thlam	hut
 thianhhlimhnak	hygiene
 Keimah	I
@@ -1957,7 +1966,7 @@ langhter	identify
 mah sining	identity
 mihrut	idiot
 a thathumi	idle
-asi ahcun	if
+ahcun	if
 i theihter lo	ignore
 zawtnak	ill
 phungning lo	illegal
@@ -1968,12 +1977,12 @@ hmanthlak	imagine
 a tu zok	immediate
 a tu zok	immediately
 a ngan ngaimi	immense
-va hnor suan	impact
 i khawndennak	impact
+va hnor suan	impact
 lungsaulo	impatient
 a tak ah tuah	implement
-ramdang in phiarmi thilri	import
 ramdang in phiar	import
+ramdang in phiarmi thilri	import
 a biapi	important
 khinh	impose
 a si kholo	impossible
@@ -1994,11 +2003,11 @@ telh chih	include
 telh in	including
 tangka lut	income
 caan remlonak	inconvenience
-a karh	increase
 karhnak	increase
+a karh	increase
 karh	increased
 a mak tukmi	incredible
-a sinin tak	indeed
+a sining tak	indeed
 mah te'n um	independent
 India	India
 hmuhsak	indicate
@@ -2014,8 +2023,8 @@ tangka a phawngpuah	inflation
 mi hipnak	influence
 mi va hip	influence
 thawngpek	inform
-thawngpang	information
 konglam	information
+thawngpang	information
 aa telmi pawl	ingredients
 roconak	inheritance
 a hramthok a simi	initial
@@ -2056,8 +2065,8 @@ tampi	intense
 duhsaknak	intention
 i tonh	interact
 i tuahtonhnak	interaction
-tangka karh	interest
 duhnak lungthin	interest
+tangka karh	interest
 seihwinsar	interested
 seihwinsar	interesting
 hnahnawhnak pek	interfere
@@ -2090,11 +2099,11 @@ thir	iron
 a si	is
 rilikam	island
 a dang tein chiah	isolated
-chuah	issue
 ceih ding kong	issue
+chuah	issue
 thil a ummi pawl	issues
-thil	it
 mah hi	it
+thil	it
 mah hi a si	it is
 mah cu a rak si	it was
 mah hi a si	it's
@@ -2106,7 +2115,7 @@ a mah ii	its
 Keimah cu	I’m
 angki leng	jacket
 thonginn	jail
-January	January
+January thla	January
 hninh	jar
 khabe	jaw
 nahchuah	jealous
@@ -2122,20 +2131,20 @@ khuallam	journey
 lawmhnak	joy
 biaceih bawi	judge
 biaceih	judge
-dinhang	juice
+thlumhang	juice
 july thla	july
 i hlawh	jump
 june thla	june
 hmun hnawm	junk
-a tu te bak a simi	just
 a dingmi	just
+a tu te bak a simi	just
 tuah chunh ko	just do it
 dinnak	justice
 thiamcoter	justify
 Kalaallisut	Kalaallisut
 a har	keen
-fim	keep
 chiah	keep
+fim	keep
 pehzul in tuah	keep it up
 chiah	kept
 tisa sonak	kettle
@@ -2169,8 +2178,8 @@ cabenh	label
 benhmi ca	label
 rian	labor
 rian	labour
-um lo	lack
 ngeih lo	lack
+um lo	lack
 hlei	ladder
 nutling	lady
 thilthumh	laid
@@ -2178,8 +2187,8 @@ tidil	lake
 tuu	lamb
 a ke beimi	lame
 meiinn	lamp
-vawlei	land
 phanh	land
+vawlei	land
 shuhkhin	landscape
 holh	language
 phei	lap
@@ -2217,8 +2226,8 @@ cawnnak	learning
 catial in hlanhmi	lease
 a tlawm bik	least
 saphaw	leather
-kal	leave
 khonh	leave
+kal	leave
 thinghnah pawl	leaves
 rak hruai	led
 kal taak	left
@@ -2240,15 +2249,15 @@ hip khawhnak	leverage
 leiba he aa pehtlaimi	liability
 caruuk	library
 liah	lick
-lih	lie
 zau	lie
+lih	lie
 lih	lies
 nunnak	life
-cawithlir	lift
 cawithlirnak	lift
-a zaangmi	light
-ceuter	light
+cawithlir	lift
 meiceu	light
+ceuter	light
+a zaangmi	light
 meivan	lightning
 duh	like
 a si khomi	likely
@@ -2265,14 +2274,13 @@ a sining tak in	literally
 caholh	literature
 hmunthur	litter
 tlawmpal	little
-khuasak/um	live
+khuasak	live
 a nung liomi	live
 thin	liver
 nunnak pawl	lives
 nunnak	living
 mileng khaan	living room
 kinglang	lizard
-laiking	lizard
 phorhmi thilrit	load
 changreu hlum	loaf
 leiba	loan
@@ -2328,8 +2336,8 @@ zohkhenh	maintain
 tuah peng	maintain
 fim	maintenance
 Maithili	Maithili
-ralkap bawi	major
 a biapimi	major
+ralkap bawi	major
 mitam deuh	majority
 tuah	make
 ser	make
@@ -2337,7 +2345,7 @@ thuhnalh	make up
 pa	male
 mall	mall
 pa	man
-tolrel	manage
+tawlrel	manage
 khuakhaannak	management
 tolreltu	manager
 pekmi nawlngeihnak	mandatory
@@ -2361,18 +2369,17 @@ zuamhnak	match
 hawikom	mate
 thilri	material
 tinchia	math
-thil	matter
 a biapi	matter
-patling sinak	maturity
+thil	matter
 nutling	maturity
-a si kho	may
-May	may
+patling sinak	maturity
+a si kho men	may
 a si kho	maybe
 keimah	me
 kei zong nih	me too
 rawl	meal
-a ziachiami	mean
 a sullam	mean
+a ziachiami	mean
 a sullam	meaning
 a sullam	means
 chimduhmi	meant
@@ -2397,13 +2404,13 @@ chimhringtu	mentor
 chawdawrpa	merchant
 zaangfahnak	mercy
 menmen caah	merely
-merry christmas	merry christmas
+kharitsamat lawmhnak na cungah um ko seh	merry christmas
 hmunthur	mess
 cakuat	message
 a thurmi	messy
 thir le dar	metal
-lam	method
 daan	method
+lam	method
 zu pawl	mice
 a laifang	middle
 zaantim	midnight
@@ -2413,15 +2420,15 @@ khantung	milestone
 ralkap bu	military
 hnuk	milk
 nuai	million
-ruahnak	mind
 duhlo	mind
+ruahnak	mind
 thinlung put	mindset
-ngeihmi thil	mine
 keimah ta	mine
+ngeihmi thil	mine
 i cawh	mingle
 tlawmte	minor
 minute	minute
-minute	minutes
+minit	minutes
 khuaruahhar thil	miracle
 thlalang	mirror
 thil dangdang aa cawh dihmi	miscellaneous
@@ -2439,14 +2446,14 @@ Mizo	Mizo
 aa thawn khomi	mobile
 nihsawh	mock
 zohchunhmi	model
-a laifang ah a um khomi	moderate
 a laifang	moderate
+a laifang ah a um khomi	moderate
 chanthar	modern
 aa porhlawlomi	modest
 a cinmi	moist
 thli chung a ummi ti	moisture
-thil thletnak kua	mold
 muiser	mold
+thil thletnak kua	mold
 buikelet	mole
 hmeh	mole
 hringtu nu	mom
@@ -2483,8 +2490,8 @@ tha	muscle
 thilhlun chiahnak inn	museum
 pa	mushroom
 ringawn	music
-tuah hrim	must
 tuah hrim awk a simi	must
+tuah hrim	must
 aw chuahlo	mute
 pahnih hnatlakmi	mutual
 keimah	my
@@ -2517,8 +2524,8 @@ thiang te'n le ningcang te'n um	neat
 a herhmi	necessary
 hngawng	neck
 thi	necklace
-herh	need
 herhmi	need
+herh	need
 thatlonak lei	negative
 daithlanh	neglect
 remhchunhnak serti	negotiate
@@ -2526,6 +2533,7 @@ innpa	neighbor
 sangchung	neighborhood
 a pahnih in a silo	neither
 unau sillole far fapa	nephew
+nerd	nerd
 lung cawlcangh	nervous
 va bu	nest
 sur	net
@@ -2575,14 +2583,14 @@ thil min	noun
 auhmin	nouns
 lenhloi sau	novel
 november thla	november
-lengmag	now
-a tu le tu	now
+atu le tu	now
+lengmang	now
 tuchan	nowadays
 hnahnok	nuisance
 zeihmanh a silo mi	null
 hit	numb
 nambar	number
-nurse	nurse
+siisayama	nurse
 thingthei	nut
 tihang tamhnak thingthei	nutmeg
 thaumnak	nutrition
@@ -2611,10 +2619,10 @@ a um	occurred
 a cang	occurs
 rili	ocean
 october thla	october
-a pakmi	odd
 hawi he aa dangmi	odd
+a pakmi	odd
 a pak	odds
-ii	of
+i	of
 a si tuk	of course
 i dinh	off
 a namtu lei si	offensive
@@ -2622,8 +2630,8 @@ pekchanhnak	offer
 pek	offer
 zung	office
 nawl ngeitu	official
-lengmag	often
-a tu le tu	often
+atu le tu	often
+lengmang	often
 Oh	Oh
 oh biatakma	oh really
 chiti	oil
@@ -2671,8 +2679,8 @@ a dang	other
 mah a silo le	otherwise
 awk a si	ought
 kanmah	our
-Kan rian: mizapi nih, khoikaa hmun paoh ah vawlei hngalhfian ding le holh pawl in anmah le anmah an i langhter khawh ding	Our mission: to enable everyone, everywhere to understand the world and express themselves across languages.
-Kan rian: vawlei thawngpang khawmh ii vawlei pumpuluk ning in ngah khawh ding le hman awktlak in ser ding	Our mission: to organize the world's information and make it universally accessible and useful.
+Kan rian: mizapi nih, khoikaa hmun paoh ah vawlei hngalhfian ding le holh pawl in anmah le anmah an i langhter khawh ding.	Our mission: to enable everyone, everywhere to understand the world and express themselves across languages.
+Kan rian: vawlei thawngpang khawmh ii vawlei pumpuluk ning in ngah khawh ding le hman awktlak in ser ding.	Our mission: to organize the world's information and make it universally accessible and useful.
 a leng ah	out
 a phichuak	outcome
 thilthuam	outfit
@@ -2691,8 +2699,8 @@ tihphan	overwhelmed
 tei	overwhelming
 bat	owe
 chinbu	owl
-mah nih ngeihmi	own
 ngeih	own
+mah nih ngeihmi	own
 a ngeitu	owner
 cawtum	ox
 kaar hlaan	pace
@@ -2723,9 +2731,9 @@ i tel	participate
 theng te	particular
 a hleiin	particularly
 hawi	partner
-party	party
-tan	pass
+pati	party
 awn	pass
+tan	pass
 lam	passage
 lonh	passed
 duhnak a thawngmi	passion
@@ -2737,8 +2745,8 @@ belh	patch
 zulhmi lam	path
 zaangfahawk a simi	pathetic
 a lung sau	patience
-mizaw	patient
 a lungsaumi	patient
+mizaw	patient
 tungrin	pattern
 dir ter	pause
 minung kalnak lam	pavement
@@ -2751,13 +2759,13 @@ a zik	peak
 piar	pear
 satawpe	peas
 hawihe aa lo lomi	peculiar
-zun	pee
 zun zun	pee
+zun	pee
 hawng	peel
 aa tlukruangmi	peer
 piar pawl	peers
 cafung	pen
-khaedaan	pencil
+khedaan	pencil
 hmai lei ah tuah ding in chiahmi	pending
 minung pawl	people
 makphek	pepper
@@ -2784,7 +2792,7 @@ inzuat satil	pet
 kap	phase
 a htosaanmi	phenomenon
 fimnak	philosophy
-phone	phone
+fon	phone
 hmanthlak	photo
 biafang a bu in a ummi	phrase
 pumsa	physical
@@ -2854,8 +2862,8 @@ ngeih	possess
 ngeihmi thil	possession
 ngeihmi thilri	possessive
 a si khomi	possible
-taar	post
 rian	post
+taar	post
 hmailei caan ah thawn	postpone
 aalu	potato
 si khawhnak a ngei	potential
@@ -2867,11 +2875,11 @@ a tak ah tuahnak	practical
 cawn	practice
 cawnnak	practice
 thangthat	praise
-capo	prank
 tuai	prank
+capo	prank
 thlacam	pray
-a sunglawimi	precious
 man a ngeimi	precious
+a sunglawimi	precious
 a si setmi	precise
 a si set tein	precisely
 ruahdamh	predict
@@ -2886,9 +2894,8 @@ timhtuah	prepare
 i timhtuah	prepared
 pehtonhtu bia	preposition
 um	presence
-laksawng	present
-a tulio/a um	present
 caan karlak	present
+laksawng	present
 thil hmuhsaknak	presentation
 him tein chiah	preserve
 ramuktu	president
@@ -2896,8 +2903,9 @@ thawngzamhca chuahnak	press
 nam	press
 rihnak	pressure
 i titer	pretend
-nawn/tluk	pretty
 nu aa dawhmi	pretty
+nawn	pretty
+tluk	pretty
 kham	prevent
 a hlaan	previous
 rawl caah thahmi saram	prey
@@ -2930,12 +2938,12 @@ pawcawmnak rian	professional
 sining	profile
 a miak	profit
 a thukmi	profound
-thanchonak	progress
 thancho	progress
+thanchonak	progress
 rian	project
 minthangmi	prominent
-biakamh	promise
 biakamnak	promise
+biakamh	promise
 rian sanh	promote
 riansanhnak	promotion
 khulrang in tuahmi	prompt
@@ -2992,12 +3000,12 @@ daih	quiet
 puanbu	quilt
 ngol	quit
 chuahtak	quit
-a tling	quite
 ngaingai	quite
+a tling	quite
 hneksak biahalnak	quiz
 mibia laakthanmi	quotation
-bia rovui	quote
 midang sin biachim chin	quote
+bia rovui	quote
 midang bia laakthannak	quotes
 saveh	rabbit
 zuamnak	race
@@ -3061,8 +3069,8 @@ a herhlomi	redundant
 pekchanh	refer
 namuna	reference
 kir ter than	reflect
-kirterthannak	reflection
 a thla	reflection
+kirterthannak	reflection
 i sum	refrain
 tikhal kuang	refrigerator
 tangka pekthanmi	refund
@@ -3076,7 +3084,7 @@ hmun	region
 minpek	register
 ngaihchih	regret
 caan hman te'n	regular
-punghman	regularly
+punghman tein	regularly
 cohlaan lo	reject
 pehtlai in	relate
 pehtlai in	related
@@ -3112,14 +3120,14 @@ innhlaan man	rent
 serthan	repair
 khirhthan	repeat
 airolh	replace
-lehnak	reply
 leh	reply
-theihternak tuahkmi	report
+lehnak	reply
 theihter	report
+theihternak tuahkmi	report
 aiawh	represent
 minthatnak	reputation
-halnak	request
 hal	request
+halnak	request
 a herh	require
 hal	required
 khamh	rescue
@@ -3145,6 +3153,7 @@ lehnak	response
 tuanvo	responsibility
 tuanvo	responsible
 i dinh	rest
+dai tein i din cang	rest in peace
 rawleinak dawr	restaurant
 remhthan	restore
 kham	restrict
@@ -3159,14 +3168,14 @@ hnu lei kir	retreat
 hmundai	retreat
 laakthan	retrieve
 kirthan	return
-phuan	reveal
 langhter	reveal
+phuan	reveal
 chimphuan	revealed
 phuhlam	revenge
 ngunkhuai	revenue
 let than	reverse
-zohthannak	review
 zohthan	review
+zohthannak	review
 zohthannak	revise
 zohthannak	revision
 dothlennak	revolution
@@ -3189,8 +3198,8 @@ mibu in hnahnawhnak an tuahmi	riot
 tlehnak awng	rip
 thleh	rip
 a hminmi	ripe
-thawhnak	rise
 thawh	rise
+thawhnak	rise
 thap	risk
 tonsualmi vanchiatnak	risk
 dohtu	rival
@@ -3207,8 +3216,8 @@ khaan	room
 a hram	root
 hri	rope
 a thumi	rotten
-a harmi	rough
 a hratmi	rough
+a harmi	rough
 hrawng	roughly
 aa kulhmi	round
 lam	route
@@ -3238,6 +3247,7 @@ mifim	sage
 a rak chim	said
 tilawng puanzar	sail
 puanzar tilawng thlah	sailing
+ruang ah	sake
 thlahlawh	salary
 zuar	sale
 salmon nga	salmon
@@ -3248,15 +3258,16 @@ zohchunh awk	sample
 thatse	sand
 Sanskrit	Sanskrit
 biaeng	sarcastic
+upat tlak lo	sassy
 thut	sat
 lung diriamhnak	satisfaction
 diriamh	satisfied
 diriamh	satisfy
 lungsiternak	satisfying
-Zerhteni	Saturday
+Zarhteni	Saturday
 vokril chung sarawn	sausage
-rolingmi	savage
 a hrutmi	savage
+rolingmi	savage
 khamh	save
 rak hmuh	saw
 chim	say
@@ -3271,10 +3282,11 @@ thek vawr	scattered
 hmuhnak	scene
 hmunram pakhat umtuning	scenery
 rim	scent
+caan suaisamhmi	schedule
 sianginn	school
 science	science
-scientist	scientist
-scientist pawl	scientists
+saitit	scientist
+satit pawl	scientists
 cerep	scissors
 sik	scold
 hmuh khawh chung	scope
@@ -3283,14 +3295,14 @@ a pelpawi	scrap
 kheuh	scratch
 au	scream
 phenhnak puanzar	screen
-sakharu thirhranhnak	screw
+sakharu thirhrenhnak	screw
 kut in tialmi ca	script
 rili	sea
 saihrem	seal
 cabawm phih	seal
 kawl	search
 khuaticaan	season
-thudan	seat
+thutdan	seat
 pahnihnak	second
 biathli	secret
 cawnnak dal	section
@@ -3336,6 +3348,7 @@ cawnnak dal	session
 bukhat	set
 chiah	set
 ser siam	set up
+hmunhma	setting
 um	settle
 pasarih	seven
 hleisarih	seventeen
@@ -3343,6 +3356,7 @@ sawmsarih	seventy
 voi tampi	several
 a fakmi	severe
 thim in thit	sew
+sh	sh
 phoih	shade
 thladem	shadow
 thik	shake
@@ -3370,8 +3384,8 @@ ceu	shine
 tinbaw	ship
 tilawng silole tlanglawng in thilkuat	shipping
 angki	shirt
-kedan	shoes
 phanat	shoes
+kedan	shoes
 kah	shoot
 dawr	shop
 thilcawk	shopping
@@ -3405,8 +3419,8 @@ a biapimi	significant
 dai tein um	silence
 dai	silent
 pu	silk
-a molhmi	silly
 a fimlomi	silly
+a molhmi	silly
 ngun	silver
 aa khat in	similar
 a tluangmi	simp
@@ -3422,6 +3436,7 @@ pakan kuar	sink
 pil	sink
 Saya	Sir
 far	sister
+nupi nau nu	sister in law
 thu	sit
 hmun	site
 sining	situation
@@ -3452,8 +3467,8 @@ awng hmete	slot
 a nuarmi	slow
 duhsah tein	slowly
 a hmemi	small
-a thluakthami	smart
 a fimmi	smart
+a thluakthami	smart
 a haw	smell
 mirh	smile
 mirhnak	smile
@@ -3538,16 +3553,17 @@ cheu	split
 hrawh	spoil
 hrawh	spoiled
 a mah tein thil a chuakmi	spontaneous
-darkio	spoon
+keu	spoon
 hmelchunhnak	spot
-va	spouse
 nupi	spouse
+va	spouse
 zamh	spread
 thal khuapau a chuah kaa	spring
 a dikmi	square
 hmeh	squeeze
 yebawai	squid
 cepa	squirrel
+st	st
 nam in sawh	stab
 a fekmi	stable
 pon	stack
@@ -3566,7 +3582,8 @@ arfi	star
 thok	start
 aa thok	started
 pawtam tuk	starving
-cachuah/chimmi	state
+cachuah	state
+chimmi	state
 pengkomh	state
 cachuah	statement
 cathanh	statement
@@ -3611,7 +3628,7 @@ khuaruahar thil a simi	strange
 mihring	stranger
 byuhar	strategy
 capawl	straw
-strawberry	strawberry
+satawberi	strawberry
 aa rinmi	streak
 tiva rek	stream
 lam	street
@@ -3627,8 +3644,8 @@ zennak	stroke
 a thawngmi	strong
 tuk	struck
 inn sakning	structure
-harnak chung in zuamnak	struggle
 fak piin i zuam	struggle
+harnak chung in zuamnak	struggle
 i zuam	struggling
 lungkhawn	stubborn
 i tap	stuck
@@ -3640,11 +3657,11 @@ thil	stuff
 a cuang khun	stunning
 mihrut	stupid
 i thuamning	style
-chimceihmi	subject
 cawnmi	subject
+chimceihmi	subject
 toidornak	submission
-langhter	submit
 submit tuah	submit
+langhter	submit
 thilri	substance
 airol	substitute
 a pan ngaimi	subtle
@@ -3679,8 +3696,8 @@ a tha tukmi	super
 hawi hlei sinak	superior
 ruahnak petu	supervisor
 zaanriah	supper
-pek	supply
 pekmi thil	supply
+pek	supply
 thazaang peknak	support
 thazaang pek	support
 ruahnak	suppose
@@ -3690,7 +3707,7 @@ hmai	surface
 tilet	surge
 khuaihlai	surgery
 chungkhar min	surname
-saprise	surprise
+saparai	surprise
 khuaruah har	surprised
 a sungpek	surrender
 velchum	surrounding
@@ -3705,6 +3722,7 @@ zumh lo	suspicious
 doh	sustain
 caansau hmunhnak	sustainability
 caan sau a hmun khomi	sustainable
+puanzar temnak	swag
 dolh	swallow
 thleng	swap
 chiatserh	swear
@@ -3719,10 +3737,10 @@ a phing	swell
 phinnak	swelling
 tilio	swim
 tilionak	swimming
-i vawr	swing
 pipen	swing
-thlen	switch
+i vawr	swing
 thlennak	switch
+thlen	switch
 zoh	swollen
 vainam	sword
 hmelchunh	symbol
@@ -3744,11 +3762,11 @@ a holh tammi	talkative
 a sang	tall
 timerh lu	tap
 tep	tape
-hmui tinh	target
 tinhmi	target
+hmui tinh	target
 rian	task
-a thawtnam teh	taste
 a thawtnam	taste
+a thawtnam teh	taste
 a thawmi	tasty
 chimhcawnpiak	taught
 lakphak	tea
@@ -3770,6 +3788,7 @@ pahra	ten
 thong hra	ten thousand
 innhlaangtu	tenant
 zohkhenh	tend
+a hoi deuhmi	tendency
 a nemmi	tender
 aa rengmi	tense
 entainak	tension
@@ -3779,8 +3798,8 @@ thil umtuning	term
 hmanmi bia pawl	terms
 tihnung	terrible
 a tha tukmi	terrific
-vawlei	territory
 ram	territory
+vawlei	territory
 hneksaknak	test
 hneksak	test
 catial	text
@@ -3803,8 +3822,7 @@ a biatlangpi	theme
 anmah tein	themselves
 mah dih in	then
 ruahnak in fianternak	theory
-theory	theory
-mahkaa khin	there
+mahka khin	there
 an um	there are
 a um	there is
 cu ruang ah	therefore
@@ -3828,8 +3846,8 @@ tha tein tuahmi	thorough
 tha tein	thoroughly
 mah pawl khi	those
 asinain	though
-ruahnak	thought
 khua ruah	thought
+ruahnak	thought
 ruahnak a ngeimi	thoughtful
 ruahnak pawl	thoughts
 thong	thousand
@@ -3851,8 +3869,8 @@ cu tiang	thus
 rin	tick
 tilet tum kai	tide
 a thianghlimmi	tidy
-tem	tie
 hrentu	tie
+tem	tie
 cakei	tiger
 a ciprep	tight
 Tigrinya	Tigrinya
@@ -3863,9 +3881,10 @@ ruahnak cheuhnak	tip
 laksawng hmete	tips
 batter	tire
 tha bat	tired
-tissue	tissue
+titsu	tissue
 a tlangtaar	title
 sin ah	to
+ding ah	to be
 mei in emmi pawngmuk	toast
 nihin	today
 ngakchia kal thiamkaa	toddler
@@ -3875,7 +3894,7 @@ zunput	toilet
 rak chimh	told
 in khawhnak	tolerance
 in	tolerate
-khayanchinti	tomato
+kawlhang	tomato
 thaizing	tomorrow
 lei	tongue
 tuzaan	tonight
@@ -3896,8 +3915,8 @@ lei ah	toward
 hmai lei ah	towards
 takpum hnawhnak	towel
 khua	town
-sivai a simi	toxic
 a thalomi	toxic
+sivai a simi	toxic
 hnuzulh dawi	trace
 lam	track
 chawleh	trade
@@ -3906,8 +3925,8 @@ phunglam	tradition
 phunglam a simi	traditional
 leilawng lam	traffic
 hnuh	trail
-chimh cawnpiak	train
 tlanglawng	train
+chimh cawnpiak	train
 cawnpiaknak	training
 sining langhtertu hmelchunhnak	trait
 sining langhtertu	traits
@@ -3938,7 +3957,7 @@ khualtlawnnak	trip
 harnak	trouble
 bawngbi	trousers
 thil phorhnak	truck
-A DIK	true
+a dikmi	true
 thingkuang	trunk
 zumhnak	trust
 zumh	trust
@@ -3970,6 +3989,7 @@ tang	uncle
 lungfimlo	unconscious
 a tang	under
 a tangah	underneath
+aa tlak lomi	underrated
 i fian	understand
 hngalhfian	understood
 vanchiat ah	unfortunately
@@ -3983,15 +4003,15 @@ tiang	until
 ningkel a silomi	unusual
 a cung	up
 nangmah nawl	up to you
-tharchuahnak	update
 tharchuah	update
-thanchoternak	upgrade
+tharchuahnak	update
 thanchoter	upgrade
+thanchoternak	upgrade
 cung ah	upon
 ngaihchiat	upset
 khuapi nun	urban
-abiapimi	urge
 khulranh	urge
+abiapimi	urge
 khulrang in tuah awk a simi	urgent
 kanmah	us
 hman	use
@@ -4058,7 +4078,7 @@ fiang tein	vivid
 holhfang	vocabulary
 aw	voice
 pakpalawng a simi	void
-volume	volume
+tumkaiternak	volume
 pumpek	volunteer
 luak	vomit
 hnorsuan a fawimi	vulnerable
@@ -4076,6 +4096,7 @@ lamkal	walking
 vampang	wall
 tangka bawm	wallet
 kal	wander
+duh	wanna
 duh	want
 duhherh	wanted
 ral	war
@@ -4088,8 +4109,8 @@ ralrinnak	warning
 ralkap	warrior
 a rak si	was
 tawl	wash
-sawk sam	waste
 hmunthur	waste
+sawk sam	waste
 zoh	watch
 ti	water
 phayeti	watermelon
@@ -4110,8 +4131,8 @@ Nithumni	Wednesday
 sechouk	weed
 zerh	week
 zerh donghnak	weekend
-a khing	weight
 rihnak	weight
+a khing	weight
 khuaruah har a simi	weird
 don	welcome
 siithatnak	welfare
@@ -4143,14 +4164,14 @@ fathau kung	wheat
 lengke	wheel
 zeitik ah	when
 zeitik caan paoh	whenever
-khoikaa ah	where
+khoika ah	where
 khoikaa ah dah na um	where are you
 khoi kaa in dah na rat	where are you from
 a tu khoikaa ah na um	where are you now
-Khoikaa ah dah na um	where do you live
+khoika ah dah na um	where do you live
 khoikaa	where is
-nain	whereas
 caah	whereas
+nain	whereas
 tuah le tuah lo	whether
 zei hi dah	which
 lio	while
@@ -4175,8 +4196,8 @@ ram lak ah a ummi	wild
 lai	will
 thinlung duhnak	will
 tuah duhnak	willing
-thli	win
 tei	win
+thli	win
 thli	wind
 thlalang awng	window
 thli a pangmi	windy
@@ -4186,8 +4207,8 @@ hnawh	wipe
 thirhri	wire
 fimnak	wisdom
 mifim	wise
-siduhnak phuan	wish
 siduhnak	wish
+siduhnak phuan	wish
 na caah a tha bik si hram seh	wish you all the best
 hnam a ngeimi nu	witch
 he	with
@@ -4196,8 +4217,8 @@ laak than	withdraw
 zuh thannak	withdrawal
 chung ah	within
 lo in	without
-hmuh	witness
 mithmutu	witness
+hmuh	witness
 a fim ngaimi	witty
 canghngia	wolf
 nu upa	woman
@@ -4210,8 +4231,8 @@ thing	wood
 sahmul la	wool
 biafang	word
 biafang pawl	words
-riantuan	work
 rian	work
+riantuan	work
 tuah khawh	work out
 riantuannak	working
 vawlei	world
@@ -4238,8 +4259,8 @@ ca tialmi	written
 a palh	wrong
 rak tial	wrote
 tual	yard
-ha hamh	yawn
 hahamhnak	yawn
+ha hamh	yawn
 Yeah	Yeah
 kum	year
 kum	years
@@ -4266,11 +4287,11 @@ nangmah zong	you too
 kan in don	you're welcome
 mino	young
 nangmah ii	your
-a ngah ko	your welcome
 kan in don	your welcome
+a ngah ko	your welcome
 nangmah tein	yourself
 mino	youth
-a ngah ko	you’re welcome
 kan in don	you’re welcome
+a ngah ko	you’re welcome
 a thawmi	yummy
 pakpalawng	zero

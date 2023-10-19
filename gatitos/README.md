@@ -7,7 +7,7 @@ phrases, intended for training and improving machine translation models. Experim
 ### About the Data and Data Collection
 
 This dataset consists in 4,000 English segments (4,500 tokens) that have been
-translated into each of 113 languages, 110 of which are low-resource, and three
+translated into each of 173 languages, 170 of which are low-resource, and three
 of which are mid-high resource (es, fr, hi). All translations were made
 directly from English, with the exception of Aymara, which was translated from
 the Spanish.
@@ -36,15 +36,21 @@ Wolof is particularly noticeable in this regard, with notes like "xont (verb) wh
 | BCP-47 code | Language Name | Endonym      | Alternate names       | script |
 | ----------- | ------------- | ------------ | --------------------- | ------ |
 | aa       | Afar |  Qafar | | Latn
+| ab |  Abkhaz |  Аҧсуа |   |  Cyrl |
 | ace      | Achenese |  Aceh | Achinese | Latn
 | ach      | Acholi |  Acholi | | Latn
 | ady      | Adyghe |  Черкес | West Circassian | Cyrl
 | aeb      | Tunisian Arabic |  اللغة العربيّة التونسيّة | | Arab
+| aii |  Assyrian |  ܣܘܪܝܬ |   |  Syrc |
 | ak       | Twi           | Twi          | Akan (See note below)  | Latn   |
+| alz |  Alur |  Lur |   |  Latn |
+| apc |  North Levantine Arabic |  شامي‎ |   |  Arab |
 | apd-SD   | Sudanese Arabic |  عربي سوداني |  | Arab
+| ar-MA |  Darija |  الدارجة |   |  Arab |
 | arn      | Mapudungun |  Mapudungun | Mapuche | Latn
 | arz      | Egyptian Arabic |  اللهجة المصرية | Masri | Arab
 | as       | Assamese      | অসমীয়া      | Asamiya, Asomiya      | Beng   |
+| av |  Avar |  магӏарул мацӏ |  Avaric |  Cyrl |
 | awa      | Awadhi |  अवधी | | Deva
 | ay       | Aymara        | Aymar aru    |                       | Latn   |
 | ayl      | Libyan Arabic |  العربية الليبية | | Arab
@@ -52,93 +58,146 @@ Wolof is particularly noticeable in this regard, with notes like "xont (verb) wh
 | bal      | Baluchi |  بلوچی |  Balochi | Arab
 | ban      | Balinese |  Basa Bali | | Latn
 | bbc      | Batak Toba |  Batak Toba | Toba Batak | Latn
+| bci |  Baoulé |  wawle |   |  Latn |
+| bem |  Bemba (Zambia) |  Ichibemba |   |  Latn |
 | ber      | Tamazight (Tifinagh script) |  ⵜⴰⵎⴰⵣⵉⵖⵜ | Berber Languages | Tfng
 | ber-Latn | Tamazight (Latin Script) |  Tamaziɣt | the Berber languages | Latn
 | bew      | Betawi |  Betawi | Betawi Malay, Jakartan Malay, Batavian Malay | Latn
 | bho      | Bhojpuri      | भोजपुरी      |                       | Deva   |
 | bik      | Central Bikol |  Sentral Bikol |  Bikol Naga; Bikol | Latn
+| bjn |  Banjar |  Banjar |   |  Latn |
+| bjn-Arab |  Banjar |  بنجر; ڤندير بنجر |   |  Arab |
 | bm       | Bambara       | Bámánánkán   |                       | Latn   |
+| bm-Nkoo |  Bambara (N'Ko Script) |   ߓߡߊߣߊ߲ߞߊ߲ |   |  Nkoo |
 | bo       | Tibetan |  བོད་མི།; བོད་ཀྱི།; བོད་སྐད།; བོད་ཡིག། | Lhasa Tibetan, Standard Tibetan | Tibt
 | br       | Breton |  brezhoneg | | Latn
 | brx      | Bodo |  बोडो | Boro | Deva
 | bts      | Batak Simalungun |  Bahasa Simalungun | Simalungun | Latn
+| btx |  Batak Karo |  Batak Karo |   |  Latn |
+| bua |  Buryat |  Буряад |   |  Cyrl |
 | bug      | Buginese |  basa Ugi | Bugis | Latn
 | ce       | Chechen |  Нохчийн | | Cyrl
+| cgg |  Chiga |  Kiga |  Kiga |  Latn |
+| ch |  Chamorro |  Finuʼ Chamoru |   |  Latn |
 | chk      | Chuukese |  Trukese | Trukese | Latn
 | chm      | Meadow Mari |  олык марий | Eastern Mari | Cyrl
 | ckb      | Kurdish  (Sorani)   | سۆرانی       | Central Kurdish       | Arab   |
 | cnh      | Hakha Chin |  Laica | Laiholh | Latn
+| cpf      | Unknown French Creole |  |  | Latn
+| crh |  Crimean Tatar |  Крымскотатарский |   |  Cyrl |
+| crh-Latn |  Crimean Tatar |  qırımtatar tili |   |  Latn |
 | crs      | Seselwa Creole French |  kreol seselwa | Seychellois Creole, kreol| Latn
 | ctg      | Chittagonian |  Chittagonian | | Beng
 | cv       | Chuvash |  Чăваш | | Cyrl
+| din |  Dinka |  Thuɔŋjäŋ |   |  Latn |
 | doi      | Dogri         | डोगरी        |                       | Deva   |
+| dov |  Dombe |  ChiDombe |  Zambezi, Tonga |  Latn |
 | dv       | Dhivehi       | ދިވެހި       | Maldivian, Divehi     | Thaa   |
 | dyu      | Dyula |  Julakan | Dioula, Jula| Latn
 | dz       | Dzongkha |  རྫོང་ཁ | | Tibt
 | ee       | Ewe           | Eʋegbe       | Eve, Anlo, Anwona     | Latn   |
+| efi |  Efik |  Usem mbom Efik; Ikɔ-efik |   |  Latn |
 | es       | Spanish       | español, castellano    | Castilian             | Latn   |
 | fa-AF    | Dari |  دری | | Arab
 | ff       | Fulfulde      | [many]       | Fula, Fulah, Fulbe, Fulani, Pular, Pulaar | Latn   |
+| fj |  Fijian |  Fiji; Fijian |   |  Latn |
 | fo       | Faroese |  Føroysk | | Latn
+| fon |  Fon |  fongbē |   |  Latn |
 | fr       | French        | français     |                       | Latn   |
+| fur |  Friulian |  Furlan |   |  Latn |
 | gaa      | Ga |  Gã |  | Latn
 | gn       | Guarani       | avañeʼẽ      | Guaraní               | Latn   |
 | gom      | Konkani       | कोंकणी       |                       | Deva   |
+| gv |  Manx |  Gaelg |   |  Latn |
 | hi       | Hindi         | हिन्दी       |                       | Deva   |
 | hil      | Hiligaynon |  Hiligaynon | | Latn
+| hne |  Chhattisgarhi |  छत्तीसगढ़ी |   |  Deva |
+| hrx |  Hunsrik |  Hunsrik |   |  Latn |
 | iba      | Iban |  Iban | | Latn
 | ilo      | Ilocano       | Iloko        | Iloko, Iluko, Ilokano | Latn   |
+| iso |  Isoko |  Isoko |   |  Latn |
 | iu       | Inuktitut |  ᐃᓄᒃᑎᑐᑦ | Eastern Canadian Inuktitut | Cans
-| jam      | Jamaican Patois |  Jamayiken kreyòl angle |  Patwah, Jamaican Creole English| Latn
 | kaa      | Kara-Kalpak |  Қарақалпақ; Қарақалпақша | Qaraqalpaq | Cyrl
 | kac      | Kachin |  Jinghpaw | Jingpho | Latn
 | kbd      | Kabardian |  Къэбэрдей; Адыгэ | East Circassian | Cyrl
+| kek |  Kekchí |  Qʼeqchiʼ |  Q'eqchi' |  Latn |
+| kg |  Kongo |  Kikongo |   |  Latn |
 | kha      | Khasi |  khasi | | Latn
+| ki |  Kikuyu |  Gĩgĩkũyũ |  Gikuyu |  Latn |
 | kl       | Kalaallisut   | Kalaallisut  | Greenlandic           | Latn   |
+| kr |  Kanuri |  Kànùrí |   |  Latn |
 | kri      | Krio          | Krio         | Sierra Leonean Creole | Latn   |
+| ks |  Kashmiri |  كٲشُر  |  Koshur |  Arab |
+| ks-Deva |  Kashmiri |  कॉशुर |   |  Deva |
 | ktu      | Kituba |  Kituba | | Latn
+| kv |  Komi |  Коми |   |  Cyrl |
 | lg       | Luganda       | Oluganda     | Ganda                 | Latn   |
+| li |  Limburgan |  Limburgs |   |  Latn |
+| lij |  Ligurian |  Ligure |   |  Latn |
+| lmo |  Lombard |  lombard |   |  Latn |
 | ln       | Lingala       | Lingála      | Ngala                 | Latn   |
+| ltg |  Latgalian |  latgalīšu |   |  Latn |
+| lu |  Luba-Katanga |  Tshiluba |   |  Latn |
+| luo |  Luo |  Luo |  Dholuo |  Latn |
 | lus      | Mizo          | Mizo ṭawng   | Lushai, Duhlian       | Latn   |
 | mad      | Madurese |  Madurâ | | Latn
+| mag |  Magahi |  मगही |   |  Deva |
 | mai      | Maithili      | मैथिली       |                       | Deva   |
 | mak      | Makasar |  Mangkasara | Makassarese, Makassar, Macassar | Latn
+| mam |  Mam |  Ta yol Mam |   |  Latn |
 | meo      | Kedah Malay |  Siti | | Latn
 | mfe      | Morisien |  Morisien | Mauritian Creole | Latn
 | mh       | Marshallese |  Majol | Ebon | Latn
 | min      | Minangkabau |  Minangkabau | | Latn
 | mni-Mtei | Meiteilon (Manipuri)    | ꯃꯤꯇꯩꯂꯣꯟ      | Meitei, Meetei, Meitheilon, Meeteilon     | Mtei   |
+| mos |  Mooré |  Moaaga; Mòoré |  Mossé, Mossi |  Latn |
 | ms-Arab  | Malay (Jawi script) |  ملايو | | Arab
 | mwr      | Marwari |  मारवाड़ी | Marwadi; Merwari, Mewari (usually ref. dialects) | Deva
 | nd       | North Ndebele |  IsiNdebele | Ndebele, isiNdebele saseNyakatho, Zimbabwean Ndebele | Latn
+| ndc-ZW |  Ndau |  Cindawu |   |  Latn |
 | new      | Newari |  नेवाः | Nepal Bhasa, Newar| Deva
 | nhe      | Eastern Huasteca Nahuatl |  Nahuatlajtoli Kuextekan ikisayo | | Latn
 | nr       | South Ndebele |  Isindebele | Transvaal Ndebele | Latn
 | nso      | Sepedi        | Sepedi       | Pedi, Northern Sotho  | Latn   |
+| nus |  Nuer |  Thok Naath |   |  Latn |
 | nv       | Navajo |  Diné; Naabeehó | Navaho | Latn
 | oc       | Occitan |  Occitan | Provençal | Latn
 | om       | Oromo         | Afaan Oromoo | Oromiffa, Oromigna, Afaan Oromoo  | Latn   |
 | os       | Ossetian |  Ирон | Iron, Ossetic| Cyrl
 | pa-Arab  | Lahnda Punjabi (Pakistan) |  لہندا پنجابی | | Arab
+| pag |  Pangasinan |  Pangasinan |   |  Latn |
 | pam      | Pampanga |  Kapampangan | Kapampangan | Latn
+| pap |  Papiamento |  Papiamentu |   |  Latn |
 | pcm      | Nigerian Pidgin |  Naijá, Pidgin for Nigerian | Naijá, Pijin, Broken| Latn
 | qu       | Quechua       | Runa Simi    |                       | Latn   |
 | quc      | K'iche' |  K'iche' | Quiché | Latn
 | rhg-Latn | Rohingya |  Ruháingga | | Latn
+| rn |  Rundi |  Ikirundi |   |  Latn |
 | rom      | Romani |  Rromani ćhib | Romany, Romanes, Roma | Latn
 | sa       | Sanskrit      | संस्कृतम्    |                       | Deva   |
 | sah      | Yakut |  Саха | Yakutian, Sakha, Saqa, Saxa | Cyrl
+| sat-Latn |  Santali, Santhali |  Santali |  Santhali |  Latn |
 | scn      | Sicilian |  Sicilianu | | Latn
 | se       | Northern Sami |  davvisámegiella | | Latn
+| sg |  Sango |  Sango |   |  Latn |
 | shn      | Shan |  တႆး; လိၵ်ႈတႆး | | Mymr
 | skr      | Saraiki |  سرائیکی |Multani | Arab
+| ss |  Swati |  Siswati |   |  Latn |
+| sus |  Susu |  Sosokhui |   |  Latn |
+| syl |  Sylheti |  সিলেটি |   |  Beng |
+| szl |  Silesian |  Ślůnski |   |  Latn |
 | tcy      | Tulu |  ತುಳು | | Knda
 | tet      | Tetum |  Tetun | | Latn
 | ti       | Tigrinya      | ትግርኛ         | Tigrigna              | Ethi   |
+| tiv |  Tiv |  Tiv |   |  Latn |
 | tn       | Tswana |  Setswana |Setswana | Latn
 | to       | Tongan |  Tonga | | Latn
 | tpi      | Tok Pisin |  Tok Pisin | New Guinea Pidgin | Latn
+| trp |  Kok Borok |  Kok Borok |   |  Latn |
 | ts       | Tsonga        | Xitsonga     | Xitsonga              | Latn   |
+| tum |  Tumbuka |  Chitumbuka |   |  Latn |
+| ty |  Tahitian |  Reo Tahiti; Tahiti |   |  Latn |
+| tyv |  Tuvinian |  тувинский |   |  Cyrl |
 | udm      | Udmurt |  Удмурт кыл | | Cyrl
 | ve       | Venda |  Tshivenḓa | Tshivenda, Setswetla | Latn
 | vec      | Venetian |  Veneto | | Latn
@@ -147,12 +206,12 @@ Wolof is particularly noticeable in this regard, with notes like "xont (verb) wh
 | yua      | Yucateco |  Maayat'aan | Yucatec Maya | Latn
 | yue      | Cantonese |  廣東話 | Yue Chinese (technically a superset) | Hant
 | zap      | Zapotec |  Diidxazá |  | Latn
-| zza      | Zaza |  Kirmanckî; Kirdkî; Dimilî | Dimli | Latn
+| zza      | Zaza |  Zazakî | Dimli | Latn
 
 Please note that the language name can be a point of considerable tension, and
 there is rarely a "right" name for a language! This said, here are some
 non-exhaustive notes that went into the names in the second column above, based
-on conversations with speakers:
+on conversations with speakers. We welcome more comments from the community:
 
 *   **ak:** Calling this language "Twi" instead of "Akan" here is reflective of
     the corresponding translation models active on Google Translate. These are
@@ -208,9 +267,10 @@ on conversations with speakers:
 Note on language codes:
 
   * we use `chm` for Meadow Mari, although `chm` is properly the superset, and `mhr` is the individual code for Meadow Mari.
-  * Similarly, we use `rom` for all Romani dialects and `ak` for Twi (see note above).
-  * We use `fa-AF` for Dari. The specific code `prs` is probably more precise.
-  * `apd-SD` is probably redundant; `apd` alone refers to Sudanese Arabic
+  * Similarly, we use `rom` for all Romani dialects, `ak` for Twi (see note above), and `ff` for all Fulfulde dialects.
+  * We use `fa-AF` and `ar-MA`  for Dari and Darija respectively. The specific codes `prs` and `ary` are probably more precise.
+  * `apd-SD` and `ndc-ZW` are  probably redundant; `apd` and `ndc` alone refer to Sudanese Arabic and
+    Ndau resp.
 
 Special note on Bantu languages: Bantu language names have a special noun-class
 prefix for languages, like <i>xi</i>Tsonga, <i>se</i>Pedi, <i>ki</i>Swahili, <i>isi</i>Zulu,

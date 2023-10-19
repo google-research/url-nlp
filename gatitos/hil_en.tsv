@@ -11,7 +11,7 @@ parte sa	about
 ibabaw	above
 sa iban nga pungsod	abroad
 wala sang presensya	absence
-wala	absent
+indi makita	absent
 syempre	absolutely
 ginsalupsop	absorb
 mabudlay hangpon	abstract
@@ -21,8 +21,8 @@ madamo	abundant
 abuso	abuse
 aksent	accent
 batunon	accept
-pagsulod	access
 matigayon	access
+pagsulod	access
 aksidente	accident
 akomodasyon	accommodation
 natapos	accomplish
@@ -52,28 +52,28 @@ aktuwal	actual
 ang matuod	actually
 daku gid	acute
 adap	adapt
-dugang pa	add
+dugangan	add
 na adik	addicted
-dugang pa	addition
-dugang pa	additional
-lokasyon	address
+dugang sa	addition
+dugang pa nga	additional
 maghatag	address
+lokasyon	address
 bastante	adequate
 kaiping	adjacent
 adhetibo	adjective
 pagbag-o	adjust
 nagadayaw	admire
-ginhambal	admit
+nagaako	admit
 gin-adap	adopt
 kanami	adorable
-mag abante	advance
 abanse	advance
+mag abante	advance
 nauna	advanced
 bentaha	advantage
 pagpasimpalad	adventure
 adberbiyo	adverb
 pasayod	advertisement
-pasayod	advertising
+nagapasayod	advertising
 laygay	advice
 laygay	advise
 ginpanugda	advocate
@@ -85,7 +85,7 @@ ginapalangga	affection
 masarangan	afford
 makaya sang bulsa	affordable
 hadlok	afraid
-tapos	after
+pagkatapos	after
 hapon	afternoon
 pagkatapos	afterwards
 liwat	again
@@ -155,16 +155,16 @@ kailinit	annoying
 kada tuig	annual
 indi makilala	anonymous
 iban pa	another
-pagsabat	answer
 sabat	answer
+pagsabat	answer
 nalauman	anticipate
-anxiety	anxiety
+paghimud-os	anxiety
 kabalaka	anxious
 bisan ano	any
 asta san-o	anymore
 bisan sin-o	anyone
-bisan ano	anything
-bisan ano	anyway
+bisan ano nga butang	anything
+bisan ano nga paagi	anyway
 ang ano gale	anyways
 layuay	apart
 apartamento	apartment
@@ -172,7 +172,7 @@ magpangayo pasaylo	apologize
 talalupangdon	apparent
 apang	apparently
 pangabay	appeal
-makita	appear
+nagluntad	appear
 makita sa hitsura	appearance
 nag tuhaw	appeared
 kailigbon	appetite
@@ -194,7 +194,7 @@ dimakatarungan	arbitrary
 arkitek	architect
 arkitektura	architecture
 arkayb	archive
-ang	are
+ang mga	are
 ikaw bala	are you
 damo ka sang naubra	are you busy
 kasal bala ikaw	are you married
@@ -218,14 +218,14 @@ arow	arrow
 arte	art
 artikulo	article
 artipisyal	artificial
-artist	artist
+artistiko	artist
 kaangay	as
 tubtob	as long as
 pati ang	as well
 amo man ang	as well as
 abo	ash
 nahuya	ashamed
-pamangkot	ask
+magpamangkot	ask
 nangabay	asked
 pagtulog	asleep
 aspeto	aspect
@@ -284,7 +284,7 @@ makahalawhaw	awesome
 makahaladlok	awful
 balik-awot	awkward
 Aymara	Aymara
-bata	baby
+lapsag	baby
 kurso	bachelor
 balik	back
 sa likod	background
@@ -305,13 +305,13 @@ bangko	bank
 bilangguan	bar
 diutayan lang	barely
 baratilyo	bargain
-taghol	bark
 pagpanaghol	bark
+taghol	bark
 sebada	barley
 sagang	barrier
-base	base
+pasad	base
 ginbase	based
-basement	basement
+pinaka maidalom	basement
 simple	basic
 sadsaran	basically
 basil	basil
@@ -320,7 +320,7 @@ kaupod	batch
 maligo	bath
 palaliguan	bathroom
 baterya	battery
-inaway	battle
+pagpakig-away	battle
 bey	bay
 mangin	be
 maghalong	be careful
@@ -344,7 +344,7 @@ kwarto	bedroom
 buyog	bee
 baka	beef
 nangin	been
-ilimnon	beer
+serbesa	beer
 antes	before
 maumpisa	began
 umpisahan	begin
@@ -417,11 +417,11 @@ magbukal	boil
 madukot	bold
 kaangtanan	bond
 tulan	bone
-maparehistro	book
 mga kasulatan sa papel	book
+maparehistro	book
 pagpasaka	boost
 pag-uswag	boost
-booster	booster
+nagapauswag	booster
 botas	boot
 botas	boots
 dulunan	border
@@ -477,20 +477,20 @@ gindala sang	brought
 kaki	brown
 paghusay	brush
 balde	bucket
-kaupod	buddy
+barkada	buddy
 budyet	budget
 buyog	bug
 maghimo	build
 estraktura	building
 natukod	built
-madamo	bulk
+binulto	bulk
 toro	bull
 nagapangdaugdaug	bully
 batsi	bump
 pungpong	bunch
 pinutos	bundle
-lulan	burden
 pabug-at	burden
+lulan	burden
 ginlubong	buried
 nasunog	burn
 pagsilabo	burst
@@ -507,21 +507,21 @@ buton	button
 bakal	buy
 sang	by
 sa iban nga istorya	by the way
-bye	bye
+paalam	bye
 repolyo	cabbage
 kabinet	cabinet
 hawla	cage
 tinapay	cake
 tinday	calf
-tawag	call
 ginatawag	call
+tawag	call
 tawgi ako	call me
 natawag	called
 kalma	calm
 nagkadto	came
 kampanya	campaign
-mahimo	can
 lata	can
+mahimo	can
 indi	can't
 I-kansel	Cancel
 kanser	cancer
@@ -582,13 +582,13 @@ kaluoy	charity
 makagalanyat	charming
 tsart	chart
 lagas	chase
-mag-istoryahanay	chat
 magchismis	chat
+mag-istoryahanay	chat
 baratuhon	cheap
 pagtinunto	cheat
 nagapangdaya	cheating
-ginatan-aw	check
 gina usisa	check
+ginatan-aw	check
 yahun	cheek
 mapahalipay	cheer
 masinadyahon	cheerful
@@ -596,7 +596,7 @@ singgitan	cheers
 keso	cheese
 kemestri	chemistry
 ginapalangga	cherish
-shess	chess
+chess	chess
 dughan	chest
 usang	chew
 manok	chicken
@@ -604,8 +604,8 @@ hepe	chief
 bata	child
 magkababata	childhood
 mga bata	children
-ginakudog	chill
 ginalamig	chill
+ginakudog	chill
 malamig	chill
 simburyo	chimneys
 sag-ang	chin
@@ -629,8 +629,8 @@ matinlo	clean
 himuon nga maathag	clear
 maathag	clear
 klerk	clerk
-tuso	clever
 maalam	clever
+tuso	clever
 kliyente	client
 banglid	cliff
 klima	climate
@@ -647,8 +647,8 @@ komikero	clown
 ideya	clue
 pungay	clumsy
 klaster	cluster
-naga tudlo	coach
 pagbulig	coach
+naga tudlo	coach
 uring	coal
 baybay	coast
 panapton	coat
@@ -703,8 +703,8 @@ kompetisyon	competition
 indi magpaperdi	competitive
 reklamo	complain
 reklamo	complaint
-apresasyon	complement
 pagdayaw	complement
+apresasyon	complement
 kumpleto	complete
 kumpleto	completely
 pagkasibod	complex
@@ -716,19 +716,19 @@ komposisyon	composition
 kompownd	compound
 paghangop	comprehension
 komprehensibo	comprehensive
-pag istoryahanay	compromise
 kompromiso	compromise
+pag istoryahanay	compromise
 obligado	compulsory
 kompyuter	computer
 konsentrasyon	concentrate
 konsepto	concept
-magkabalaka	concern
 kabalaka	concern
+magkabalaka	concern
 kabalaka	concerned
 konsierto	concert
 kongklusyon	conclusion
-espesipiko	concrete
 kongkreto	concrete
+espesipiko	concrete
 kondisyon	condition
 mga kondisyon	conditions
 naghiwat	conduct
@@ -778,9 +778,9 @@ kontinente	continent
 magpadayon	continue
 inistpryahan	contract
 kontrata	contract
-kinatuhayan	contrast
 ikompara	contrast
-ginhatag	contribute
+kinatuhayan	contrast
+nag-amot	contribute
 kontribusyon	contribution
 kontrol	control
 kontrobersyal	controversial
@@ -827,42 +827,42 @@ baka	cow
 talaw	coward
 mahal	cozy
 kasag	crab
-maglitik	crack
 litik	crack
+maglitik	crack
 ukitan	craft
 basura	crap
-pag guba	crash
 magkalabuka	crash
+pag guba	crash
 ginapangita sang ginhawa	craving
 kamang	crawl
 buang	crazy
 naghimo	create
 pagpanuga	creative
 utang	credit
-kaladlukan	creep
-kaladlukan	creepy
-kaupod	crew
+nagakamang	creep
+kaladlukan nga pamatyagan	creepy
+tinawo	crew
 krimen	crime
-nahadlok	cringe
 nakurog	cringe
+nahadlok	cringe
 krisis	crisis
 krayterya	criteria
 kritikal	critical
 kritisismo	criticism
 ginutod	crop
 mga patubas	crops
-krus	cross
 pagtabok	cross
+krus	cross
 pagpamalo sang manok	crow
 damo tawo	crowd
 madamo tawo	crowded
 korona	crown
 mabudlay	crucial
 pintas	cruel
-panakayon	cruise
 barko	cruise
-dunuton	crush
+panakayon	cruise
 pagkagusto	crush
+dunuton	crush
 hibi	cry
 atimon	cucumber
 dugsing	cuddle
@@ -871,23 +871,23 @@ malimbungan	cunning
 tasa	cup
 platera	cupboard
 matapna	curb
-bulong	cure
 mapasag-uli	cure
+bulong	cure
 tagpululi	curfew
 makapukaw atensyon	curiosity
 interesado	curious
 kulong	curly
 kwarta	currency
-subong	current
-subong lang gid	currently
+karon	current
+karon lang gid	currently
 sumpa	curse
 kurtina	curtain
 kutson	cushion
 kustom	custom
 kustomer	customer
 mga kinabatasan	customs
-utod	cut
 pagkihad	cut
+utod	cut
 kyut	cute
 siklo	cycle
 pagbisekleta	cycling
@@ -895,7 +895,7 @@ tatay	dad
 tatay	daddy
 kada adlaw	daily
 lista adlawan	dairy
-dam	dam
+punongan sang tubig	dam
 nahalitan	damage
 magpanghalit	damage
 malaut	damn
@@ -904,7 +904,7 @@ saot	dance
 katalagman	danger
 delikado	dangerous
 madulom	dark
-darling	darling
+pinalangga	darling
 palumba	dash
 datos	data
 pagkilitaay	date
@@ -914,8 +914,8 @@ adlaw	day
 patay	dead
 pasahay nga adlaw	deadline
 bungol	deaf
-pag istoryahanay	deal
 naga atubang	deal
+pag istoryahanay	deal
 Pinalangga	dear
 Pinalangga ko nga TANAN	Dear All
 Pinalangga nga Manugbakal	Dear Customer
@@ -924,7 +924,7 @@ Palangga ko nga Maestro	Dear Sir
 Palangga ko nga mga estudyante	Dear students
 Palangga ko nga Grupo	Dear Team
 kamatayon	death
-debate	debate
+binaisay	debate
 debit	debit
 mga guba	debris
 utang	debt
@@ -934,8 +934,8 @@ napatay	deceased
 ginlimbungan	deceive
 disyembre	december
 disente	decent
-desisyon	decide
-desisyon	decided
+magdesisyon	decide
+nakadesisyon	decided
 desisyon	decision
 barko	deck
 hindi pagbatunon	decline
@@ -945,9 +945,9 @@ dedikasyon	dedication
 buhat	deed
 madalom	deep
 usa	deer
-default	default
-perdi	defeat
+ikasarang	default
 malutos	defeat
+perdi	defeat
 pangapinan	defend
 nagakahulugan	define
 sa pagkamatuod	definitely
@@ -961,7 +961,7 @@ hungod	deliberate
 alamligan	delicate
 manamit	delicious
 nagakalipay	delight
-masadya	delighted
+nagkalipay	delighted
 deliber	deliver
 gin dul-ong	delivered
 deliberi	delivery
@@ -987,8 +987,8 @@ laragway	describe
 paglaragway	description
 desyerto	desert
 nagakabagay	deserve
-disensyo	design
 pagplano	design
+disensyo	design
 alagtunan	designation
 luyag	desire
 handum	desire
@@ -1011,14 +1011,14 @@ ginhalitan	devastated
 pag-uswag	develop
 pagpauswag	developed
 pagbag-o	development
-device	device
+gamit elektroniko	device
 yawa	devil
 debosyon	devoted
 Dhivehi	Dhivehi
 dayabetes	diabetes
 ginalupot	diarrhea
 lista-adlawan	diary
-dictionary	dictionary
+diksyonaryo	dictionary
 ginhimo	did
 patay	die
 napatay	died
@@ -1045,7 +1045,7 @@ ihaboy	discard
 ginpaguwa	discharge
 disiplina	discipline
 buhin	discount
-makita	discover
+natukiban	discover
 diskriminasyon	discrimination
 pag istorya	discuss
 diskusyon	discussion
@@ -1073,8 +1073,8 @@ lainlain	diverse
 dibersyo	diversity
 tungaon	divide
 balaan	divine
-pagbulaganay	divorce
 ginabulagan	divorce
+pagbulaganay	divorce
 lingin	dizzy
 himuon	do
 ikaw bala	do you
@@ -1093,12 +1093,12 @@ nagapangibabaw	dominant
 indi	don't
 Indi magkabalaka	Don't worry
 donar	donate
-tapos	done
+natapos	done
 asno	donkey
 astig	dope
 doble	double
-duhaduha	doubt
 pagduhaduha	doubt
+duhaduha	doubt
 linamas nga tinapay	dough
 idalom	down
 download	download
@@ -1111,12 +1111,12 @@ malaragway	draw
 hunoshunos	drawer
 paglaragway	drawing
 kahadlok	dread
-handum	dream
 nagadamgo	dream
+handum	dream
 bistida	dress
 ensayo	drill
-pag inom	drink
 mag inom	drink
+pag inom	drink
 drayb	drive
 pag hulog	drop
 nahulog	drop
@@ -1180,7 +1180,7 @@ elemento	element
 elepante	elephant
 onse	eleven
 pwede gid	eligible
-kuhaon	eliminate
+dulaon	eliminate
 iban pa	else
 kahuluya	embarrassed
 kahuluya	embarrassing
@@ -1214,7 +1214,7 @@ enhinyero	engineer
 Ingles	English
 panamion	enhance
 magsinadya	enjoy
-dako	enormous
+dako gid	enormous
 sakto	enough
 siguraduhon	ensure
 magsulod	enter
@@ -1236,12 +1236,12 @@ mga gamit	equipment
 pag-alalangay	equity
 katumbas	equivalent
 manog pana	eraser
-sala	error
+kalautan	error
 naka halin	escape
 labi na gid	especially
 sulat	essay
 kahulugan	essence
-importante	essential
+kinahanglan	essential
 pamatud-an	establish
 ginpat-os	established
 estado	estate
@@ -1261,7 +1261,7 @@ asta san-o	ever
 kada	every
 ang tanan	everybody
 tanan	everyone
-bisan ano	everything
+tanan nga butang	everything
 ebidensya	evidence
 yawa	evil
 ebolusyon	evolution
@@ -1304,8 +1304,8 @@ ginapaabot	expect
 ginaekspektar	expected
 mga gasto	expenses
 mahal	expensive
-naka-eksperyensya	experience
 eksperyensya	experience
+naka-eksperyensya	experience
 eksperimento	experiment
 eksperto	expert
 ekspayr	expired
@@ -1326,7 +1326,7 @@ kasangkaron	extent
 naguwa	external
 kalaglagan	extinct
 ekstra	extra
-kuhaon	extract
+magkuha	extract
 tumalagsahon	extraordinary
 daku gid	extreme
 tuman	extremely
@@ -1334,8 +1334,8 @@ mata	eye
 mata	eyes
 tela	fabric
 matahom	fabulous
-pag atubang	face
 itsura	face
+pag atubang	face
 magapahapos	facilitate
 mga pasilidad	facilities
 pasilidad	facility
@@ -1349,8 +1349,8 @@ napaslawan	fail
 napaslawan	failed
 kaperdihan	failure
 nalipong	faint
-makatarunganon	fair
 naga alalangay	fair
+makatarunganon	fair
 parehos	fairly
 engkanto	fairy
 pagtuo	faith
@@ -1358,7 +1358,7 @@ matutom	faithful
 peke	fake
 hulog	fall
 nahulog	fall
-SALA	false
+indi matuod	false
 kabantugan	fame
 pamilyar	familiar
 pamilya	family
@@ -1388,19 +1388,19 @@ kahadlok	fear
 nahadlok	fear
 sinalusalo	feast
 bulbol	feather
-kaanggid sa kaundan	feature
 kaundan	feature
+kaanggid sa kaundan	feature
 bahin	features
 pebrero	february
 ginpakaon	fed up
-bayad	fee
+balayran	fee
 pakaunon	feed
 komento	feedback
 nabatyagan	feel
 nabatyagan	feeling
 kahig	feet
 mmahulog	fell
-kaupod	fellow
+abyan	fellow
 nabatyagan	felt
 babayi	female
 bakod	fence
@@ -1416,8 +1416,8 @@ latagon	field
 wala emosyon	fierce
 kinse	fifteen
 singkwenta	fifty
-pakigbato	fight
 inaway	fight
+pakigbato	fight
 pakigbato	fighting
 panglawason	figure
 mahibaluan	figure
@@ -1432,14 +1432,14 @@ pundo	finance
 pinansyal	financial
 makita	find
 makita ang	find out
-manami	fine
 multa	fine
+manami	fine
 tudlo	finger
-tapos	finish
+nahuman	finish
 nahuman	finished
 kalayo	fire
-negosyo	firm
 para maligon	firm
+negosyo	firm
 una	first
 una nga ngalan	first name
 isda	fish
@@ -1451,7 +1451,7 @@ gin kay-o	fixed
 plag	flag
 pag-igpat	flash
 tapan	flat
-sala	flaw
+diperensya	flaw
 makinis	flawless
 magpalagyo	flee
 unod	flesh
@@ -1466,8 +1466,8 @@ nagalutaw	float
 baha	flood
 salog	floor
 harina	flour
-paghulag sa isa ka direksyon	flow
 nagailig	flow
+paghulag sa isa ka direksyon	flow
 bulak	flower
 hilanat	flu
 talunsay	fluent
@@ -1482,14 +1482,14 @@ maambunon	foggy
 pilikon	fold
 mga kaupod	folks
 sundon	follow
-follow up	follow up
+subaybayan	follow up
 naga sunod	following
 pagkaon	food
 buangbuang	fool
 mango	fool
 kabuangan	foolish
 tiil	foot
-football	football
+hampang sang  bola gamit ang tiil	football
 para	for
 Halimbawa	For example
 halimbawa	for instance
@@ -1505,15 +1505,15 @@ lipatan	forget
 patawad	forgive
 nalipat	forgot
 tinidor	fork
-paghuman	form
 porma	form
+paghuman	form
 pormal	formal
 sang una	former
 maayo na lang kay	fortunately
 swerte	fortune
 kuwarenta	forty
 kuwarentay dos	forty-two
-forward	forward
+abante	forward
 amay-amay	foster
 nakig-away	fought
 nakita	found
@@ -1550,19 +1550,19 @@ kapaslawan	frustrated
 gatong	fuel
 Fulfulde	Fulfulde
 buta	full
-masadya	fun
+makalilipay	fun
 pagpanghikot	function
 Panguna	fundamental
 lubong	funeral
 kaladlawan	funny
 balahibo	fur
-madasig	furious
+sobra nga naakig	furious
 pagkabutang	furniture
 madamo pa	further
 dugang pa	furthermore
 palaabuton	future
-pagtigayon	gain
 balor	gain
+pagtigayon	gain
 hampang	game
 lak-ang	gap
 garahe	garage
@@ -1580,8 +1580,8 @@ kabilogan	general
 nagahilisugot	generally
 maghimo	generate
 henerasyon	generation
-madamo	generous
 alwan	generous
+madamo	generous
 henyo	genius
 sahi sang musika	genre
 mahinay	gentle
@@ -1594,7 +1594,7 @@ magpaayo ka	get well soon
 makuha	getting
 kalag	ghost
 wala gapanapak	ghosting
-dako	giant
+higante	giant
 regalo	gift
 luy-a	ginger
 babayi	girl
@@ -1630,8 +1630,8 @@ bulawan	gold
 nadula	gone
 nga	gonna
 sip-on	goo
-nagalabaw	good
 maayo	good
+nagalabaw	good
 mayad nga hapon	good afternoon
 nag paalam	good bye
 mayad nga adlaw	good day
@@ -1653,13 +1653,13 @@ chismis	gossip
 nakuha	got
 nakuha ko	got it
 gonyerno	government
-kuhaon	grab
+agawon	grab
 grado	grade
 amat-amat	gradually
 gradwar	graduate
 uyas	grain
 ginhatag	grant
-ginhatag	granted
+nahatagan	granted
 ubas	grapes
 paghangop	grasp
 hilamon	grass
@@ -1693,8 +1693,8 @@ gwardya	guard
 pakta	guess
 bisita	guest
 giya	guidance
-pagtuytoy	guide
 giya	guide
+pagtuytoy	guide
 nakasala	guilty
 lalaki	guy
 mga lalaki	guys
@@ -1711,7 +1711,7 @@ uluyahat	handle
 gwapo	handsome
 sab-it	hang
 mag-guwa	hang out
-natabo	happen
+matabo	happen
 natabo	happened
 kasadyahan	happiness
 masadya	happy
@@ -1721,8 +1721,8 @@ malipayon nga bagong tuig	happy new year
 tig-a	hard
 halos indi	hardly
 kabudlay gd tana	hardly ever
-mang guba	harm
 halit	harm
+mang guba	harm
 makahalalit	harmful
 nahisanto	harmony
 mapintas	harsh
@@ -1750,8 +1750,8 @@ maayo nga ikaayong lawas	healthy
 nabatian	hear
 nabatian	heard
 tagipusuon	heart
-mainit	heat
 naga init	heat
+mainit	heat
 langit	heaven
 mabug-at	heavy
 madamo sang ulubrahon	hectic
@@ -1773,10 +1773,10 @@ panong	herd
 diri	here
 palanublion	heritage
 gaduhaduha	hesitate
-Hey	Hey
-Hi	Hi
+Hoy	Hey
+Kamusta	Hi
 kamusta ikaw	hi how are you
-Hi sa imo	Hi there
+Kamusta ka	Hi there
 natago	hidden
 panago	hide
 hirarkiya	hierarchy
@@ -1919,7 +1919,7 @@ ok lang ako	I'm fine
 Ok ako	I'm good
 Ari ko di	I'm here
 pasayluha ako	I'm sorry
-ice	ice
+yelo	ice
 sorbete	ice cream
 ideya	idea
 ideya	ideal
@@ -1933,7 +1933,7 @@ indi pagsapakon	ignore
 sakit	ill
 ginadumilian	illegal
 mmay sakit	illness
-Ilocano	Ilocano
+Ilokano	Ilocano
 larawan	image
 handurawa	imagine
 gilayon	immediate
@@ -1942,8 +1942,8 @@ tuman gid	immense
 epekto	impact
 hindi makahulat	impatient
 magpatuman	implement
-pasulod	import
 pasudlon	import
+pasulod	import
 importante	important
 ipatuman	impose
 imposible	impossible
@@ -1953,7 +1953,7 @@ nagadayaw	impressive
 improba	improve
 nag -ayo	improvement
 sa	in
-dugang pa	in addition
+dugang pa sa	in addition
 sa katunayan	In fact
 sa atubangan sang	in front of
 agod may	in order to
@@ -1981,8 +1981,8 @@ impeksion	infection
 wala katapusan	infinity
 pagpalmanog	inflammation
 implasyon	inflation
-impluwensya	influence
 naka apketo	influence
+impluwensya	influence
 magpahibalo	inform
 impormasyon	information
 mga sangkap	ingredients
@@ -2004,7 +2004,7 @@ ginapilit	insist
 indi makatulog	insomnia
 inspirasyon	inspiration
 inspirado	inspire
-install	install
+ginbutang	install
 halimbawa	instance
 gilayon	instant
 sa baylo	instead
@@ -2017,9 +2017,9 @@ malig-on	intact
 integridad	integrity
 may kaalam	intellectual
 kaalam	intelligence
-kaalam	intelligent
-gusto	intend
-para sa	intended
+maalam	intelligent
+tinutuyo	intend
+tinituyo para sa	intended
 sobra	intense
 intensyon	intention
 makig angot	interact
@@ -2030,7 +2030,7 @@ makawiwili	interesting
 nag awat	interfere
 insakto lang	intermediate
 duna	internal
-international	international
+internasyonal	international
 pag-ubra	internship
 pag-intindi	interpret
 manog patpat	interpreter
@@ -2049,8 +2049,8 @@ mamuhunan	invest
 imbestigar	investigate
 imbitasyon	invitation
 imbitado	invite
-resibo	invoice
 pelirmahan	invoice
+resibo	invoice
 lakip ang	involve
 nalakip	involved
 salsalon	iron
@@ -2058,8 +2058,8 @@ plantsa	iron
 amo ang	is
 isla	island
 ginpain	isolated
-pagpanagtag	issue
 maghatag	issue
+pagpanagtag	issue
 mga isyu	issues
 ini	it
 amu to	it is
@@ -2087,15 +2087,15 @@ jowk	joke
 dyurnalista	journalist
 paglakbay	journey
 kasadya	joy
-hukom	judge
 pagporma sang opinyon	judge
+hukom	judge
 ilimnon	juice
 hulyo	july
 lumpat	jump
 hunyo	june
 basura	junk
-subong	just
 kaangay	just
+subong	just
 ubraha lang ah	just do it
 pagkamatarong	justice
 ginpakamatarong	justify
@@ -2134,7 +2134,7 @@ Krio	Krio
 ginatawag nga	label
 etiketa	label
 ubra	labor
-bayad	labour
+pagtrabaho	labour
 kulang	lack
 hagdan	ladder
 babayi	lady
@@ -2143,8 +2143,8 @@ linaw	lake
 kornero	lamb
 piang	lame
 suga	lamp
-duta	land
 paghugpa	land
+duta	land
 pabatang	landscape
 lenggwahe	language
 batiis	lap
@@ -2180,11 +2180,11 @@ nagatuon	learning
 arkila	lease
 pinakamanubo	least
 panit	leather
-magbiya	leave
 maglayyas	leave
+magbiya	leave
 mga dahon	leaves
 nagtuga	led
-wala	left
+naghalin	left
 paa	leg
 legasiya	legacy
 ligal	legal
@@ -2209,8 +2209,8 @@ kabutigan	lies
 kabuhi	life
 pasaka	lift
 ginbayaw	lift
-kasanag	light
 masanag	light
+kasanag	light
 maghatag sang kasanag	light
 kilat	lightning
 gusto	like
@@ -2228,8 +2228,8 @@ literal	literally
 literatura	literature
 sagbot	litter
 diutay	little
-nagakabuhi	live
 naga istar	live
+nagakabuhi	live
 atay	liver
 mga kabuhi	lives
 nagaistar	living
@@ -2243,7 +2243,7 @@ lokasyon	location
 lak	lock
 hindi makaguwa	lockdown
 troso	log
-lol	lol
+perti ang pagkadlaw	lol
 masubo	lonely
 malaba	long
 dugay nga waay kitaay	long time no see
@@ -2259,8 +2259,8 @@ nadula	lost
 lupa	lot
 matudo	loud
 hulut-tulugan	lounge
-nagapalangga	love
 gugma	love
+nagapalangga	love
 palangga ta ikaw	love you
 gwapa	lovely
 manaba	low
@@ -2287,13 +2287,13 @@ panguna	main
 amo man gihapon	maintain
 meyntenans	maintenance
 Maithili	Maithili
-importante	major
 mayor	major
+importante	major
 kadam-an	majority
 himo	make
 pampagwapa	make up
 lalaki	male
-mall	mall
+lalagawan	mall
 tawo	man
 pagdumala	manage
 nagadumala	management
@@ -2312,7 +2312,7 @@ kasal	marriage
 kasal	married
 maskara	mask
 kadamuon	mass
-madamo	massive
+madamo gid	massive
 nagapamuno	master
 pareho	match
 pares	match
@@ -2321,14 +2321,14 @@ materyal	material
 matematika	math
 butang	matter
 pagkahamtong	maturity
-mahimo	may
 pwede	may
+mahimo	may
 basi	maybe
 ako	me
 ako man	me too
 pagkaon	meal
-buot silingon	mean
 ikasarang	mean
+buot silingon	mean
 buot silingon	meaning
 kunsaydn	means
 ginatuyo	meant
@@ -2347,7 +2347,7 @@ natunaw	melt
 memorya	memories
 handumanan	memory
 paminsaron	mental
-ginhambal	mention
+ginsambit	mention
 ginsambit	mentioned
 manogtudlo	mentor
 mga negosyante	merchant
@@ -2357,7 +2357,7 @@ malipayon nga paskwa	merry christmas
 higko	mess
 mensahe	message
 magamo	messy
-metal	metal
+Salsalun	metal
 pamaagi	method
 ilaga	mice
 sa tunga	middle
@@ -2371,8 +2371,8 @@ milyon	million
 paminsara	mind
 isip	mind
 oaminsaron	mindset
-akon	mine
 minahan	mine
+akon	mine
 mag-istorya	mingle
 diutay	minor
 minutos	minute
@@ -2381,7 +2381,7 @@ mirakulo	miracle
 salamin	mirror
 iban pa nga balayran	miscellaneous
 makahalalit	mischievous
-miserable	miserable
+makaluluoy	miserable
 pag-antos	misery
 nahidlaw	miss
 nahidlaw ako sa imo	miss you
@@ -2390,7 +2390,7 @@ misyon	mission
 gal-um	mist
 sala	mistake
 Mizo	Mizo
-mobile	mobile
+telepono	mobile
 yagutaon	mock
 modelo	model
 haganhagan	moderate
@@ -2399,8 +2399,8 @@ bag-o	modern
 disente	modest
 mahun-og	moist
 kahumog	moisture
-ginahuman	mold
 molde	mold
+ginahuman	mold
 alom	mole
 nanay	mom
 momento	moment
@@ -2456,10 +2456,10 @@ ngalan	name
 panaysayon	narrative
 manabaw	narrow
 damak	nasty
-national	national
+nasyonal	national
 nasyonalidad	nationality
 tumandok	native
-natural	natural
+kinaugali	natural
 palibot	nature
 masuka	nausea
 lapit	near
@@ -2477,12 +2477,12 @@ isigkatawo	neighbor
 piyak balay	neighborhood
 hindi man	neither
 hinablos	nephew
-nerd	nerd
+tawo nga maalam	nerd
 kulba	nervous
 pugad	nest
 pukot	net
-network	network
-neutral	neutral
+sistema	network
+walay nadampigan	neutral
 wala gid	never
 hindi magsuko	never give up
 wala na lang	never mind
@@ -2510,7 +2510,7 @@ wala	none
 Ugto adlaw	noon
 indi pagsapakon	nope
 indi	nor
-normal	normal
+kinaandan	normal
 aminhan	north
 irong	nose
 mamingawon	nostalgic
@@ -2537,7 +2537,7 @@ palaminhod	numb
 numero	number
 nars	nurse
 mani	nut
-nutmeg	nutmeg
+nuwes muskada	nutmeg
 nutrisyon	nutrition
 panumpa	oath
 katambok	obesity
@@ -2559,7 +2559,7 @@ makita gid	obviously
 kon kaisa	occasionally
 ubra	occupation
 okupado	occupied
-natabo	occur
+matabo	occur
 natabo	occurred
 nagakatabo	occurs
 baybay	ocean
@@ -2570,19 +2570,19 @@ sang	of
 syempre	of course
 patya	off
 makasaklaw	offensive
-halad	offer
 maghatag	offer
+halad	offer
 opisina	office
 opisyal	official
 masami	often
-Oh	Oh
+Abaw	Oh
 tuod?	oh really
 langis	oil
-ok	ok
+sige	ok
 ok palangga	ok dear
 ok palangga	ok honey
 ok, palangga ko	ok my love
-okay	okay
+sige	okay
 ok palangga	okay baby
 okay palangga	okay dear
 ok palangga	okay honey
@@ -2630,7 +2630,7 @@ saksakan	outlet
 sa gwa	outline
 sa guwa	outside
 talalupangdon	outstanding
-oven	oven
+pugon	oven
 tapos	over
 didto	over there
 sa kabilogan	overall
@@ -2640,8 +2640,8 @@ namaguhan	overwhelmed
 makabalag-o	overwhelming
 utang	owe
 uwak	owl
-ginapanagiyahan	own
 kaugalingon	own
+ginapanagiyahan	own
 tag-iya	owner
 baka	ox
 kadasigon	pace
@@ -2657,7 +2657,7 @@ palad	palm
 kalaha	pan
 pandemiko	pandemic
 panik	panic
-pantalong	pants
+pantalon	pants
 papel	paper
 paraiso	paradise
 kaanggid	parallel
@@ -2688,10 +2688,10 @@ pasensya	patience
 mapasensyahon	patient
 pasyente	patient
 pasunod	pattern
-untat	pause
+magdulog	pause
 salog	pavement
 bayad	pay
-bayad	payment
+pagbayad	payment
 paghidait	peace
 malinong	peaceful
 peras	peach
@@ -2699,8 +2699,8 @@ tuktok	peak
 peras	pear
 latoy	peas
 kahun-og	peculiar
-ihi	pee
 nag ihi	pee
+ihi	pee
 pinanitan	peel
 abyan	peer
 mga abyan	peers
@@ -2736,7 +2736,7 @@ retrato	photo
 dinalan	phrase
 pisikal	physical
 puluton	pick
-kuhaon	pick up
+ginpudyot	pick up
 laragway	picture
 bilog	piece
 binilog	pieces
@@ -2745,14 +2745,14 @@ pating	pigeon
 tinumpok	pile
 ulunan	pillow
 piloto	pilot
-pin	pin
+sibit	pin
 pinya	pineapple
 duag rosa	pink
 lungib	pit
 hambal	pitch
 kaluoy	pity
-ibutang	place
 lugar	place
+ibutang	place
 mga lugar	places
 salot	plague
 patag	plain
@@ -2762,16 +2762,16 @@ tanom	plant
 mga tanom	plants
 plato	plate
 plataporma	platform
-paghampang	play
 palagwaon	play
+paghampang	play
 naga hampang	playing
 manami	pleasant
 pahamut-an	please
 palihug	please
 palihug	pleased
 maglipaylipay	pleasure
-ginhatag	pledge
-madamo	plenty
+nagsumpa	pledge
+bugana	plenty
 plano	plot
 angot	plug
 sirgwelas	plum
@@ -2796,14 +2796,14 @@ populasyon	population
 baboy	pork
 linugaw	porridge
 puerto	port
-position	position
+posisyon	position
 positibo	positive
 ginapanag-iyahan	possess
 posesyon	possession
 gapanag-iya	possessive
 posible	possible
-poste	post
 post	post
+poste	post
 ginpaisol	postpone
 patatas	potato
 potensyal	potential
@@ -2812,8 +2812,8 @@ kapigaduhon	poverty
 gahom	power
 gahom	powerful
 praktikal	practical
-ulubrahon	practice
 mga buhat	practice
+ulubrahon	practice
 ginadayaw	praise
 tinarso	prank
 pangadi	pray
@@ -2830,20 +2830,20 @@ limitado	premium
 preparasyon	preparation
 preparar	prepare
 preparedo	prepared
-preposition	preposition
+preposisyon	preposition
 presensya	presence
 ginapakita	present
-regalo	present
 subong	present
+regalo	present
 presentasyon	presentation
 gintago	preserve
 presidente	president
-gina ipit	press
 ipiton	press
+gina ipit	press
 pag-ipit	pressure
 pakunokuno	pretend
-gwapa	pretty
 kontrolado	pretty
+gwapa	pretty
 likawan	prevent
 sang nagligad	previous
 kalan-on	prey
@@ -2878,8 +2878,8 @@ magpadayon	progress
 pag-uswag	progress
 proyekto	project
 prominente	prominent
-saad	promise
 promisa	promise
+saad	promise
 pagsakdag	promote
 promosyon	promotion
 maabtik	prompt
@@ -2887,7 +2887,7 @@ mahuyog	prone
 nagpahayag	pronouns
 pagsambit	pronunciation
 ebidensya	proof
-proper	proper
+husto	proper
 insakto	properly
 mga propriedad	properties
 propiedad	property
@@ -2899,7 +2899,7 @@ protekta	protect
 bugalon	proud
 pamatuod	prove
 maghatag	provide
-ginhatag	provided
+nagahatag	provided
 probinsya	province
 probisyon	provision
 paghinupang	puberty
@@ -2929,19 +2929,19 @@ reyna	queen
 lain	queer
 pamangkot	query
 pamangkot	question
-pag linya	queue
 linya	queue
-madasig	quick
-madasig	quickly
+pag linya	queue
+maabtik	quick
+maabtik	quickly
 hipos	quiet
 rebrekama	quilt
 mag untat	quit
-tuman	quite
 nagakaigo	quite
+tuman	quite
 patilaw	quiz
 kotasyon	quotation
-ginbalikwa	quote
 ginkutlo	quote
+ginbalikwa	quote
 ginkutlo	quotes
 kuneho	rabbit
 palumba	race
@@ -2974,7 +2974,7 @@ matuod	real
 matuod	reality
 reyalisar	realize
 nareyalisar	realized
-gali	really
+pagkamatuod	really
 pagpadaku	rear
 rason	reason
 rasonable	reasonable
@@ -2991,13 +2991,13 @@ rekognisyon	recognition
 makilal-an	recognize
 ginrekomenda	recommend
 ginarekomenda	recommended
-rekord	record
 pagsulat	record
+rekord	record
 nakarecover	recover
 recoberi	recovery
 rektanggulo	rectangle
 pula	red
-magkuha	redeem
+maggawad	redeem
 redemsyon	redemption
 buhinan	reduce
 paliwatliwat	redundant
@@ -3017,7 +3017,7 @@ ginakabig	regards
 rehiyon	region
 rehistro	register
 hinulsol	regret
-regular	regular
+naandan	regular
 sing tayuyon	regularly
 wala nabaton	reject
 natuhoy	relate
@@ -3076,7 +3076,7 @@ pagbato	resist
 nagapamatok	resistance
 resolusyon	resolution
 nasolbar	resolve
-resort	resort
+balakasyunan	resort
 mga ginhalinan	resources
 pagtahod	respect
 respeto	respect
@@ -3119,18 +3119,18 @@ isikway	rid
 byahe	ride
 pag byahe	ride
 kaladlawan	ridiculous
-insakto	right
 sa tuo	right
+insakto	right
 subong	right now
 mapiguson	rigid
 singsing	ring
 hugasan	rinse
-inaway	riot
+kagubot	riot
 gin gisi	rip
 gision	rip
 dunot	ripe
-magsaka	rise
 pagsaka	rise
+magsaka	rise
 risgo	risk
 katalagman	risk
 karibal	rival
@@ -3165,8 +3165,8 @@ paggahom	rules
 dalagan	run
 nagadalagan	running
 uma	rural
-ginapadalian	rush
 pagpadasudaso	rush
+ginapadalian	rush
 sako	sack
 sagrado	sacred
 sakripisyo	sacrifice
@@ -3274,12 +3274,12 @@ seryoso	seriously
 serbi	serve
 serbisyo	service
 sesyon	session
-palareho	set
 ibutang	set
+palareho	set
 nagtukod	set up
 Seting	setting
-magpuyo	settle
 kuntento	settle
+magpuyo	settle
 pito	seven
 disisiete	seventeen
 siesenta	seventy
@@ -3307,7 +3307,7 @@ pakinhason	shell
 balay	shelter
 panagang	shield
 magsaylo	shift
-masanag	shine
+nagasanag	shine
 barko	ship
 ginpadala	shipping
 bayo	shirt
@@ -3318,8 +3318,8 @@ pagpamalaklon	shopping
 baybay	shore
 lip-ot	short
 kakulang	shortage
-tiro	shot
 natirohan	shot
+tiro	shot
 dapat	should
 abaga	shoulder
 singgit	shout
@@ -3329,27 +3329,27 @@ ipakita sa akon	show me
 palaliguan	shower
 hipon	shrimp
 madunot	shrink
-hipos	shut
-hipos	shut up
+saradhan	shut
+maghipos	shut up
 nahuya	shy
 bugto	sibling
 magbugto	siblings
 may sakit	sick
 sa kilid	side
 panghayhay	sigh
-makita	sight
+panulok	sight
 nagalantaw lantaw	sightseeing
 sinyales	sign
 perma	signature
-importante	significant
+talalupangdon	significant
 maghimos	silence
 mahipos	silent
 seda	silk
 binuang	silly
 pilak	silver
 pareho	similar
-gusto	simp
-simple	simple
+gusto gid	simp
+simplehon	simple
 sunodsunod	simultaneously
 halin sang	since
 sinsero	sincere
@@ -3359,11 +3359,11 @@ nagakanta	singer
 isahanon	single
 pagkalunod	sink
 lababo	sink
-Sir	Sir
+Ginuo	Sir
 bugto nga babayi	sister
 bayaw nga babayi	sister in law
 pungko	sit
-site	site
+lugar	site
 sitwasyon	situation
 anom	six
 disiseis	sixteen
@@ -3381,8 +3381,8 @@ tulog	sleep
 nagatulog	sleeping
 natuyo	sleepy
 pako sang bayo	sleeve
-kinihad	slice
 pagkihad	slice
+kinihad	slice
 padausdos	slide
 medyo	slightly
 maniwang	slim
@@ -3391,7 +3391,7 @@ banglid	slope
 iskedyul	slot
 mahinay	slow
 amat-amat	slowly
-diutay	small
+magamay	small
 maalam	smart
 amoy	smell
 pagngirit	smile
@@ -3450,8 +3450,8 @@ espasyo	space
 pasayod	spam
 kalawigon	span
 espanyol	Spanish
-luwas	spare
 extra	spare
+luwas	spare
 hambal	speak
 espesyal	special
 tinuga	species
@@ -3480,7 +3480,7 @@ kutsara	spoon
 dagta	spot
 asawa	spouse
 lapta	spread
-spring	spring
+tigpamulak	spring
 kahon	square
 dunuton	squeeze
 pusit	squid
@@ -3497,8 +3497,8 @@ usok	stake
 pagsunod sunod	stalk
 tapangko	stall
 selyo	stamp
-pagtindog	stand
 manindugan	stand
+pagtindog	stand
 istandard	standard
 bitoon	star
 umpisa	start
@@ -3506,7 +3506,7 @@ nagsugod	started
 ginagutom	starving
 maghambal	state
 pungsod	state
-ginhambal	statement
+pinamulong	statement
 estasyon	station
 estatwa	statue
 estado	status
@@ -3563,8 +3563,8 @@ presyon	stroke
 mabaskog	strong
 naigo	struck
 straktura	structure
-kabudlay	struggle
 pagpanikasug	struggle
+kabudlay	struggle
 kabudlay	struggling
 pasaway	stubborn
 naipit	stuck
@@ -3591,8 +3591,8 @@ hinali	sudden
 gilayon	suddenly
 pag-antos	suffer
 pag antos	suffering
-insakto	sufficient
 madamo	sufficient
+insakto	sufficient
 kalamay	sugar
 panugda	suggest
 suhestyon	suggestion
@@ -3608,7 +3608,7 @@ adlaw	sun
 dominggo	sunday
 maadlaw	sunny
 pagpanaog sang adlaw	sunset
-masanag	sunshine
+kasanag	sunshine
 pwerte	super
 superyor	superior
 superbisor	supervisor
@@ -3628,11 +3628,11 @@ nasorpresa	surprised
 pagsuko	surrender
 palibot	surrounding
 ginabantayan	surveillance
-ipatalupangod	survey
 paggawi	survey
+ipatalupangod	survey
 nakaluwas	survive
-suspek	suspect
 ginsuspetsahan	suspect
+suspek	suspect
 wala nadayon	suspended
 madudahon	suspicious
 sustenar	sustain
@@ -3670,7 +3670,7 @@ ikog	tail
 kuha	take
 dalha	take away
 maghalong	take care
-kuhaon	take off
+ubahon	take off
 nakuha	taken
 isturyahanay	talk
 pagisturyahanay	talk
@@ -3682,16 +3682,16 @@ teyp	tape
 ginapuntirya	target
 biktima	target
 ulubrahon	task
-panabor	taste
 sabor	taste
+panabor	taste
 saburoso	tasty
 gintudlo	taught
 tsaa	tea
 tudlo	teach
 maistra	teacher
 grupo	team
-gision	tear
 luha	tear
+gision	tear
 mga luha	tears
 sunlog	tease
 teknolohiya	technology
@@ -3744,7 +3744,7 @@ didto	there
 may yara	there are
 may yara	there is
 gani	therefore
-ini	these
+mga ini	these
 sila	they
 sila ang	they are
 damol	thick
@@ -3794,7 +3794,7 @@ magutok	tight
 Tigrinya	Tigrinya
 oras	time
 mahuluy-on	timid
-diutay	tiny
+magamay	tiny
 punta	tip
 tip	tips
 goma	tire
@@ -3804,7 +3804,7 @@ titulo	title
 mag	to
 nga	to be
 pag-toast	toast
-subong	today
+subong nga adlaw	today
 bata gamay	toddler
 tiil	toes
 upod kita	together
@@ -3866,14 +3866,14 @@ bag-o	trend
 pagtilaw	trial
 daya	trick
 gintestingan	tried
-kabangdan	trigger
 trigo	trigger
+kabangdan	trigger
 tutuan	trim
 byahe	trip
-inaway	trouble
+gamo	trouble
 pantalon	trousers
 trak	truck
-SAKTO	true
+sakto	true
 sanga sang kahoy	trunk
 salig	trust
 pagsalig	trust
@@ -3919,15 +3919,15 @@ hasta	until
 indi kinaandan	unusual
 babaw	up
 ikaw bahala	up to you
-paathag	update
 magpasibu sa bago	update
-pagbag-o	upgrade
+paathag	update
 pag uswag	upgrade
+pagbag-o	upgrade
 sa pag	upon
 akig	upset
 siudad	urban
-paglaygay	urge
 kagustuhan	urge
+paglaygay	urge
 ginadalian	urgent
 kita	us
 paggamit	use
@@ -3944,10 +3944,10 @@ nagasuyop	vacuum
 indi maathag	vague
 balido	valid
 nalupyakan	valley
-importante	valuable
+mapuslanon	valuable
 balor	value
 sahi	variety
-madamo	various
+nanarisari	various
 nagadepende	vary
 plorera	vase
 daku	vast
@@ -3967,16 +3967,16 @@ maayo gid	very good
 suludlan	vessel
 paagi sa	via
 vNA	vibe
-vibes	vibes
-mapintas	vicious
+balatyagon	vibes
+mabaris	vicious
 biktima	victim
 bidyo	video
-makita	view
+pagtamod	view
 baryo	village
 kontrabida	villain
 suka	vinegar
 dinumaan	vintage
-inaway	violence
+kasingki	violence
 mapintas	violent
 sikat	viral
 birhen	virgin
@@ -3985,27 +3985,27 @@ pagkatadlong	virtue
 palanan-awon	vision
 nagaduaw	visit
 pag duaw	visit
-makita	visual
+mahanduraw	visual
 importante	vital
 maathag	vivid
 bokabularyo	vocabulary
 tingog	voice
-bayad	void
+pagkawalay-unod	void
 kataason	volume
 boluntir	volunteer
 pagsuka	vomit
 iluad	vomit
 inosente	vulnerable
 sweldo	wage
-bayad	wages
+mga sweldo	wages
 hawak	waist
 dali lang	wait
 manog serbi	waiter
 nagahulat	waiting
 bugtaw	wake
 bugtaw na	wake up
-paglakat	walk
 pagdayan	walk
+paglakat	walk
 nagalakat	walking
 dingding	wall
 kahita	wallet
@@ -4017,15 +4017,15 @@ ginapangita	wanted
 inaway	war
 bayuan	wardrobe
 bodega	warehouse
-labaab	warm
 mainabyanon	warm
+labaab	warm
 paandam	warn
 paandam	warning
 soldado	warrior
 sing mga	was
 hugasi	wash
-nausik	waste
 naguba	waste
+nausik	waste
 lantaw	watch
 tubig	water
 sandiya	watermelon
@@ -4047,8 +4047,8 @@ Myerkules	Wednesday
 gamhon	weed
 semana	week
 talipuspusan sang semana	weekend
-gina timbang	weight
 kabugaton	weight
+gina timbang	weight
 katingalahan	weird
 gina-abiabi	welcome
 kaayuhan	welfare
@@ -4115,7 +4115,7 @@ daog	win
 hangin	wind
 bintana	window
 mahangin	windy
-ilimnon	wine
+alak	wine
 taglamig	winter
 punasan	wipe
 wayr	wire
@@ -4129,7 +4129,7 @@ nga may	with
 magwidro	withdraw
 widrowal	withdrawal
 sa sulod	within
-wala	without
+wala sing	without
 nakakita	witness
 testigo	witness
 palalahog	witty
@@ -4167,14 +4167,14 @@ kasingkal	wrath
 pulso	wrist
 sulat	write
 sulat diri	Write here
-sulat	writing
+nagasulat	writing
 nasulat	written
 sala	wrong
 nasulat	wrote
 yarda	yard
 nagapanguy-ab	yawn
 pagpanguy-ab	yawn
-Yeah	Yeah
+Ah gali	Yeah
 tuig	year
 mga tinuig	years
 lebadura	yeast
