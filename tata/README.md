@@ -23,7 +23,7 @@ We provide the data files in the corresponding splits in `train.json`, `dev.json
 - `table_text`: The sentences forming the description of each table are encoded as a JSON object. In the case of more than one sentence, these are separated by commas. Number of items varies per table.
 - `linearized_input`:  A single string that contains the table content separated by vertical bars, i.e., |. Including title, unit of measurement, and the content of each cell including row and column headers in between brackets, i.e., (Medium Empowerment, Mali, 17.9).
 
-We are planning to additionally release the original charts as screenshots.
+We additionally release screenshots of the original charts in the `images` folder. Each image ID can be mapped to the corresponding table ID. Charts are available in English for all tables and in slightly more than half of the cases in a second language.
 
 We also provide the annotations of the human evaluation of system outputs in `all_human_annotations.csv`. Annotators answered a series of up to four questions for each output, which are based on a variant of [Attribution to Identifiable Sources](https://arxiv.org/abs/2112.12870) (AIS). The file consists of the following columns:
 
