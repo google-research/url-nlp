@@ -131,11 +131,11 @@ langid = FunLangID()
 print(langid.predict_top("Situs puniki kasayagayang olih Wikimédia Foundation tur bebas cingakin olih parajanané makasami."))
 
 # Make a LangID model only on the top 200 most common languages on the web
-langid = FunLangID(n_languages=200)
+langid = FunLangID(n_langs=200)
 
 # Make a LangID model only on the top 200 most common languages on the web,
 # but also include `ban`
-langid = FunLangID(n_languages=200, include_langs={"ban"})
+langid = FunLangID(n_langs=200, include_langs={"ban"})
 ```
 
 ### Note for the non-technical:
