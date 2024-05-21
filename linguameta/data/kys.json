@@ -1,0 +1,59 @@
+{
+  "bcp_47_code": "kys",
+  "iso_639_3_code": "kys",
+  "glottocode": "bara1370",
+  "wikidata_id": "Q2883794",
+  "total_population": 35000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Baram Kayan",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "baram kayan",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Baram Lenga Kayan",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kikayan ya Baram",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "xxxx",
+        "is_canonical": true,
+        "source": "SOURCE_UNSPECIFIED"
+      },
+      "locale": {
+        "iso_3166_code": "my",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 35000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 3.51211,
+        "longitude": 114.482,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

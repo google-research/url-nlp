@@ -1,0 +1,64 @@
+{
+  "bcp_47_code": "hmg",
+  "iso_639_3_code": "hmg",
+  "macrolanguage_bcp_47_code": "hmn",
+  "glottocode": "sout2756",
+  "wikidata_id": "Q27478542",
+  "total_population": 190000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Hmongic language spoken by the Miao people in China",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Southwestern Guiyang Hmong",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Kimiao ya Guiyang ya Kusini-Magharibi",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "guiyang sud ossidental Lenga hmong",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "guiyang du sud-ouest",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "xxxx",
+        "is_canonical": true,
+        "source": "SOURCE_UNSPECIFIED"
+      },
+      "locale": {
+        "iso_3166_code": "cn",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 190000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 26.1803,
+        "longitude": 106.003,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

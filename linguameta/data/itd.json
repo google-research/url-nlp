@@ -1,0 +1,56 @@
+{
+  "bcp_47_code": "itd",
+  "iso_639_3_code": "itd",
+  "glottocode": "sout3241",
+  "wikidata_id": "Q63214959",
+  "total_population": 27000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "southern branch of Tidung language, spoken in Indonesia",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Southern Tidung",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Southern Tidong",
+      "bcp_47_code": "en",
+      "source": "WIKTIONARY"
+    },
+    {
+      "name": "bahasa Tidung Selatan",
+      "bcp_47_code": "id",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "ASSUMED_BASED_ON_LOCALE"
+      },
+      "locale": {
+        "iso_3166_code": "id",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 27000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 4.0,
+        "longitude": 117.75,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

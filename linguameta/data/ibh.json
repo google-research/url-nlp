@@ -1,0 +1,47 @@
+{
+  "bcp_47_code": "ibh",
+  "iso_639_3_code": "ibh",
+  "glottocode": "biha1246",
+  "wikidata_id": "Q51955140",
+  "total_population": 180000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Bih",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "bih",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "vn",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 180000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 12.483333,
+        "longitude": 108.01667,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

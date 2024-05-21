@@ -1,0 +1,59 @@
+{
+  "bcp_47_code": "lwg",
+  "iso_639_3_code": "lwg",
+  "macrolanguage_bcp_47_code": "luy",
+  "glottocode": "wang1294",
+  "wikidata_id": "Q63283476",
+  "total_population": 310000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Wanga",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Oluwanga",
+      "bcp_47_code": "en",
+      "source": "IETF"
+    },
+    {
+      "name": "wanga",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Oluwanga",
+      "bcp_47_code": "lwg",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "ke",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 310000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 0.343,
+        "longitude": 34.477,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

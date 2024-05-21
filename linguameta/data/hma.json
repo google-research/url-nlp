@@ -1,0 +1,64 @@
+{
+  "bcp_47_code": "hma",
+  "iso_639_3_code": "hma",
+  "macrolanguage_bcp_47_code": "hmn",
+  "glottocode": "sout1556",
+  "wikidata_id": "Q12953560",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Hmongic language spoken by the Miao people in China",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Southern Mashan Hmong",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Southern Mashan Miao",
+      "bcp_47_code": "en",
+      "source": "IETF"
+    },
+    {
+      "name": "mashan meridional Lenga hmong",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kimiao ya Mashan ya Kusini",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "南部土语",
+      "bcp_47_code": "cmn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "cn",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": 25.3359,
+        "longitude": 106.308,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "bcp_47_code": "huj",
+  "iso_639_3_code": "huj",
+  "macrolanguage_bcp_47_code": "hmn",
+  "glottocode": "nort1545",
+  "wikidata_id": "Q12953554",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Hmongic language spoken by the Miao people in China",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Northern Guiyang Hmong",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Northern Guiyang Miao",
+      "bcp_47_code": "en",
+      "source": "IETF"
+    },
+    {
+      "name": "guiyang setentrional Lenga hmong",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kimiao ya Guiyang ya Kaskazini",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "guiyang du nord",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "xxxx",
+        "is_canonical": true,
+        "source": "SOURCE_UNSPECIFIED"
+      },
+      "locale": {
+        "iso_3166_code": "cn",
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

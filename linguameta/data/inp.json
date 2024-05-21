@@ -1,0 +1,52 @@
+{
+  "bcp_47_code": "inp",
+  "iso_639_3_code": "inp",
+  "glottocode": "inap1243",
+  "total_population": 4,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Iñapari",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "inapari",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "injapari kalba",
+      "bcp_47_code": "lt",
+      "is_canonical": true,
+      "source": "LEXVO"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "pe",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 4,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": -12.4653,
+        "longitude": -69.3083,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "bcp_47_code": "hmj",
+  "iso_639_3_code": "hmj",
+  "macrolanguage_bcp_47_code": "hmn",
+  "glottocode": "geee1239",
+  "wikidata_id": "Q11251864",
+  "total_population": 60000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Ge",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Gejia",
+      "bcp_47_code": "en",
+      "source": "IETF"
+    },
+    {
+      "name": "chonganjiang Lenga hmong",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kige",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "⿰亻革家话",
+      "bcp_47_code": "cmn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "⿰亻革家土话",
+      "bcp_47_code": "wuu",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "gejia",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "xxxx",
+        "is_canonical": true,
+        "source": "SOURCE_UNSPECIFIED"
+      },
+      "locale": {
+        "iso_3166_code": "cn",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 60000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 26.8542,
+        "longitude": 107.823,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

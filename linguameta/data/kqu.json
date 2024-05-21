@@ -1,0 +1,54 @@
+{
+  "bcp_47_code": "kqu",
+  "iso_639_3_code": "kqu",
+  "glottocode": "sero1239",
+  "wikidata_id": "Q33127766",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Seroa",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "seroa",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "սերոա",
+      "bcp_47_code": "hy",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "língua seroa",
+      "bcp_47_code": "pt",
+      "is_canonical": true,
+      "source": "LEXVO"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "ASSUMED_BASED_ON_LOCALE"
+      },
+      "locale": {
+        "iso_3166_code": "za",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": -33.0386,
+        "longitude": 22.0021,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

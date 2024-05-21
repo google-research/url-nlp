@@ -1,0 +1,47 @@
+{
+  "bcp_47_code": "jmw",
+  "iso_639_3_code": "jmw",
+  "glottocode": "mouw1234",
+  "wikidata_id": "Q63256977",
+  "total_population": 770,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Mouwase",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "mouwase",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "pg",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 770,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": -7.442,
+        "longitude": 143.808,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "bcp_47_code": "kci",
+  "iso_639_3_code": "kci",
+  "glottocode": "kama1358",
+  "wikidata_id": "Q3914019",
+  "total_population": 250000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Plateau language spoken in Nigeria",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Kamantan",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Kikamantan",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Kamantan",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Byoot",
+      "bcp_47_code": "kcg",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kamantanščina",
+      "bcp_47_code": "sl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Nghan",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Byurok",
+      "bcp_47_code": "kcg",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kamantanski jezik",
+      "bcp_47_code": "sl",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "ASSUMED_BASED_ON_LOCALE"
+      },
+      "locale": {
+        "iso_3166_code": "ng",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 250000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 9.85455,
+        "longitude": 7.7119,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

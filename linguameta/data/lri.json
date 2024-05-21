@@ -1,0 +1,59 @@
+{
+  "bcp_47_code": "lri",
+  "iso_639_3_code": "lri",
+  "macrolanguage_bcp_47_code": "luy",
+  "glottocode": "mara1393",
+  "wikidata_id": "Q6754565",
+  "total_population": 160000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Marachi",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Olumarachi",
+      "bcp_47_code": "en",
+      "source": "IETF"
+    },
+    {
+      "name": "Wikang Marachi",
+      "bcp_47_code": "tl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Olumarachi",
+      "bcp_47_code": "lri",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "ke",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 160000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 0.34,
+        "longitude": 34.22,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "bcp_47_code": "jml",
+  "iso_639_3_code": "jml",
+  "glottocode": "juml1238",
+  "wikidata_id": "Q6310993",
+  "total_population": 970000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Language of Nepal",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Jumli",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Jumli Khas",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga jumli",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kijumli",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ジュムリー語",
+      "bcp_47_code": "ja",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Wikang Jumli",
+      "bcp_47_code": "tl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ജൂംലി ഭാഷ",
+      "bcp_47_code": "ml",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "कर्णाली नेपाली भाषा",
+      "bcp_47_code": "ne",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "खस भाषा",
+      "bcp_47_code": "dty",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "জুমলী ভাষা",
+      "bcp_47_code": "as",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Karnali Nepali",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Karnali Dialect Of Nepali",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "জুমলী খছ",
+      "bcp_47_code": "as",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "xxxx",
+        "is_canonical": true,
+        "source": "SOURCE_UNSPECIFIED"
+      },
+      "locale": {
+        "iso_3166_code": "np",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 970000,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 29.1708,
+        "longitude": 82.437,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

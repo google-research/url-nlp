@@ -1,0 +1,65 @@
+{
+  "bcp_47_code": "gry",
+  "iso_639_3_code": "gry",
+  "macrolanguage_bcp_47_code": "grb",
+  "glottocode": "barc1235",
+  "wikidata_id": "Q3914444",
+  "total_population": 390000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Barclayville Grebo",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Kigrebo-Kusini",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Grebo meridional",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Southern Grebo",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "grebo du sud",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "lr",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 390000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 4.67843,
+        "longitude": -8.09378,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

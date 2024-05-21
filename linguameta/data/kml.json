@@ -1,0 +1,65 @@
+{
+  "bcp_47_code": "kml",
+  "deprecated_bcp_47_code": "kgh",
+  "iso_639_3_code": "kml",
+  "glottocode": "lowe1412",
+  "wikidata_id": "Q18753307",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Tanudan Kalinga",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Upper Tanudan Kalinga",
+      "bcp_47_code": "en",
+      "source": "IETF"
+    },
+    {
+      "name": "Kikalinga-Tanudan",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tanudan anferior Lenga kalinga",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kalinga tanudan",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lower Tanudan Kalinga",
+      "bcp_47_code": "en",
+      "source": "LEXVO"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "ph",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": 17.3441,
+        "longitude": 121.311,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "bcp_47_code": "ggg",
+  "iso_639_3_code": "ggg",
+  "glottocode": "gurg1240",
+  "wikidata_id": "Q5620032",
+  "total_population": 35000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Gurgula",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Lenga gurgula",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "gurgula",
+      "bcp_47_code": "fi",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kigurgula",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "arab",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "pk",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 35000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 25.737,
+        "longitude": 68.565,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "bcp_47_code": "kuw",
+  "iso_639_3_code": "kuw",
+  "glottocode": "kpag1238",
+  "wikidata_id": "Q11137573",
+  "total_population": 580000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Kpagua",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Kikpagua",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Kpagua",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kpagua",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "ASSUMED_BASED_ON_LOCALE"
+      },
+      "locale": {
+        "iso_3166_code": "cf",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 580000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 4.96154,
+        "longitude": 20.1584,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

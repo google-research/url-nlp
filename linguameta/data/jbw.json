@@ -1,0 +1,52 @@
+{
+  "bcp_47_code": "jbw",
+  "iso_639_3_code": "jbw",
+  "glottocode": "yawi1239",
+  "wikidata_id": "Q31722921",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "extinct Australian language",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Yawijibaya",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "yawijibaya",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kiyawijibaya",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "au",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": -15.348087,
+        "longitude": 124.52966,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

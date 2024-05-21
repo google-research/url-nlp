@@ -1,0 +1,52 @@
+{
+  "bcp_47_code": "gjr",
+  "iso_639_3_code": "gjr",
+  "glottocode": "guri1249",
+  "wikidata_id": "Q5620091",
+  "total_population": 25,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "mixed Gurindji–Kriol language of Australia",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Gurindji Kriol",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "kriol gurindji",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "葛林吉克里歐語",
+      "bcp_47_code": "cmn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "ASSUMED_BASED_ON_LOCALE"
+      },
+      "locale": {
+        "iso_3166_code": "au",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 25,
+        "source": "WIKIPEDIA"
+      }
+    }
+  ]
+}

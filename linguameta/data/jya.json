@@ -1,0 +1,45 @@
+{
+  "bcp_47_code": "jya",
+  "iso_639_3_code": "jya",
+  "glottocode": "jiar1240",
+  "total_population": 150000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Jiarong",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Northern Gyalrong",
+      "bcp_47_code": "en",
+      "source": "GLOTTOLOG"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "xxxx",
+        "is_canonical": true,
+        "source": "SOURCE_UNSPECIFIED"
+      },
+      "locale": {
+        "iso_3166_code": "cn",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 150000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 31.60295,
+        "longitude": 102.22875,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

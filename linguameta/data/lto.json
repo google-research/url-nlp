@@ -1,0 +1,53 @@
+{
+  "bcp_47_code": "lto",
+  "iso_639_3_code": "lto",
+  "macrolanguage_bcp_47_code": "luy",
+  "glottocode": "tsot1241",
+  "wikidata_id": "Q63259915",
+  "total_population": 120000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Tsotso",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Olutsotso",
+      "bcp_47_code": "en",
+      "source": "IETF"
+    },
+    {
+      "name": "tsotso",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "ke",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 120000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 0.2975,
+        "longitude": 34.6961,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

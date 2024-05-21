@@ -1,0 +1,47 @@
+{
+  "bcp_47_code": "log",
+  "iso_639_3_code": "log",
+  "glottocode": "logo1259",
+  "wikidata_id": "Q56305128",
+  "total_population": 210000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Logo",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "логоски јазик",
+      "bcp_47_code": "mk",
+      "is_canonical": true,
+      "source": "LEXVO"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "cd",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 210000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 3.32608,
+        "longitude": 29.8866,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

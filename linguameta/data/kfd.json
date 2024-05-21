@@ -1,0 +1,63 @@
+{
+  "bcp_47_code": "kfd",
+  "iso_639_3_code": "kfd",
+  "glottocode": "korr1238",
+  "wikidata_id": "Q12952655",
+  "total_population": 47,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "language spoken in India",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Korra Koraga",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Korra Lenga Koraga",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kikoraga ya Korra",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "koraga korra",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "knda",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "in",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 47,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 12.9163,
+        "longitude": 75.2,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

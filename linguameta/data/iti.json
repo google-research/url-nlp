@@ -1,0 +1,59 @@
+{
+  "bcp_47_code": "iti",
+  "iso_639_3_code": "iti",
+  "glottocode": "inla1260",
+  "wikidata_id": "Q12953585",
+  "total_population": 17000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Inlaod Itneg",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "inlaod Lenga itneg",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kiitneg-Inlaod",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "itneg d'inlaod",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "ASSUMED_BASED_ON_LOCALE"
+      },
+      "locale": {
+        "iso_3166_code": "ph",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 17000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 17.61752,
+        "longitude": 120.65389,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

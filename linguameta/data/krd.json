@@ -1,0 +1,76 @@
+{
+  "bcp_47_code": "krd",
+  "iso_639_3_code": "krd",
+  "glottocode": "kair1265",
+  "wikidata_id": "Q12953277",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "language group",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Kairui-Midiki",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Lenga Kairui-Midiki",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kikairui-Midiki",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kairui-midiki",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kairui-Midiki",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kairui-midiki keel",
+      "bcp_47_code": "et",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kairui-midiki",
+      "bcp_47_code": "vec",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "ASSUMED_BASED_ON_LOCALE"
+      },
+      "locale": {
+        "iso_3166_code": "tl",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": -8.74034,
+        "longitude": 126.059,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

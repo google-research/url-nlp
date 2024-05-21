@@ -1,0 +1,74 @@
+{
+  "bcp_47_code": "kzd",
+  "iso_639_3_code": "kzd",
+  "glottocode": "kada1286",
+  "wikidata_id": "Q7679471",
+  "total_population": 4900,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "language in North Maluku",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Kadai",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Lenga Kadai",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kikadai",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kadai",
+      "bcp_47_code": "id",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kadaï",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bahasa Kadai",
+      "bcp_47_code": "id",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "id",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 4900,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": -1.74547,
+        "longitude": 125.142,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

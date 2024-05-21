@@ -1,0 +1,63 @@
+{
+  "bcp_47_code": "hhi",
+  "iso_639_3_code": "hhi",
+  "glottocode": "hoia1235",
+  "wikidata_id": "Q5877767",
+  "total_population": 180,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Hoia Hoia",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Hoia Hoia-Ukusi-Koperami",
+      "bcp_47_code": "en",
+      "source": "GLOTTOLOG"
+    },
+    {
+      "name": "Ukusi-Koparamio Hoia Hoia",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "хоя-хоя",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "hoia hoia ukusi-koparamio",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "ASSUMED_BASED_ON_LOCALE"
+      },
+      "locale": {
+        "iso_3166_code": "pg",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 180,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": -7.8228,
+        "longitude": 143.7007,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

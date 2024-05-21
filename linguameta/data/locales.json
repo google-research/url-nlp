@@ -1,0 +1,3420 @@
+{
+  "language_coverage": [
+    {
+      "locale": {
+        "locale_code": "001",
+        "locale_name": "World"
+      }
+    },
+    {
+      "locale": {
+        "locale_code": "002",
+        "locale_name": "Africa"
+      },
+      "region": "002"
+    },
+    {
+      "locale": {
+        "locale_code": "003",
+        "locale_name": "North America"
+      },
+      "region": "019",
+      "subregion": "003"
+    },
+    {
+      "locale": {
+        "locale_code": "005",
+        "locale_name": "South America"
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "005"
+    },
+    {
+      "locale": {
+        "locale_code": "009",
+        "locale_name": "Oceania"
+      },
+      "region": "009"
+    },
+    {
+      "locale": {
+        "locale_code": "011",
+        "locale_name": "West Africa"
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "011"
+    },
+    {
+      "locale": {
+        "locale_code": "013",
+        "locale_name": "Central America"
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "013"
+    },
+    {
+      "locale": {
+        "locale_code": "014",
+        "locale_name": "East Africa"
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "014"
+    },
+    {
+      "locale": {
+        "locale_code": "015",
+        "locale_name": "North Africa"
+      },
+      "region": "002",
+      "subregion": "015"
+    },
+    {
+      "locale": {
+        "locale_code": "017",
+        "locale_name": "Central Africa"
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "017"
+    },
+    {
+      "locale": {
+        "locale_code": "018",
+        "locale_name": "Southern Africa"
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "018"
+    },
+    {
+      "locale": {
+        "locale_code": "019",
+        "locale_name": "Americas"
+      },
+      "region": "019"
+    },
+    {
+      "locale": {
+        "locale_code": "021",
+        "locale_name": "Northern America"
+      },
+      "region": "019",
+      "subregion": "021"
+    },
+    {
+      "locale": {
+        "locale_code": "029",
+        "locale_name": "Caribbean"
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "029"
+    },
+    {
+      "locale": {
+        "locale_code": "030",
+        "locale_name": "East Asia"
+      },
+      "region": "142",
+      "subregion": "030"
+    },
+    {
+      "locale": {
+        "locale_code": "034",
+        "locale_name": "South Asia"
+      },
+      "region": "142",
+      "subregion": "034"
+    },
+    {
+      "locale": {
+        "locale_code": "035",
+        "locale_name": "Southeast Asia"
+      },
+      "region": "142",
+      "subregion": "035"
+    },
+    {
+      "locale": {
+        "locale_code": "039",
+        "locale_name": "Southern Europe"
+      },
+      "region": "150",
+      "subregion": "039"
+    },
+    {
+      "locale": {
+        "locale_code": "053",
+        "locale_name": "Australia and New Zealand"
+      },
+      "region": "009",
+      "subregion": "053"
+    },
+    {
+      "locale": {
+        "locale_code": "054",
+        "locale_name": "Melanesia"
+      },
+      "region": "009",
+      "subregion": "054"
+    },
+    {
+      "locale": {
+        "locale_code": "057",
+        "locale_name": "Micronesia"
+      },
+      "region": "009",
+      "subregion": "057"
+    },
+    {
+      "locale": {
+        "locale_code": "061",
+        "locale_name": "Polynesia"
+      },
+      "region": "009",
+      "subregion": "061"
+    },
+    {
+      "locale": {
+        "locale_code": "142",
+        "locale_name": "Asia"
+      },
+      "region": "142"
+    },
+    {
+      "locale": {
+        "locale_code": "143",
+        "locale_name": "Central Asia"
+      },
+      "region": "142",
+      "subregion": "143"
+    },
+    {
+      "locale": {
+        "locale_code": "145",
+        "locale_name": "Western Asia"
+      },
+      "region": "142",
+      "subregion": "145"
+    },
+    {
+      "locale": {
+        "locale_code": "150",
+        "locale_name": "Europe"
+      },
+      "region": "150"
+    },
+    {
+      "locale": {
+        "locale_code": "151",
+        "locale_name": "Eastern Europe"
+      },
+      "region": "150",
+      "subregion": "151"
+    },
+    {
+      "locale": {
+        "locale_code": "154",
+        "locale_name": "Northern Europe"
+      },
+      "region": "150",
+      "subregion": "154"
+    },
+    {
+      "locale": {
+        "locale_code": "155",
+        "locale_name": "Western Europe"
+      },
+      "region": "150",
+      "subregion": "155"
+    },
+    {
+      "locale": {
+        "locale_code": "202",
+        "locale_name": "Sub-Saharan Africa"
+      },
+      "region": "002",
+      "regional_group": "202"
+    },
+    {
+      "locale": {
+        "locale_code": "419",
+        "locale_name": "Latin America and the Caribbean"
+      },
+      "region": "019",
+      "regional_group": "419"
+    },
+    {
+      "locale": {
+        "locale_code": "ad",
+        "locale_name": "Andorra",
+        "locale_population": {
+          "population": 77000,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "039"
+    },
+    {
+      "locale": {
+        "locale_code": "ae",
+        "locale_name": "United Arab Emirates",
+        "locale_population": {
+          "population": 9992080,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "145"
+    },
+    {
+      "locale": {
+        "locale_code": "af",
+        "locale_name": "Afghanistan",
+        "locale_population": {
+          "population": 36643800,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "034"
+    },
+    {
+      "locale": {
+        "locale_code": "ag",
+        "locale_name": "Antigua and Barbuda",
+        "locale_population": {
+          "population": 98179,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "029"
+    },
+    {
+      "locale": {
+        "locale_code": "ai",
+        "locale_name": "Anguilla",
+        "locale_population": {
+          "population": 18090,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "029"
+    },
+    {
+      "locale": {
+        "locale_code": "al",
+        "locale_name": "Albania",
+        "locale_population": {
+          "population": 3074580,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "039"
+    },
+    {
+      "locale": {
+        "locale_code": "am",
+        "locale_name": "Armenia",
+        "locale_population": {
+          "population": 3021320,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "145"
+    },
+    {
+      "locale": {
+        "locale_code": "an",
+        "locale_name": "Netherlands Antilles"
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "029"
+    },
+    {
+      "locale": {
+        "locale_code": "ao",
+        "locale_name": "Angola",
+        "locale_population": {
+          "population": 32522300,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "017"
+    },
+    {
+      "locale": {
+        "locale_code": "aq",
+        "locale_name": "Antarctica",
+        "locale_population": {
+          "population": 300,
+          "source": "CLDR"
+        }
+      }
+    },
+    {
+      "locale": {
+        "locale_code": "ar",
+        "locale_name": "Argentina",
+        "locale_population": {
+          "population": 45479100,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "005"
+    },
+    {
+      "locale": {
+        "locale_code": "as",
+        "locale_name": "American Samoa",
+        "locale_population": {
+          "population": 49437,
+          "source": "CLDR"
+        }
+      },
+      "region": "009",
+      "subregion": "061"
+    },
+    {
+      "locale": {
+        "locale_code": "at",
+        "locale_name": "Austria",
+        "locale_population": {
+          "population": 8859450,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "155"
+    },
+    {
+      "locale": {
+        "locale_code": "au",
+        "locale_name": "Australia",
+        "locale_population": {
+          "population": 25466500,
+          "source": "CLDR"
+        }
+      },
+      "region": "009",
+      "subregion": "053"
+    },
+    {
+      "locale": {
+        "locale_code": "aw",
+        "locale_name": "Aruba",
+        "locale_population": {
+          "population": 119428,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "029"
+    },
+    {
+      "locale": {
+        "locale_code": "ax",
+        "locale_name": "Åland Islands",
+        "locale_population": {
+          "population": 26200,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "154"
+    },
+    {
+      "locale": {
+        "locale_code": "az",
+        "locale_name": "Azerbaijan",
+        "locale_population": {
+          "population": 10205800,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "145"
+    },
+    {
+      "locale": {
+        "locale_code": "ba",
+        "locale_name": "Bosnia and Herzegovina",
+        "locale_population": {
+          "population": 3835590,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "039"
+    },
+    {
+      "locale": {
+        "locale_code": "bb",
+        "locale_name": "Barbados",
+        "locale_population": {
+          "population": 294560,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "029"
+    },
+    {
+      "locale": {
+        "locale_code": "bd",
+        "locale_name": "Bangladesh",
+        "locale_population": {
+          "population": 162651000,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "034"
+    },
+    {
+      "locale": {
+        "locale_code": "be",
+        "locale_name": "Belgium",
+        "locale_population": {
+          "population": 11720700,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "155"
+    },
+    {
+      "locale": {
+        "locale_code": "bf",
+        "locale_name": "Burkina Faso",
+        "locale_population": {
+          "population": 20835400,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "011"
+    },
+    {
+      "locale": {
+        "locale_code": "bg",
+        "locale_name": "Bulgaria",
+        "locale_population": {
+          "population": 6966900,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "151"
+    },
+    {
+      "locale": {
+        "locale_code": "bh",
+        "locale_name": "Bahrain",
+        "locale_population": {
+          "population": 1505000,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "145"
+    },
+    {
+      "locale": {
+        "locale_code": "bi",
+        "locale_name": "Burundi",
+        "locale_population": {
+          "population": 11865800,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "014"
+    },
+    {
+      "locale": {
+        "locale_code": "bj",
+        "locale_name": "Benin",
+        "locale_population": {
+          "population": 12864600,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "011"
+    },
+    {
+      "locale": {
+        "locale_code": "bl",
+        "locale_name": "Saint Barthélemy",
+        "locale_population": {
+          "population": 7122,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "029"
+    },
+    {
+      "locale": {
+        "locale_code": "bm",
+        "locale_name": "Bermuda",
+        "locale_population": {
+          "population": 71750,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "subregion": "021"
+    },
+    {
+      "locale": {
+        "locale_code": "bn",
+        "locale_name": "Brunei Darussalam",
+        "locale_population": {
+          "population": 464478,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "035"
+    },
+    {
+      "locale": {
+        "locale_code": "bo",
+        "locale_name": "Bolivia, Plurinational State of",
+        "locale_population": {
+          "population": 11639900,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "005"
+    },
+    {
+      "locale": {
+        "locale_code": "bq",
+        "locale_name": "Bonaire, Sint Eustatius and Saba",
+        "locale_population": {
+          "population": 20000,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "029"
+    },
+    {
+      "locale": {
+        "locale_code": "br",
+        "locale_name": "Brazil",
+        "locale_population": {
+          "population": 211716000,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "005"
+    },
+    {
+      "locale": {
+        "locale_code": "bs",
+        "locale_name": "Bahamas",
+        "locale_population": {
+          "population": 337721,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "029"
+    },
+    {
+      "locale": {
+        "locale_code": "bt",
+        "locale_name": "Bhutan",
+        "locale_population": {
+          "population": 782318,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "034"
+    },
+    {
+      "locale": {
+        "locale_code": "bv",
+        "locale_name": "Bouvet Island",
+        "locale_population": {
+          "population": 1,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "005"
+    },
+    {
+      "locale": {
+        "locale_code": "bw",
+        "locale_name": "Botswana",
+        "locale_population": {
+          "population": 2317230,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "018"
+    },
+    {
+      "locale": {
+        "locale_code": "by",
+        "locale_name": "Belarus",
+        "locale_population": {
+          "population": 9477920,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "151"
+    },
+    {
+      "locale": {
+        "locale_code": "bz",
+        "locale_name": "Belize",
+        "locale_population": {
+          "population": 399598,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "013"
+    },
+    {
+      "locale": {
+        "locale_code": "ca",
+        "locale_name": "Canada",
+        "locale_population": {
+          "population": 37694100,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "subregion": "021"
+    },
+    {
+      "locale": {
+        "locale_code": "cc",
+        "locale_name": "Cocos (Keeling) Islands",
+        "locale_population": {
+          "population": 596,
+          "source": "CLDR"
+        }
+      },
+      "region": "009",
+      "subregion": "053"
+    },
+    {
+      "locale": {
+        "locale_code": "cd",
+        "locale_name": "Congo, the Democratic Republic of the",
+        "locale_population": {
+          "population": 101780000,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "017"
+    },
+    {
+      "locale": {
+        "locale_code": "cf",
+        "locale_name": "Central African Republic",
+        "locale_population": {
+          "population": 5990860,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "017"
+    },
+    {
+      "locale": {
+        "locale_code": "cg",
+        "locale_name": "Congo",
+        "locale_population": {
+          "population": 5293070,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "017"
+    },
+    {
+      "locale": {
+        "locale_code": "ch",
+        "locale_name": "Switzerland",
+        "locale_population": {
+          "population": 8403990,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "155"
+    },
+    {
+      "locale": {
+        "locale_code": "ci",
+        "locale_name": "Côte d'Ivoire",
+        "locale_population": {
+          "population": 27481100,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "011"
+    },
+    {
+      "locale": {
+        "locale_code": "ck",
+        "locale_name": "Cook Islands",
+        "locale_population": {
+          "population": 8574,
+          "source": "CLDR"
+        }
+      },
+      "region": "009",
+      "subregion": "061"
+    },
+    {
+      "locale": {
+        "locale_code": "cl",
+        "locale_name": "Chile",
+        "locale_population": {
+          "population": 18186800,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "005"
+    },
+    {
+      "locale": {
+        "locale_code": "cm",
+        "locale_name": "Cameroon",
+        "locale_population": {
+          "population": 27745000,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "017"
+    },
+    {
+      "locale": {
+        "locale_code": "cn",
+        "locale_name": "China",
+        "locale_population": {
+          "population": 1394020000,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "030"
+    },
+    {
+      "locale": {
+        "locale_code": "co",
+        "locale_name": "Colombia",
+        "locale_population": {
+          "population": 49084800,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "005"
+    },
+    {
+      "locale": {
+        "locale_code": "cr",
+        "locale_name": "Costa Rica",
+        "locale_population": {
+          "population": 5097990,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "013"
+    },
+    {
+      "locale": {
+        "locale_code": "cu",
+        "locale_name": "Cuba",
+        "locale_population": {
+          "population": 11059100,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "029"
+    },
+    {
+      "locale": {
+        "locale_code": "cv",
+        "locale_name": "Cabo Verde",
+        "locale_population": {
+          "population": 583255,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "011"
+    },
+    {
+      "locale": {
+        "locale_code": "cw",
+        "locale_name": "Curaçao",
+        "locale_population": {
+          "population": 151345,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "029"
+    },
+    {
+      "locale": {
+        "locale_code": "cx",
+        "locale_name": "Christmas Island",
+        "locale_population": {
+          "population": 2205,
+          "source": "CLDR"
+        }
+      },
+      "region": "009",
+      "subregion": "053"
+    },
+    {
+      "locale": {
+        "locale_code": "cy",
+        "locale_name": "Cyprus",
+        "locale_population": {
+          "population": 1266680,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "145"
+    },
+    {
+      "locale": {
+        "locale_code": "cz",
+        "locale_name": "Czechia",
+        "locale_population": {
+          "population": 10702500,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "151"
+    },
+    {
+      "locale": {
+        "locale_code": "de",
+        "locale_name": "Germany",
+        "locale_population": {
+          "population": 80159700,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "155"
+    },
+    {
+      "locale": {
+        "locale_code": "dg",
+        "locale_name": "Diego Garcia",
+        "locale_population": {
+          "population": 500,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "014"
+    },
+    {
+      "locale": {
+        "locale_code": "dj",
+        "locale_name": "Djibouti",
+        "locale_population": {
+          "population": 921804,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "014"
+    },
+    {
+      "locale": {
+        "locale_code": "dk",
+        "locale_name": "Denmark",
+        "locale_population": {
+          "population": 5869410,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "154"
+    },
+    {
+      "locale": {
+        "locale_code": "dm",
+        "locale_name": "Dominica",
+        "locale_population": {
+          "population": 74243,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "029"
+    },
+    {
+      "locale": {
+        "locale_code": "do",
+        "locale_name": "Dominican Republic",
+        "locale_population": {
+          "population": 10499700,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "029"
+    },
+    {
+      "locale": {
+        "locale_code": "dz",
+        "locale_name": "Algeria",
+        "locale_population": {
+          "population": 42972900,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "subregion": "015"
+    },
+    {
+      "locale": {
+        "locale_code": "ec",
+        "locale_name": "Ecuador",
+        "locale_population": {
+          "population": 16904900,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "005"
+    },
+    {
+      "locale": {
+        "locale_code": "ee",
+        "locale_name": "Estonia",
+        "locale_population": {
+          "population": 1228620,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "154"
+    },
+    {
+      "locale": {
+        "locale_code": "eg",
+        "locale_name": "Egypt",
+        "locale_population": {
+          "population": 104124000,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "subregion": "015"
+    },
+    {
+      "locale": {
+        "locale_code": "eh",
+        "locale_name": "Western Sahara",
+        "locale_population": {
+          "population": 652271,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "subregion": "015"
+    },
+    {
+      "locale": {
+        "locale_code": "er",
+        "locale_name": "Eritrea",
+        "locale_population": {
+          "population": 6081200,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "014"
+    },
+    {
+      "locale": {
+        "locale_code": "es",
+        "locale_name": "Spain",
+        "locale_population": {
+          "population": 50015800,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "039"
+    },
+    {
+      "locale": {
+        "locale_code": "es-valencia",
+        "locale_name": "Valencia"
+      },
+      "region": "150",
+      "subregion": "039"
+    },
+    {
+      "locale": {
+        "locale_code": "et",
+        "locale_name": "Ethiopia",
+        "locale_population": {
+          "population": 108113000,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "014"
+    },
+    {
+      "locale": {
+        "locale_code": "fi",
+        "locale_name": "Finland",
+        "locale_population": {
+          "population": 5571670,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "154"
+    },
+    {
+      "locale": {
+        "locale_code": "fj",
+        "locale_name": "Fiji",
+        "locale_population": {
+          "population": 935974,
+          "source": "CLDR"
+        }
+      },
+      "region": "009",
+      "subregion": "054"
+    },
+    {
+      "locale": {
+        "locale_code": "fk",
+        "locale_name": "Falkland Islands (Malvinas)",
+        "locale_population": {
+          "population": 3198,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "005"
+    },
+    {
+      "locale": {
+        "locale_code": "fm",
+        "locale_name": "Micronesia, Federated States of",
+        "locale_population": {
+          "population": 102436,
+          "source": "CLDR"
+        }
+      },
+      "region": "009",
+      "subregion": "057"
+    },
+    {
+      "locale": {
+        "locale_code": "fo",
+        "locale_name": "Faroe Islands",
+        "locale_population": {
+          "population": 51628,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "154"
+    },
+    {
+      "locale": {
+        "locale_code": "fr",
+        "locale_name": "France",
+        "locale_population": {
+          "population": 67848200,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "155"
+    },
+    {
+      "locale": {
+        "locale_code": "ga",
+        "locale_name": "Gabon",
+        "locale_population": {
+          "population": 2230910,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "017"
+    },
+    {
+      "locale": {
+        "locale_code": "gb",
+        "locale_name": "United Kingdom",
+        "locale_population": {
+          "population": 65761100,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "154"
+    },
+    {
+      "locale": {
+        "locale_code": "gd",
+        "locale_name": "Grenada",
+        "locale_population": {
+          "population": 113094,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "029"
+    },
+    {
+      "locale": {
+        "locale_code": "ge",
+        "locale_name": "Georgia",
+        "locale_population": {
+          "population": 3997000,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "145"
+    },
+    {
+      "locale": {
+        "locale_code": "gf",
+        "locale_name": "French Guiana",
+        "locale_population": {
+          "population": 199509,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "005"
+    },
+    {
+      "locale": {
+        "locale_code": "gg",
+        "locale_name": "Guernsey",
+        "locale_population": {
+          "population": 67052,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "154"
+    },
+    {
+      "locale": {
+        "locale_code": "gh",
+        "locale_name": "Ghana",
+        "locale_population": {
+          "population": 29340200,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "011"
+    },
+    {
+      "locale": {
+        "locale_code": "gi",
+        "locale_name": "Gibraltar",
+        "locale_population": {
+          "population": 29581,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "039"
+    },
+    {
+      "locale": {
+        "locale_code": "gl",
+        "locale_name": "Greenland",
+        "locale_population": {
+          "population": 57616,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "subregion": "021"
+    },
+    {
+      "locale": {
+        "locale_code": "gm",
+        "locale_name": "Gambia",
+        "locale_population": {
+          "population": 2174000,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "011"
+    },
+    {
+      "locale": {
+        "locale_code": "gn",
+        "locale_name": "Guinea",
+        "locale_population": {
+          "population": 12527400,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "011"
+    },
+    {
+      "locale": {
+        "locale_code": "gp",
+        "locale_name": "Guadeloupe",
+        "locale_population": {
+          "population": 452776,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "029"
+    },
+    {
+      "locale": {
+        "locale_code": "gq",
+        "locale_name": "Equatorial Guinea",
+        "locale_population": {
+          "population": 836178,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "017"
+    },
+    {
+      "locale": {
+        "locale_code": "gr",
+        "locale_name": "Greece",
+        "locale_population": {
+          "population": 10607100,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "039"
+    },
+    {
+      "locale": {
+        "locale_code": "gs",
+        "locale_name": "South Georgia and the South Sandwich Islands",
+        "locale_population": {
+          "population": 20,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "005"
+    },
+    {
+      "locale": {
+        "locale_code": "gt",
+        "locale_name": "Guatemala",
+        "locale_population": {
+          "population": 17153300,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "013"
+    },
+    {
+      "locale": {
+        "locale_code": "gu",
+        "locale_name": "Guam",
+        "locale_population": {
+          "population": 168485,
+          "source": "CLDR"
+        }
+      },
+      "region": "009",
+      "subregion": "057"
+    },
+    {
+      "locale": {
+        "locale_code": "gw",
+        "locale_name": "Guinea-Bissau",
+        "locale_population": {
+          "population": 1927100,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "011"
+    },
+    {
+      "locale": {
+        "locale_code": "gy",
+        "locale_name": "Guyana",
+        "locale_population": {
+          "population": 750204,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "005"
+    },
+    {
+      "locale": {
+        "locale_code": "hk",
+        "locale_name": "Hong Kong",
+        "locale_population": {
+          "population": 7249910,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "030"
+    },
+    {
+      "locale": {
+        "locale_code": "hm",
+        "locale_name": "Heard Island and McDonald Islands",
+        "locale_population": {
+          "population": 1,
+          "source": "CLDR"
+        }
+      },
+      "region": "009",
+      "subregion": "053"
+    },
+    {
+      "locale": {
+        "locale_code": "hn",
+        "locale_name": "Honduras",
+        "locale_population": {
+          "population": 9235340,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "013"
+    },
+    {
+      "locale": {
+        "locale_code": "hr",
+        "locale_name": "Croatia",
+        "locale_population": {
+          "population": 4227750,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "039"
+    },
+    {
+      "locale": {
+        "locale_code": "ht",
+        "locale_name": "Haiti",
+        "locale_population": {
+          "population": 11067800,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "029"
+    },
+    {
+      "locale": {
+        "locale_code": "hu",
+        "locale_name": "Hungary",
+        "locale_population": {
+          "population": 9771830,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "151"
+    },
+    {
+      "locale": {
+        "locale_code": "id",
+        "locale_name": "Indonesia",
+        "locale_population": {
+          "population": 267026000,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "035"
+    },
+    {
+      "locale": {
+        "locale_code": "ie",
+        "locale_name": "Ireland",
+        "locale_population": {
+          "population": 5176570,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "154"
+    },
+    {
+      "locale": {
+        "locale_code": "il",
+        "locale_name": "Israel",
+        "locale_population": {
+          "population": 8675480,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "145"
+    },
+    {
+      "locale": {
+        "locale_code": "im",
+        "locale_name": "Isle of Man",
+        "locale_population": {
+          "population": 90499,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "154"
+    },
+    {
+      "locale": {
+        "locale_code": "in",
+        "locale_name": "India",
+        "locale_population": {
+          "population": 1326090000,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "034"
+    },
+    {
+      "locale": {
+        "locale_code": "io",
+        "locale_name": "British Indian Ocean Territory",
+        "locale_population": {
+          "population": 3500,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "014"
+    },
+    {
+      "locale": {
+        "locale_code": "iq",
+        "locale_name": "Iraq",
+        "locale_population": {
+          "population": 38872700,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "145"
+    },
+    {
+      "locale": {
+        "locale_code": "ir",
+        "locale_name": "Iran, Islamic Republic of",
+        "locale_population": {
+          "population": 84923300,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "034"
+    },
+    {
+      "locale": {
+        "locale_code": "is",
+        "locale_name": "Iceland",
+        "locale_population": {
+          "population": 350734,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "154"
+    },
+    {
+      "locale": {
+        "locale_code": "it",
+        "locale_name": "Italy",
+        "locale_population": {
+          "population": 62402700,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "039"
+    },
+    {
+      "locale": {
+        "locale_code": "je",
+        "locale_name": "Jersey",
+        "locale_population": {
+          "population": 101073,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "154"
+    },
+    {
+      "locale": {
+        "locale_code": "jm",
+        "locale_name": "Jamaica",
+        "locale_population": {
+          "population": 2808570,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "029"
+    },
+    {
+      "locale": {
+        "locale_code": "jo",
+        "locale_name": "Jordan",
+        "locale_population": {
+          "population": 10820600,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "145"
+    },
+    {
+      "locale": {
+        "locale_code": "jp",
+        "locale_name": "Japan",
+        "locale_population": {
+          "population": 125507000,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "030"
+    },
+    {
+      "locale": {
+        "locale_code": "ke",
+        "locale_name": "Kenya",
+        "locale_population": {
+          "population": 53527900,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "014"
+    },
+    {
+      "locale": {
+        "locale_code": "kg",
+        "locale_name": "Kyrgyzstan",
+        "locale_population": {
+          "population": 5964900,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "143"
+    },
+    {
+      "locale": {
+        "locale_code": "kh",
+        "locale_name": "Cambodia",
+        "locale_population": {
+          "population": 16927000,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "035"
+    },
+    {
+      "locale": {
+        "locale_code": "ki",
+        "locale_name": "Kiribati",
+        "locale_population": {
+          "population": 111796,
+          "source": "CLDR"
+        }
+      },
+      "region": "009",
+      "subregion": "057"
+    },
+    {
+      "locale": {
+        "locale_code": "km",
+        "locale_name": "Comoros",
+        "locale_population": {
+          "population": 846281,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "014"
+    },
+    {
+      "locale": {
+        "locale_code": "kn",
+        "locale_name": "Saint Kitts and Nevis",
+        "locale_population": {
+          "population": 53821,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "029"
+    },
+    {
+      "locale": {
+        "locale_code": "kp",
+        "locale_name": "Korea, Democratic People's Republic of",
+        "locale_population": {
+          "population": 25643500,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "030"
+    },
+    {
+      "locale": {
+        "locale_code": "kr",
+        "locale_name": "Korea, Republic of",
+        "locale_population": {
+          "population": 51835100,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "030"
+    },
+    {
+      "locale": {
+        "locale_code": "kw",
+        "locale_name": "Kuwait",
+        "locale_population": {
+          "population": 2993710,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "145"
+    },
+    {
+      "locale": {
+        "locale_code": "ky",
+        "locale_name": "Cayman Islands",
+        "locale_population": {
+          "population": 61944,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "029"
+    },
+    {
+      "locale": {
+        "locale_code": "kz",
+        "locale_name": "Kazakhstan",
+        "locale_population": {
+          "population": 19091900,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "143"
+    },
+    {
+      "locale": {
+        "locale_code": "la",
+        "locale_name": "Lao People's Democratic Republic",
+        "locale_population": {
+          "population": 7447400,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "035"
+    },
+    {
+      "locale": {
+        "locale_code": "lb",
+        "locale_name": "Lebanon",
+        "locale_population": {
+          "population": 5469610,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "145"
+    },
+    {
+      "locale": {
+        "locale_code": "lc",
+        "locale_name": "Saint Lucia",
+        "locale_population": {
+          "population": 166487,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "029"
+    },
+    {
+      "locale": {
+        "locale_code": "li",
+        "locale_name": "Liechtenstein",
+        "locale_population": {
+          "population": 39137,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "155"
+    },
+    {
+      "locale": {
+        "locale_code": "lk",
+        "locale_name": "Sri Lanka",
+        "locale_population": {
+          "population": 22889200,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "034"
+    },
+    {
+      "locale": {
+        "locale_code": "lr",
+        "locale_name": "Liberia",
+        "locale_population": {
+          "population": 5073300,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "011"
+    },
+    {
+      "locale": {
+        "locale_code": "ls",
+        "locale_name": "Lesotho",
+        "locale_population": {
+          "population": 1969330,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "018"
+    },
+    {
+      "locale": {
+        "locale_code": "lt",
+        "locale_name": "Lithuania",
+        "locale_population": {
+          "population": 2731460,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "154"
+    },
+    {
+      "locale": {
+        "locale_code": "lu",
+        "locale_name": "Luxembourg",
+        "locale_population": {
+          "population": 628381,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "155"
+    },
+    {
+      "locale": {
+        "locale_code": "lv",
+        "locale_name": "Latvia",
+        "locale_population": {
+          "population": 1881230,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "154"
+    },
+    {
+      "locale": {
+        "locale_code": "ly",
+        "locale_name": "Libya",
+        "locale_population": {
+          "population": 6890540,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "subregion": "015"
+    },
+    {
+      "locale": {
+        "locale_code": "ma",
+        "locale_name": "Morocco",
+        "locale_population": {
+          "population": 35561700,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "subregion": "015"
+    },
+    {
+      "locale": {
+        "locale_code": "mc",
+        "locale_name": "Monaco",
+        "locale_population": {
+          "population": 39000,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "155"
+    },
+    {
+      "locale": {
+        "locale_code": "md",
+        "locale_name": "Moldova, Republic of",
+        "locale_population": {
+          "population": 3364500,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "151"
+    },
+    {
+      "locale": {
+        "locale_code": "me",
+        "locale_name": "Montenegro",
+        "locale_population": {
+          "population": 609859,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "039"
+    },
+    {
+      "locale": {
+        "locale_code": "mf",
+        "locale_name": "Saint Martin (French part)",
+        "locale_population": {
+          "population": 32556,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "029"
+    },
+    {
+      "locale": {
+        "locale_code": "mg",
+        "locale_name": "Madagascar",
+        "locale_population": {
+          "population": 26955700,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "014"
+    },
+    {
+      "locale": {
+        "locale_code": "mh",
+        "locale_name": "Marshall Islands",
+        "locale_population": {
+          "population": 77917,
+          "source": "CLDR"
+        }
+      },
+      "region": "009",
+      "subregion": "057"
+    },
+    {
+      "locale": {
+        "locale_code": "mk",
+        "locale_name": "North Macedonia",
+        "locale_population": {
+          "population": 2125970,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "039"
+    },
+    {
+      "locale": {
+        "locale_code": "ml",
+        "locale_name": "Mali",
+        "locale_population": {
+          "population": 19553400,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "011"
+    },
+    {
+      "locale": {
+        "locale_code": "mm",
+        "locale_name": "Myanmar",
+        "locale_population": {
+          "population": 56590100,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "035"
+    },
+    {
+      "locale": {
+        "locale_code": "mn",
+        "locale_name": "Mongolia",
+        "locale_population": {
+          "population": 3168030,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "030"
+    },
+    {
+      "locale": {
+        "locale_code": "mo",
+        "locale_name": "Macao",
+        "locale_population": {
+          "population": 614458,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "030"
+    },
+    {
+      "locale": {
+        "locale_code": "mp",
+        "locale_name": "Northern Mariana Islands",
+        "locale_population": {
+          "population": 51433,
+          "source": "CLDR"
+        }
+      },
+      "region": "009",
+      "subregion": "057"
+    },
+    {
+      "locale": {
+        "locale_code": "mq",
+        "locale_name": "Martinique",
+        "locale_population": {
+          "population": 436131,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "029"
+    },
+    {
+      "locale": {
+        "locale_code": "mr",
+        "locale_name": "Mauritania",
+        "locale_population": {
+          "population": 4005480,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "011"
+    },
+    {
+      "locale": {
+        "locale_code": "ms",
+        "locale_name": "Montserrat",
+        "locale_population": {
+          "population": 5373,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "029"
+    },
+    {
+      "locale": {
+        "locale_code": "mt",
+        "locale_name": "Malta",
+        "locale_population": {
+          "population": 457267,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "039"
+    },
+    {
+      "locale": {
+        "locale_code": "mu",
+        "locale_name": "Mauritius",
+        "locale_population": {
+          "population": 1379370,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "014"
+    },
+    {
+      "locale": {
+        "locale_code": "mv",
+        "locale_name": "Maldives",
+        "locale_population": {
+          "population": 391904,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "034"
+    },
+    {
+      "locale": {
+        "locale_code": "mw",
+        "locale_name": "Malawi",
+        "locale_population": {
+          "population": 21196600,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "014"
+    },
+    {
+      "locale": {
+        "locale_code": "mx",
+        "locale_name": "Mexico",
+        "locale_population": {
+          "population": 128650000,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "013"
+    },
+    {
+      "locale": {
+        "locale_code": "my",
+        "locale_name": "Malaysia",
+        "locale_population": {
+          "population": 32652100,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "035"
+    },
+    {
+      "locale": {
+        "locale_code": "mz",
+        "locale_name": "Mozambique",
+        "locale_population": {
+          "population": 30098200,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "014"
+    },
+    {
+      "locale": {
+        "locale_code": "na",
+        "locale_name": "Namibia",
+        "locale_population": {
+          "population": 2630070,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "018"
+    },
+    {
+      "locale": {
+        "locale_code": "nc",
+        "locale_name": "New Caledonia",
+        "locale_population": {
+          "population": 290009,
+          "source": "CLDR"
+        }
+      },
+      "region": "009",
+      "subregion": "054"
+    },
+    {
+      "locale": {
+        "locale_code": "ne",
+        "locale_name": "Niger",
+        "locale_population": {
+          "population": 22772400,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "011"
+    },
+    {
+      "locale": {
+        "locale_code": "nf",
+        "locale_name": "Norfolk Island",
+        "locale_population": {
+          "population": 1748,
+          "source": "CLDR"
+        }
+      },
+      "region": "009",
+      "subregion": "053"
+    },
+    {
+      "locale": {
+        "locale_code": "ng",
+        "locale_name": "Nigeria",
+        "locale_population": {
+          "population": 214028000,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "011"
+    },
+    {
+      "locale": {
+        "locale_code": "ni",
+        "locale_name": "Nicaragua",
+        "locale_population": {
+          "population": 6203440,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "013"
+    },
+    {
+      "locale": {
+        "locale_code": "nl",
+        "locale_name": "Netherlands",
+        "locale_population": {
+          "population": 17280400,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "155"
+    },
+    {
+      "locale": {
+        "locale_code": "no",
+        "locale_name": "Norway",
+        "locale_population": {
+          "population": 5467440,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "154"
+    },
+    {
+      "locale": {
+        "locale_code": "np",
+        "locale_name": "Nepal",
+        "locale_population": {
+          "population": 30327900,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "034"
+    },
+    {
+      "locale": {
+        "locale_code": "nr",
+        "locale_name": "Nauru",
+        "locale_population": {
+          "population": 11000,
+          "source": "CLDR"
+        }
+      },
+      "region": "009",
+      "subregion": "057"
+    },
+    {
+      "locale": {
+        "locale_code": "nu",
+        "locale_name": "Niue",
+        "locale_population": {
+          "population": 2000,
+          "source": "CLDR"
+        }
+      },
+      "region": "009",
+      "subregion": "061"
+    },
+    {
+      "locale": {
+        "locale_code": "nz",
+        "locale_name": "New Zealand",
+        "locale_population": {
+          "population": 4925480,
+          "source": "CLDR"
+        }
+      },
+      "region": "009",
+      "subregion": "053"
+    },
+    {
+      "locale": {
+        "locale_code": "om",
+        "locale_name": "Oman",
+        "locale_population": {
+          "population": 4664840,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "145"
+    },
+    {
+      "locale": {
+        "locale_code": "pa",
+        "locale_name": "Panama",
+        "locale_population": {
+          "population": 3894080,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "013"
+    },
+    {
+      "locale": {
+        "locale_code": "pe",
+        "locale_name": "Peru",
+        "locale_population": {
+          "population": 31915000,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "005"
+    },
+    {
+      "locale": {
+        "locale_code": "pf",
+        "locale_name": "French Polynesia",
+        "locale_population": {
+          "population": 295121,
+          "source": "CLDR"
+        }
+      },
+      "region": "009",
+      "subregion": "061"
+    },
+    {
+      "locale": {
+        "locale_code": "pg",
+        "locale_name": "Papua New Guinea",
+        "locale_population": {
+          "population": 7259460,
+          "source": "CLDR"
+        }
+      },
+      "region": "009",
+      "subregion": "054"
+    },
+    {
+      "locale": {
+        "locale_code": "ph",
+        "locale_name": "Philippines",
+        "locale_population": {
+          "population": 109181000,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "035"
+    },
+    {
+      "locale": {
+        "locale_code": "pk",
+        "locale_name": "Pakistan",
+        "locale_population": {
+          "population": 233501000,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "034"
+    },
+    {
+      "locale": {
+        "locale_code": "pl",
+        "locale_name": "Poland",
+        "locale_population": {
+          "population": 38282300,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "151"
+    },
+    {
+      "locale": {
+        "locale_code": "pm",
+        "locale_name": "Saint Pierre and Miquelon",
+        "locale_population": {
+          "population": 5347,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "subregion": "021"
+    },
+    {
+      "locale": {
+        "locale_code": "pn",
+        "locale_name": "Pitcairn",
+        "locale_population": {
+          "population": 50,
+          "source": "CLDR"
+        }
+      },
+      "region": "009",
+      "subregion": "061"
+    },
+    {
+      "locale": {
+        "locale_code": "pr",
+        "locale_name": "Puerto Rico",
+        "locale_population": {
+          "population": 3189070,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "029"
+    },
+    {
+      "locale": {
+        "locale_code": "ps",
+        "locale_name": "Palestine, State of",
+        "locale_population": {
+          "population": 4818260,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "145"
+    },
+    {
+      "locale": {
+        "locale_code": "pt",
+        "locale_name": "Portugal",
+        "locale_population": {
+          "population": 10302700,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "039"
+    },
+    {
+      "locale": {
+        "locale_code": "pw",
+        "locale_name": "Palau",
+        "locale_population": {
+          "population": 21685,
+          "source": "CLDR"
+        }
+      },
+      "region": "009",
+      "subregion": "057"
+    },
+    {
+      "locale": {
+        "locale_code": "py",
+        "locale_name": "Paraguay",
+        "locale_population": {
+          "population": 7191690,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "005"
+    },
+    {
+      "locale": {
+        "locale_code": "qa",
+        "locale_name": "Qatar",
+        "locale_population": {
+          "population": 2444170,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "145"
+    },
+    {
+      "locale": {
+        "locale_code": "re",
+        "locale_name": "Réunion",
+        "locale_population": {
+          "population": 787584,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "014"
+    },
+    {
+      "locale": {
+        "locale_code": "ro",
+        "locale_name": "Romania",
+        "locale_population": {
+          "population": 21302900,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "151"
+    },
+    {
+      "locale": {
+        "locale_code": "rs",
+        "locale_name": "Serbia",
+        "locale_population": {
+          "population": 7012170,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "039"
+    },
+    {
+      "locale": {
+        "locale_code": "ru",
+        "locale_name": "Russian Federation",
+        "locale_population": {
+          "population": 141722000,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "151"
+    },
+    {
+      "locale": {
+        "locale_code": "rw",
+        "locale_name": "Rwanda",
+        "locale_population": {
+          "population": 12712400,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "014"
+    },
+    {
+      "locale": {
+        "locale_code": "sa",
+        "locale_name": "Saudi Arabia",
+        "locale_population": {
+          "population": 34173500,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "145"
+    },
+    {
+      "locale": {
+        "locale_code": "sb",
+        "locale_name": "Solomon Islands",
+        "locale_population": {
+          "population": 685097,
+          "source": "CLDR"
+        }
+      },
+      "region": "009",
+      "subregion": "054"
+    },
+    {
+      "locale": {
+        "locale_code": "sc",
+        "locale_name": "Seychelles",
+        "locale_population": {
+          "population": 95981,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "014"
+    },
+    {
+      "locale": {
+        "locale_code": "sd",
+        "locale_name": "Sudan",
+        "locale_population": {
+          "population": 45561600,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "subregion": "015"
+    },
+    {
+      "locale": {
+        "locale_code": "se",
+        "locale_name": "Sweden",
+        "locale_population": {
+          "population": 10202500,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "154"
+    },
+    {
+      "locale": {
+        "locale_code": "sg",
+        "locale_name": "Singapore",
+        "locale_population": {
+          "population": 6209660,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "035"
+    },
+    {
+      "locale": {
+        "locale_code": "sh",
+        "locale_name": "Saint Helena, Ascension and Tristan da Cunha",
+        "locale_population": {
+          "population": 7862,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "011"
+    },
+    {
+      "locale": {
+        "locale_code": "si",
+        "locale_name": "Slovenia",
+        "locale_population": {
+          "population": 2102680,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "039"
+    },
+    {
+      "locale": {
+        "locale_code": "sj",
+        "locale_name": "Svalbard and Jan Mayen",
+        "locale_population": {
+          "population": 2926,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "154"
+    },
+    {
+      "locale": {
+        "locale_code": "sk",
+        "locale_name": "Slovakia",
+        "locale_population": {
+          "population": 5440600,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "151"
+    },
+    {
+      "locale": {
+        "locale_code": "sl",
+        "locale_name": "Sierra Leone",
+        "locale_population": {
+          "population": 6624930,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "011"
+    },
+    {
+      "locale": {
+        "locale_code": "sm",
+        "locale_name": "San Marino",
+        "locale_population": {
+          "population": 34232,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "039"
+    },
+    {
+      "locale": {
+        "locale_code": "sn",
+        "locale_name": "Senegal",
+        "locale_population": {
+          "population": 15736400,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "011"
+    },
+    {
+      "locale": {
+        "locale_code": "so",
+        "locale_name": "Somalia",
+        "locale_population": {
+          "population": 11757100,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "014"
+    },
+    {
+      "locale": {
+        "locale_code": "sr",
+        "locale_name": "Suriname",
+        "locale_population": {
+          "population": 609569,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "005"
+    },
+    {
+      "locale": {
+        "locale_code": "ss",
+        "locale_name": "South Sudan",
+        "locale_population": {
+          "population": 10561200,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "014"
+    },
+    {
+      "locale": {
+        "locale_code": "st",
+        "locale_name": "São Tomé and Príncipe",
+        "locale_population": {
+          "population": 211122,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "017"
+    },
+    {
+      "locale": {
+        "locale_code": "sv",
+        "locale_name": "El Salvador",
+        "locale_population": {
+          "population": 6481100,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "013"
+    },
+    {
+      "locale": {
+        "locale_code": "sx",
+        "locale_name": "Sint Maarten (Dutch part)",
+        "locale_population": {
+          "population": 43847,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "029"
+    },
+    {
+      "locale": {
+        "locale_code": "sy",
+        "locale_name": "Syrian Arab Republic",
+        "locale_population": {
+          "population": 19398400,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "145"
+    },
+    {
+      "locale": {
+        "locale_code": "sz",
+        "locale_name": "Eswatini",
+        "locale_population": {
+          "population": 1104480,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "018"
+    },
+    {
+      "locale": {
+        "locale_code": "tc",
+        "locale_name": "Turks and Caicos Islands",
+        "locale_population": {
+          "population": 55926,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "029"
+    },
+    {
+      "locale": {
+        "locale_code": "td",
+        "locale_name": "Chad",
+        "locale_population": {
+          "population": 16877400,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "017"
+    },
+    {
+      "locale": {
+        "locale_code": "tf",
+        "locale_name": "French Southern Territories",
+        "locale_population": {
+          "population": 140,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "014"
+    },
+    {
+      "locale": {
+        "locale_code": "tg",
+        "locale_name": "Togo",
+        "locale_population": {
+          "population": 8608440,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "011"
+    },
+    {
+      "locale": {
+        "locale_code": "th",
+        "locale_name": "Thailand",
+        "locale_population": {
+          "population": 68977400,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "035"
+    },
+    {
+      "locale": {
+        "locale_code": "tj",
+        "locale_name": "Tajikistan",
+        "locale_population": {
+          "population": 8873670,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "143"
+    },
+    {
+      "locale": {
+        "locale_code": "tk",
+        "locale_name": "Tokelau",
+        "locale_population": {
+          "population": 1647,
+          "source": "CLDR"
+        }
+      },
+      "region": "009",
+      "subregion": "061"
+    },
+    {
+      "locale": {
+        "locale_code": "tl",
+        "locale_name": "Timor-Leste",
+        "locale_population": {
+          "population": 1383720,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "035"
+    },
+    {
+      "locale": {
+        "locale_code": "tm",
+        "locale_name": "Turkmenistan",
+        "locale_population": {
+          "population": 5528630,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "143"
+    },
+    {
+      "locale": {
+        "locale_code": "tn",
+        "locale_name": "Tunisia",
+        "locale_population": {
+          "population": 11721200,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "subregion": "015"
+    },
+    {
+      "locale": {
+        "locale_code": "to",
+        "locale_name": "Tonga",
+        "locale_population": {
+          "population": 106095,
+          "source": "CLDR"
+        }
+      },
+      "region": "009",
+      "subregion": "061"
+    },
+    {
+      "locale": {
+        "locale_code": "tr",
+        "locale_name": "Turkey",
+        "locale_population": {
+          "population": 82017500,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "145"
+    },
+    {
+      "locale": {
+        "locale_code": "tt",
+        "locale_name": "Trinidad and Tobago",
+        "locale_population": {
+          "population": 1208790,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "029"
+    },
+    {
+      "locale": {
+        "locale_code": "tv",
+        "locale_name": "Tuvalu",
+        "locale_population": {
+          "population": 11342,
+          "source": "CLDR"
+        }
+      },
+      "region": "009",
+      "subregion": "061"
+    },
+    {
+      "locale": {
+        "locale_code": "tw",
+        "locale_name": "Taiwan",
+        "locale_population": {
+          "population": 23603000,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "030"
+    },
+    {
+      "locale": {
+        "locale_code": "tz",
+        "locale_name": "Tanzania, United Republic of",
+        "locale_population": {
+          "population": 58552800,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "014"
+    },
+    {
+      "locale": {
+        "locale_code": "ua",
+        "locale_name": "Ukraine",
+        "locale_population": {
+          "population": 43922900,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "151"
+    },
+    {
+      "locale": {
+        "locale_code": "ug",
+        "locale_name": "Uganda",
+        "locale_population": {
+          "population": 43253000,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "014"
+    },
+    {
+      "locale": {
+        "locale_code": "um",
+        "locale_name": "United States Minor Outlying Islands",
+        "locale_population": {
+          "population": 316,
+          "source": "CLDR"
+        }
+      },
+      "region": "009",
+      "subregion": "057"
+    },
+    {
+      "locale": {
+        "locale_code": "us",
+        "locale_name": "United States of America",
+        "locale_population": {
+          "population": 332639000,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "subregion": "021"
+    },
+    {
+      "locale": {
+        "locale_code": "uy",
+        "locale_name": "Uruguay",
+        "locale_population": {
+          "population": 3387610,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "005"
+    },
+    {
+      "locale": {
+        "locale_code": "uz",
+        "locale_name": "Uzbekistan",
+        "locale_population": {
+          "population": 30565400,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "143"
+    },
+    {
+      "locale": {
+        "locale_code": "va",
+        "locale_name": "Vatican City",
+        "locale_population": {
+          "population": 1000,
+          "source": "CLDR"
+        }
+      },
+      "region": "150",
+      "subregion": "039"
+    },
+    {
+      "locale": {
+        "locale_code": "vc",
+        "locale_name": "Saint Vincent and the Grenadines",
+        "locale_population": {
+          "population": 101390,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "029"
+    },
+    {
+      "locale": {
+        "locale_code": "ve",
+        "locale_name": "Venezuela, Bolivarian Republic of",
+        "locale_population": {
+          "population": 28644600,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "005"
+    },
+    {
+      "locale": {
+        "locale_code": "vg",
+        "locale_name": "Virgin Islands, British",
+        "locale_population": {
+          "population": 37381,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "029"
+    },
+    {
+      "locale": {
+        "locale_code": "vi",
+        "locale_name": "Virgin Islands, U.S.",
+        "locale_population": {
+          "population": 106235,
+          "source": "CLDR"
+        }
+      },
+      "region": "019",
+      "regional_group": "419",
+      "subregion": "029"
+    },
+    {
+      "locale": {
+        "locale_code": "vn",
+        "locale_name": "Viet Nam",
+        "locale_population": {
+          "population": 98721300,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "035"
+    },
+    {
+      "locale": {
+        "locale_code": "vu",
+        "locale_name": "Vanuatu",
+        "locale_population": {
+          "population": 298333,
+          "source": "CLDR"
+        }
+      },
+      "region": "009",
+      "subregion": "054"
+    },
+    {
+      "locale": {
+        "locale_code": "wf",
+        "locale_name": "Wallis and Futuna",
+        "locale_population": {
+          "population": 15854,
+          "source": "CLDR"
+        }
+      },
+      "region": "009",
+      "subregion": "061"
+    },
+    {
+      "locale": {
+        "locale_code": "ws",
+        "locale_name": "Samoa",
+        "locale_population": {
+          "population": 203774,
+          "source": "CLDR"
+        }
+      },
+      "region": "009",
+      "subregion": "061"
+    },
+    {
+      "locale": {
+        "locale_code": "x_africa",
+        "locale_name": "Africa"
+      },
+      "region": "002"
+    },
+    {
+      "locale": {
+        "locale_code": "x_dalu",
+        "locale_name": "Mainland China"
+      },
+      "region": "142",
+      "subregion": "030"
+    },
+    {
+      "locale": {
+        "locale_code": "x_gulf",
+        "locale_name": "Gulf"
+      },
+      "region": "142",
+      "subregion": "145"
+    },
+    {
+      "locale": {
+        "locale_code": "x_levant",
+        "locale_name": "Levant"
+      },
+      "region": "142",
+      "subregion": "145"
+    },
+    {
+      "locale": {
+        "locale_code": "x_maghrebi",
+        "locale_name": "Maghrebi"
+      },
+      "region": "002",
+      "subregion": "015"
+    },
+    {
+      "locale": {
+        "locale_code": "x_sichuan",
+        "locale_name": "Sichuan"
+      },
+      "region": "142",
+      "subregion": "030"
+    },
+    {
+      "locale": {
+        "locale_code": "ye",
+        "locale_name": "Yemen",
+        "locale_population": {
+          "population": 29884400,
+          "source": "CLDR"
+        }
+      },
+      "region": "142",
+      "subregion": "145"
+    },
+    {
+      "locale": {
+        "locale_code": "yt",
+        "locale_name": "Mayotte",
+        "locale_population": {
+          "population": 194000,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "014"
+    },
+    {
+      "locale": {
+        "locale_code": "za",
+        "locale_name": "South Africa",
+        "locale_population": {
+          "population": 56463600,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "018"
+    },
+    {
+      "locale": {
+        "locale_code": "zm",
+        "locale_name": "Zambia",
+        "locale_population": {
+          "population": 17426600,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "014"
+    },
+    {
+      "locale": {
+        "locale_code": "zw",
+        "locale_name": "Zimbabwe",
+        "locale_population": {
+          "population": 14546300,
+          "source": "CLDR"
+        }
+      },
+      "region": "002",
+      "regional_group": "202",
+      "subregion": "014"
+    }
+  ]
+}

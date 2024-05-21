@@ -1,0 +1,87 @@
+{
+  "bcp_47_code": "ida",
+  "iso_639_3_code": "ida",
+  "macrolanguage_bcp_47_code": "luy",
+  "glottocode": "idak1243",
+  "wikidata_id": "Q12952512",
+  "total_population": 600000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Idakho-Isukha-Tiriki",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Luidakho-Luisukha-Lutirichi",
+      "bcp_47_code": "en",
+      "source": "IETF"
+    },
+    {
+      "name": "Lenga Idakho-Isukha-Tiriki",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kiidakho",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "イダホ＝イスハ＝ティリキ語",
+      "bcp_47_code": "ja",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Idaxo-Isuxa-Tiriki",
+      "bcp_47_code": "ig",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Luidakho",
+      "bcp_47_code": "ida",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Luisukha",
+      "bcp_47_code": "ida",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Lutirichi",
+      "bcp_47_code": "ida",
+      "source": "GOOGLE_RESEARCH"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "ke",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 600000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 0.21557,
+        "longitude": 34.817,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

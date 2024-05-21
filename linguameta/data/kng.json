@@ -1,0 +1,46 @@
+{
+  "bcp_47_code": "kng",
+  "iso_639_3_code": "kng",
+  "macrolanguage_bcp_47_code": "kg",
+  "glottocode": "koon1244",
+  "total_population": 5000000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Koongo",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "South-Central Kikongo",
+      "bcp_47_code": "en",
+      "source": "GLOTTOLOG"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "cd",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 5000000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": -5.57722,
+        "longitude": 14.4771,
+        "source": "GOOGLE_RESEARCH"
+      }
+    }
+  ]
+}

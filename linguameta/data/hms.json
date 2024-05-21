@@ -1,0 +1,64 @@
+{
+  "bcp_47_code": "hms",
+  "iso_639_3_code": "hms",
+  "macrolanguage_bcp_47_code": "hmn",
+  "glottocode": "sout2754",
+  "wikidata_id": "Q12953562",
+  "total_population": 500000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Hmongic language spoken by the Miao people in China",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Southern Qiandong Miao",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "quiandong meridional Lenga hmong",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kimiao ya Qiandong ya Kusini",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "南部土语",
+      "bcp_47_code": "cmn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "cn",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 500000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 25.6618,
+        "longitude": 108.533,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}
