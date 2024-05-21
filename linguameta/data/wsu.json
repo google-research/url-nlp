@@ -1,0 +1,58 @@
+{
+  "bcp_47_code": "wsu",
+  "iso_639_3_code": "wsu",
+  "glottocode": "wasu1238",
+  "wikidata_id": "Q7972892",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "extinct language",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Wasu",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Lenga wasu",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "васу",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "wasoueg",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "ASSUMED_BASED_ON_LOCALE"
+      },
+      "locale": {
+        "iso_3166_code": "br",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": -9.74999,
+        "longitude": -36.8333,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

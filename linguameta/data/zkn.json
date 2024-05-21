@@ -1,0 +1,56 @@
+{
+  "bcp_47_code": "zkn",
+  "iso_639_3_code": "zkn",
+  "glottocode": "gana1267",
+  "wikidata_id": "Q54548740",
+  "total_population": 9000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Sino-Tibetan language spoken in Myanmar",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Kanan",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Ganaan",
+      "bcp_47_code": "en",
+      "source": "GLOTTOLOG"
+    },
+    {
+      "name": "kanan",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ganan",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "xxxx",
+        "is_canonical": true,
+        "source": "SOURCE_UNSPECIFIED"
+      },
+      "locale": {
+        "iso_3166_code": "mm",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 9000,
+        "source": "WIKIPEDIA"
+      }
+    }
+  ]
+}

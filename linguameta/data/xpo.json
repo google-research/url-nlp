@@ -1,0 +1,63 @@
+{
+  "bcp_47_code": "xpo",
+  "iso_639_3_code": "xpo",
+  "glottocode": "poch1244",
+  "wikidata_id": "Q42968898",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Language: North America - Uto-Aztecan - Aztecan",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Pochutec",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Pochutla Nahuatl",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idioma pochuteco",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "Pochuteeks",
+      "bcp_47_code": "nl",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "pochutekisk",
+      "bcp_47_code": "no",
+      "is_canonical": true,
+      "source": "LEXVO"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "mx",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": 15.735073,
+        "longitude": -96.46808,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

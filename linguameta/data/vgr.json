@@ -1,0 +1,65 @@
+{
+  "bcp_47_code": "vgr",
+  "iso_639_3_code": "vgr",
+  "glottocode": "vagh1246",
+  "wikidata_id": "Q7908480",
+  "total_population": 4800,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Vaghri",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Lenga vaghri",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "vaghri jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kivaghri",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "વાઘરી ભાષા",
+      "bcp_47_code": "gu",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "gujr",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "pk",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 4800,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 26.1404,
+        "longitude": 68.6051,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

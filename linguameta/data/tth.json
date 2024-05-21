@@ -1,0 +1,80 @@
+{
+  "bcp_47_code": "tth",
+  "iso_639_3_code": "tth",
+  "glottocode": "uppe1406",
+  "wikidata_id": "Q3512660",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Austro-Asiatic language spoken in Laos and Vietnam",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Upper Ta'Oih",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "ta’oih supérieur",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga ta'oih àut",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kita'oih ya Juu",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ภาษาตะโอยบน",
+      "bcp_47_code": "th",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ta'oih superieur",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "xxxx",
+        "is_canonical": true,
+        "source": "SOURCE_UNSPECIFIED"
+      },
+      "locale": {
+        "iso_3166_code": "la",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": 16.186516,
+        "longitude": 107.05614,
+        "source": "GLOTTOLOG"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "xxxx",
+        "is_canonical": true,
+        "source": "SOURCE_UNSPECIFIED"
+      },
+      "locale": {
+        "iso_3166_code": "vn",
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

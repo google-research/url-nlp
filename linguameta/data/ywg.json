@@ -1,0 +1,52 @@
+{
+  "bcp_47_code": "ywg",
+  "iso_639_3_code": "ywg",
+  "glottocode": "yinh1234",
+  "wikidata_id": "Q8053734",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "language of Western Australia",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Yinhawangka",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Kiyinhawangka",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "yinhawangka",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "au",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": -22.9178,
+        "longitude": 117.5628,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

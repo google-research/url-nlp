@@ -1,0 +1,59 @@
+{
+  "bcp_47_code": "xru",
+  "iso_639_3_code": "xru",
+  "glottocode": "marr1256",
+  "wikidata_id": "Q10577724",
+  "total_population": 15,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Marriammu",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "marriammu",
+      "bcp_47_code": "sv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "marriammu jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "marriammu",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "ASSUMED_BASED_ON_LOCALE"
+      },
+      "locale": {
+        "iso_3166_code": "au",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 15,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": -12.28,
+        "longitude": 130.5,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

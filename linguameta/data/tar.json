@@ -1,0 +1,81 @@
+{
+  "bcp_47_code": "tar",
+  "iso_639_3_code": "tar",
+  "glottocode": "cent2131",
+  "wikidata_id": "Q20090009",
+  "total_population": 85000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Central Tarahumara",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "tarahumara central",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga tarahumara sentral",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tarahumara central",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tarahumara Canol",
+      "bcp_47_code": "cy",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tarahumara",
+      "bcp_47_code": "en",
+      "source": "LEXVO"
+    },
+    {
+      "name": "idioma tarahumara",
+      "bcp_47_code": "es",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Raramuri simi",
+      "bcp_47_code": "qu",
+      "is_canonical": true,
+      "source": "LEXVO"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "mx",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 85000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 27.5648,
+        "longitude": -107.154,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

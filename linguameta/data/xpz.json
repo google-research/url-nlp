@@ -1,0 +1,39 @@
+{
+  "bcp_47_code": "xpz",
+  "iso_639_3_code": "xpz",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Bruny Island Tasmanian",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Bruny Island",
+      "bcp_47_code": "en",
+      "source": "WIKTIONARY"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKIDATA"
+      },
+      "locale": {
+        "iso_3166_code": "au",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": -43.37,
+        "longitude": 147.25,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

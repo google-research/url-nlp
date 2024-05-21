@@ -1,0 +1,59 @@
+{
+  "bcp_47_code": "shm",
+  "iso_639_3_code": "shm",
+  "glottocode": "shah1254",
+  "wikidata_id": "Q7462280",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Shahrudi",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Shahrudi-Southern Talysh",
+      "bcp_47_code": "en",
+      "source": "GLOTTOLOG"
+    },
+    {
+      "name": "Lenga Shahrudi",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "زبان شاهرودی",
+      "bcp_47_code": "fa",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "شاهرودی",
+      "bcp_47_code": "mzn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "xxxx",
+        "is_canonical": true,
+        "source": "SOURCE_UNSPECIFIED"
+      },
+      "locale": {
+        "iso_3166_code": "ir",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": 36.7581,
+        "longitude": 50.2074,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "bcp_47_code": "xyt",
+  "iso_639_3_code": "xyt",
+  "glottocode": "mayi1234",
+  "wikidata_id": "Q47004730",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Mayi-Thakurti",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "mayi-thakurti",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "au",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": -20.0,
+        "longitude": 140.63,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

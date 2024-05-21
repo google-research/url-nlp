@@ -1,0 +1,58 @@
+{
+  "bcp_47_code": "tdc",
+  "iso_639_3_code": "tdc",
+  "glottocode": "embe1261",
+  "wikidata_id": "Q3052041",
+  "total_population": 7800,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Emberá-Tadó",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "emberá tadó",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga emberá-tadó",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Embera-Tado",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "co",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 7800,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 5.23658,
+        "longitude": -77.1533,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

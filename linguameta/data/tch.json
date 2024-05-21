@@ -1,0 +1,59 @@
+{
+  "bcp_47_code": "tch",
+  "iso_639_3_code": "tch",
+  "glottocode": "turk1310",
+  "wikidata_id": "Q7855478",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Turks And Caicos Creole English",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "turks i kajkos kreolski engleski",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Turks And Caicos Creole",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Turks e Caicos creole english",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Turks Ve Caicos Kreolu",
+      "bcp_47_code": "tr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "tc",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": 21.8078,
+        "longitude": -71.7451,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

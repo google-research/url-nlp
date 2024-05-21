@@ -1,0 +1,88 @@
+{
+  "bcp_47_code": "vmw",
+  "iso_639_3_code": "vmw",
+  "glottocode": "makh1264",
+  "total_population": 3900000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Makhuwa",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "język makua",
+      "bcp_47_code": "pl",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "Kimakua",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "língua macua",
+      "bcp_47_code": "pt",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "makhuawa",
+      "bcp_47_code": "no",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "Makua",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "makuan kieli",
+      "bcp_47_code": "fi",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "макуа",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "Emakhuwa",
+      "bcp_47_code": "vmw",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "mz",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 3900000,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": -14.8509,
+        "longitude": 38.8052,
+        "source": "GOOGLE_RESEARCH"
+      }
+    }
+  ]
+}

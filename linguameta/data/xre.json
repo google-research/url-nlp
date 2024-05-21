@@ -1,0 +1,63 @@
+{
+  "bcp_47_code": "xre",
+  "iso_639_3_code": "xre",
+  "glottocode": "krey1238",
+  "wikidata_id": "Q3199686",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Extinct Jê language of Brazil",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Kreye",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Northeastern Timbira",
+      "bcp_47_code": "en",
+      "source": "GLOTTOLOG"
+    },
+    {
+      "name": "kreye",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga kreye",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "крейе",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "ASSUMED_BASED_ON_LOCALE"
+      },
+      "locale": {
+        "iso_3166_code": "br",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": -4.199179,
+        "longitude": -44.82954,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

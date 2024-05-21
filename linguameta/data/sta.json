@@ -1,0 +1,58 @@
+{
+  "bcp_47_code": "sta",
+  "iso_639_3_code": "sta",
+  "glottocode": "sett1235",
+  "wikidata_id": "Q7456938",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Settla",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Kisetla",
+      "bcp_47_code": "en",
+      "source": "GLOTTOLOG"
+    },
+    {
+      "name": "Settler Swahili",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga settla",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "settla",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "ASSUMED_BASED_ON_LOCALE"
+      },
+      "locale": {
+        "iso_3166_code": "zm",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": -15.6067,
+        "longitude": 28.6923,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

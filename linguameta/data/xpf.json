@@ -1,0 +1,39 @@
+{
+  "bcp_47_code": "xpf",
+  "iso_639_3_code": "xpf",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Southeast Tasmanian",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Nuenonne",
+      "bcp_47_code": "en",
+      "source": "IETF"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKIDATA"
+      },
+      "locale": {
+        "iso_3166_code": "au",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": -42.99,
+        "longitude": 146.89,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

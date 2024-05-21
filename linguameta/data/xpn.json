@@ -1,0 +1,58 @@
+{
+  "bcp_47_code": "xpn",
+  "iso_639_3_code": "xpn",
+  "glottocode": "kapi1248",
+  "wikidata_id": "Q6366667",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "extinct unclassified language of eastern Brazil",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Kapinawá",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "kampinawaeg",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga kapinawá",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "капинава",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "ASSUMED_BASED_ON_LOCALE"
+      },
+      "locale": {
+        "iso_3166_code": "br",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": -8.49999,
+        "longitude": -38.3333,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "bcp_47_code": "srz",
+  "iso_639_3_code": "srz",
+  "glottocode": "shah1253",
+  "wikidata_id": "Q12953126",
+  "total_population": 2000000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Shahmirzadi",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Lenga Shahmirzadi",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "shahmirzadi",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "шамерзади",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "shahmirzadi",
+      "bcp_47_code": "ca",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "arab",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "ir",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 2000000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 35.778,
+        "longitude": 53.32,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

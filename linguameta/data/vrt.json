@@ -1,0 +1,70 @@
+{
+  "bcp_47_code": "vrt",
+  "iso_639_3_code": "vrt",
+  "glottocode": "burm1263",
+  "wikidata_id": "Q2928522",
+  "total_population": 900,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Burmbar",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Banam Bay",
+      "bcp_47_code": "en",
+      "source": "IETF"
+    },
+    {
+      "name": "burmbar",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "burmbar jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Burmbar",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Burmbar",
+      "bcp_47_code": "ilo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "ASSUMED_BASED_ON_LOCALE"
+      },
+      "locale": {
+        "iso_3166_code": "vu",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 900,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": -16.41653,
+        "longitude": 167.73125,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "bcp_47_code": "sac",
+  "iso_639_3_code": "sac",
+  "glottocode": "mesk1242",
+  "wikidata_id": "Q12714767",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Meskwaki",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Fox",
+      "bcp_47_code": "en",
+      "source": "WIKTIONARY"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "us",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": 44.0,
+        "longitude": -89.0,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

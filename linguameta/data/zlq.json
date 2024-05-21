@@ -1,0 +1,43 @@
+{
+  "bcp_47_code": "zlq",
+  "iso_639_3_code": "zlq",
+  "macrolanguage_bcp_47_code": "za",
+  "glottocode": "liuq1235",
+  "wikidata_id": "Q63341349",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Liuqian Zhuang",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "zhuang de liuqian",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "xxxx",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "cn",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 24.1,
+        "longitude": 109.75,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

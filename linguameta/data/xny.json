@@ -1,0 +1,63 @@
+{
+  "bcp_47_code": "xny",
+  "deprecated_bcp_47_code": "nad",
+  "iso_639_3_code": "xny",
+  "glottocode": "nija1241",
+  "wikidata_id": "Q16919427",
+  "total_population": 3,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Australian Aboriginal language",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Nyiyaparli",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Nijadali",
+      "bcp_47_code": "en",
+      "source": "IETF"
+    },
+    {
+      "name": "Kinyiyaparli",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "nyiyaparli",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "au",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 3,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": -22.8558,
+        "longitude": 120.831,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

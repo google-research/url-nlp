@@ -1,0 +1,64 @@
+{
+  "bcp_47_code": "tcw",
+  "iso_639_3_code": "tcw",
+  "glottocode": "tecp1235",
+  "wikidata_id": "Q7692795",
+  "total_population": 540,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Tecpatlán Totonac",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "текпатланский тотонакский язык",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tecpatlán Totonac",
+      "bcp_47_code": "sco",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "totonaque du tecpatlán",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tecpatlan Totonac",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "mx",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 540,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 20.2957,
+        "longitude": -97.8436,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

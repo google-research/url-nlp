@@ -1,0 +1,77 @@
+{
+  "bcp_47_code": "xmv",
+  "iso_639_3_code": "xmv",
+  "macrolanguage_bcp_47_code": "mg",
+  "glottocode": "anta1255",
+  "wikidata_id": "Q2167573",
+  "total_population": 25000000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Antankarana Malagasy",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Tankarana Malagasy",
+      "bcp_47_code": "en",
+      "source": "IETF"
+    },
+    {
+      "name": "Antankarana-Malagasi",
+      "bcp_47_code": "nl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "antakarana",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Antankarana Lenga Malagasy",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kimalagasy ya Antankarana",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Antankarana",
+      "bcp_47_code": "mg",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "mg",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 25000000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": -13.2164,
+        "longitude": 49.2402,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

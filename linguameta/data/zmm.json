@@ -1,0 +1,76 @@
+{
+  "bcp_47_code": "zmm",
+  "iso_639_3_code": "zmm",
+  "glottocode": "mari1417",
+  "wikidata_id": "Q10577424",
+  "total_population": 15,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Marimanindji",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Marramaninyshi",
+      "bcp_47_code": "en",
+      "source": "IETF"
+    },
+    {
+      "name": "marimanindji",
+      "bcp_47_code": "sv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga marimanindji",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "język marimanindji",
+      "bcp_47_code": "pl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kimarimanindji",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "marimanindji",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "au",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 15,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": -14.1788,
+        "longitude": 130.561,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

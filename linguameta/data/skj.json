@@ -1,0 +1,56 @@
+{
+  "bcp_47_code": "skj",
+  "iso_639_3_code": "skj",
+  "glottocode": "seke1240",
+  "wikidata_id": "Q30226846",
+  "total_population": 5900,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Language of Nepal",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Seke",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "seke",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tangbe",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "xxxx",
+        "is_canonical": true,
+        "source": "SOURCE_UNSPECIFIED"
+      },
+      "locale": {
+        "iso_3166_code": "np",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 5900,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 28.9251,
+        "longitude": 83.8064,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

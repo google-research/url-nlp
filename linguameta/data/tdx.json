@@ -1,0 +1,87 @@
+{
+  "bcp_47_code": "tdx",
+  "iso_639_3_code": "tdx",
+  "macrolanguage_bcp_47_code": "mg",
+  "glottocode": "tand1256",
+  "wikidata_id": "Q2852592",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "dialect of Malagasy",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Tandroy-Mahafaly Malagasy",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Tandroy Malagasy",
+      "bcp_47_code": "en",
+      "source": "GLOTTOLOG"
+    },
+    {
+      "name": "antandroy",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tandroy-Mahafaly Lenga Malagasy",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kimalagasy ya Tandroy-Mahafaly",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Fiteny antandroy",
+      "bcp_47_code": "mg",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "タンルイ語",
+      "bcp_47_code": "ja",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tandroy",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Antandroy",
+      "bcp_47_code": "tdx",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "mg",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": -24.80155,
+        "longitude": 45.9,
+        "source": "GOOGLE_RESEARCH"
+      }
+    }
+  ]
+}

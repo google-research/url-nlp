@@ -1,0 +1,83 @@
+{
+  "bcp_47_code": "tax",
+  "iso_639_3_code": "tax",
+  "glottocode": "tamk1242",
+  "wikidata_id": "Q3449082",
+  "total_population": 500,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Tamki",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Kitamki",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Tamki",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tamkieg",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tamki jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "𐍄𐌰𐌼𐌺𐌾𐌰𐍂𐌰𐌶𐌳𐌰",
+      "bcp_47_code": "got",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tamki",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tamki",
+      "bcp_47_code": "ig",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "td",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 500,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 11.4926,
+        "longitude": 18.2295,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

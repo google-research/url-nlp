@@ -1,0 +1,47 @@
+{
+  "bcp_47_code": "xdo",
+  "iso_639_3_code": "xdo",
+  "glottocode": "kwan1289",
+  "wikidata_id": "Q47495733",
+  "total_population": 22000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Kwandu",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "kwandu",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "ASSUMED_BASED_ON_LOCALE"
+      },
+      "locale": {
+        "iso_3166_code": "ao",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 22000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": -13.80147,
+        "longitude": 13.11922,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "bcp_47_code": "zmt",
+  "iso_639_3_code": "zmt",
+  "glottocode": "mari1419",
+  "wikidata_id": "Q10577443",
+  "total_population": 8,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "language (excluding Marti Ke)",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Maringarr",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "maringarr",
+      "bcp_47_code": "sv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga maringarr",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "język maringarr",
+      "bcp_47_code": "pl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "марингарр",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kimaringarr",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "maringarr",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "au",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 8,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": -14.3819,
+        "longitude": 130.25,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

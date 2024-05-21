@@ -1,0 +1,59 @@
+{
+  "bcp_47_code": "vmd",
+  "iso_639_3_code": "vmd",
+  "glottocode": "mudu1241",
+  "wikidata_id": "Q12952656",
+  "total_population": 47,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Mudu Koraga",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Mudu Lenga Koraga",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kikoraga ya Mudu",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "koraga mudu",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "knda",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "in",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 47,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 12.6224,
+        "longitude": 75.1061,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

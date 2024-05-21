@@ -1,0 +1,39 @@
+{
+  "bcp_47_code": "ukv",
+  "iso_639_3_code": "ukv",
+  "total_population": 200000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Kuku",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "xxxx",
+        "is_canonical": true,
+        "source": "SOURCE_UNSPECIFIED"
+      },
+      "locale": {
+        "iso_3166_code": "ss",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 200000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 3.96,
+        "longitude": 31.54,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

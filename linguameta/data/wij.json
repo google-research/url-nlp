@@ -1,0 +1,65 @@
+{
+  "bcp_47_code": "wij",
+  "iso_639_3_code": "wij",
+  "glottocode": "wiki1239",
+  "wikidata_id": "Q10720036",
+  "total_population": 30,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Wik-Iiyanh",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "wik-iiyanh",
+      "bcp_47_code": "sv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga wik-iiyanh",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kiwik-Iiyanh",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "wik-iiyanh",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "ASSUMED_BASED_ON_LOCALE"
+      },
+      "locale": {
+        "iso_3166_code": "au",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 30,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": -14.1273,
+        "longitude": 142.781,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

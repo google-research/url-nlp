@@ -1,0 +1,39 @@
+{
+  "bcp_47_code": "uni",
+  "iso_639_3_code": "uni",
+  "total_population": 670,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Uni",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "xxxx",
+        "is_canonical": true,
+        "source": "SOURCE_UNSPECIFIED"
+      },
+      "locale": {
+        "iso_3166_code": "pg",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 670,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": -3.09,
+        "longitude": 142.03,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

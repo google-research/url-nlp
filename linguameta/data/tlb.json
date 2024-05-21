@@ -1,0 +1,52 @@
+{
+  "bcp_47_code": "tlb",
+  "iso_639_3_code": "tlb",
+  "glottocode": "tobe1252",
+  "total_population": 30000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Tobelo",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "ภาษาโตเบโล",
+      "bcp_47_code": "th",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "토벨로어",
+      "bcp_47_code": "ko",
+      "is_canonical": true,
+      "source": "LEXVO"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "id",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 30000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 1.0946,
+        "longitude": 128.154,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

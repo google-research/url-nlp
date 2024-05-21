@@ -1,0 +1,42 @@
+{
+  "bcp_47_code": "xgu",
+  "iso_639_3_code": "xgu",
+  "glottocode": "ungg1243",
+  "wikidata_id": "Q62000004",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Unggumi",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "unggumi",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "au",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": -15.65,
+        "longitude": 124.67,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

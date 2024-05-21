@@ -1,0 +1,47 @@
+{
+  "bcp_47_code": "sti",
+  "iso_639_3_code": "sti",
+  "glottocode": "bulo1242",
+  "wikidata_id": "Q15771431",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Bulo Stieng",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "xxxx",
+        "is_canonical": true,
+        "source": "SOURCE_UNSPECIFIED"
+      },
+      "locale": {
+        "iso_3166_code": "kh",
+        "source": "GLOTTOLOG"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "xxxx",
+        "is_canonical": true,
+        "source": "SOURCE_UNSPECIFIED"
+      },
+      "locale": {
+        "iso_3166_code": "vn",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": 11.9777,
+        "longitude": 106.798,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "bcp_47_code": "yng",
+  "iso_639_3_code": "yng",
+  "glottocode": "yang1289",
+  "wikidata_id": "Q13123599",
+  "total_population": 19000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Yango",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Kiyango",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Yango",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "yango",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "cd",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 19000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 2.81523,
+        "longitude": 19.0108,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "bcp_47_code": "wnw",
+  "iso_639_3_code": "wnw",
+  "glottocode": "nucl1651",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Wintu",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Nuclear Wintu",
+      "bcp_47_code": "en",
+      "source": "GLOTTOLOG"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKIDATA"
+      },
+      "locale": {
+        "iso_3166_code": "us",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": 41.0,
+        "longitude": -122.5,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

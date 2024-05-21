@@ -1,0 +1,53 @@
+{
+  "bcp_47_code": "wle",
+  "iso_639_3_code": "wle",
+  "glottocode": "wola1253",
+  "wikidata_id": "Q12645275",
+  "total_population": 940000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Wolane",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "wolane jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "wolane",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "ethi",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "et",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 940000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 8.23,
+        "longitude": 38.14,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

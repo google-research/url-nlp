@@ -1,0 +1,40 @@
+{
+  "bcp_47_code": "wmd",
+  "iso_639_3_code": "wmd",
+  "glottocode": "mama1278",
+  "total_population": 250,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Mamaindé",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "br",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 250,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": -12.986439,
+        "longitude": -60.10107,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "bcp_47_code": "tpo",
+  "deprecated_bcp_47_code": "thc",
+  "iso_639_3_code": "tpo",
+  "glottocode": "taip1250",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Tai Pao",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Tai Hang Tong",
+      "bcp_47_code": "en",
+      "source": "IETF"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "xxxx",
+        "is_canonical": true,
+        "source": "SOURCE_UNSPECIFIED"
+      },
+      "locale": {
+        "iso_3166_code": "la",
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

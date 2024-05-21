@@ -1,0 +1,49 @@
+{
+  "bcp_47_code": "zlj",
+  "iso_639_3_code": "zlj",
+  "macrolanguage_bcp_47_code": "za",
+  "glottocode": "liuj1238",
+  "wikidata_id": "Q17651540",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Liujiang Zhuang",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "zhuang de liujiang",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kizhuang ya Liujiang",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "xxxx",
+        "is_canonical": true,
+        "source": "SOURCE_UNSPECIFIED"
+      },
+      "locale": {
+        "iso_3166_code": "cn",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": 24.2,
+        "longitude": 109.25,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

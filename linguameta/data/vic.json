@@ -1,0 +1,87 @@
+{
+  "bcp_47_code": "vic",
+  "iso_639_3_code": "vic",
+  "glottocode": "virg1240",
+  "wikidata_id": "Q7933935",
+  "total_population": 76000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "English-based creole spoken in the Virgin Islands and the SSS islands",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Virgin Islands Creole English",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Virgin Islands Creole",
+      "bcp_47_code": "en",
+      "source": "WIKTIONARY"
+    },
+    {
+      "name": "nizozemskoantilski kreolski engleski",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Virgin Islands creole english",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "crioulo das ilhas virgens",
+      "bcp_47_code": "pt",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kreola lingvo de la virgulinsuloj",
+      "bcp_47_code": "eo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Creole Ynysoedd Y Wyryf",
+      "bcp_47_code": "cy",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "criollo de las islas vírgenes",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Virjin Adaları Kreolü",
+      "bcp_47_code": "tr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "vg",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 76000,
+        "source": "WIKIPEDIA"
+      }
+    }
+  ]
+}

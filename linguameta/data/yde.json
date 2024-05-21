@@ -1,0 +1,47 @@
+{
+  "bcp_47_code": "yde",
+  "iso_639_3_code": "yde",
+  "glottocode": "yang1297",
+  "wikidata_id": "Q63340998",
+  "total_population": 960,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Yangum Dey",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "yangum dey",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "pg",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 960,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": -3.51156,
+        "longitude": 142.48152,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

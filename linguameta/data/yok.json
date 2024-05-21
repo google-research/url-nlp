@@ -1,0 +1,35 @@
+{
+  "bcp_47_code": "yok",
+  "iso_639_3_code": "yok",
+  "glottocode": "yoku1256",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Yokuts",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Northern Yokuts",
+      "bcp_47_code": "en",
+      "source": "GLOTTOLOG"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "xxxx",
+        "is_canonical": true,
+        "source": "SOURCE_UNSPECIFIED"
+      },
+      "locale": {
+        "iso_3166_code": "us",
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

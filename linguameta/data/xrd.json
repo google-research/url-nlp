@@ -1,0 +1,42 @@
+{
+  "bcp_47_code": "xrd",
+  "iso_639_3_code": "xrd",
+  "glottocode": "gund1248",
+  "wikidata_id": "Q60611652",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Gundungurra",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "gundungurra",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "ASSUMED_BASED_ON_LOCALE"
+      },
+      "locale": {
+        "iso_3166_code": "au",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": -33.7,
+        "longitude": 150.3,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}
