@@ -1,0 +1,65 @@
+{
+  "bcp_47_code": "rmx",
+  "deprecated_bcp_47_code": "lmm",
+  "iso_639_3_code": "rmx",
+  "glottocode": "roma1331",
+  "wikidata_id": "Q22694600",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Austro-Asiatic language",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Romam",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Lamam",
+      "bcp_47_code": "en",
+      "source": "IETF"
+    },
+    {
+      "name": "Kiromam",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga romam",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "romam",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Rơ Măm",
+      "bcp_47_code": "vi",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "xxxx",
+        "is_canonical": true,
+        "source": "SOURCE_UNSPECIFIED"
+      },
+      "locale": {
+        "iso_3166_code": "vn",
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

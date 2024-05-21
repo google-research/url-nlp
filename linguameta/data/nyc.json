@@ -1,0 +1,60 @@
+{
+  "bcp_47_code": "nyc",
+  "deprecated_bcp_47_code": "gti",
+  "iso_639_3_code": "nyc",
+  "glottocode": "nyan1303",
+  "wikidata_id": "Q7070876",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Nyanga-Li",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Gbati-Ri",
+      "bcp_47_code": "en",
+      "source": "IETF"
+    },
+    {
+      "name": "Kinyanga-li",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Nyanga-li",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "nyanga-li",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "cd",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": 2.97634,
+        "longitude": 29.1805,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

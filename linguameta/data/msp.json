@@ -1,0 +1,65 @@
+{
+  "bcp_47_code": "msp",
+  "iso_639_3_code": "msp",
+  "glottocode": "mari1442",
+  "wikidata_id": "Q6765915",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Maritsauá",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Lenga maritsauá",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "марицауа",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "língua manitsauá",
+      "bcp_47_code": "pt",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Γλώσσα Μαριτσαουά",
+      "bcp_47_code": "el",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Μαριτσαουά",
+      "bcp_47_code": "el",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "br",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": -11.5833,
+        "longitude": -53.9667,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

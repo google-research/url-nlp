@@ -1,0 +1,53 @@
+{
+  "bcp_47_code": "pca",
+  "iso_639_3_code": "pca",
+  "glottocode": "sant1454",
+  "wikidata_id": "Q42365276",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Santa Inés Ahuatempan Popoloca",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "popoloca de santa inés ahuatempan",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Santa Inés ahuatempan Lenga popoloca",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "popoloca de santa ines ahuatempan",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "mx",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": 18.38647,
+        "longitude": -97.85991,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

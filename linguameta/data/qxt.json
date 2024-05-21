@@ -1,0 +1,49 @@
+{
+  "bcp_47_code": "qxt",
+  "iso_639_3_code": "qxt",
+  "macrolanguage_bcp_47_code": "qu",
+  "glottocode": "sant1433",
+  "wikidata_id": "Q12953831",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Santa Ana De Tusi Pasco Quechua",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Santa Ana de Tusi Pasco Lenga quechua",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "quechua de santa ana de tusi pasco",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "ASSUMED_BASED_ON_LOCALE"
+      },
+      "locale": {
+        "iso_3166_code": "pe",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": -10.3302,
+        "longitude": -76.2753,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

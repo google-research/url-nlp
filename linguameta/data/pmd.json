@@ -1,0 +1,59 @@
+{
+  "bcp_47_code": "pmd",
+  "iso_639_3_code": "pmd",
+  "glottocode": "pall1243",
+  "wikidata_id": "Q7127734",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Pallanganmiddang",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Kipallanganmiddang",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "pallanganmiddang",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idioma pallanganmiddang",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kibalangamida",
+      "bcp_47_code": "sw",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "au",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": -36.08,
+        "longitude": 146.91,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

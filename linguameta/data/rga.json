@@ -1,0 +1,79 @@
+{
+  "bcp_47_code": "rga",
+  "iso_639_3_code": "rga",
+  "glottocode": "rori1237",
+  "wikidata_id": "Q7366825",
+  "total_population": 75,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Oceanic language spoken in central Espiritu Santo Island in Vanuatu",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Roria",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Mores",
+      "bcp_47_code": "en",
+      "source": "GLOTTOLOG"
+    },
+    {
+      "name": "Toksiki",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Roria",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kiroria",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Toksiki",
+      "bcp_47_code": "ilo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "roria",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "ASSUMED_BASED_ON_LOCALE"
+      },
+      "locale": {
+        "iso_3166_code": "vu",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 75,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": -15.4048,
+        "longitude": 166.843,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

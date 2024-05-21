@@ -1,0 +1,54 @@
+{
+  "bcp_47_code": "qve",
+  "iso_639_3_code": "qve",
+  "macrolanguage_bcp_47_code": "qu",
+  "glottocode": "east2551",
+  "wikidata_id": "Q12953838",
+  "total_population": 1500000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Eastern Apurímac Quechua",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "apurimac oriental Lenga quechua",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "quechua d'apurímac de l'est",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "pe",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 1500000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": -14.1754,
+        "longitude": -72.6686,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

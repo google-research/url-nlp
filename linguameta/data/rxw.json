@@ -1,0 +1,63 @@
+{
+  "bcp_47_code": "rxw",
+  "iso_639_3_code": "rxw",
+  "glottocode": "karr1236",
+  "wikidata_id": "Q6881575",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Karuwali",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Karruwali",
+      "bcp_47_code": "en",
+      "source": "GLOTTOLOG"
+    },
+    {
+      "name": "Garuwali",
+      "bcp_47_code": "en",
+      "source": "IETF"
+    },
+    {
+      "name": "Kikaruwali",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "karuwali",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "garuwali",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "ASSUMED_BASED_ON_LOCALE"
+      },
+      "locale": {
+        "iso_3166_code": "au",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": -25.833017,
+        "longitude": 140.02629,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

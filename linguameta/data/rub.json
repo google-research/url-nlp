@@ -1,0 +1,94 @@
+{
+  "bcp_47_code": "rub",
+  "iso_639_3_code": "rub",
+  "glottocode": "gung1250",
+  "wikidata_id": "Q11165235",
+  "total_population": 49000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Gungu",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Kigungu",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "gungu",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Gungu",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Wikang Gungu",
+      "bcp_47_code": "tl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lugungu",
+      "bcp_47_code": "sn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "gungu",
+      "bcp_47_code": "oc",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Gungu",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Кульяк тилдери",
+      "bcp_47_code": "ky",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "gungu-Sprache",
+      "bcp_47_code": "de",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "ASSUMED_BASED_ON_LOCALE"
+      },
+      "locale": {
+        "iso_3166_code": "ug",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 49000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 2.06754,
+        "longitude": 31.4819,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

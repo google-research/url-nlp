@@ -1,0 +1,48 @@
+{
+  "bcp_47_code": "mvg",
+  "iso_639_3_code": "mvg",
+  "glottocode": "yucu1250",
+  "wikidata_id": "Q25562736",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Yucuañe Mixtec",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "mikstekeg yucuañe",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "mixtèque de yucuañe",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "mx",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": 17.2832,
+        "longitude": -97.4285,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

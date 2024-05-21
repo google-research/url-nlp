@@ -1,0 +1,63 @@
+{
+  "bcp_47_code": "mrd",
+  "iso_639_3_code": "mrd",
+  "glottocode": "west2418",
+  "wikidata_id": "Q22303263",
+  "total_population": 250000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Sino-Tibetan language",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Western Magar",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Kimagar ya Magharibi",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Magar ossidental",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "मगर ढुट",
+      "bcp_47_code": "mrd",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "deva",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "np",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 250000,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 28.2462,
+        "longitude": 83.511,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

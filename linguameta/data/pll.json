@@ -1,0 +1,41 @@
+{
+  "bcp_47_code": "pll",
+  "iso_639_3_code": "pll",
+  "glottocode": "shwe1236",
+  "wikidata_id": "Q27941664",
+  "total_population": 150000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Shwe Palaung",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "mymr",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "mm",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 150000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 23.6729,
+        "longitude": 97.7972,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

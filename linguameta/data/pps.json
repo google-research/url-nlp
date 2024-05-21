@@ -1,0 +1,53 @@
+{
+  "bcp_47_code": "pps",
+  "iso_639_3_code": "pps",
+  "glottocode": "sanl1248",
+  "wikidata_id": "Q25559602",
+  "total_population": 13000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "San Luís Temalacayuca Popoloca",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "San Luis temalacayuca Lenga popoloca",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "popoloca de san luís temalacayuca",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "mx",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 13000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 18.6812,
+        "longitude": -97.5459,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

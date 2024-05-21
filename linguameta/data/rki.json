@@ -1,0 +1,52 @@
+{
+  "bcp_47_code": "rki",
+  "deprecated_bcp_47_code": "ccq",
+  "iso_639_3_code": "rki",
+  "glottocode": "rakh1245",
+  "total_population": 1000000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Rakhine",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Chaungtha",
+      "bcp_47_code": "en",
+      "source": "IETF"
+    },
+    {
+      "name": "ရခိုင်ဘာသာ",
+      "bcp_47_code": "rki",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "mymr",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "mm",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 1000000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 20.52743,
+        "longitude": 93.145905,
+        "source": "GOOGLE_RESEARCH"
+      }
+    }
+  ]
+}

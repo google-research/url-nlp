@@ -1,0 +1,59 @@
+{
+  "bcp_47_code": "qxr",
+  "iso_639_3_code": "qxr",
+  "macrolanguage_bcp_47_code": "qu",
+  "glottocode": "cana1262",
+  "wikidata_id": "Q12953846",
+  "total_population": 200000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Cañar Highland Quichua",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Cañar-Azuay-South Chimborazo Highland Quichua",
+      "bcp_47_code": "en",
+      "source": "GLOTTOLOG"
+    },
+    {
+      "name": "cañar highland Lenga quichua",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "quichua de cañar",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "ec",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 200000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": -2.48314,
+        "longitude": -78.9672,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

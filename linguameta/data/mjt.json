@@ -1,0 +1,89 @@
+{
+  "bcp_47_code": "mjt",
+  "iso_639_3_code": "mjt",
+  "glottocode": "saur1249",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Sauria Paharia",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Sawriya Paharia",
+      "bcp_47_code": "en",
+      "source": "WIKTIONARY"
+    },
+    {
+      "name": "Lenga Sauria Paharia",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "lingua Malto",
+      "bcp_47_code": "la",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "Malto",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "LEXVO"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "beng",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "bd",
+        "source": "GLOTTOLOG"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "beng",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "in",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": 24.8124,
+        "longitude": 87.6432,
+        "source": "GLOTTOLOG"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "deva",
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "bd",
+        "source": "GLOTTOLOG"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "deva",
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "in",
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

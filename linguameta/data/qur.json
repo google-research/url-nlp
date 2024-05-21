@@ -1,0 +1,49 @@
+{
+  "bcp_47_code": "qur",
+  "iso_639_3_code": "qur",
+  "macrolanguage_bcp_47_code": "qu",
+  "glottocode": "yana1272",
+  "wikidata_id": "Q42305075",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Yanahuanca Pasco Quechua",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "quechua pasco yanahuanca",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "yanahuanca pasco Lenga quechua",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "ASSUMED_BASED_ON_LOCALE"
+      },
+      "locale": {
+        "iso_3166_code": "pe",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": -10.4929,
+        "longitude": -76.5314,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

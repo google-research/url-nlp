@@ -1,0 +1,76 @@
+{
+  "bcp_47_code": "mqg",
+  "iso_639_3_code": "mqg",
+  "macrolanguage_bcp_47_code": "ms",
+  "glottocode": "kota1275",
+  "wikidata_id": "Q12952778",
+  "total_population": 300000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Kota Bangun Kutai Malay",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Kota Bangun Kutai Lenga Malay",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bahasa Melayu Kutai Kota Bangun",
+      "bcp_47_code": "id",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kimalay ya Kota Bangun Kutai",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "malais kota bangun kutai",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bahasa Kutai Hulu",
+      "bcp_47_code": "id",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bahasa Melayu Kota Bangun Kutai",
+      "bcp_47_code": "id",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "id",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 300000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": -0.27049,
+        "longitude": 116.297,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "bcp_47_code": "plk",
+  "iso_639_3_code": "plk",
+  "glottocode": "kohi1248",
+  "wikidata_id": "Q12953882",
+  "total_population": 200000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Kohistani Shina",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Lenga shina kohistani",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "shina kohistani",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "shina kohistani",
+      "bcp_47_code": "oc",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ခါဝ်ဟေတ်သတာန်နဳ ဃှဳနာ",
+      "bcp_47_code": "mnw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "زبان شینای کوهستانی",
+      "bcp_47_code": "fa",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Category:科希斯坦希納語",
+      "bcp_47_code": "cmn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "کوہستانی شینا زبان",
+      "bcp_47_code": "ur",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Shina Kohistani",
+      "bcp_47_code": "pms",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ကဏ္ဍ:ဘာသာခါဝ်ဟေတ်သတာန်နဳ ဃှဳနာ",
+      "bcp_47_code": "mnw",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "شینا",
+      "bcp_47_code": "plk",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "arab",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "pk",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 200000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 35.1741,
+        "longitude": 73.3207,
+        "source": "GOOGLE_RESEARCH"
+      }
+    }
+  ]
+}

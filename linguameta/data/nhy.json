@@ -1,0 +1,59 @@
+{
+  "bcp_47_code": "nhy",
+  "iso_639_3_code": "nhy",
+  "glottocode": "nort2958",
+  "wikidata_id": "Q2011413",
+  "total_population": 260000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Northern Oaxaca Nahuatl",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Noordelijk Oaxaca-Nahuatl",
+      "bcp_47_code": "nl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "oaxaca setentrional Lenga nahuatl",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "nahuatl de l’oaxaca du nord",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "mx",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 260000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 18.1884,
+        "longitude": -96.9748,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

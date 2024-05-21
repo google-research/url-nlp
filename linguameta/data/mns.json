@@ -1,0 +1,192 @@
+{
+  "bcp_47_code": "mns",
+  "iso_639_3_code": "mns",
+  "glottocode": "mans1258",
+  "wikidata_id": "Q30304537",
+  "total_population": 940,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "dialect of the Mansi language",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Mansi",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Northern Mansi",
+      "bcp_47_code": "en",
+      "source": "GLOTTOLOG"
+    },
+    {
+      "name": "mansi du nord",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "pohjoismansi",
+      "bcp_47_code": "fi",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idioma mansi",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "język mansyjski",
+      "bcp_47_code": "pl",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "lingua vogula",
+      "bcp_47_code": "it",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "mansa lingvo",
+      "bcp_47_code": "eo",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "Mansice",
+      "bcp_47_code": "tr",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "mansieg",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "mansin kieli",
+      "bcp_47_code": "fi",
+      "source": "LEXVO"
+    },
+    {
+      "name": "mansis",
+      "bcp_47_code": "fr",
+      "source": "LEXVO"
+    },
+    {
+      "name": "mansische Sprache",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "mansisk språk",
+      "bcp_47_code": "nn",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "mansiska",
+      "bcp_47_code": "sv",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "mansių kalba",
+      "bcp_47_code": "lt",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "manysi nyelv",
+      "bcp_47_code": "hu",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "vogul",
+      "bcp_47_code": "ca",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "Wogoels",
+      "bcp_47_code": "af",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "Вӧгул кыв",
+      "bcp_47_code": "kv",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "Манси кыл",
+      "bcp_47_code": "udm",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "мансийски език",
+      "bcp_47_code": "bg",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "мансийский язык",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "Мансинь кель",
+      "bcp_47_code": "myv",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "мансиски јазик",
+      "bcp_47_code": "mk",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "マンシ語",
+      "bcp_47_code": "ja",
+      "is_canonical": true,
+      "source": "LEXVO"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "cyrl",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "ru",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 940,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 64.4118,
+        "longitude": 61.344,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

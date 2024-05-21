@@ -1,0 +1,67 @@
+{
+  "bcp_47_code": "nuv",
+  "iso_639_3_code": "nuv",
+  "glottocode": "nort2784",
+  "wikidata_id": "Q11016572",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Northern Nuni",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Kinuni-Kaskazini",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Nuni setentrional",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "nuni du nord",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "zimanê nunî yê bakur",
+      "bcp_47_code": "ku",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Nunuma",
+      "bcp_47_code": "nuv",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "bf",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": 12.131,
+        "longitude": -2.98206,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

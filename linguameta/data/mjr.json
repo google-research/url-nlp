@@ -1,0 +1,60 @@
+{
+  "bcp_47_code": "mjr",
+  "iso_639_3_code": "mjr",
+  "glottocode": "mala1463",
+  "wikidata_id": "Q12952775",
+  "total_population": 27000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Malavedan",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Lenga Malavedan",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kimalavedan",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "മലവേടൻ",
+      "bcp_47_code": "ml",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "malavedan",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "xxxx",
+        "is_canonical": true,
+        "source": "SOURCE_UNSPECIFIED"
+      },
+      "locale": {
+        "iso_3166_code": "in",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 27000,
+        "source": "WIKIPEDIA"
+      }
+    }
+  ]
+}

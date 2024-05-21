@@ -1,0 +1,65 @@
+{
+  "bcp_47_code": "okh",
+  "iso_639_3_code": "okh",
+  "glottocode": "kore1279",
+  "wikidata_id": "Q6432160",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Koresh-E Rostam",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Karanic",
+      "bcp_47_code": "en",
+      "source": "GLOTTOLOG"
+    },
+    {
+      "name": "Lenga Koresh-e Rostam",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Γλώσσα Κορές-ε Ροστάμ",
+      "bcp_47_code": "el",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Koresh-E Rostam",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "زبان خورش‌رستمی",
+      "bcp_47_code": "fa",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "xxxx",
+        "is_canonical": true,
+        "source": "SOURCE_UNSPECIFIED"
+      },
+      "locale": {
+        "iso_3166_code": "ir",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": 37.794,
+        "longitude": 44.895,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "bcp_47_code": "mzh",
+  "iso_639_3_code": "mzh",
+  "glottocode": "wich1264",
+  "wikidata_id": "Q7998197",
+  "total_population": 15000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Wichí Lhamtés Güisnay",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Lenga wichí lhamtés güisnay",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "вичи-лхамтес-гюйснай",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "visnai keel",
+      "bcp_47_code": "et",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Wichí Lhamtés Güisnay",
+      "bcp_47_code": "hif",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Wikang Wichí Lhamtés Güisnay",
+      "bcp_47_code": "tl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "ar",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 15000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "official_status": {
+        "has_regional_official_status": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": -23.1633,
+        "longitude": -62.1757,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

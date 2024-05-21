@@ -1,0 +1,75 @@
+{
+  "bcp_47_code": "pmq",
+  "iso_639_3_code": "pmq",
+  "glottocode": "nort2984",
+  "wikidata_id": "Q3361762",
+  "total_population": 12000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "variety of the Pame language of San Luis Potosí, Mexico",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Northern Pame",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "pame du nord",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "pameeg an norzh",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga pame setentrional",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "põhjapame keel",
+      "bcp_47_code": "et",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "pame norteño",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "mx",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 12000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 22.0968,
+        "longitude": -99.6434,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "bcp_47_code": "rbb",
+  "iso_639_3_code": "rbb",
+  "glottocode": "ruma1248",
+  "wikidata_id": "Q12953797",
+  "total_population": 140000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Austro-Asiatic language spoken in Myanmar and China",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Rumai Palaung",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "rumai Lenga palaung",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kipalaung ya Rumai",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "rumai",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ภาษาปะหล่องรูไม",
+      "bcp_47_code": "th",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ရူမာည်းတအောင်း",
+      "bcp_47_code": "my",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "palaung rumai",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ရူမာည်းပလောင်",
+      "bcp_47_code": "my",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "mymr",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "mm",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 140000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 23.6404,
+        "longitude": 97.3172,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

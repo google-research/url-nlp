@@ -1,0 +1,59 @@
+{
+  "bcp_47_code": "nhq",
+  "iso_639_3_code": "nhq",
+  "glottocode": "huax1236",
+  "wikidata_id": "Q2454915",
+  "total_population": 260000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Huaxcaleca Nahuatl",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Huaxcaleca-Nahuatl",
+      "bcp_47_code": "nl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "huaxcaleca Lenga nahuatl",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "nahuatl de huaxcaleca",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "mx",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 260000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 18.8989,
+        "longitude": -96.9537,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

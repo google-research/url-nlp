@@ -1,0 +1,60 @@
+{
+  "bcp_47_code": "qvl",
+  "iso_639_3_code": "qvl",
+  "macrolanguage_bcp_47_code": "qu",
+  "glottocode": "caja1239",
+  "wikidata_id": "Q12953839",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Cajatambo North Lima Quechua",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "cayatambo nòrd Lima Lenga quechua",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "quechua de cajatambo et du nord de lima",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "quechua de cajatambo",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "quechua del norte de lima",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "ASSUMED_BASED_ON_LOCALE"
+      },
+      "locale": {
+        "iso_3166_code": "pe",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": -10.4126,
+        "longitude": -76.9602,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

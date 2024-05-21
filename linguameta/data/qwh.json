@@ -1,0 +1,113 @@
+{
+  "bcp_47_code": "qwh",
+  "iso_639_3_code": "qwh",
+  "macrolanguage_bcp_47_code": "qu",
+  "glottocode": "huay1240",
+  "wikidata_id": "Q6094343",
+  "total_population": 340000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Quechuan language of Peru spoken in the Callejón de Huaylas",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Huaylas Ancash Quechua",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "quechua de huailas",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "quechua ancash de huaylas",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Huaylas Quechua",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "huaylas ancash Lenga quechua",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "huaylas ancash quechua",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Waylas rimay",
+      "bcp_47_code": "qu",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "quítxua de huaylas",
+      "bcp_47_code": "ca",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "quechua áncash-huaylas",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "quechua de huaraz",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "quechua de huaylas ancash",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Nunashimi",
+      "bcp_47_code": "qwh",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Qichwa",
+      "bcp_47_code": "qwh",
+      "source": "GOOGLE_RESEARCH"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "pe",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 340000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": -9.38709,
+        "longitude": -77.7768,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "bcp_47_code": "prd",
+  "iso_639_3_code": "prd",
+  "glottocode": "pars1252",
+  "wikidata_id": "Q25559302",
+  "total_population": 420000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Parsi-Dari",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Lenga Parsi-Dari",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "parsi-dari",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "arab",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "ir",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 420000,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 32.994,
+        "longitude": 58.624,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

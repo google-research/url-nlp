@@ -1,0 +1,111 @@
+{
+  "bcp_47_code": "pua",
+  "iso_639_3_code": "pua",
+  "glottocode": "west2631",
+  "wikidata_id": "Q16114351",
+  "total_population": 120000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Western Highland Purepecha",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Purepecha",
+      "bcp_47_code": "en",
+      "source": "WIKTIONARY"
+    },
+    {
+      "name": "purépecha del oeste de las sierras",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "western highland Lenga purepecha",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "purépecha des hauts-plateaux de l’ouest",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idioma purépecha",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "purepecha",
+      "bcp_47_code": "sv",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "Purépecha",
+      "bcp_47_code": "nl",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "tarascan",
+      "bcp_47_code": "hr",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Tarasco",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "Taraska simi",
+      "bcp_47_code": "qu",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "пурепеча",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "P'urhépecha",
+      "bcp_47_code": "pua",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "mx",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 120000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 19.5392,
+        "longitude": -102.154,
+        "source": "GOOGLE_RESEARCH"
+      }
+    }
+  ]
+}

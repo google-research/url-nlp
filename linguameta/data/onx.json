@@ -1,0 +1,45 @@
+{
+  "bcp_47_code": "onx",
+  "iso_639_3_code": "onx",
+  "glottocode": "onin1237",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Onin Based Pidgin",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Onin Pidgin",
+      "bcp_47_code": "en",
+      "source": "GLOTTOLOG"
+    },
+    {
+      "name": "Pidgin Onin",
+      "bcp_47_code": "en",
+      "source": "WIKTIONARY"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "id",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": -2.83,
+        "longitude": 132.083,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

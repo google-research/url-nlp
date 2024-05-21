@@ -1,0 +1,47 @@
+{
+  "bcp_47_code": "pnj",
+  "iso_639_3_code": "pnj",
+  "glottocode": "pinj1244",
+  "wikidata_id": "Q33103591",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "extinct Australian Aboriginal language",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Pinjarup",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Kipinjarup",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "pinjarup",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "ASSUMED_BASED_ON_LOCALE"
+      },
+      "locale": {
+        "iso_3166_code": "au",
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

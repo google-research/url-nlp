@@ -1,0 +1,64 @@
+{
+  "bcp_47_code": "mat",
+  "iso_639_3_code": "mat",
+  "glottocode": "sanf1262",
+  "wikidata_id": "Q12953704",
+  "total_population": 1200,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "San Francisco Matlatzinca",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Matlatzinca",
+      "bcp_47_code": "en",
+      "source": "WIKTIONARY"
+    },
+    {
+      "name": "San Francisco Lenga matlatzinca",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "matlatzinca de san francisco",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "matlatzinca",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "mx",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 1200,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 19.3584,
+        "longitude": -100.058,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "bcp_47_code": "ory",
+  "iso_639_3_code": "ory",
+  "macrolanguage_bcp_47_code": "or",
+  "glottocode": "oriy1255",
+  "total_population": 35000000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Odia",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Oriya",
+      "bcp_47_code": "en",
+      "source": "IETF"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "orya",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "in",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 35000000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 21.0,
+        "longitude": 85.0,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

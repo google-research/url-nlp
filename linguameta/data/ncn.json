@@ -1,0 +1,75 @@
+{
+  "bcp_47_code": "ncn",
+  "iso_639_3_code": "ncn",
+  "glottocode": "naun1237",
+  "wikidata_id": "Q3337158",
+  "total_population": 420,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Oceanic language",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Nauna",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "nauna",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "наунански јазик",
+      "bcp_47_code": "mk",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Nauna",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kinauna",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Nauna",
+      "bcp_47_code": "ilo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "pg",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 420,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": -2.21213,
+        "longitude": 148.201,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

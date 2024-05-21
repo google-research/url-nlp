@@ -1,0 +1,54 @@
+{
+  "bcp_47_code": "qxu",
+  "iso_639_3_code": "qxu",
+  "macrolanguage_bcp_47_code": "qu",
+  "glottocode": "areq1237",
+  "wikidata_id": "Q12953837",
+  "total_population": 19000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Arequipa-La Unión Quechua",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "arequipa-la unión Lenga quechua",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "quechua d’arequipa-la unión",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "pe",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 19000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": -15.1806,
+        "longitude": -72.6333,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

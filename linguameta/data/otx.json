@@ -1,0 +1,59 @@
+{
+  "bcp_47_code": "otx",
+  "iso_639_3_code": "otx",
+  "glottocode": "texc1235",
+  "wikidata_id": "Q25559590",
+  "total_population": 72000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Texcatepec Otomi",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "texcatepec Lenga otomi",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "otomi de texcatepec",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "texcatepeci otomi keel",
+      "bcp_47_code": "et",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "mx",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 72000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 20.7342,
+        "longitude": -98.2663,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

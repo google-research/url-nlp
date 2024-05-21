@@ -1,0 +1,47 @@
+{
+  "bcp_47_code": "nkv",
+  "iso_639_3_code": "nkv",
+  "glottocode": "nyik1246",
+  "wikidata_id": "Q48415430",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Nyika",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "ASSUMED_BASED_ON_LOCALE"
+      },
+      "locale": {
+        "iso_3166_code": "mw",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": -10.0231,
+        "longitude": 33.481,
+        "source": "GLOTTOLOG"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "ASSUMED_BASED_ON_LOCALE"
+      },
+      "locale": {
+        "iso_3166_code": "zm",
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

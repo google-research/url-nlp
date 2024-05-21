@@ -1,0 +1,81 @@
+{
+  "bcp_47_code": "mvo",
+  "iso_639_3_code": "mvo",
+  "glottocode": "maro1244",
+  "wikidata_id": "Q3294683",
+  "total_population": 8100,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Solomon Islands",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Marovo",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Marovo",
+      "bcp_47_code": "cy",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "marovo",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Marovo",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kimarovo",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Marovo",
+      "bcp_47_code": "ilo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "マロボ語",
+      "bcp_47_code": "ja",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "sb",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 8100,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": -8.37943,
+        "longitude": 157.747,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "bcp_47_code": "nhk",
+  "iso_639_3_code": "nhk",
+  "glottocode": "isth1240",
+  "wikidata_id": "Q12953757",
+  "total_population": 5100,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Isthmus-Cosoleacaque Nahuatl",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Cosoleacaque Nahuatl",
+      "bcp_47_code": "en",
+      "source": "WIKTIONARY"
+    },
+    {
+      "name": "isthmus-cosoleacaque Lenga nahuatl",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "nahuatl de l’isthme de cosoleacaque",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "mx",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 5100,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 17.9401,
+        "longitude": -94.7347,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

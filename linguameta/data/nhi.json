@@ -1,0 +1,41 @@
+{
+  "bcp_47_code": "nhi",
+  "iso_639_3_code": "nhi",
+  "glottocode": "zaca1241",
+  "wikidata_id": "Q2514044",
+  "total_population": 200000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Zacatlán-Ahuacatlán-Tepetzintla Nahuatl",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "mx",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 200000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 20.0581,
+        "longitude": -97.8974,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

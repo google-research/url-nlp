@@ -1,0 +1,40 @@
+{
+  "bcp_47_code": "qwt",
+  "iso_639_3_code": "qwt",
+  "glottocode": "kwal1258",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Kwalhioqua-Tlatskanai",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Kwalhioqua-Clatskanie",
+      "bcp_47_code": "en",
+      "source": "GLOTTOLOG"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKIDATA"
+      },
+      "locale": {
+        "iso_3166_code": "us",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": 46.11,
+        "longitude": -123.21,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "bcp_47_code": "qvi",
+  "iso_639_3_code": "qvi",
+  "macrolanguage_bcp_47_code": "qu",
+  "glottocode": "imba1240",
+  "wikidata_id": "Q25559701",
+  "total_population": 300000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Imbabura Highland Quichua",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "imbabura highland Lenga quichua",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "quichua des hauts-plateaux d'imbabura",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "ec",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 300000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 0.31776,
+        "longitude": -78.3729,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

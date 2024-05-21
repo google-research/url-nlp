@@ -1,0 +1,65 @@
+{
+  "bcp_47_code": "mdz",
+  "iso_639_3_code": "mdz",
+  "glottocode": "suru1261",
+  "wikidata_id": "Q10322149",
+  "total_population": 260,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Suruí Do Pará",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "língua suruí-aiqueuara",
+      "bcp_47_code": "pt",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga surui do pará",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "паранский суруйский язык",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "suruí do pará",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "br",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 260,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": -5.9271,
+        "longitude": -48.588,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

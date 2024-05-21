@@ -1,0 +1,54 @@
+{
+  "bcp_47_code": "qxh",
+  "iso_639_3_code": "qxh",
+  "macrolanguage_bcp_47_code": "qu",
+  "glottocode": "pana1306",
+  "wikidata_id": "Q63308389",
+  "total_population": 190000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Panao Huánuco Quechua",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "quechua de panao huánuco",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "panao huánuco Lenga quechua",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "pe",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 190000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": -9.85887,
+        "longitude": -75.4382,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

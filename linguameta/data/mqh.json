@@ -1,0 +1,48 @@
+{
+  "bcp_47_code": "mqh",
+  "iso_639_3_code": "mqh",
+  "glottocode": "tlaz1235",
+  "wikidata_id": "Q12953740",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Tlazoyaltepec Mixtec",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "tlazoyaltepec Lenga mixtec",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "mixtèque de tlazoyaltepec",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "mx",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": 17.02704,
+        "longitude": -96.97827,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

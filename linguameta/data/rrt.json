@@ -1,0 +1,34 @@
+{
+  "bcp_47_code": "rrt",
+  "iso_639_3_code": "rrt",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Arritinngithigh",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKIDATA"
+      },
+      "locale": {
+        "iso_3166_code": "au",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": -12.96,
+        "longitude": 141.95,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

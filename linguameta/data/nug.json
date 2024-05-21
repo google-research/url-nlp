@@ -1,0 +1,58 @@
+{
+  "bcp_47_code": "nug",
+  "iso_639_3_code": "nug",
+  "glottocode": "nung1291",
+  "wikidata_id": "Q7069826",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "language in Northern Territory, Australia",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Nungali",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "nungali",
+      "bcp_47_code": "sv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga nungali",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kinungali",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "ASSUMED_BASED_ON_LOCALE"
+      },
+      "locale": {
+        "iso_3166_code": "au",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": -14.9109,
+        "longitude": 131.641,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

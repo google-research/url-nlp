@@ -1,0 +1,76 @@
+{
+  "bcp_47_code": "nbr",
+  "deprecated_bcp_47_code": "nns",
+  "iso_639_3_code": "nbr",
+  "glottocode": "numa1252",
+  "wikidata_id": "Q5529310",
+  "total_population": 50000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Numana",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Gbantu",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Numana-Nunku-Gbantu-Numbu",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kinumana-Nunku-Gbantu-Numbu",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "numana-nunku-gbantu-numbu",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Gbantu",
+      "bcp_47_code": "ig",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Numana-Nunku-Gbantu-Numbu",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "ng",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 50000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 9.16563,
+        "longitude": 8.4657,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

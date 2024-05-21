@@ -1,0 +1,74 @@
+{
+  "bcp_47_code": "nzu",
+  "iso_639_3_code": "nzu",
+  "glottocode": "teke1279",
+  "wikidata_id": "Q36606",
+  "total_population": 45000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "language of the Republic of the Congo",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Teke-Nzikou",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Central Teke",
+      "bcp_47_code": "en",
+      "source": "WIKTIONARY"
+    },
+    {
+      "name": "Kiteke-Nzikou",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Teke-Nzikou",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Teke-Nzikou",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "teke-nzikou",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "cg",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 45000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": -2.65261,
+        "longitude": 15.2047,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}
