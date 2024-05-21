@@ -1,0 +1,109 @@
+{
+  "bcp_47_code": "drc",
+  "iso_639_3_code": "drc",
+  "glottocode": "mind1263",
+  "wikidata_id": "Q6863806",
+  "total_population": 500,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Romance language",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Minderico",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "minderico",
+      "bcp_47_code": "pt",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "миндерикский язык",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "minderico",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Wikang Minderico",
+      "bcp_47_code": "tl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "minderico",
+      "bcp_47_code": "ast",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "minderico",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "minderico",
+      "bcp_47_code": "it",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "mindèrego",
+      "bcp_47_code": "vec",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Minderico",
+      "bcp_47_code": "gl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "миндерико",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua minderica",
+      "bcp_47_code": "it",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "pt",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 500,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 39.5144,
+        "longitude": -8.68866,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

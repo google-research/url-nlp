@@ -1,0 +1,53 @@
+{
+  "bcp_47_code": "dgx",
+  "iso_639_3_code": "dgx",
+  "glottocode": "dogh1241",
+  "wikidata_id": "Q12952392",
+  "total_population": 2500,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Doghoro",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Lenga Doghoro",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kidoghoro",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "pg",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 2500,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": -9.13688,
+        "longitude": 148.766,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

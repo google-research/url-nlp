@@ -1,0 +1,1917 @@
+{
+  "bcp_47_code": "crh",
+  "iso_639_3_code": "crh",
+  "glottocode": "crim1257",
+  "wikidata_id": "Q33357",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Turkic language spoken in Crimea",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Crimean Tatar",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Crimean Turkish",
+      "bcp_47_code": "en",
+      "source": "IETF"
+    },
+    {
+      "name": "ክሪሚያን ተርኪሽ",
+      "bcp_47_code": "am",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "لغة تتار القرم",
+      "bcp_47_code": "ar",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "turcu de crimea",
+      "bcp_47_code": "ast",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "krım türkcəsi",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "кримскотатарски",
+      "bcp_47_code": "bg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ক্রিমিয়ান তুর্কি",
+      "bcp_47_code": "bn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "turkeg krimea",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "तुर्की क्रिमिया",
+      "bcp_47_code": "brx",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "krimski turski",
+      "bcp_47_code": "bs",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tàtar de crimea",
+      "bcp_47_code": "ca",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "𑄇𑄳𑄢𑄨𑄟𑄨𑄠𑄚𑄴 𑄖𑄪𑄢𑄴𑄇𑄨",
+      "bcp_47_code": "ccp",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tatarština",
+      "bcp_47_code": "cs",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tyrceg Y Crimea",
+      "bcp_47_code": "cy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "krimtatarisk",
+      "bcp_47_code": "da",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Krimtatarisch",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Τουρκικά Κριμαίας",
+      "bcp_47_code": "el",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tártaro de crimea",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "krimmitatari",
+      "bcp_47_code": "et",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ترکی کریمه",
+      "bcp_47_code": "fa",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "krimintataari",
+      "bcp_47_code": "fi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tatar de crimée",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Krim-Tataarsk",
+      "bcp_47_code": "fy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Turcais Chriomach",
+      "bcp_47_code": "gd",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Krimtatarisch",
+      "bcp_47_code": "gsw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ક્રિમિયન તુર્કી",
+      "bcp_47_code": "gu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "טטרית של קרים",
+      "bcp_47_code": "he",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "क्रीमीन तुर्की",
+      "bcp_47_code": "hi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "krimski turski",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "krími tatár",
+      "bcp_47_code": "hu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ղրիմյան թուրքերեն",
+      "bcp_47_code": "hy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tatar Krimea",
+      "bcp_47_code": "id",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "krímtyrkneska",
+      "bcp_47_code": "is",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "turco crimeo",
+      "bcp_47_code": "it",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "クリミア・タタール語",
+      "bcp_47_code": "ja",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ყირიმულ-თურქული",
+      "bcp_47_code": "ka",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "krimẽja tá turko",
+      "bcp_47_code": "kgp",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ಕ್ರಿಮೀಯನ್ ಟರ್ಕಿಷ್",
+      "bcp_47_code": "kn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "크리민 터키어; 크리민 타타르어",
+      "bcp_47_code": "ko",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "کرٕمیٖن تُرکی",
+      "bcp_47_code": "ks",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Krimtataresch",
+      "bcp_47_code": "lb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Crimean Turkish Iyápi",
+      "bcp_47_code": "lkt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ຄຣີເມນເຕີຄິຊ",
+      "bcp_47_code": "lo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "krymo turkų",
+      "bcp_47_code": "lt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "krimas tatāru",
+      "bcp_47_code": "lv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "кримскотурски",
+      "bcp_47_code": "mk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ക്രിമിയൻ ടർക്കിഷ്",
+      "bcp_47_code": "ml",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "क्राइमीन तुर्की",
+      "bcp_47_code": "mr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Turki Krimea",
+      "bcp_47_code": "ms",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tork tal-Krimea",
+      "bcp_47_code": "mt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Krimtataarsch",
+      "bcp_47_code": "nds",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "क्रिमियाली तुर्क",
+      "bcp_47_code": "ne",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Krim-Tataars",
+      "bcp_47_code": "nl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "krimtatarisk",
+      "bcp_47_code": "no",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "କ୍ରୀମିନ୍ ତୁର୍କୀସ୍",
+      "bcp_47_code": "or",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "krymskotatarski",
+      "bcp_47_code": "pl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tártara da crimeia",
+      "bcp_47_code": "pt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tirc crimean",
+      "bcp_47_code": "rm",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "turcă crimeeană",
+      "bcp_47_code": "ro",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "крымско-татарский",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "krymská tatárčina",
+      "bcp_47_code": "sk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "krimska tatarščina",
+      "bcp_47_code": "sl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "кримскотатарски",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "krimtatariska",
+      "bcp_47_code": "sv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "கிரிமியன் துர்க்கி",
+      "bcp_47_code": "ta",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "క్రిమియన్ టర్కిష్",
+      "bcp_47_code": "te",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ตุรกีไครเมีย",
+      "bcp_47_code": "th",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "lea fakatoake-kilimea",
+      "bcp_47_code": "to",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kırım Tatarcası",
+      "bcp_47_code": "tr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "قىرىم تۈركچە",
+      "bcp_47_code": "ug",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "кримськотатарська",
+      "bcp_47_code": "uk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tiếng Thổ Nhĩ Kỳ Crimean",
+      "bcp_47_code": "vi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "קרים־טערקיש",
+      "bcp_47_code": "yi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kirimeya turiku",
+      "bcp_47_code": "yrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "克里米亞半島的土耳其文；克里米亞半島的塔塔爾文",
+      "bcp_47_code": "yue",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "克里米亚鞑靼语",
+      "bcp_47_code": "cmn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Krim-Tataars",
+      "bcp_47_code": "af",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ክሪሚያን ታታርኛ",
+      "bcp_47_code": "am",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "التتارية القرمية",
+      "bcp_47_code": "ar",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ক্ৰিমিয়ান টাটাৰ",
+      "bcp_47_code": "as",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Krım Tatar",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "крымска-татарская",
+      "bcp_47_code": "be",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ক্রিমিয়ান তাতার",
+      "bcp_47_code": "bn",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "krimski tatarski",
+      "bcp_47_code": "bs",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "krymská tatarština",
+      "bcp_47_code": "cs",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Ταταρικά Κριμέας",
+      "bcp_47_code": "el",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "krimeako tatarrarra",
+      "bcp_47_code": "eu",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "تاتاری کریمه",
+      "bcp_47_code": "fa",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Crimean Tatar",
+      "bcp_47_code": "fil",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Tártaro de Crimea",
+      "bcp_47_code": "gl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ક્રિમિઅન તાતાર",
+      "bcp_47_code": "gu",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "טטארית של חצי האי קרים",
+      "bcp_47_code": "he",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "क्राइमियन टाटर",
+      "bcp_47_code": "hi",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "krimski tatarski",
+      "bcp_47_code": "hr",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ղրիմի թաթարերեն",
+      "bcp_47_code": "hy",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Crimean Tatar",
+      "bcp_47_code": "id",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Crimean Tatar",
+      "bcp_47_code": "in",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "krímsk tatarskt",
+      "bcp_47_code": "is",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "tataro di crimea",
+      "bcp_47_code": "it",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "クリミア タタール語（キリル）",
+      "bcp_47_code": "ja",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ყირიმის თათრული",
+      "bcp_47_code": "ka",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Қырымдық татар",
+      "bcp_47_code": "kk",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ក្រែមាតាតា",
+      "bcp_47_code": "km",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ಕ್ರಿಮಿಯನ್ ಟಟಾರ್",
+      "bcp_47_code": "kn",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "크림 타타르어",
+      "bcp_47_code": "ko",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Крымдык татарча",
+      "bcp_47_code": "ky",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Tatar de Crimée",
+      "bcp_47_code": "ln",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ຄຣີມຽນ ນາທາ",
+      "bcp_47_code": "lo",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "krymo totorių kalba",
+      "bcp_47_code": "lt",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "кримскотатарски",
+      "bcp_47_code": "mk",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ക്രിമീൻ ടാറ്റർ",
+      "bcp_47_code": "ml",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Крымийн Татар",
+      "bcp_47_code": "mn",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Tătară crimeeană",
+      "bcp_47_code": "mo",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "क्रिमियन तातार",
+      "bcp_47_code": "mr",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Crimean Tatar",
+      "bcp_47_code": "ms",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ခရိုင်မီးယား တာတာ",
+      "bcp_47_code": "my",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "krimtatarisk",
+      "bcp_47_code": "nb",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "क्रिमियाली तातार",
+      "bcp_47_code": "ne",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "କ୍ରିମିୟନ୍ ତାତର",
+      "bcp_47_code": "or",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ਕ੍ਰੀਮੀਅਨ ਤਾਤਾਰ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "krymsko-tatarski",
+      "bcp_47_code": "pl",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "tártaro da crimeia",
+      "bcp_47_code": "pt",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "tătară crimeeană",
+      "bcp_47_code": "ro",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ක්රිමියානු ටටාර්",
+      "bcp_47_code": "si",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Krymská tatárčina",
+      "bcp_47_code": "sk",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Tatarishte e Krimesë",
+      "bcp_47_code": "sq",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "кримскотатарска",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Kitatari cha Krimea",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "க்ரைமியன் டாடர்",
+      "bcp_47_code": "ta",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "క్రైమియమ్ టాటర్",
+      "bcp_47_code": "te",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ตาตาร์ไครเมีย",
+      "bcp_47_code": "th",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Crimean Tatar",
+      "bcp_47_code": "tl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "کریمیائی تاتار",
+      "bcp_47_code": "ur",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "qrim-tatar",
+      "bcp_47_code": "uz",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "tiếng Tatar Krym",
+      "bcp_47_code": "vi",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "克里米亚鞑靼语（西里尔文）",
+      "bcp_47_code": "cmn",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "i-Crimean Tatar",
+      "bcp_47_code": "zu",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Krymskotatarsko godka",
+      "bcp_47_code": "szl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "克里米亞韃靼語",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "krimeako tatarera",
+      "bcp_47_code": "eu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "język krymskotatarski",
+      "bcp_47_code": "pl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Аҟрымҭаҭар бызшәа",
+      "bcp_47_code": "ab",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "கிரிமிய துருக்கி மொழி",
+      "bcp_47_code": "ta",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Krım tatar dili",
+      "bcp_47_code": "gag",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tatareg krimea",
+      "bcp_47_code": "br",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Κριμαϊκή γλώσσα",
+      "bcp_47_code": "el",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Qırımtatar tili",
+      "bcp_47_code": "crh",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "کریمیائی بولی",
+      "bcp_47_code": "pnb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ҡырымтатар теле",
+      "bcp_47_code": "ba",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "krime-tatara lingvo",
+      "bcp_47_code": "eo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "крымскотатарский язык",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tártaru de crimea",
+      "bcp_47_code": "ast",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Кърымтатар тил",
+      "bcp_47_code": "krc",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "кримскотатарски јазик",
+      "bcp_47_code": "mk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "кримськотатарська мова",
+      "bcp_47_code": "uk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "крымскататарская мова",
+      "bcp_47_code": "be",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "krimtatarisk",
+      "bcp_47_code": "nn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Крымтотара кыв",
+      "bcp_47_code": "kv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Krımtatar dili",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "krimskotatarski jezik",
+      "bcp_47_code": "hr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Қырым татары тілі",
+      "bcp_47_code": "kk",
+      "iso_15924_code": "cyrl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Idioma tartre crimeu",
+      "bcp_47_code": "an",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Crimean turch",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Крым бигер кыл",
+      "bcp_47_code": "udm",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "كريمتتارى",
+      "bcp_47_code": "arz",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "قرىم تاتار تىلى",
+      "bcp_47_code": "ug",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Крымонь татаронь кяль",
+      "bcp_47_code": "mdf",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "кырымтатар теле",
+      "bcp_47_code": "tt",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Крым тутарĕсен чĕлхи",
+      "bcp_47_code": "cv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "limba tătară crimeeană",
+      "bcp_47_code": "ro",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ภาษาตาตาร์ไครเมีย",
+      "bcp_47_code": "th",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tatareg Crimea",
+      "bcp_47_code": "cy",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Крымтатар йылме",
+      "bcp_47_code": "mhr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "хъырымаг-тæтæйраг æвзаг",
+      "bcp_47_code": "os",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Krīma tuotuoriu kalba",
+      "bcp_47_code": "sgs",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "кримскотатарски език",
+      "bcp_47_code": "bg",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "زبان تاتاری کریمه",
+      "bcp_47_code": "fa",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "кримскотатарски језик",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "krimas tatāru valoda",
+      "bcp_47_code": "lv",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua Tatarica Crimensis",
+      "bcp_47_code": "la",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "língua tártara da crimeia",
+      "bcp_47_code": "pt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Crimean Tatar",
+      "bcp_47_code": "sco",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "krimskotatarski jezik",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "latn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Кырыым татаардарын тыллара",
+      "bcp_47_code": "sah",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "qrimtatar tili",
+      "bcp_47_code": "uz",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "krimskotatarski jezik",
+      "bcp_47_code": "sh",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lingua tártara de Crimea",
+      "bcp_47_code": "gl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "تتارية القرم",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bahasa Tatar Krimea",
+      "bcp_47_code": "id",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tàtaru di Crimèa",
+      "bcp_47_code": "scn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tatar de crimèa",
+      "bcp_47_code": "oc",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Qırımtatar tili",
+      "bcp_47_code": "kaa",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ГӀирман гӀезалойн мотт",
+      "bcp_47_code": "ce",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "krímtataríska",
+      "bcp_47_code": "is",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "krimmitatari keel",
+      "bcp_47_code": "et",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "克里米亞韃靼文",
+      "bcp_47_code": "yue",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "قیریم تاتار تورکجه‌سی",
+      "bcp_47_code": "azb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Крым-татар чӀал",
+      "bcp_47_code": "lez",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "کریمیائی تاتاری زبان",
+      "bcp_47_code": "ur",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ყირიმელი თათრების ენა",
+      "bcp_47_code": "ka",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tatar ta' Krimea",
+      "bcp_47_code": "mt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "qırımtatar tele",
+      "bcp_47_code": "tt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "An Tatairis Chriméach",
+      "bcp_47_code": "ga",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Wikang Krimeanong Tartaro",
+      "bcp_47_code": "tl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ক্রিমীয় তাতার ভাষা",
+      "bcp_47_code": "bn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Крымень-татаронь кель",
+      "bcp_47_code": "myv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "krimantataran kel'",
+      "bcp_47_code": "vep",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tataru di Crimea",
+      "bcp_47_code": "co",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ᱠᱨᱤᱢᱤᱱ ᱴᱟᱛᱟᱨ",
+      "bcp_47_code": "sat",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "克里米亚鞑靼语",
+      "bcp_47_code": "wuu",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Gjuha tatare e Krimesë",
+      "bcp_47_code": "sq",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "krimskotatarski jezik",
+      "bcp_47_code": "bs",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tàtaro crimen",
+      "bcp_47_code": "vec",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Krimtataarisk spriak",
+      "bcp_47_code": "frr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Basa Tatar Kriméa",
+      "bcp_47_code": "su",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tatarish Chrimeeagh",
+      "bcp_47_code": "gv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bahasa Tatar Crimea",
+      "bcp_47_code": "ms",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Krym tatar dili",
+      "bcp_47_code": "tk",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "teteriya Krîmê",
+      "bcp_47_code": "ku",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ਕਰੀਮੀਨ ਟਾਟਾਰ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Crimean Tatar-ngṳ̄",
+      "bcp_47_code": "cdo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Krymsko godka",
+      "bcp_47_code": "szl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "克里米亞塔塔爾文",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "克里米亞塔塔爾語",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "克里米亞土耳其語",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "克里米亞土耳其文",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "krimeera",
+      "bcp_47_code": "eu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "krimear turkiera",
+      "bcp_47_code": "eu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Акрымтатар бызшәа",
+      "bcp_47_code": "ab",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Акрымҭаҭар бызшәа",
+      "bcp_47_code": "ab",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tártaro crimeneano",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idioma tártaro de crimea",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tartaro de crimea",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tartaro crimeneano",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idioma tartaro de crimea",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Κριμαϊκή Ταταρική γλώσσα",
+      "bcp_47_code": "el",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Qırımtatarca",
+      "bcp_47_code": "crh",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Qırımca",
+      "bcp_47_code": "crh",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Къырымтатар тили",
+      "bcp_47_code": "crh",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Qırım tili",
+      "bcp_47_code": "crh",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Qırım Tatar tili",
+      "bcp_47_code": "crh",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Qırımtatar tili",
+      "bcp_47_code": "ba",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ҡырым татар теле",
+      "bcp_47_code": "ba",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "krimturkiska",
+      "bcp_47_code": "sv",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Krims",
+      "bcp_47_code": "nl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Krimtataars",
+      "bcp_47_code": "nl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "língua tártara da criméia",
+      "bcp_47_code": "pt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "krimea lingvo",
+      "bcp_47_code": "eo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "krimea tatara lingvo",
+      "bcp_47_code": "eo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "krimee tatara lingvo",
+      "bcp_47_code": "eo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "крымский язык",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "язык крымских татар",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "крымскотатарский",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "крымско-татарский язык",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kırım-Tatarcası",
+      "bcp_47_code": "tr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kırımca",
+      "bcp_47_code": "tr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kırım Tatar Türkçesi",
+      "bcp_47_code": "tr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kırım Tatarca",
+      "bcp_47_code": "tr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kırım Tatar dili",
+      "bcp_47_code": "tr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kırım Türkçesi",
+      "bcp_47_code": "tr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kırımtatarcası",
+      "bcp_47_code": "tr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Кърым татар тил",
+      "bcp_47_code": "krc",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Къырым татар тил",
+      "bcp_47_code": "krc",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Кърым тил",
+      "bcp_47_code": "krc",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Кърымтатарча",
+      "bcp_47_code": "krc",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Къырымтатар тил",
+      "bcp_47_code": "krc",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "кримська мова",
+      "bcp_47_code": "uk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "кримсько-татарська мова",
+      "bcp_47_code": "uk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "мова кримських татар",
+      "bcp_47_code": "uk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "крымская мова",
+      "bcp_47_code": "be",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "krimtatarisk språk",
+      "bcp_47_code": "nn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "krim-tatarisk",
+      "bcp_47_code": "nn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "krimtatarsk",
+      "bcp_47_code": "nn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Крым-Тотара кыв",
+      "bcp_47_code": "kv",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Krım dili",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Krım-tatar dili",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Krım Tatar dili",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Krım Tatarcası",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "krimskotatarski",
+      "bcp_47_code": "hr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Idioma tartre crimeano",
+      "bcp_47_code": "an",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Idioma tartre de Crimea",
+      "bcp_47_code": "an",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Idioma tartre crimeán",
+      "bcp_47_code": "an",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "لغه كريمتتارى",
+      "bcp_47_code": "arz",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "크림타타르어",
+      "bcp_47_code": "ko",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Qrim tatar tili",
+      "bcp_47_code": "ug",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua tartara di crimea",
+      "bcp_47_code": "it",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua tatara di crimea",
+      "bcp_47_code": "it",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Qırımtatar Tili",
+      "bcp_47_code": "de",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Qırımtatarca",
+      "bcp_47_code": "de",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Krimtürkisch",
+      "bcp_47_code": "de",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "krimtatarische Sprache",
+      "bcp_47_code": "de",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "クリミアタタール語",
+      "bcp_47_code": "ja",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Krymčina",
+      "bcp_47_code": "sk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Krymskotatárčina",
+      "bcp_47_code": "sk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Qırım Tatar tele",
+      "bcp_47_code": "tt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Qırım Tatarçası",
+      "bcp_47_code": "tt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "qırımça",
+      "bcp_47_code": "tt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "кырымча",
+      "bcp_47_code": "tt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Кырым татар теле",
+      "bcp_47_code": "tt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Кырым татарчасы",
+      "bcp_47_code": "tt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Крым-тутар чĕлхи",
+      "bcp_47_code": "cv",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Крым тутар чĕлхи",
+      "bcp_47_code": "cv",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "limba tatara crimeeana",
+      "bcp_47_code": "ro",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tătara crimeeană",
+      "bcp_47_code": "ro",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ภาษาไครเมีย",
+      "bcp_47_code": "th",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ภาษาตุรกีไครเมีย",
+      "bcp_47_code": "th",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "qırımtatarca",
+      "bcp_47_code": "ca",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tàrtar de crimea",
+      "bcp_47_code": "ca",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tartareg Crimea",
+      "bcp_47_code": "cy",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Крымсуас йылме",
+      "bcp_47_code": "mhr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "krymskotatarština",
+      "bcp_47_code": "cs",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "krymská turečtina",
+      "bcp_47_code": "cs",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "krymština",
+      "bcp_47_code": "cs",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Хъырымтæтæйраг æвзаг",
+      "bcp_47_code": "os",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "кримско-татарски език",
+      "bcp_47_code": "bg",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "تاتار کریمهٔ ای",
+      "bcp_47_code": "fa",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "تاتار کریمه",
+      "bcp_47_code": "fa",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "تاتار کریمه ای",
+      "bcp_47_code": "fa",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "krymų kalba",
+      "bcp_47_code": "lt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua tàtara di Crimèa",
+      "bcp_47_code": "scn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tàrtaru di Crimèa",
+      "bcp_47_code": "scn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua tàrtara di Crimèa",
+      "bcp_47_code": "scn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tatar criméen",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tiếng Tatar Crưm",
+      "bcp_47_code": "vi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tiếng Tatar Crimea",
+      "bcp_47_code": "vi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tatairis Chriméach",
+      "bcp_47_code": "ga",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "krimantotaran kel'",
+      "bcp_47_code": "vep",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "krimintataarin kieli",
+      "bcp_47_code": "fi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua tatara di Crimea",
+      "bcp_47_code": "co",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "język krymski",
+      "bcp_47_code": "pl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ਕਰੀਮੀਨ ਟਾਟਾਰ ਭਾਸ਼ਾ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "krimskotatarski jezik",
+      "bcp_47_code": "sl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Qırımtatar tele",
+      "bcp_47_code": "tt",
+      "source": "LEXVO"
+    },
+    {
+      "name": "tatar de crimé",
+      "bcp_47_code": "fr",
+      "source": "LEXVO"
+    },
+    {
+      "name": "кримски јазик",
+      "bcp_47_code": "mk",
+      "source": "LEXVO"
+    },
+    {
+      "name": "qırımtatar tili",
+      "bcp_47_code": "crh",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "къырымтатар тили",
+      "bcp_47_code": "crh",
+      "source": "GOOGLE_RESEARCH"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "arab",
+        "is_historical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "001",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 45.0,
+        "longitude": 34.08,
+        "source": "GLOTTOLOG"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "cyrl",
+        "is_canonical": false,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "001",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 45.0,
+        "longitude": 34.08,
+        "source": "GLOTTOLOG"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "001",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 45.0,
+        "longitude": 34.08,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

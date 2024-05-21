@@ -1,0 +1,56 @@
+{
+  "bcp_47_code": "dno",
+  "iso_639_3_code": "dno",
+  "glottocode": "ndru1234",
+  "wikidata_id": "Q60785094",
+  "total_population": 110000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Central Sudanic language of the DR Congo and Uganda",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Ndrulo",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Northern Lendu",
+      "bcp_47_code": "en",
+      "source": "IETF"
+    },
+    {
+      "name": "langue ndrulo",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "xxxx",
+        "is_canonical": true,
+        "source": "SOURCE_UNSPECIFIED"
+      },
+      "locale": {
+        "iso_3166_code": "cd",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 110000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 2.25,
+        "longitude": 30.87,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

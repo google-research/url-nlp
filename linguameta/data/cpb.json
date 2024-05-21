@@ -1,0 +1,64 @@
+{
+  "bcp_47_code": "cpb",
+  "iso_639_3_code": "cpb",
+  "glottocode": "ucay1237",
+  "wikidata_id": "Q3501858",
+  "total_population": 50000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Ucayali-Yurúa Ashéninka",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Lenga ashéninka",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ucayali–Yurúa Ashéninka",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ucayali-yurúa ashéninka jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ucayali-Yurúa Ashéninka",
+      "bcp_47_code": "hif",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "pe",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 50000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": -9.49424,
+        "longitude": -73.1836,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

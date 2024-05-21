@@ -1,0 +1,103 @@
+{
+  "bcp_47_code": "byo",
+  "iso_639_3_code": "byo",
+  "glottocode": "biyo1243",
+  "wikidata_id": "Q56848",
+  "total_population": 120000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Language spoken in Yunnan, China",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Biyo",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "biyoeg",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "biyo",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Piyo",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "бийо",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "biyo jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Biyo",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kibiyo",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Wikang Piyo",
+      "bcp_47_code": "tl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "碧約語",
+      "bcp_47_code": "cmn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "碧约语",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "xxxx",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "cn",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 120000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 22.511,
+        "longitude": 101.652,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

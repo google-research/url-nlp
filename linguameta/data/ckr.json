@@ -1,0 +1,77 @@
+{
+  "bcp_47_code": "ckr",
+  "iso_639_3_code": "ckr",
+  "glottocode": "kair1267",
+  "wikidata_id": "Q3503002",
+  "total_population": 900,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Kairak",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "kairak",
+      "bcp_47_code": "nn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kairak jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kairakeg",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Kairak",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kikairak",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kairak",
+      "bcp_47_code": "ilo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "pg",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 900,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": -4.46941,
+        "longitude": 151.98,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

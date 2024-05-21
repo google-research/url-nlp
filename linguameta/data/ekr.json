@@ -1,0 +1,83 @@
+{
+  "bcp_47_code": "ekr",
+  "iso_639_3_code": "ekr",
+  "glottocode": "yace1238",
+  "wikidata_id": "Q36901",
+  "total_population": 50000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Yace",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Kiyace",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Yace",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Yace",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "yace jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "yace",
+      "bcp_47_code": "ca",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "yace",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "yace",
+      "bcp_47_code": "oc",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "ng",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 50000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 6.84259,
+        "longitude": 8.84077,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

@@ -1,0 +1,782 @@
+{
+  "bcp_47_code": "ami",
+  "iso_639_3_code": "ami",
+  "glottocode": "amis1246",
+  "wikidata_id": "Q35132",
+  "total_population": 140000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "language of the Amis",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Amis",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Amis",
+      "bcp_47_code": "af",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "አሚስኛ",
+      "bcp_47_code": "am",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "الآميسية",
+      "bcp_47_code": "ar",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "আমিছ",
+      "bcp_47_code": "as",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Amis",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "аміс",
+      "bcp_47_code": "be",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "амис",
+      "bcp_47_code": "bg",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "আমিস",
+      "bcp_47_code": "bn",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "amis",
+      "bcp_47_code": "bs",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "amis",
+      "bcp_47_code": "ca",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "amis",
+      "bcp_47_code": "cs",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "amis",
+      "bcp_47_code": "da",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Amisisch",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Amis",
+      "bcp_47_code": "el",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "amis",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "amise",
+      "bcp_47_code": "et",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "amistarra",
+      "bcp_47_code": "eu",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "آمیس",
+      "bcp_47_code": "fa",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "amis",
+      "bcp_47_code": "fi",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Amis",
+      "bcp_47_code": "fil",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "amis",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Amis",
+      "bcp_47_code": "gl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Amisisch",
+      "bcp_47_code": "gsw",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "અમિસ",
+      "bcp_47_code": "gu",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "एमिस",
+      "bcp_47_code": "hi",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "amis",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "amis",
+      "bcp_47_code": "hu",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ամիս",
+      "bcp_47_code": "hy",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Amis",
+      "bcp_47_code": "id",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Amis",
+      "bcp_47_code": "in",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "amis",
+      "bcp_47_code": "is",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "amis",
+      "bcp_47_code": "it",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "אמיס",
+      "bcp_47_code": "he",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "アミ語",
+      "bcp_47_code": "ja",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ამიური",
+      "bcp_47_code": "ka",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Амис",
+      "bcp_47_code": "kk",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "អាមីស",
+      "bcp_47_code": "km",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ಅಮಿಸ್",
+      "bcp_47_code": "kn",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "아미어",
+      "bcp_47_code": "ko",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Амисче",
+      "bcp_47_code": "ky",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Amis",
+      "bcp_47_code": "ln",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ອະມິສ",
+      "bcp_47_code": "lo",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "amių kalba",
+      "bcp_47_code": "lt",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "amu",
+      "bcp_47_code": "lv",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "амис",
+      "bcp_47_code": "mk",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ആമിസ്",
+      "bcp_47_code": "ml",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Амис",
+      "bcp_47_code": "mn",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Amis",
+      "bcp_47_code": "mo",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "अमीस",
+      "bcp_47_code": "mr",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Amis",
+      "bcp_47_code": "ms",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "အေးမစ်",
+      "bcp_47_code": "my",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "amis",
+      "bcp_47_code": "nb",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "अमिस",
+      "bcp_47_code": "ne",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Amis",
+      "bcp_47_code": "nl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "amis",
+      "bcp_47_code": "no",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ଆମିସ୍",
+      "bcp_47_code": "or",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ਇਮਿਸ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "amis",
+      "bcp_47_code": "pl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "amis",
+      "bcp_47_code": "pt",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "amis",
+      "bcp_47_code": "ro",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "амисский",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "අමිස්",
+      "bcp_47_code": "si",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "amis",
+      "bcp_47_code": "sk",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "amis",
+      "bcp_47_code": "sl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Amisisht",
+      "bcp_47_code": "sq",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "амијска",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "amis",
+      "bcp_47_code": "sv",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Kiamisi",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ஆமிஸ்",
+      "bcp_47_code": "ta",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "అమిస్",
+      "bcp_47_code": "te",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "อามีส์",
+      "bcp_47_code": "th",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Amis",
+      "bcp_47_code": "tl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Amis",
+      "bcp_47_code": "tr",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "аміська",
+      "bcp_47_code": "uk",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "امیس",
+      "bcp_47_code": "ur",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "amis",
+      "bcp_47_code": "uz",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "tiếng Amis",
+      "bcp_47_code": "vi",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "阿美语",
+      "bcp_47_code": "cmn",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "isi-Amis",
+      "bcp_47_code": "zu",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "阿美語",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "língua amis",
+      "bcp_47_code": "pt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga amis",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "амисский язык",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Â-mî-ngî",
+      "bcp_47_code": "hak",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "амиски јазик",
+      "bcp_47_code": "mk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua amis",
+      "bcp_47_code": "it",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "amise keel",
+      "bcp_47_code": "et",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "amis jezik",
+      "bcp_47_code": "hr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Amis",
+      "bcp_47_code": "hif",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kiamis",
+      "bcp_47_code": "sw",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Amis",
+      "bcp_47_code": "ilo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "język amis",
+      "bcp_47_code": "pl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idioma amis",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idioma amis",
+      "bcp_47_code": "ast",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Amis-gí",
+      "bcp_47_code": "nan",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tataramon na Amis",
+      "bcp_47_code": "bcl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lingua amis",
+      "bcp_47_code": "gl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "أميس",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "آميس",
+      "bcp_47_code": "ary",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bahasa Amis",
+      "bcp_47_code": "id",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "забони амисӣ",
+      "bcp_47_code": "tg",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "amisin kieli",
+      "bcp_47_code": "fi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "amis",
+      "bcp_47_code": "vec",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Sowal no Pangcah",
+      "bcp_47_code": "ami",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ukamu nu Pangcah",
+      "bcp_47_code": "szy",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "аміская мова",
+      "bcp_47_code": "be",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "阿眉斯语",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "阿美族語",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "那荳蘭語",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "阿眉语",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "амис",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Sabari",
+      "bcp_47_code": "nl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Pagcah",
+      "bcp_47_code": "nl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lam-Si-Hoaans",
+      "bcp_47_code": "nl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bakurut",
+      "bcp_47_code": "nl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Maraans",
+      "bcp_47_code": "nl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Pangcah",
+      "bcp_47_code": "nl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Pangtsah",
+      "bcp_47_code": "nl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Amia",
+      "bcp_47_code": "nl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "pangcah",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "langue amis",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ナタオラン語",
+      "bcp_47_code": "ja",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "阿美語",
+      "bcp_47_code": "ja",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "パンツァ語",
+      "bcp_47_code": "ja",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "パンツァー語",
+      "bcp_47_code": "ja",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "パンツァハ語",
+      "bcp_47_code": "ja",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "邦査語",
+      "bcp_47_code": "ja",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Pangcah",
+      "bcp_47_code": "ami",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "tw",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 140000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 23.0917,
+        "longitude": 121.348,
+        "source": "GOOGLE_RESEARCH"
+      }
+    }
+  ]
+}

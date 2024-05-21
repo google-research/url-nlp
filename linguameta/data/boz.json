@@ -1,0 +1,80 @@
+{
+  "bcp_47_code": "boz",
+  "iso_639_3_code": "boz",
+  "glottocode": "tiey1235",
+  "wikidata_id": "Q32860401",
+  "total_population": 230000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Tiéyaxo Bozo",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "bozo de tiéyaxo",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tieyaxo Lenga Bozo",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kibozo-Tieyaxo",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tiéyaxo bozo jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tieyaxo",
+      "bcp_47_code": "boz",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Tigemaxo",
+      "bcp_47_code": "boz",
+      "source": "GOOGLE_RESEARCH"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "ml",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 230000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 14.1223,
+        "longitude": -5.08609,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

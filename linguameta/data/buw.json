@@ -1,0 +1,91 @@
+{
+  "bcp_47_code": "buw",
+  "iso_639_3_code": "buw",
+  "glottocode": "bubi1250",
+  "wikidata_id": "Q35017",
+  "total_population": 4000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Bubi",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Bubi",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Bubi",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Vove",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bubi jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "pove",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "pove",
+      "bcp_47_code": "oc",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "pové",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "puvi",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "pouvi",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "ga",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 4000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": -1.16762,
+        "longitude": 12.32251,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

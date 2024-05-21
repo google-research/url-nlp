@@ -1,0 +1,60 @@
+{
+  "bcp_47_code": "ayr",
+  "iso_639_3_code": "ayr",
+  "macrolanguage_bcp_47_code": "ay",
+  "glottocode": "cent2142",
+  "wikidata_id": "Q20526610",
+  "total_population": 1700000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Central Aymara",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "centralnoajmarski jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Central Aymara",
+      "bcp_47_code": "hif",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "aymara central",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "bo",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 1700000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": -17.0,
+        "longitude": -68.5,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

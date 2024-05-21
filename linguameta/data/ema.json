@@ -1,0 +1,82 @@
+{
+  "bcp_47_code": "ema",
+  "deprecated_bcp_47_code": "uok",
+  "iso_639_3_code": "ema",
+  "glottocode": "emai1241",
+  "wikidata_id": "Q35428",
+  "total_population": 100000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Emai-Iuleha-Ora",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Emai",
+      "bcp_47_code": "en",
+      "source": "WIKTIONARY"
+    },
+    {
+      "name": "Lenga Emai-Iuleha-Ora",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ivbiosakon",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ivbiosakon",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "emai-iuleha-ora jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "emai-iuleha-ora",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "emai",
+      "bcp_47_code": "oc",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "ng",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 100000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 7.09089,
+        "longitude": 5.84494,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

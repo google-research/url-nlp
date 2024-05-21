@@ -1,0 +1,1805 @@
+{
+  "bcp_47_code": "bo",
+  "iso_639_3_code": "bod",
+  "iso_639_2b_code": "tib",
+  "glottocode": "tibe1272",
+  "wikidata_id": "Q34271",
+  "total_population": 2800000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Tibeto-Burman language",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Tibetan",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "атибет",
+      "bcp_47_code": "ab",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tibettaans",
+      "bcp_47_code": "af",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ቲቤታንኛ",
+      "bcp_47_code": "am",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "التبتية",
+      "bcp_47_code": "ar",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "তিব্বতী",
+      "bcp_47_code": "as",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tibetanu",
+      "bcp_47_code": "ast",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tibet",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "тыбецкая",
+      "bcp_47_code": "be",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "тибетски",
+      "bcp_47_code": "bg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "تبتی",
+      "bcp_47_code": "bgn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "তিব্বতি",
+      "bcp_47_code": "bn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "བོད་སྐད་",
+      "bcp_47_code": "bo",
+      "source": "CLDR"
+    },
+    {
+      "name": "tibetaneg",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "तिब्बती",
+      "bcp_47_code": "brx",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tibetanski",
+      "bcp_47_code": "bs",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ትበትንኛ",
+      "bcp_47_code": "byn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tibetà",
+      "bcp_47_code": "ca",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "𑄖𑄨𑄛𑄴𑄝𑄧𑄖𑄨",
+      "bcp_47_code": "ccp",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "тибетхойн",
+      "bcp_47_code": "ce",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ᏘᏇᏔᏂ",
+      "bcp_47_code": "chr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "تەبەتی",
+      "bcp_47_code": "ckb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tibetština",
+      "bcp_47_code": "cs",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tibeteg",
+      "bcp_47_code": "cy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tibetansk",
+      "bcp_47_code": "da",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tibetisch",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tibetšćina",
+      "bcp_47_code": "dsb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "བོད་ཁ",
+      "bcp_47_code": "dz",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tibetagbe",
+      "bcp_47_code": "ee",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Θιβετιανά",
+      "bcp_47_code": "el",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tibeta",
+      "bcp_47_code": "eo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tibetano",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tiibeti",
+      "bcp_47_code": "et",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tibetera",
+      "bcp_47_code": "eu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "تبتی",
+      "bcp_47_code": "fa",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tiibet",
+      "bcp_47_code": "fi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tibetan",
+      "bcp_47_code": "fil",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tibetskt",
+      "bcp_47_code": "fo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tibétain",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tibetan",
+      "bcp_47_code": "fur",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tibetaansk",
+      "bcp_47_code": "fy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tibéidis",
+      "bcp_47_code": "ga",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tibeitis",
+      "bcp_47_code": "gd",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ትበትንኛ",
+      "bcp_47_code": "gez",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tibetano",
+      "bcp_47_code": "gl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tibeetisch",
+      "bcp_47_code": "gsw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "તિબેટીયન",
+      "bcp_47_code": "gu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tibetan",
+      "bcp_47_code": "ha",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "טיבטית",
+      "bcp_47_code": "he",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "तिब्बती",
+      "bcp_47_code": "hi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tibetski",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tibetšćina",
+      "bcp_47_code": "hsb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tibeti",
+      "bcp_47_code": "hu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "տիբեթերեն",
+      "bcp_47_code": "hy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tibetano",
+      "bcp_47_code": "ia",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tibet",
+      "bcp_47_code": "id",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tibetan",
+      "bcp_47_code": "ig",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tíbeska",
+      "bcp_47_code": "is",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tibetano",
+      "bcp_47_code": "it",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "チベット語",
+      "bcp_47_code": "ja",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tibet",
+      "bcp_47_code": "jv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ტიბეტური",
+      "bcp_47_code": "ka",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tatibitant",
+      "bcp_47_code": "kab",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tibetanu",
+      "bcp_47_code": "kea",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "timetỹnũ",
+      "bcp_47_code": "kgp",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "тибет тілі",
+      "bcp_47_code": "kk",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ទីបេ",
+      "bcp_47_code": "km",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ಟಿಬೇಟಿಯನ್",
+      "bcp_47_code": "kn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "티베트어",
+      "bcp_47_code": "ko",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "तिबेटी",
+      "bcp_47_code": "kok",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "تِبتی",
+      "bcp_47_code": "ks",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tibehtesch",
+      "bcp_47_code": "ksh",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tîbetî",
+      "bcp_47_code": "ku",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "тибетче",
+      "bcp_47_code": "ky",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tibetana",
+      "bcp_47_code": "la",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tibetesch",
+      "bcp_47_code": "lb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tibetan",
+      "bcp_47_code": "lij",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tibetan Iyápi",
+      "bcp_47_code": "lkt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ທິເບທັນ",
+      "bcp_47_code": "lo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "تأبأتی",
+      "bcp_47_code": "lrc",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tibetiečių",
+      "bcp_47_code": "lt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tibetiešu",
+      "bcp_47_code": "lv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "तिब्बती",
+      "bcp_47_code": "mai",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tipete",
+      "bcp_47_code": "mi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "тибетски",
+      "bcp_47_code": "mk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ടിബറ്റൻ",
+      "bcp_47_code": "ml",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "төвд",
+      "bcp_47_code": "mn",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "तिबेटी",
+      "bcp_47_code": "mr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tibet",
+      "bcp_47_code": "ms",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tibetjan",
+      "bcp_47_code": "mt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "တိဘက်",
+      "bcp_47_code": "my",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "تبتی",
+      "bcp_47_code": "mzn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tibeetsch",
+      "bcp_47_code": "nds",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "तिब्बती",
+      "bcp_47_code": "ne",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tibetaans",
+      "bcp_47_code": "nl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tibetansk",
+      "bcp_47_code": "no",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ߕߌߓߋߕߌߞߊ߲",
+      "bcp_47_code": "nqo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tibetan",
+      "bcp_47_code": "oc",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ତିବ୍ବତୀୟ",
+      "bcp_47_code": "or",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ਤਿੱਬਤੀ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tibẹ́tan",
+      "bcp_47_code": "pcm",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tybetański",
+      "bcp_47_code": "pl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "تبتي",
+      "bcp_47_code": "ps",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tibetano",
+      "bcp_47_code": "pt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tibetano Simi",
+      "bcp_47_code": "qu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tibetan",
+      "bcp_47_code": "rm",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tibetană",
+      "bcp_47_code": "ro",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "тибетский",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Тибиэттии",
+      "bcp_47_code": "sah",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ᱛᱤᱵᱮᱛᱟᱱ",
+      "bcp_47_code": "sat",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tibetanu",
+      "bcp_47_code": "sc",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "تبيتائي",
+      "bcp_47_code": "sd",
+      "iso_15924_code": "arab",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tibetagiella",
+      "bcp_47_code": "se",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ටිබෙට්",
+      "bcp_47_code": "si",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tibetčina",
+      "bcp_47_code": "sk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tibetanščina",
+      "bcp_47_code": "sl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tiibetkielâ",
+      "bcp_47_code": "smn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tibeetaan",
+      "bcp_47_code": "so",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tibetisht",
+      "bcp_47_code": "sq",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "тибетански",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tibetanska",
+      "bcp_47_code": "sv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kitibeti",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tybetański",
+      "bcp_47_code": "szl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "திபெத்தியன்",
+      "bcp_47_code": "ta",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "టిబెటన్",
+      "bcp_47_code": "te",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "тибетӣ",
+      "bcp_47_code": "tg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ทิเบต",
+      "bcp_47_code": "th",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ቲበታንኛ",
+      "bcp_47_code": "ti",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ትበትንኛ",
+      "bcp_47_code": "tig",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tibet dili",
+      "bcp_47_code": "tk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "lea fakatipeti",
+      "bcp_47_code": "to",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tibetçe",
+      "bcp_47_code": "tr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "тибет",
+      "bcp_47_code": "tt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "تىبەتچە",
+      "bcp_47_code": "ug",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "тибетська",
+      "bcp_47_code": "uk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "تبتی",
+      "bcp_47_code": "ur",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tibet",
+      "bcp_47_code": "uz",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tiếng Tây Tạng",
+      "bcp_47_code": "vi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tibetiš",
+      "bcp_47_code": "wae",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tibetan",
+      "bcp_47_code": "wo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "טיבעטיש",
+      "bcp_47_code": "yi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tibetán",
+      "bcp_47_code": "yo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tibetanu",
+      "bcp_47_code": "yrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "藏文",
+      "bcp_47_code": "yue",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "藏语",
+      "bcp_47_code": "cmn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "isi-Tibetan",
+      "bcp_47_code": "zu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ቲቤትኛ",
+      "bcp_47_code": "am",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "التيبتية",
+      "bcp_47_code": "ar",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "তিব্বতীয়",
+      "bcp_47_code": "as",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Tibet dili",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "তিব্বতী",
+      "bcp_47_code": "bn",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Tibetano",
+      "bcp_47_code": "gl",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Tibetisch",
+      "bcp_47_code": "gsw",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "તિબેટન",
+      "bcp_47_code": "gu",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "tibetanski",
+      "bcp_47_code": "hr",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Tibet",
+      "bcp_47_code": "in",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "tíbetska",
+      "bcp_47_code": "is",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Тибет",
+      "bcp_47_code": "kk",
+      "iso_15924_code": "cyrl",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Тибетче",
+      "bcp_47_code": "ky",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Tibétain",
+      "bcp_47_code": "ln",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ທິເບດ",
+      "bcp_47_code": "lo",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "തിബറ്റന്",
+      "bcp_47_code": "ml",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Төвд хэл",
+      "bcp_47_code": "mn",
+      "iso_15924_code": "cyrl",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Tibetană",
+      "bcp_47_code": "mo",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "तिबेटन",
+      "bcp_47_code": "mr",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "tibetansk",
+      "bcp_47_code": "nb",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Tibetčina",
+      "bcp_47_code": "sk",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "tibetiane",
+      "bcp_47_code": "sq",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "тибетски",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "திபேத்தியன்",
+      "bcp_47_code": "ta",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Tibetan",
+      "bcp_47_code": "tl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "藏文",
+      "bcp_47_code": "cmn",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "བོད་སྐད།",
+      "bcp_47_code": "bo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "język tybetański",
+      "bcp_47_code": "pl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tibet simi",
+      "bcp_47_code": "qu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "திபெத்திய மொழி",
+      "bcp_47_code": "ta",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bahasa Tibet",
+      "bcp_47_code": "ms",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tiibeti keel",
+      "bcp_47_code": "et",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tibeteg",
+      "bcp_47_code": "br",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Câng-ngṳ̄",
+      "bcp_47_code": "cdo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "língua tibetana",
+      "bcp_47_code": "pt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tibeta lingvo",
+      "bcp_47_code": "eo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "सेँ भाषा",
+      "bcp_47_code": "new",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "тибетский язык",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Төвдин келн",
+      "bcp_47_code": "xal",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "тибетски јазик",
+      "bcp_47_code": "mk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tibetisk",
+      "bcp_47_code": "stq",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tiibetin kieli",
+      "bcp_47_code": "fi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "тибетська мова",
+      "bcp_47_code": "uk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tibetansk",
+      "bcp_47_code": "nn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Тибиэт тыла",
+      "bcp_47_code": "sah",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "तिब्बती भाषा",
+      "bcp_47_code": "ne",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Тибет кыв",
+      "bcp_47_code": "kv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Тибет тілдері",
+      "bcp_47_code": "kk",
+      "iso_15924_code": "cyrl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Chōng-gí",
+      "bcp_47_code": "nan",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tibetin",
+      "bcp_47_code": "wa",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "لغه تيبيتى",
+      "bcp_47_code": "arz",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "тыбецкая мова",
+      "bcp_47_code": "be",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "زاڭزۇ تىلى",
+      "bcp_47_code": "ug",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tibetiešu valoda",
+      "bcp_47_code": "lv",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tibetan bhasa",
+      "bcp_47_code": "hif",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bahasa Tibet Lhasa",
+      "bcp_47_code": "id",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "തിബത്തൻ ഭാഷ",
+      "bcp_47_code": "ml",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tiếng Tạng",
+      "bcp_47_code": "vi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "तिब्बती भाषा",
+      "bcp_47_code": "hi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "забони тибетӣ",
+      "bcp_47_code": "tg",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "limba tibetană",
+      "bcp_47_code": "ro",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ภาษาทิเบต",
+      "bcp_47_code": "th",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "तिबेटी भाषा",
+      "bcp_47_code": "mr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "زبان تبتی",
+      "bcp_47_code": "fa",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "тибетски език",
+      "bcp_47_code": "bg",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "བོད་སྐད",
+      "bcp_47_code": "dz",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ტიბეტური ენა",
+      "bcp_47_code": "ka",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tibetiečių kalba",
+      "bcp_47_code": "lt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tibetish Veanagh",
+      "bcp_47_code": "gv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Standard Tibetan",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua Tibetana",
+      "bcp_47_code": "la",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "тибетански језик",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "centralnotibetanski jezik",
+      "bcp_47_code": "hr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Түбэд хэлэн",
+      "bcp_47_code": "bxr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "тыбэцкая мова",
+      "bcp_47_code": "be",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Phiêu-chún Chhông-ngî",
+      "bcp_47_code": "hak",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Төвүт дыл",
+      "bcp_47_code": "tyv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "तिब्बती भाषा",
+      "bcp_47_code": "mai",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tivetano ñe'ẽ",
+      "bcp_47_code": "gn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tibet tili",
+      "bcp_47_code": "uz",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Pagalagadan a Tibetano",
+      "bcp_47_code": "ilo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tibetki",
+      "bcp_47_code": "diq",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tibetan",
+      "bcp_47_code": "mt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tibetisc sprǣc",
+      "bcp_47_code": "ang",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "تبتی زبان",
+      "bcp_47_code": "ur",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "تبتی",
+      "bcp_47_code": "pnb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tibätänapük",
+      "bcp_47_code": "vo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Тибет тили",
+      "bcp_47_code": "ky",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ტიბეტური ნინა",
+      "bcp_47_code": "xmf",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lingua tibetana",
+      "bcp_47_code": "gl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "An Tibéidis",
+      "bcp_47_code": "ga",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "লাসা তিব্বতি",
+      "bcp_47_code": "bn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ତିବ୍ବତୀ ଭାଷା",
+      "bcp_47_code": "or",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Basa Tibét",
+      "bcp_47_code": "ban",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tibeetisk",
+      "bcp_47_code": "frr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tibehtagiella",
+      "bcp_47_code": "se",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "标准藏语",
+      "bcp_47_code": "wuu",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "तिब्बती भाषा",
+      "bcp_47_code": "awa",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ᱢᱟᱱᱚᱠ ᱛᱤᱵᱵᱚᱛᱤ",
+      "bcp_47_code": "sat",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Тибет теле",
+      "bcp_47_code": "tt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tibetan",
+      "bcp_47_code": "vec",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tiibeʹttǩiõll",
+      "bcp_47_code": "sms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lhasa Tibet dili",
+      "bcp_47_code": "tk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "معياري تبتي ژبه",
+      "bcp_47_code": "ps",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "તિબેટિયન",
+      "bcp_47_code": "gu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "تبتي",
+      "bcp_47_code": "sd",
+      "iso_15924_code": "arab",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "藏語",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "西藏語",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "བོད་ཡིག་",
+      "bcp_47_code": "bo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "བོད་ཡིག",
+      "bcp_47_code": "bo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "བོད་ཡིག།",
+      "bcp_47_code": "bo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Pui simi",
+      "bcp_47_code": "qu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lengua tibetana",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Câng-ùng",
+      "bcp_47_code": "cdo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tibetaanse taal",
+      "bcp_47_code": "nl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tibettaans",
+      "bcp_47_code": "nl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "تبتية",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tibetano padrão",
+      "bcp_47_code": "pt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idioma tibetano",
+      "bcp_47_code": "pt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tibetano central",
+      "bcp_47_code": "pt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tibete",
+      "bcp_47_code": "eo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "la tibeta",
+      "bcp_47_code": "eo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "सें भाय",
+      "bcp_47_code": "new",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tibet dili",
+      "bcp_47_code": "tr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tiibetti",
+      "bcp_47_code": "fi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tibetansk språk",
+      "bcp_47_code": "nn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "तिब्बतीय भाषा",
+      "bcp_47_code": "ne",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Chông-gí",
+      "bcp_47_code": "nan",
+      "iso_15924_code": "latn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tibétain de lhassa",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tibétain standard",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "langue tibétaine",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tibétain central",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "티벳어",
+      "bcp_47_code": "ko",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "서장어",
+      "bcp_47_code": "ko",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "تيبتى",
+      "bcp_47_code": "arz",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Zangzu tili",
+      "bcp_47_code": "ug",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tibetan",
+      "bcp_47_code": "hif",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tibetische Sprache",
+      "bcp_47_code": "de",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "蔵語",
+      "bcp_47_code": "ja",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tạng Ngữ",
+      "bcp_47_code": "vi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "तुलु भाषा",
+      "bcp_47_code": "hi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lhasa Tibetan",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "llengua tibetana",
+      "bcp_47_code": "ca",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tibetský jazyk",
+      "bcp_47_code": "cs",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tibeto kalba",
+      "bcp_47_code": "lt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tibetansk språk",
+      "bcp_47_code": "nb",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua tibetana",
+      "bcp_47_code": "it",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tibetan",
+      "bcp_47_code": "lfn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "藏語",
+      "bcp_47_code": "yue",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "標準藏文",
+      "bcp_47_code": "yue",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "標準藏語",
+      "bcp_47_code": "yue",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "བོད་སྐད།",
+      "bcp_47_code": "dz",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "тыбэцкая",
+      "bcp_47_code": "be",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tibetanski jezik",
+      "bcp_47_code": "hr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tibeteg Safonol",
+      "bcp_47_code": "cy",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tibeʹttǩiõll",
+      "bcp_47_code": "sms",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bahasa Tibet Baku",
+      "bcp_47_code": "id",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bahasa Tibet Umum",
+      "bcp_47_code": "id",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "તિબેટિયન ભાષા",
+      "bcp_47_code": "gu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "തിബത്തൻ",
+      "bcp_47_code": "ml",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tibetanski jezik",
+      "bcp_47_code": "sl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "standardna tibetanščina",
+      "bcp_47_code": "sl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "laška tibetanščina",
+      "bcp_47_code": "sl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lha-sa'i skad",
+      "bcp_47_code": "bo",
+      "source": "GOOGLE_RESEARCH"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": false,
+        "is_for_transliteration": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "cn",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 2800000,
+        "source": "CLDR"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "tibt",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "cn",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 2800000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_regional_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 28.3681,
+        "longitude": 90.1872,
+        "source": "GOOGLE_RESEARCH"
+      }
+    }
+  ]
+}

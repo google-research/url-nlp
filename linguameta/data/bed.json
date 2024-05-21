@@ -1,0 +1,94 @@
+{
+  "bcp_47_code": "bed",
+  "iso_639_3_code": "bed",
+  "glottocode": "bedo1237",
+  "wikidata_id": "Q4879330",
+  "total_population": 180,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Bedoanas",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "bedoanas jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Bedoanas",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kibedoanas",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bedoanas",
+      "bcp_47_code": "ilo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Wikang Bedoanas",
+      "bcp_47_code": "tl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bedoanas",
+      "bcp_47_code": "id",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bedoanas",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "język bedoanas",
+      "bcp_47_code": "pl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bahasa Bedoanas",
+      "bcp_47_code": "id",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "id",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 180,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": -2.74438,
+        "longitude": 132.566,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

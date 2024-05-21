@@ -1,0 +1,646 @@
+{
+  "bcp_47_code": "dcc",
+  "iso_639_3_code": "dcc",
+  "glottocode": "decc1239",
+  "wikidata_id": "Q669431",
+  "total_population": 13000000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "variety of Hindustani spoken in the Deccan region of India; native language of the Deccani people",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Deccan",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Dakhini",
+      "bcp_47_code": "en",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Deccani",
+      "bcp_47_code": "en",
+      "source": "WIKTIONARY"
+    },
+    {
+      "name": "Dakhini",
+      "bcp_47_code": "af",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ዳኪኒ",
+      "bcp_47_code": "am",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "الدكينية",
+      "bcp_47_code": "ar",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "দখিনি",
+      "bcp_47_code": "as",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Daxini",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "дакхіні",
+      "bcp_47_code": "be",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "дакини",
+      "bcp_47_code": "bg",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "দক্ষিণী",
+      "bcp_47_code": "bn",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "dakini",
+      "bcp_47_code": "bs",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "dakhini",
+      "bcp_47_code": "ca",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "dakhini",
+      "bcp_47_code": "cs",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "dakhini",
+      "bcp_47_code": "da",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Dakhini",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Ντακίνι",
+      "bcp_47_code": "el",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "dakhini",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "dakhini",
+      "bcp_47_code": "et",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "dakhindarra",
+      "bcp_47_code": "eu",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "دکنی",
+      "bcp_47_code": "fa",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "dakhini",
+      "bcp_47_code": "fi",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Dakhini",
+      "bcp_47_code": "fil",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "dakhini",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Dakhini",
+      "bcp_47_code": "gl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Dakhini",
+      "bcp_47_code": "gsw",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "દખિની",
+      "bcp_47_code": "gu",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "दक्खिनी",
+      "bcp_47_code": "hi",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "dakhini",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "dakhini",
+      "bcp_47_code": "hu",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "դակհինի",
+      "bcp_47_code": "hy",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Dakhini",
+      "bcp_47_code": "id",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Dakhini",
+      "bcp_47_code": "in",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "dakhini",
+      "bcp_47_code": "is",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "dakhini",
+      "bcp_47_code": "it",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "דקאנית",
+      "bcp_47_code": "he",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ダッキニー語（abc → دکنی）",
+      "bcp_47_code": "ja",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "დახინი",
+      "bcp_47_code": "ka",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Дахини",
+      "bcp_47_code": "kk",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ដាឃីនី",
+      "bcp_47_code": "km",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ದಖಿನಿ",
+      "bcp_47_code": "kn",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "다키니어",
+      "bcp_47_code": "ko",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Дахиниче",
+      "bcp_47_code": "ky",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Dakhini",
+      "bcp_47_code": "ln",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Dakhini",
+      "bcp_47_code": "lo",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "dakhini kalba",
+      "bcp_47_code": "lt",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "dakhini",
+      "bcp_47_code": "lv",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "дакини",
+      "bcp_47_code": "mk",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ദാഖിനി",
+      "bcp_47_code": "ml",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Дакини",
+      "bcp_47_code": "mn",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Dakhini",
+      "bcp_47_code": "mo",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "दक्खिणी",
+      "bcp_47_code": "mr",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Dakhini",
+      "bcp_47_code": "ms",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ဒါခီနီ",
+      "bcp_47_code": "my",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "dakhini",
+      "bcp_47_code": "nb",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "दखिनी",
+      "bcp_47_code": "ne",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Dakhini",
+      "bcp_47_code": "nl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "dakhini",
+      "bcp_47_code": "no",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ଦଖିଣି",
+      "bcp_47_code": "or",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ਦੱਖਣੀ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "dakhini",
+      "bcp_47_code": "pl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "dakhini",
+      "bcp_47_code": "pt",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "dakhini",
+      "bcp_47_code": "ro",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "дакхини",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ඩඛිනි",
+      "bcp_47_code": "si",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Dakhini",
+      "bcp_47_code": "sk",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "dakhini",
+      "bcp_47_code": "sl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Dakinisht",
+      "bcp_47_code": "sq",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "дакини",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "deccan",
+      "bcp_47_code": "sv",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Kidakhini",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "தக்கனி",
+      "bcp_47_code": "ta",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "డెక్కని",
+      "bcp_47_code": "te",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ฑากิณี",
+      "bcp_47_code": "th",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Dakhini",
+      "bcp_47_code": "tl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Dakhini",
+      "bcp_47_code": "tr",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "дахіні",
+      "bcp_47_code": "uk",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "دکنی",
+      "bcp_47_code": "ur",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "dakxini",
+      "bcp_47_code": "uz",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "tiếng Dakhini",
+      "bcp_47_code": "vi",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "达基尼语",
+      "bcp_47_code": "cmn",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "isi-Dakhini",
+      "bcp_47_code": "zu",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Dialectus Dakkhini",
+      "bcp_47_code": "la",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "زبان دکنی",
+      "bcp_47_code": "fa",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ダッキニー語",
+      "bcp_47_code": "ja",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "dakkhini",
+      "bcp_47_code": "nn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ภาษาทักขินี",
+      "bcp_47_code": "th",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga deccan",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ਦੱਖਿਨੀ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "vali daccani",
+      "bcp_47_code": "te",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kideccan",
+      "bcp_47_code": "sw",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "دکنی دیلی",
+      "bcp_47_code": "azb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "دکنی",
+      "bcp_47_code": "pnb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "दखनी भाषा",
+      "bcp_47_code": "mr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "达金语",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tiếng Dakhine",
+      "bcp_47_code": "vi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "deccani",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "דקהינית",
+      "bcp_47_code": "he",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Dakkhini",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ডেকান",
+      "bcp_47_code": "bn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "德干尼語",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Deccani",
+      "bcp_47_code": "dcc",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "دکنی",
+      "bcp_47_code": "dcc",
+      "source": "GOOGLE_RESEARCH"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "arab",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "in",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 13000000,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 18.5919,
+        "longitude": 75.717,
+        "source": "GOOGLE_RESEARCH"
+      }
+    }
+  ]
+}

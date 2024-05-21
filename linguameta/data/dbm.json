@@ -1,0 +1,82 @@
+{
+  "bcp_47_code": "dbm",
+  "iso_639_3_code": "dbm",
+  "glottocode": "dugu1249",
+  "wikidata_id": "Q7194057",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "language of Nigeria",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Duguri",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Kiduguri",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Duguri",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Zugur",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Doori",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Dugarwa",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Duguranchi",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Dugurawa",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Dukuri",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "ng",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": 10.05,
+        "longitude": 10.21,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

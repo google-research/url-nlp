@@ -1,0 +1,848 @@
+{
+  "bcp_47_code": "dzg",
+  "iso_639_3_code": "dzg",
+  "glottocode": "daza1242",
+  "wikidata_id": "Q35244",
+  "total_population": 380000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Saharan language of eastern Niger and northern Chad",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Dazaga",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "адаза",
+      "bcp_47_code": "ab",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Dazaga",
+      "bcp_47_code": "af",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ዳዛጋ",
+      "bcp_47_code": "am",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "القرعانية",
+      "bcp_47_code": "ar",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "দাজাগা",
+      "bcp_47_code": "as",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "dazaga",
+      "bcp_47_code": "ast",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "dazaqa",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "дазага",
+      "bcp_47_code": "be",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "дазага",
+      "bcp_47_code": "bg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "دزازا",
+      "bcp_47_code": "bgn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "দাজাগা",
+      "bcp_47_code": "bn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "dazagaeg",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "डाजागा",
+      "bcp_47_code": "brx",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "dazaga",
+      "bcp_47_code": "bs",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "dazaga",
+      "bcp_47_code": "ca",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "𑄘𑄉𑄎",
+      "bcp_47_code": "ccp",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "даза",
+      "bcp_47_code": "ce",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ᏓᏌᎦ",
+      "bcp_47_code": "chr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "دازا",
+      "bcp_47_code": "ckb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "dazaga",
+      "bcp_47_code": "cs",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Dazaga",
+      "bcp_47_code": "cy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "dazaga",
+      "bcp_47_code": "da",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Dazaga",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "dazagašćina",
+      "bcp_47_code": "dsb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Νταζάγκα",
+      "bcp_47_code": "el",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "dazaa",
+      "bcp_47_code": "eo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "dazaga",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "daza",
+      "bcp_47_code": "et",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "dazaera",
+      "bcp_47_code": "eu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "دازاگا",
+      "bcp_47_code": "fa",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "dazaga",
+      "bcp_47_code": "fi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Dazaga",
+      "bcp_47_code": "fil",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "dazaga",
+      "bcp_47_code": "fo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "dazaga",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Dazaga",
+      "bcp_47_code": "fy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Dazaga",
+      "bcp_47_code": "ga",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Dazaga",
+      "bcp_47_code": "gd",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "dazaga",
+      "bcp_47_code": "gl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "દાઝાગા",
+      "bcp_47_code": "gu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Dazaga",
+      "bcp_47_code": "ha",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "דזאנגה",
+      "bcp_47_code": "he",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "दज़ागा",
+      "bcp_47_code": "hi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "dazaga",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "dazagašćina",
+      "bcp_47_code": "hsb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "dazaga",
+      "bcp_47_code": "hu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "դազագա",
+      "bcp_47_code": "hy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "dazaga",
+      "bcp_47_code": "ia",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Dazaga",
+      "bcp_47_code": "id",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Dazaga",
+      "bcp_47_code": "ig",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "dazaga",
+      "bcp_47_code": "is",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "dazaga",
+      "bcp_47_code": "it",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ダザガ語",
+      "bcp_47_code": "ja",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Dazaga",
+      "bcp_47_code": "jv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "დაზაგა",
+      "bcp_47_code": "ka",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tadazagat",
+      "bcp_47_code": "kab",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "najaga",
+      "bcp_47_code": "kgp",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "дазага тілі",
+      "bcp_47_code": "kk",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ដាហ្សាហ្គា",
+      "bcp_47_code": "km",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ಡಜಾಗ",
+      "bcp_47_code": "kn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "다장가어",
+      "bcp_47_code": "ko",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "डाझागा",
+      "bcp_47_code": "kok",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Dassajahnesch",
+      "bcp_47_code": "ksh",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "дазагача",
+      "bcp_47_code": "ky",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Dazaga",
+      "bcp_47_code": "lb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "dazaga",
+      "bcp_47_code": "lij",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ດາຊາກາ",
+      "bcp_47_code": "lo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "dazagų",
+      "bcp_47_code": "lt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "dazu",
+      "bcp_47_code": "lv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "दजागा",
+      "bcp_47_code": "mai",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tāhaka",
+      "bcp_47_code": "mi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "дазага",
+      "bcp_47_code": "mk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ഡാസാഗ",
+      "bcp_47_code": "ml",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "дазага",
+      "bcp_47_code": "mn",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "दाझागा",
+      "bcp_47_code": "mr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Dazaga",
+      "bcp_47_code": "ms",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Dazaga",
+      "bcp_47_code": "mt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ဒဇာဂါ",
+      "bcp_47_code": "my",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "दाजागा",
+      "bcp_47_code": "ne",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Dazaga",
+      "bcp_47_code": "nl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "dazaga",
+      "bcp_47_code": "no",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ଡାଜାଗା",
+      "bcp_47_code": "or",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ਡਜ਼ਾਗਾ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Dazágá Lángwej",
+      "bcp_47_code": "pcm",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "dazaga",
+      "bcp_47_code": "pl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ډزاګا",
+      "bcp_47_code": "ps",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "dazaga",
+      "bcp_47_code": "pt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Dazaga Simi",
+      "bcp_47_code": "qu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "dazaga",
+      "bcp_47_code": "ro",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "даза",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ᱰᱟᱡᱟᱜᱟ",
+      "bcp_47_code": "sat",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "dazaga",
+      "bcp_47_code": "sc",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "دزاگا",
+      "bcp_47_code": "sd",
+      "iso_15924_code": "arab",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ඩසාගා",
+      "bcp_47_code": "si",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "dazaga",
+      "bcp_47_code": "sk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "dazaga",
+      "bcp_47_code": "sl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "dazakielâ",
+      "bcp_47_code": "smn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Dazaga",
+      "bcp_47_code": "so",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "dazagauisht",
+      "bcp_47_code": "sq",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "дазага",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "dazaga",
+      "bcp_47_code": "sv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kidazaga",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "டசாகா",
+      "bcp_47_code": "ta",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "డాజాగా",
+      "bcp_47_code": "te",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ดาซากา",
+      "bcp_47_code": "th",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ዳዛጋ",
+      "bcp_47_code": "ti",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "daza dili",
+      "bcp_47_code": "tk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "lea fakatasaka",
+      "bcp_47_code": "to",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Dazaga",
+      "bcp_47_code": "tr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "دازاگاچە",
+      "bcp_47_code": "ug",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "дазага",
+      "bcp_47_code": "uk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "دزاگا",
+      "bcp_47_code": "ur",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "dazag",
+      "bcp_47_code": "uz",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tiếng Dazaga",
+      "bcp_47_code": "vi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Èdè Dasaga",
+      "bcp_47_code": "yo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "dasaga",
+      "bcp_47_code": "yrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "達薩文",
+      "bcp_47_code": "yue",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "达扎葛语",
+      "bcp_47_code": "cmn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "isi-Dazaga",
+      "bcp_47_code": "zu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Lenga Dazaga",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "dazageg",
+      "bcp_47_code": "br",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "dazaga jezik",
+      "bcp_47_code": "hr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "дазагаски јазик",
+      "bcp_47_code": "mk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "لغة الدازاقا",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "daza",
+      "bcp_47_code": "fi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "língua daza",
+      "bcp_47_code": "pt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Wikang Daza",
+      "bcp_47_code": "tl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tiếng Daza",
+      "bcp_47_code": "vi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Dazaga",
+      "bcp_47_code": "bar",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "達薩語",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "dazaa lingvo",
+      "bcp_47_code": "eo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Daza",
+      "bcp_47_code": "ig",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "daza",
+      "bcp_47_code": "ca",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Daza",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "لغة الدزازا",
+      "bcp_47_code": "ar",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Dazaga",
+      "bcp_47_code": "dzg",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "td",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 380000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 15.7358,
+        "longitude": 15.8517,
+        "source": "GOOGLE_RESEARCH"
+      }
+    }
+  ]
+}

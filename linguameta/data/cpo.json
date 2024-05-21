@@ -1,0 +1,65 @@
+{
+  "bcp_47_code": "cpo",
+  "iso_639_3_code": "cpo",
+  "glottocode": "kpee1234",
+  "wikidata_id": "Q6435722",
+  "total_population": 2000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Kpeego",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Kpee",
+      "bcp_47_code": "en",
+      "source": "WIKTIONARY"
+    },
+    {
+      "name": "kpeego",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "zimanê kpee",
+      "bcp_47_code": "ku",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Asụsụ Kpee",
+      "bcp_47_code": "ig",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "ASSUMED_BASED_ON_LOCALE"
+      },
+      "locale": {
+        "iso_3166_code": "bf",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 2000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 10.7244,
+        "longitude": -5.2677,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "bcp_47_code": "bms",
+  "iso_639_3_code": "bms",
+  "glottocode": "bilm1238",
+  "wikidata_id": "Q8843523",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Bilma Kanuri",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "bilma kanuri jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kikanuri-Bilma",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Kanuri Bilma",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "xxxx",
+        "is_canonical": true,
+        "source": "SOURCE_UNSPECIFIED"
+      },
+      "locale": {
+        "iso_3166_code": "ne",
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

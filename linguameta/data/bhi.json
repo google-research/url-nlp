@@ -1,0 +1,96 @@
+{
+  "bcp_47_code": "bhi",
+  "iso_639_3_code": "bhi",
+  "glottocode": "bhil1253",
+  "wikidata_id": "Q4901729",
+  "total_population": 1200000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Bhilali",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "bhilali",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bhilali jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga bhilali",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kibhilali",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ਭਿਲਾਲੀ ਭਾਸ਼ਾ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bhilali",
+      "bcp_47_code": "oc",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "בהילאלית",
+      "bcp_47_code": "he",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ਭਿਲਾਲੀ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "भिलाली",
+      "bcp_47_code": "bhi",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "deva",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "in",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 1200000,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 22.58346,
+        "longitude": 74.59014,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

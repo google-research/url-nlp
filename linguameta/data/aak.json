@@ -1,0 +1,100 @@
+{
+  "bcp_47_code": "aak",
+  "iso_639_3_code": "aak",
+  "glottocode": "anka1246",
+  "wikidata_id": "Q3446690",
+  "total_population": 1600,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Ankave",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Lenga Ankave",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "język ankave",
+      "bcp_47_code": "pl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ankave jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ankave",
+      "bcp_47_code": "li",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kiankave",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ankave",
+      "bcp_47_code": "ilo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Γλώσσα Ανκάβε",
+      "bcp_47_code": "el",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ankave",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ankavera",
+      "bcp_47_code": "eu",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "angavera",
+      "bcp_47_code": "eu",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "pg",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 1600,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": -7.19444,
+        "longitude": 145.754,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

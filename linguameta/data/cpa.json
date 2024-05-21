@@ -1,0 +1,82 @@
+{
+  "bcp_47_code": "cpa",
+  "iso_639_3_code": "cpa",
+  "glottocode": "pala1351",
+  "wikidata_id": "Q5100112",
+  "total_population": 25000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Palantla Chinantec",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Chinantec Of Palantla",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "палантланский чинантекский язык",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "palantla Lenga chinantec",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tchinantekeg palantla",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "chinanteca de palantla",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "chinantèque de palantla",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "帕蘭特拉奇南特克語",
+      "bcp_47_code": "cmn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "mx",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 25000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 17.884,
+        "longitude": -96.3407,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

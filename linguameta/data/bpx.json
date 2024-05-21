@@ -1,0 +1,84 @@
+{
+  "bcp_47_code": "bpx",
+  "iso_639_3_code": "bpx",
+  "glottocode": "paly1238",
+  "wikidata_id": "Q7128872",
+  "total_population": 10000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Palya Bareli",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "palya bareli jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "palya bareli",
+      "bcp_47_code": "fi",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kibareli-Palya",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga bareli palya",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ਪਲ੍ਯਾ ਬਰੇਲੀ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "palya",
+      "bcp_47_code": "oc",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ਪਲਿਆ ਬਰੇਲੀ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "deva",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "in",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 10000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 21.937,
+        "longitude": 75.233,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "bcp_47_code": "bnj",
+  "iso_639_3_code": "bnj",
+  "glottocode": "east2482",
+  "wikidata_id": "Q18757427",
+  "total_population": 14000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Eastern Tawbuid",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Kitawbuid-Mashariki",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga tawbuid oriental",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "istočnotawbuidski jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tawbuid de l'est",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "batangan",
+      "bcp_47_code": "ca",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bangon",
+      "bcp_47_code": "ca",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "taubuid",
+      "bcp_47_code": "ca",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tawbuid",
+      "bcp_47_code": "ca",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "ph",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 14000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 12.8968,
+        "longitude": 121.177,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "bcp_47_code": "bno",
+  "iso_639_3_code": "bno",
+  "glottocode": "bant1288",
+  "wikidata_id": "Q2883511",
+  "total_population": 75000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Bantoanon",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Asi",
+      "bcp_47_code": "en",
+      "source": "WIKTIONARY"
+    },
+    {
+      "name": "asímál",
+      "bcp_47_code": "is",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "ภาษาอาซี",
+      "bcp_47_code": "th",
+      "is_canonical": true,
+      "source": "LEXVO"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "ph",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 75000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 12.5194,
+        "longitude": 122.034,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

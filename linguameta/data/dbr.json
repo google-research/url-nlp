@@ -1,0 +1,72 @@
+{
+  "bcp_47_code": "dbr",
+  "iso_639_3_code": "dbr",
+  "glottocode": "daba1260",
+  "wikidata_id": "Q3447286",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Dabarre",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "dabarre hizkuntza",
+      "bcp_47_code": "eu",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Af-Dabarre",
+      "bcp_47_code": "so",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "dabarre jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "dabarreg",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Dabarre",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Wikang Dabarre",
+      "bcp_47_code": "tl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "ASSUMED_BASED_ON_LOCALE"
+      },
+      "locale": {
+        "iso_3166_code": "so",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": 1.2179,
+        "longitude": 43.3304,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

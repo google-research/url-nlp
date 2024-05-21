@@ -1,0 +1,123 @@
+{
+  "bcp_47_code": "akp",
+  "iso_639_3_code": "akp",
+  "glottocode": "siwu1238",
+  "wikidata_id": "Q36470",
+  "total_population": 27000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Siwu",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Kisiwu",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Siwu",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Siwu",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "siwu jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "siwu",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "siwu",
+      "bcp_47_code": "ca",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "siwu",
+      "bcp_47_code": "sv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "siwu",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Wikang Siwu",
+      "bcp_47_code": "tl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Siwu語",
+      "bcp_47_code": "cmn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "siwu",
+      "bcp_47_code": "oc",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "língua siwu",
+      "bcp_47_code": "pt",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lolobi",
+      "bcp_47_code": "de",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Siwusi",
+      "bcp_47_code": "de",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "gh",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 27000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 7.23811,
+        "longitude": 0.44362,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

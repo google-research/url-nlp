@@ -1,0 +1,93 @@
+{
+  "bcp_47_code": "dri",
+  "iso_639_3_code": "dri",
+  "glottocode": "clel1238",
+  "wikidata_id": "Q3914004",
+  "total_population": 90000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "C'Lela",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Lela",
+      "bcp_47_code": "en",
+      "source": "WIKTIONARY"
+    },
+    {
+      "name": "Kic'lela",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga C'lela",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "c’lela jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "c’lela",
+      "bcp_47_code": "sv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Cilala",
+      "bcp_47_code": "ha",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lela",
+      "bcp_47_code": "oc",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lela",
+      "bcp_47_code": "ig",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Dakarkari",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "ng",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 90000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 11.4653,
+        "longitude": 5.26544,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

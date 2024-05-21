@@ -1,0 +1,620 @@
+{
+  "bcp_47_code": "bsk",
+  "iso_639_3_code": "bsk",
+  "glottocode": "buru1296",
+  "wikidata_id": "Q216286",
+  "total_population": 87000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Burushaski",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "布鲁夏斯基语",
+      "bcp_47_code": "cmn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "布魯夏斯基語",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga burushaski",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "język buruszaski",
+      "bcp_47_code": "pl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "buruxaski",
+      "bcp_47_code": "eu",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "בורושסקי",
+      "bcp_47_code": "he",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bourouchaski",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "부르샤스키어",
+      "bcp_47_code": "ko",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idioma burushaski",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "burushaski",
+      "bcp_47_code": "oc",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua burushaski",
+      "bcp_47_code": "it",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "burušaski keel",
+      "bcp_47_code": "et",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Burushaski",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ブルシャスキー語",
+      "bcp_47_code": "ja",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bourouchaskeg",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "بروشسکی",
+      "bcp_47_code": "pnb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "burushaski",
+      "bcp_47_code": "sv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "بروشسكي",
+      "bcp_47_code": "ar",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Burushaski",
+      "bcp_47_code": "nl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "बरूशसकी",
+      "bcp_47_code": "hi",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "buruŝa lingvo",
+      "bcp_47_code": "eo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Buriština",
+      "bcp_47_code": "sk",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "бурушаски",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Бурушаски теле",
+      "bcp_47_code": "tt",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ภาษาบูรุศซัสกี",
+      "bcp_47_code": "th",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "бурушаски јазик",
+      "bcp_47_code": "mk",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "buruixaski",
+      "bcp_47_code": "ca",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "burušaskin kieli",
+      "bcp_47_code": "fi",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "бурушаскі",
+      "bcp_47_code": "uk",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "бурушаски",
+      "bcp_47_code": "bg",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "بروشسکی",
+      "bcp_47_code": "fa",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "بروشسکی زبان",
+      "bcp_47_code": "ur",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "burushaski jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "burushaski",
+      "bcp_47_code": "da",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "burušaskí",
+      "bcp_47_code": "cs",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "língua burushaski",
+      "bcp_47_code": "pt",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "burušų kalba",
+      "bcp_47_code": "lt",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "бурушаскі",
+      "bcp_47_code": "be",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "վերշիկերեն",
+      "bcp_47_code": "hy",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "burusaszki",
+      "bcp_47_code": "hu",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lingua burushaski",
+      "bcp_47_code": "gl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ബുറുശസ്‌കി ഭാഷ",
+      "bcp_47_code": "ml",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tiếng Burushaski",
+      "bcp_47_code": "vi",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Burişaskilər",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idioma burushaski",
+      "bcp_47_code": "ast",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "বুরুশাস্কি",
+      "bcp_47_code": "bn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "بوروشەسکی",
+      "bcp_47_code": "ckb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "بوریشاسکیلر",
+      "bcp_47_code": "azb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kiburushaski",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Gjuha Burushaski",
+      "bcp_47_code": "sq",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ਬੁਰੁਸ਼ਸਕੀ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Burushaski",
+      "bcp_47_code": "frr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Buruxasce",
+      "bcp_47_code": "lfn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "بروشسڪي",
+      "bcp_47_code": "sd",
+      "iso_15924_code": "arab",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "burusjaski",
+      "bcp_47_code": "nn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "布鲁夏斯基语",
+      "bcp_47_code": "wuu",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "μπουρουσάσκι",
+      "bcp_47_code": "el",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bahasa Burushaski",
+      "bcp_47_code": "id",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "burushaski",
+      "bcp_47_code": "vec",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Buruşaski",
+      "bcp_47_code": "tr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "布鲁沙斯基语",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "勃律语",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "בורושאסקי",
+      "bcp_47_code": "he",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bouroushaski",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "burushaski",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "부루샤스키어",
+      "bcp_47_code": "ko",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "brushias",
+      "bcp_47_code": "et",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "werchikwār",
+      "bcp_47_code": "et",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "burušaki keel",
+      "bcp_47_code": "et",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kunjoot",
+      "bcp_47_code": "et",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "miśa:ski",
+      "bcp_47_code": "et",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kanjut",
+      "bcp_47_code": "et",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "boorishki",
+      "bcp_47_code": "et",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "burušaški keel",
+      "bcp_47_code": "et",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "brushas",
+      "bcp_47_code": "et",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Buruschaski",
+      "bcp_47_code": "de",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Burúshaski",
+      "bcp_47_code": "de",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ブルーシャスキー語",
+      "bcp_47_code": "ja",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ブルシャスキ語",
+      "bcp_47_code": "ja",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "buruŝaska lingvo",
+      "bcp_47_code": "eo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Chadžuná",
+      "bcp_47_code": "sk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Burušaski",
+      "bcp_47_code": "sk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Burušaskí",
+      "bcp_47_code": "sk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Veršický jazyk",
+      "bcp_47_code": "sk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Burišský jazyk",
+      "bcp_47_code": "sk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kandžutčina",
+      "bcp_47_code": "sk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "язык бурушаски",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "семья бурушаски",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Burusho",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "burushaskin kieli",
+      "bcp_47_code": "fi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "burušaski",
+      "bcp_47_code": "fi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "бурушаски език",
+      "bcp_47_code": "bg",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "برشسکی",
+      "bcp_47_code": "fa",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "بروشاسکی",
+      "bcp_47_code": "fa",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "بوروشاسکی",
+      "bcp_47_code": "fa",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "بوروشسکی",
+      "bcp_47_code": "fa",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "بروشسکی",
+      "bcp_47_code": "ur",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "burashaski",
+      "bcp_47_code": "da",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "burusaszki nyelv",
+      "bcp_47_code": "hu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "بروشسکی",
+      "bcp_47_code": "bsk",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "arab",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "pk",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 87000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 36.2161,
+        "longitude": 74.8236,
+        "source": "GLOTTOLOG"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": false,
+        "is_for_transliteration": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "pk",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 97000,
+        "source": "GOOGLE_RESEARCH"
+      }
+    }
+  ]
+}

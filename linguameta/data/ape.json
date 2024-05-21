@@ -1,0 +1,112 @@
+{
+  "bcp_47_code": "ape",
+  "iso_639_3_code": "ape",
+  "glottocode": "buki1249",
+  "wikidata_id": "Q3507895",
+  "total_population": 16000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Bukiyip",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Lenga bukiyip",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bukiyip jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "букийип",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "língua bukiyip",
+      "bcp_47_code": "pt",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bukiyip",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kibukiyip",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "język arapesh górski",
+      "bcp_47_code": "pl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "山岳アラペシュ語",
+      "bcp_47_code": "ja",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bukiyip",
+      "bcp_47_code": "ilo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "arapeso montañés",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bukijipi keel",
+      "bcp_47_code": "et",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "arapesh des montagnes",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "pg",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 16000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": -3.47169,
+        "longitude": 143.111,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

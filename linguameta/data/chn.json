@@ -1,0 +1,654 @@
+{
+  "bcp_47_code": "chn",
+  "iso_639_3_code": "chn",
+  "glottocode": "chin1272",
+  "wikidata_id": "Q35173",
+  "total_population": 1,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "pidgin language of northwest North America",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Chinook Jargon",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Creolized Grand Ronde Chinook Jargon",
+      "bcp_47_code": "en",
+      "source": "GLOTTOLOG"
+    },
+    {
+      "name": "ቺኑክ ጃርጎን",
+      "bcp_47_code": "am",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "الشينوك جارجون",
+      "bcp_47_code": "ar",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "xíriga chinook",
+      "bcp_47_code": "ast",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "çinuk ləhçəsi",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "жаргон чинуук",
+      "bcp_47_code": "bg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "চিনুক জার্গন",
+      "bcp_47_code": "bn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "चीनूक् जार्गन्",
+      "bcp_47_code": "brx",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "činukski žargon",
+      "bcp_47_code": "bs",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "pidgin chinook",
+      "bcp_47_code": "ca",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "𑄌𑄨𑄚𑄪𑄇𑄴 𑄎𑄢𑄴𑄉𑄧𑄚𑄴",
+      "bcp_47_code": "ccp",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "činuk pidžin",
+      "bcp_47_code": "cs",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "chinook",
+      "bcp_47_code": "da",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Chinook",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Ιδιωματικά Σινούκ",
+      "bcp_47_code": "el",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "jerga chinuk",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tšinuki žargoon",
+      "bcp_47_code": "et",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "chinook-jargon",
+      "bcp_47_code": "fi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "jargon chinook",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Chinook-jargon",
+      "bcp_47_code": "fy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Chinuk Wawa",
+      "bcp_47_code": "gd",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Chinook",
+      "bcp_47_code": "gsw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ચિનૂક જાર્ગન",
+      "bcp_47_code": "gu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ניב צ׳ינוק",
+      "bcp_47_code": "he",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "चिनूक जारगॉन",
+      "bcp_47_code": "hi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "chinook žargon",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "csinuk zsargon",
+      "bcp_47_code": "hu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Jargon Chinook",
+      "bcp_47_code": "id",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "sínúk",
+      "bcp_47_code": "is",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "gergo chinook",
+      "bcp_47_code": "it",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "チヌーク混成語",
+      "bcp_47_code": "ja",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ჩინუკის ჟარგონი",
+      "bcp_47_code": "ka",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "jargỹ sinũki",
+      "bcp_47_code": "kgp",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ಚಿನೂಕ್ ಜಾರ್ಗೋನ್",
+      "bcp_47_code": "kn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "치누크 자곤",
+      "bcp_47_code": "ko",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "چِنوٗک جارگَن",
+      "bcp_47_code": "ks",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Chinook",
+      "bcp_47_code": "lb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ຊີນຸກຈາກອນ",
+      "bcp_47_code": "lo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "činuk žargonas",
+      "bcp_47_code": "lt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "činuku žargons",
+      "bcp_47_code": "lv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "чинучки жаргон",
+      "bcp_47_code": "mk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ചിനൂഗ് ജാർഗൺ",
+      "bcp_47_code": "ml",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "चिनूक जारगॉन",
+      "bcp_47_code": "mr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Chinook Jargon",
+      "bcp_47_code": "mt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Chinook",
+      "bcp_47_code": "nds",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "चिनुक जार्गन",
+      "bcp_47_code": "ne",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Chinook Jargon",
+      "bcp_47_code": "nl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "chinook",
+      "bcp_47_code": "no",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ଚିନୁକ୍ ଜାରଗାଁନ୍",
+      "bcp_47_code": "or",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "żargon czinucki",
+      "bcp_47_code": "pl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "jargão chinook",
+      "bcp_47_code": "pt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "patuà chinook",
+      "bcp_47_code": "rm",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "jargon chinook",
+      "bcp_47_code": "ro",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "чинук жаргон",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "činucký žargón",
+      "bcp_47_code": "sk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "činuški žargon",
+      "bcp_47_code": "sl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "чинучки",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "chinook",
+      "bcp_47_code": "sv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "சினூக் ஜார்கான்",
+      "bcp_47_code": "ta",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "చినూక్ జార్గన్",
+      "bcp_47_code": "te",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ชินุกจาร์กอน",
+      "bcp_47_code": "th",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "lea fakasinuki-takote",
+      "bcp_47_code": "to",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Çinuk dili",
+      "bcp_47_code": "tr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "چىنۇك-ژارگونچە",
+      "bcp_47_code": "ug",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "чинук жаргон",
+      "bcp_47_code": "uk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Biệt Ngữ Chinook",
+      "bcp_47_code": "vi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "yarigãu xinoki",
+      "bcp_47_code": "yrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "契奴克文",
+      "bcp_47_code": "yue",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "奇努克混合语",
+      "bcp_47_code": "cmn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ĉinuka piĝino",
+      "bcp_47_code": "eo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga chinook wawa",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Chinook Wawa",
+      "bcp_47_code": "de",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "чинукский жаргон",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "chinook",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "chinook jargon",
+      "bcp_47_code": "ca",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "チヌーク・ジャーゴン",
+      "bcp_47_code": "ja",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "奇努克混合語",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Jergo xinuc",
+      "bcp_47_code": "lfn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "чынук вава",
+      "bcp_47_code": "be",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Chinook Wawa",
+      "bcp_47_code": "bar",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "支努幹混合語",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "chinook jargon",
+      "bcp_47_code": "nb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Chinuk Wawa",
+      "bcp_47_code": "kw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "chinook jargon",
+      "bcp_47_code": "vec",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "עגה של הצ'ינוק",
+      "bcp_47_code": "he",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "chinookjargong",
+      "bcp_47_code": "sv",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ĉinuka ĵargono",
+      "bcp_47_code": "eo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Chinook Pidgin",
+      "bcp_47_code": "de",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "чинукский пиджин",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "chinook wawa",
+      "bcp_47_code": "fi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Chinuk Wawa",
+      "bcp_47_code": "nl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Chinuk Wawa",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Wawa",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Chinook Lelang",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lelang",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "チヌーク語",
+      "bcp_47_code": "ja",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "支努干混合語",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "chinook pidgin",
+      "bcp_47_code": "ca",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tsinuk wawa",
+      "bcp_47_code": "ca",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Chinuk Wawa",
+      "bcp_47_code": "chn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "dupl",
+        "is_historical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "021",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 1,
+        "source": "GOOGLE_RESEARCH"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "021",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 1,
+        "source": "GOOGLE_RESEARCH"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "ca",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 1,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 55.0,
+        "longitude": -125.0,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

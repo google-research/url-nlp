@@ -1,0 +1,77 @@
+{
+  "bcp_47_code": "dva",
+  "iso_639_3_code": "dva",
+  "glottocode": "duau1237",
+  "wikidata_id": "Q5310448",
+  "total_population": 5000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Duau",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Lenga Duau",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kiduau",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ドゥアウ語",
+      "bcp_47_code": "ja",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "pagsasao a Duau",
+      "bcp_47_code": "ilo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "duau",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "duau keel",
+      "bcp_47_code": "et",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "pg",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 5000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": -10.187,
+        "longitude": 151.218,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

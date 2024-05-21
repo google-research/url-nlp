@@ -1,0 +1,80 @@
+{
+  "bcp_47_code": "amb",
+  "iso_639_3_code": "amb",
+  "glottocode": "ambo1249",
+  "wikidata_id": "Q3450142",
+  "total_population": 1000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Tivoid language of Nigeria",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Ambo",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Kiambo",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Ambo",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ambo jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ambo",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ambo",
+      "bcp_47_code": "ig",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Asusu Ambo",
+      "bcp_47_code": "ig",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "ng",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 1000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 7.07637,
+        "longitude": 10.7798,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

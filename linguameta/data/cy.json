@@ -1,0 +1,1916 @@
+{
+  "bcp_47_code": "cy",
+  "iso_639_3_code": "cym",
+  "iso_639_2b_code": "wel",
+  "glottocode": "wels1247",
+  "wikidata_id": "Q9309",
+  "total_population": 850000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Brythonic language spoken natively in Wales",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "авалли",
+      "bcp_47_code": "ab",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Wallies",
+      "bcp_47_code": "af",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ወልሽ",
+      "bcp_47_code": "am",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "الويلزية",
+      "bcp_47_code": "ar",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ৱেলচ",
+      "bcp_47_code": "as",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "galés",
+      "bcp_47_code": "ast",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "uels",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "валійская",
+      "bcp_47_code": "be",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "уелски",
+      "bcp_47_code": "bg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ولزی",
+      "bcp_47_code": "bgn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ওয়েলশ",
+      "bcp_47_code": "bn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "kembraeg",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "वैल्श",
+      "bcp_47_code": "brx",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "velški",
+      "bcp_47_code": "bs",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ወልሽ",
+      "bcp_47_code": "byn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "gal·lès",
+      "bcp_47_code": "ca",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "𑄃𑄮𑄠𑄬𑄣𑄧𑄌𑄴",
+      "bcp_47_code": "ccp",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "валлийн",
+      "bcp_47_code": "ce",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ᏪᎵᏏ",
+      "bcp_47_code": "chr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "وێلزی",
+      "bcp_47_code": "ckb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "velština",
+      "bcp_47_code": "cs",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "walisisk",
+      "bcp_47_code": "da",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Walisisch",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "walizišćina",
+      "bcp_47_code": "dsb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ཝེལཤ་ཁ",
+      "bcp_47_code": "dz",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "walesgbe",
+      "bcp_47_code": "ee",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Ουαλικά",
+      "bcp_47_code": "el",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "kimra",
+      "bcp_47_code": "eo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "galés",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "kõmri",
+      "bcp_47_code": "et",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "galesa",
+      "bcp_47_code": "eu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ولزی",
+      "bcp_47_code": "fa",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "kymri",
+      "bcp_47_code": "fi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Welsh",
+      "bcp_47_code": "fil",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "walisiskt",
+      "bcp_47_code": "fo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "gallois",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "galês",
+      "bcp_47_code": "fur",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Welsk",
+      "bcp_47_code": "fy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Breatnais",
+      "bcp_47_code": "ga",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Cuimris",
+      "bcp_47_code": "gd",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ወልሽ",
+      "bcp_47_code": "gez",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "galés",
+      "bcp_47_code": "gl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Walisisch",
+      "bcp_47_code": "gsw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "વેલ્શ",
+      "bcp_47_code": "gu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Welsh",
+      "bcp_47_code": "ha",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Wale",
+      "bcp_47_code": "haw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "וולשית",
+      "bcp_47_code": "he",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "वेल्श",
+      "bcp_47_code": "hi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "velški",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "walizišćina",
+      "bcp_47_code": "hsb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "walesi",
+      "bcp_47_code": "hu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ուելսերեն",
+      "bcp_47_code": "hy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "gallese",
+      "bcp_47_code": "ia",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Welsh",
+      "bcp_47_code": "id",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Wesh",
+      "bcp_47_code": "ig",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "velska",
+      "bcp_47_code": "is",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "gallese",
+      "bcp_47_code": "it",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ウェールズ語",
+      "bcp_47_code": "ja",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Welsh",
+      "bcp_47_code": "jv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "უელსური",
+      "bcp_47_code": "ka",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Takusit",
+      "bcp_47_code": "kab",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "gales",
+      "bcp_47_code": "kea",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "garej",
+      "bcp_47_code": "kgp",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "валлий тілі",
+      "bcp_47_code": "kk",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "វេល",
+      "bcp_47_code": "km",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ವೆಲ್ಶ್",
+      "bcp_47_code": "kn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "웨일스어",
+      "bcp_47_code": "ko",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "वेल्श",
+      "bcp_47_code": "kok",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ویلش",
+      "bcp_47_code": "ks",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Wallihsesch",
+      "bcp_47_code": "ksh",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "weylsî",
+      "bcp_47_code": "ku",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kembrek",
+      "bcp_47_code": "kw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "уелшче",
+      "bcp_47_code": "ky",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Cambrica",
+      "bcp_47_code": "la",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Walisesch",
+      "bcp_47_code": "lb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "galleise",
+      "bcp_47_code": "lij",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Wales Iyápi",
+      "bcp_47_code": "lkt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ເວວ",
+      "bcp_47_code": "lo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ڤئلزی",
+      "bcp_47_code": "lrc",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "valų",
+      "bcp_47_code": "lt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "velsiešu",
+      "bcp_47_code": "lv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "बेल्श",
+      "bcp_47_code": "mai",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Werehi",
+      "bcp_47_code": "mi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "велшки",
+      "bcp_47_code": "mk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "വെൽഷ്",
+      "bcp_47_code": "ml",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "уэльс",
+      "bcp_47_code": "mn",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "वेल्श",
+      "bcp_47_code": "mr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Wales",
+      "bcp_47_code": "ms",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Welsh",
+      "bcp_47_code": "mt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ဝေလ",
+      "bcp_47_code": "my",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ولزی",
+      "bcp_47_code": "mzn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Waliesch",
+      "bcp_47_code": "nds",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "वेल्श",
+      "bcp_47_code": "ne",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Welsh",
+      "bcp_47_code": "nl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "walisisk",
+      "bcp_47_code": "no",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ߜ߭ߟߏߥߊߞߊ߲",
+      "bcp_47_code": "nqo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Welishiffaa",
+      "bcp_47_code": "om",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ୱେଲ୍ସ",
+      "bcp_47_code": "or",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ਵੈਲਸ਼",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Wẹlsh",
+      "bcp_47_code": "pcm",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "walijski",
+      "bcp_47_code": "pl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ويلشي",
+      "bcp_47_code": "ps",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "galês",
+      "bcp_47_code": "pt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Gales Simi",
+      "bcp_47_code": "qu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "kimric",
+      "bcp_47_code": "rm",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "galeză",
+      "bcp_47_code": "ro",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "валлийский",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Ikigaluwa",
+      "bcp_47_code": "rw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ᱣᱮᱞᱥ",
+      "bcp_47_code": "sat",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "gallesu",
+      "bcp_47_code": "sc",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "gallisi",
+      "bcp_47_code": "scn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ويلش",
+      "bcp_47_code": "sd",
+      "iso_15924_code": "arab",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "kymragiella",
+      "bcp_47_code": "se",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "වෙල්ෂ්",
+      "bcp_47_code": "si",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "waleština",
+      "bcp_47_code": "sk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "valižanščina",
+      "bcp_47_code": "sl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "kymrikielâ",
+      "bcp_47_code": "smn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Welsh",
+      "bcp_47_code": "so",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "uellsisht",
+      "bcp_47_code": "sq",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "велшки",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Se-welsh",
+      "bcp_47_code": "st",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "walesiska",
+      "bcp_47_code": "sv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kiwelisi",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "walijski",
+      "bcp_47_code": "szl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "வேல்ஷ்",
+      "bcp_47_code": "ta",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "వెల్ష్",
+      "bcp_47_code": "te",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "валлӣ",
+      "bcp_47_code": "tg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "เวลส์",
+      "bcp_47_code": "th",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ዌልስኛ",
+      "bcp_47_code": "ti",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ወልሽ",
+      "bcp_47_code": "tig",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "walliý dili",
+      "bcp_47_code": "tk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Welsh",
+      "bcp_47_code": "tn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "lea fakauēlesi",
+      "bcp_47_code": "to",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Galce",
+      "bcp_47_code": "tr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "уэльс",
+      "bcp_47_code": "tt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ۋېلشچە",
+      "bcp_47_code": "ug",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "валлійська",
+      "bcp_47_code": "uk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ویلش",
+      "bcp_47_code": "ur",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "valliy",
+      "bcp_47_code": "uz",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tiếng Wales",
+      "bcp_47_code": "vi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Walisiš",
+      "bcp_47_code": "wae",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Wels",
+      "bcp_47_code": "wo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "isi-Welsh",
+      "bcp_47_code": "xh",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "וועלשיש",
+      "bcp_47_code": "yi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Èdè Welshi",
+      "bcp_47_code": "yo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "garei",
+      "bcp_47_code": "yrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "威爾斯文",
+      "bcp_47_code": "yue",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "威尔士语",
+      "bcp_47_code": "cmn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "isi-Welsh",
+      "bcp_47_code": "zu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "валійская мова",
+      "bcp_47_code": "be",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Idioma galés",
+      "bcp_47_code": "an",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ƿielisc sprǣc",
+      "bcp_47_code": "ang",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "لغه ويلزى",
+      "bcp_47_code": "arz",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Vall dili",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kymrisch",
+      "bcp_47_code": "bar",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "уелски език",
+      "bcp_47_code": "bg",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ওয়েলশ ভাষা",
+      "bcp_47_code": "bn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "velški jezik",
+      "bcp_47_code": "bs",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ŭi-ī-sê̤ṳ-ngṳ̄",
+      "bcp_47_code": "cdo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Валли чĕлхи",
+      "bcp_47_code": "cv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ουαλική γλώσσα",
+      "bcp_47_code": "el",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kimra lingvo",
+      "bcp_47_code": "eo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kõmri keel",
+      "bcp_47_code": "et",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "gales",
+      "bcp_47_code": "eu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "زبان ویلزی",
+      "bcp_47_code": "fa",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Walisiskt mál",
+      "bcp_47_code": "fo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Galouès",
+      "bcp_47_code": "frp",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Waliisisch",
+      "bcp_47_code": "frr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "An Bhreatnais",
+      "bcp_47_code": "ga",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua galesa",
+      "bcp_47_code": "gl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bretnish",
+      "bcp_47_code": "gv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ולשית",
+      "bcp_47_code": "he",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "वेल्श भाषा",
+      "bcp_47_code": "hi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "velški jezik",
+      "bcp_47_code": "hr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua gallese",
+      "bcp_47_code": "ia",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bahasa Wales",
+      "bcp_47_code": "id",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Walsana linguo",
+      "bcp_47_code": "io",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ვალიური ენა",
+      "bcp_47_code": "ka",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Кöмри кыв",
+      "bcp_47_code": "koi",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Кӧмри кыв",
+      "bcp_47_code": "kv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua Cambrica",
+      "bcp_47_code": "la",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Welsh",
+      "bcp_47_code": "li",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lengua galleise",
+      "bcp_47_code": "lij",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lengua galesa",
+      "bcp_47_code": "lmo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ພາສາເວລ",
+      "bcp_47_code": "lo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "valų kalba",
+      "bcp_47_code": "lt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "velsiešu valoda",
+      "bcp_47_code": "lv",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "велшки јазик",
+      "bcp_47_code": "mk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "वेल्श भाषा",
+      "bcp_47_code": "mr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bahasa Wales",
+      "bcp_47_code": "ms",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "walisische Spraak",
+      "bcp_47_code": "nds",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kumries",
+      "bcp_47_code": "nds",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "walisisk",
+      "bcp_47_code": "nn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Gallouais",
+      "bcp_47_code": "nrm",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "galés",
+      "bcp_47_code": "oc",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "валлийаг æвзаг",
+      "bcp_47_code": "os",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "język walijski",
+      "bcp_47_code": "pl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga galèisa",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ویلزی",
+      "bcp_47_code": "pnb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kamri simi",
+      "bcp_47_code": "qu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lingua valisica",
+      "bcp_47_code": "rm",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "limba galeză",
+      "bcp_47_code": "ro",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "валлийский язык",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Limba gallesa",
+      "bcp_47_code": "sc",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Welsh leid",
+      "bcp_47_code": "sco",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "velški jezik",
+      "bcp_47_code": "sh",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "velščina",
+      "bcp_47_code": "sl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "велшки језик",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Walisisk",
+      "bcp_47_code": "stq",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kymriska",
+      "bcp_47_code": "sv",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Walijsko godka",
+      "bcp_47_code": "szl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "வேல்சு மொழி",
+      "bcp_47_code": "ta",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "забони уэлсӣ",
+      "bcp_47_code": "tg",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Wikang Gales",
+      "bcp_47_code": "tl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ۋېلش تىلى",
+      "bcp_47_code": "ug",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "валлійська мова",
+      "bcp_47_code": "uk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "walès",
+      "bcp_47_code": "wa",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "威爾士語",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Валли чӀал",
+      "bcp_47_code": "lez",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Uel'san kel'",
+      "bcp_47_code": "vep",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "walisisk",
+      "bcp_47_code": "nb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ภาษาเวลส์",
+      "bcp_47_code": "th",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kõmri kiil",
+      "bcp_47_code": "vro",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ui-le̍k-sū-gí",
+      "bcp_47_code": "nan",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Vî-ngì-sṳ̂-ngî",
+      "bcp_47_code": "hak",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "valliy tili",
+      "bcp_47_code": "uz",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Dorerin Wales",
+      "bcp_47_code": "na",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ዌልስኛ",
+      "bcp_47_code": "am",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "վալլիերեն",
+      "bcp_47_code": "hy",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "زون ولزی",
+      "bcp_47_code": "lrc",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Gales",
+      "bcp_47_code": "ilo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Welizki",
+      "bcp_47_code": "diq",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Velsänapük",
+      "bcp_47_code": "vo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "𐍅𐌰𐌻𐌷𐌰𐍂𐌰𐌶𐌳𐌰",
+      "bcp_47_code": "got",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Gjuha Uelshe",
+      "bcp_47_code": "sq",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Валлий тілі",
+      "bcp_47_code": "kk",
+      "iso_15924_code": "cyrl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "walesî",
+      "bcp_47_code": "ku",
+      "iso_15924_code": "latn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "უელსური ნინა",
+      "bcp_47_code": "xmf",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Amanung Gales",
+      "bcp_47_code": "pam",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ਵੈਲਸ਼ ਭਾਸ਼ਾ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Welx",
+      "bcp_47_code": "mt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Welsh bhasa",
+      "bcp_47_code": "hif",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "کمری",
+      "bcp_47_code": "ur",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "الوايلزية",
+      "bcp_47_code": "aeb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "велс теле",
+      "bcp_47_code": "tt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "уэльс теле",
+      "bcp_47_code": "tt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "cimrica",
+      "bcp_47_code": "lfn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kymrin kieli",
+      "bcp_47_code": "olo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "威爾士語",
+      "bcp_47_code": "wuu",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Welsh",
+      "bcp_47_code": "vls",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Galoés",
+      "bcp_47_code": "pcd",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ᱳᱭᱮᱞᱥ ᱯᱟᱹᱨᱥᱤ",
+      "bcp_47_code": "sat",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Уэльс хэл",
+      "bcp_47_code": "mn",
+      "iso_15924_code": "cyrl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "لويلزية",
+      "bcp_47_code": "ary",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Уэльс хэлэн",
+      "bcp_47_code": "bxr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Уэльс тыла",
+      "bcp_47_code": "sah",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ꯋꯦꯜꯁ ꯂꯣꯟ",
+      "bcp_47_code": "mni",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "gałezo",
+      "bcp_47_code": "vec",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Reo Wēra",
+      "bcp_47_code": "mi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Zimanê walesî",
+      "bcp_47_code": "ku",
+      "iso_15924_code": "latn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "gallese",
+      "bcp_47_code": "co",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "toki Kinla",
+      "bcp_47_code": "tok",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "वेल्श भाषा",
+      "bcp_47_code": "anp",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ویلزی",
+      "bcp_47_code": "mzn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Wa̱la̱t",
+      "bcp_47_code": "kcg",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ဝေလဘာသာစကား",
+      "bcp_47_code": "my",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ўэйлзкая мова",
+      "bcp_47_code": "be",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "кімрская мова",
+      "bcp_47_code": "be",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Cymric",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "língua galesa",
+      "bcp_47_code": "pt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua gallisi",
+      "bcp_47_code": "scn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "կիմրերեն",
+      "bcp_47_code": "hy",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua gallese",
+      "bcp_47_code": "it",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "walisisk sprog",
+      "bcp_47_code": "da",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idioma galés",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "cymraeg",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "gales",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idioma gales",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "walisische Sprache",
+      "bcp_47_code": "de",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kymrisch",
+      "bcp_47_code": "de",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kymrische Sprache",
+      "bcp_47_code": "de",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Gales",
+      "bcp_47_code": "pam",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tiếng Gan",
+      "bcp_47_code": "vi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "لغة ويلزية",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "اللغة الويلزية",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ويلزية",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "уэлсӣ",
+      "bcp_47_code": "tg",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "уэльский язык",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "кимрский язык",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Gjuha uellsishte",
+      "bcp_47_code": "sq",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "уэльсчә",
+      "bcp_47_code": "tt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "velsk",
+      "bcp_47_code": "nn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kymrisk",
+      "bcp_47_code": "nn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "waliziska rěč",
+      "bcp_47_code": "hsb",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kymrišćina",
+      "bcp_47_code": "hsb",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kymriska rěč",
+      "bcp_47_code": "hsb",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kymrin kieli",
+      "bcp_47_code": "fi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "cymraeg",
+      "bcp_47_code": "pl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "gymraeg",
+      "bcp_47_code": "pl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "zimanê walesî",
+      "bcp_47_code": "ku",
+      "iso_15924_code": "latn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "уельська мова",
+      "bcp_47_code": "uk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "кемрійська мова",
+      "bcp_47_code": "uk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ویلش زبان",
+      "bcp_47_code": "ur",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "کمری زبان",
+      "bcp_47_code": "ur",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "валлийаг",
+      "bcp_47_code": "os",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "la kimra",
+      "bcp_47_code": "eo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "velszi",
+      "bcp_47_code": "hu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua gallese",
+      "bcp_47_code": "co",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "uelsi keel",
+      "bcp_47_code": "et",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "カムリ語",
+      "bcp_47_code": "ja",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ブリテン語",
+      "bcp_47_code": "ja",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "カンブリア語",
+      "bcp_47_code": "ja",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "velški jezik",
+      "bcp_47_code": "sl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "valižanski jezik",
+      "bcp_47_code": "sl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kimru",
+      "bcp_47_code": "kcg",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "a̱lyem Wa̱la̱t",
+      "bcp_47_code": "kcg",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Cymru-gí",
+      "bcp_47_code": "nan",
+      "iso_15924_code": "latn",
+      "source": "LEXVO"
+    },
+    {
+      "name": "galesera",
+      "bcp_47_code": "eu",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Lingua galesa",
+      "bcp_47_code": "gl",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Lingua gallisa",
+      "bcp_47_code": "scn",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Valižanščina",
+      "bcp_47_code": "sl",
+      "source": "LEXVO"
+    },
+    {
+      "name": "walesi nyelv",
+      "bcp_47_code": "hu",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Waleština",
+      "bcp_47_code": "sk",
+      "source": "LEXVO"
+    },
+    {
+      "name": "walisisk språk",
+      "bcp_47_code": "nn",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Валлийаг æвзаг",
+      "bcp_47_code": "os",
+      "source": "LEXVO"
+    },
+    {
+      "name": "زبان ولزی",
+      "bcp_47_code": "fa",
+      "source": "LEXVO"
+    },
+    {
+      "name": "ويلزى",
+      "bcp_47_code": "arz",
+      "source": "LEXVO"
+    },
+    {
+      "name": "ওয়েল্‌শ্‌ ভাষা",
+      "bcp_47_code": "bn",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Cymraeg",
+      "bcp_47_code": "cy",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Welsh",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "gb",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 850000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_regional_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 52.0,
+        "longitude": -4.0,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

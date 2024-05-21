@@ -1,0 +1,633 @@
+{
+  "bcp_47_code": "arq",
+  "iso_639_3_code": "arq",
+  "macrolanguage_bcp_47_code": "ar",
+  "glottocode": "alge1239",
+  "wikidata_id": "Q56499",
+  "total_population": 36000000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Maghrebi dialect of the Arabic language spoken in Algeria",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Algerian Arabic",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "የአልጄሪያ ዓረብኛ",
+      "bcp_47_code": "am",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "árabe d’arxelia",
+      "bcp_47_code": "ast",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arabeg aljeria",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arabština",
+      "bcp_47_code": "cs",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arabeg Algeria",
+      "bcp_47_code": "cy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Algerisches Arabisch",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "alžeeria araabia",
+      "bcp_47_code": "et",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "عربی الجزایری",
+      "bcp_47_code": "fa",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "algerianarabia",
+      "bcp_47_code": "fi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arabe algérien",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arabais Aildireach",
+      "bcp_47_code": "gd",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "આલ્જેરિયન અરબી",
+      "bcp_47_code": "gu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ալժիրական արաբերեն",
+      "bcp_47_code": "hy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arab Aljazair",
+      "bcp_47_code": "id",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arabo algerino",
+      "bcp_47_code": "it",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "アルジェリア・アラビア語",
+      "bcp_47_code": "ja",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "알제리 아랍어",
+      "bcp_47_code": "ko",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Aljehresch Arahbesch",
+      "bcp_47_code": "ksh",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Algerescht Arabesch",
+      "bcp_47_code": "lb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "alžyro arabų",
+      "bcp_47_code": "lt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "алжирски арапски",
+      "bcp_47_code": "mk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arab Algeria",
+      "bcp_47_code": "ms",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "अल्जेरियाली अरबी",
+      "bcp_47_code": "ne",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Algerijns Arabisch",
+      "bcp_47_code": "nl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "algerisk arabisk",
+      "bcp_47_code": "no",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "algierski arabski",
+      "bcp_47_code": "pl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "algerisk arabiska",
+      "bcp_47_code": "sv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kiarabu cha Algeria",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "อาหรับแอลจีเรีย",
+      "bcp_47_code": "th",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "lea fakaʻalepea-ʻaisilia",
+      "bcp_47_code": "to",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Cezayir Arapçası",
+      "bcp_47_code": "tr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "алжирська арабська",
+      "bcp_47_code": "uk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tiếng Ả Rập Algeria",
+      "bcp_47_code": "vi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "阿爾及利亞阿拉伯文",
+      "bcp_47_code": "yue",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "árabe argelino",
+      "bcp_47_code": "pt",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga aràbica dl'Algeria",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "алжирский диалект арабского языка",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "árabe argelino",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "алжирски арапски јазик",
+      "bcp_47_code": "mk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "algériai arab",
+      "bcp_47_code": "hu",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Algerisch-Arabisch",
+      "bcp_47_code": "de",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "alžirski arapski",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "اللهجة الجزائرية",
+      "bcp_47_code": "ar",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "アラビア語アルジェリア方言",
+      "bcp_47_code": "ja",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "阿爾及利亞阿拉伯語",
+      "bcp_47_code": "cmn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "алжирски арабски език",
+      "bcp_47_code": "bg",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "алжирська арабська мова",
+      "bcp_47_code": "uk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Taɛrabt tazzayrit",
+      "bcp_47_code": "kab",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "արաբերենի ալժիրի բարբառ",
+      "bcp_47_code": "hy",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "دزيري",
+      "bcp_47_code": "aeb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "الدارجه الجزائريه",
+      "bcp_47_code": "arz",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "alĝeria araba lingvo",
+      "bcp_47_code": "eo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "árabe arxelín",
+      "bcp_47_code": "ast",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Algerijns-Arabisch",
+      "bcp_47_code": "nl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "الجزائری عربی",
+      "bcp_47_code": "ur",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "algerisk arabisk",
+      "bcp_47_code": "da",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "àrab algerià",
+      "bcp_47_code": "ca",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tiếng Ả Rập Algérie",
+      "bcp_47_code": "vi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bahasa Arab Aljazair",
+      "bcp_47_code": "id",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "αλγερινά αραβικά",
+      "bcp_47_code": "el",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "алжирски арапски",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "àrabo alzerin",
+      "bcp_47_code": "vec",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "algerisk-arabisk",
+      "bcp_47_code": "nb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Arabish Algearagh",
+      "bcp_47_code": "gv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Arabic ndị Algeria",
+      "bcp_47_code": "ig",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "الدارجة الجزائرية",
+      "bcp_47_code": "arq",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "toki Alapi pi ma Sasali",
+      "bcp_47_code": "tok",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "àrabu algerinu",
+      "bcp_47_code": "co",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "الدارجة د لجزائر",
+      "bcp_47_code": "ary",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Árabe alxeriano",
+      "bcp_47_code": "gl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "aljeriar arabiera",
+      "bcp_47_code": "eu",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ərəb dilinin Əlcəzair dialekti",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "alžirska arabščina",
+      "bcp_47_code": "sl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "alžirski arapski",
+      "bcp_47_code": "bs",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "algerien moderne",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "algériophone",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "arabe algerien",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "darija algérienne",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "djazairia",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "grammaire algérienne",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "jazayriya",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "algérien",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "jazairia",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "algérien moderne",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "dzairiya",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "لهجة جزائرية",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "لهجه جزائريه",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "دارجة الجزائر",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "الدارجة الجزائرية",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "لهيجة جزائرية",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Magherbi Arabic",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "阿爾及利亞口語",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "دارجة دزيرية",
+      "bcp_47_code": "aeb",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "دارجة جزايرية",
+      "bcp_47_code": "aeb",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "جزايري",
+      "bcp_47_code": "aeb",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "الدارجة الجزائرية",
+      "bcp_47_code": "arz",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "اللهجة الجزائرية",
+      "bcp_47_code": "arz",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "دارجة الجزائر",
+      "bcp_47_code": "arz",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "لهجة الجزائر",
+      "bcp_47_code": "arz",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "達里賈",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "algériai arab nyelv",
+      "bcp_47_code": "hu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "àrabu alghjerinu",
+      "bcp_47_code": "co",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "aljeriako arabiera",
+      "bcp_47_code": "eu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "aljeriar darija",
+      "bcp_47_code": "eu",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "arab",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "dz",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 36000000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 27.2,
+        "longitude": 2.86,
+        "source": "GOOGLE_RESEARCH"
+      }
+    }
+  ]
+}

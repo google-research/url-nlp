@@ -1,0 +1,208 @@
+{
+  "bcp_47_code": "buc",
+  "iso_639_3_code": "buc",
+  "glottocode": "bush1250",
+  "wikidata_id": "Q5150795",
+  "total_population": 93000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Bushi",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Kibosy Kiantalaotsy-Majunga",
+      "bcp_47_code": "en",
+      "source": "GLOTTOLOG"
+    },
+    {
+      "name": "shibushi",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idioma bushi",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bushi",
+      "bcp_47_code": "nl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bushi jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Bushi",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "língua bushi",
+      "bcp_47_code": "pt",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kibushi",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kibushi",
+      "bcp_47_code": "oc",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ブシ語",
+      "bcp_47_code": "ja",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Baushi",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bushi",
+      "bcp_47_code": "ilo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "буши",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tataramon na Bushi",
+      "bcp_47_code": "bcl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Fiteny kibosy",
+      "bcp_47_code": "mg",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bushi",
+      "bcp_47_code": "ca",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "dialekt bushi",
+      "bcp_47_code": "pl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bahasa Bushi",
+      "bcp_47_code": "id",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bushi",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kibushi",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "malgache de mayotte",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kibushi",
+      "bcp_47_code": "nl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kibuki",
+      "bcp_47_code": "nl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Antalaotra",
+      "bcp_47_code": "nl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Shibushi Shimaore",
+      "bcp_47_code": "nl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Sakalava",
+      "bcp_47_code": "nl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Fiteny Antalaotra",
+      "bcp_47_code": "mg",
+      "source": "LEXVO"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "mg",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 48000,
+        "source": "GOOGLE_RESEARCH"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "yt",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 45000,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": -12.9652,
+        "longitude": 45.1368,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

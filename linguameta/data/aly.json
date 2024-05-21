@@ -1,0 +1,95 @@
+{
+  "bcp_47_code": "aly",
+  "iso_639_3_code": "aly",
+  "glottocode": "alya1239",
+  "wikidata_id": "Q3327389",
+  "total_population": 4500,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Alyawarr",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Lingua alyawarr",
+      "bcp_47_code": "gl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga alyawarr",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "alyawarr",
+      "bcp_47_code": "nn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "alyawarr jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "alyawarr",
+      "bcp_47_code": "sv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "alyawarr",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "aljavarri keel",
+      "bcp_47_code": "et",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kialyawarr",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "алйяварр",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "au",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 4500,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": -21.0427,
+        "longitude": 136.835,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "bcp_47_code": "box",
+  "iso_639_3_code": "box",
+  "glottocode": "buam1238",
+  "wikidata_id": "Q35157",
+  "total_population": 190000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Gur language of Burkina Faso",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Buamu",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Kibuamu",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bwamu",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Buamu",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bwamoueg",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bwamu",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "buamu jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ブヮム語",
+      "bcp_47_code": "ja",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bwamu",
+      "bcp_47_code": "bar",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "zimanê bwamu",
+      "bcp_47_code": "ku",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Asụsụ Buamu",
+      "bcp_47_code": "ig",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ブアム語",
+      "bcp_47_code": "ja",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ブワム語",
+      "bcp_47_code": "ja",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "buamu",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Buamu",
+      "bcp_47_code": "box",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "bf",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 190000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 11.1687,
+        "longitude": -3.50303,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

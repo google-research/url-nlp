@@ -1,0 +1,1404 @@
+{
+  "bcp_47_code": "cop",
+  "iso_639_3_code": "cop",
+  "glottocode": "copt1239",
+  "wikidata_id": "Q36155",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "latest stage of the Egyptian language",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Coptic",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Kopties",
+      "bcp_47_code": "af",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ኮፕቲክ",
+      "bcp_47_code": "am",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "القبطية",
+      "bcp_47_code": "ar",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "cópticu",
+      "bcp_47_code": "ast",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "kopt",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "копцкая",
+      "bcp_47_code": "be",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "коптски",
+      "bcp_47_code": "bg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "কপটিক",
+      "bcp_47_code": "bn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "kopteg",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "कॉप्टीक्",
+      "bcp_47_code": "brx",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "koptski",
+      "bcp_47_code": "bs",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "copte",
+      "bcp_47_code": "ca",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "𑄇𑄧𑄛𑄴𑄑𑄨𑄇𑄴",
+      "bcp_47_code": "ccp",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "koptština",
+      "bcp_47_code": "cs",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Copteg",
+      "bcp_47_code": "cy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "koptisk",
+      "bcp_47_code": "da",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Koptisch",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Κοπτικά",
+      "bcp_47_code": "el",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "copto",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "kopti",
+      "bcp_47_code": "et",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "قبطی",
+      "bcp_47_code": "fa",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "kopti",
+      "bcp_47_code": "fi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "copte",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "coptic",
+      "bcp_47_code": "fur",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Koptysk",
+      "bcp_47_code": "fy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Coptais",
+      "bcp_47_code": "ga",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Coptais",
+      "bcp_47_code": "gd",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Koptisch",
+      "bcp_47_code": "gsw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "કોપ્ટિક",
+      "bcp_47_code": "gu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "קופטית",
+      "bcp_47_code": "he",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "कॉप्टिक",
+      "bcp_47_code": "hi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "koptski",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "kopt",
+      "bcp_47_code": "hu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ղպտերեն",
+      "bcp_47_code": "hy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Koptik",
+      "bcp_47_code": "id",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "koptíska",
+      "bcp_47_code": "is",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "copto",
+      "bcp_47_code": "it",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "コプト語",
+      "bcp_47_code": "ja",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "კოპტური",
+      "bcp_47_code": "ka",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "komta",
+      "bcp_47_code": "kgp",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ಕೊಪ್ಟಿಕ್",
+      "bcp_47_code": "kn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "콥트어",
+      "bcp_47_code": "ko",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "کاپٹِک",
+      "bcp_47_code": "ks",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Koptesch",
+      "bcp_47_code": "ksh",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Koptesch",
+      "bcp_47_code": "lb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Coptic Iyápi",
+      "bcp_47_code": "lkt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ຄອບຕິກ",
+      "bcp_47_code": "lo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "koptų",
+      "bcp_47_code": "lt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "koptu",
+      "bcp_47_code": "lv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "коптски",
+      "bcp_47_code": "mk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "കോപ്റ്റിക്",
+      "bcp_47_code": "ml",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "कॉप्टिक",
+      "bcp_47_code": "mr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Coptic",
+      "bcp_47_code": "ms",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Koptiku",
+      "bcp_47_code": "mt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Koptsch",
+      "bcp_47_code": "nds",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "कोप्टिक",
+      "bcp_47_code": "ne",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Koptisch",
+      "bcp_47_code": "nl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "koptisk",
+      "bcp_47_code": "no",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "କପ୍ଟିକ୍",
+      "bcp_47_code": "or",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "коптаг",
+      "bcp_47_code": "os",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "koptyjski",
+      "bcp_47_code": "pl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "copta",
+      "bcp_47_code": "pt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "coptic",
+      "bcp_47_code": "rm",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "coptă",
+      "bcp_47_code": "ro",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "коптский",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "koptčina",
+      "bcp_47_code": "sk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "koptščina",
+      "bcp_47_code": "sl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "коптски",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "koptiska",
+      "bcp_47_code": "sv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kikhufti",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "காப்டிக்",
+      "bcp_47_code": "ta",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "కోప్టిక్",
+      "bcp_47_code": "te",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "คอปติก",
+      "bcp_47_code": "th",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "lea fakakopitika",
+      "bcp_47_code": "to",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kıptice",
+      "bcp_47_code": "tr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "كوپتىكچە",
+      "bcp_47_code": "ug",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "коптська",
+      "bcp_47_code": "uk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tiếng Coptic",
+      "bcp_47_code": "vi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "kupita",
+      "bcp_47_code": "yrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "科普特文",
+      "bcp_47_code": "yue",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "科普特语",
+      "bcp_47_code": "cmn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "কপ্টিক",
+      "bcp_47_code": "as",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Koptik",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "koptska",
+      "bcp_47_code": "bs",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "koptské písmo",
+      "bcp_47_code": "cs",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "koptoarra",
+      "bcp_47_code": "eu",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Coptic",
+      "bcp_47_code": "fil",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Copto",
+      "bcp_47_code": "gl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "કૉપ્ટિક",
+      "bcp_47_code": "gu",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ղպտիերեն",
+      "bcp_47_code": "hy",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Koptik",
+      "bcp_47_code": "in",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "koptískt",
+      "bcp_47_code": "is",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Копт",
+      "bcp_47_code": "kk",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "កុបតិច",
+      "bcp_47_code": "km",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ಕೋಪ್ಟಿಕ್",
+      "bcp_47_code": "kn",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Коптчо",
+      "bcp_47_code": "ky",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Copte",
+      "bcp_47_code": "ln",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "koptų kalba",
+      "bcp_47_code": "lt",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Коптик",
+      "bcp_47_code": "mn",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Coptică",
+      "bcp_47_code": "mo",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ကော့ပ်တစ်",
+      "bcp_47_code": "my",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "koptisk",
+      "bcp_47_code": "nb",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "କୋପ୍ଟିକ୍",
+      "bcp_47_code": "or",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ਕੋਪਟਿਕ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "coptică",
+      "bcp_47_code": "ro",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "කොප්ටික්",
+      "bcp_47_code": "si",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Koptské písmo",
+      "bcp_47_code": "sk",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Koptike",
+      "bcp_47_code": "sq",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "коптска",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "కాప్టిక్",
+      "bcp_47_code": "te",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Coptic",
+      "bcp_47_code": "tl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Kıpti",
+      "bcp_47_code": "tr",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "قبطی",
+      "bcp_47_code": "ur",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "qibtiy",
+      "bcp_47_code": "uz",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "科普特文",
+      "bcp_47_code": "cmn",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "i-Coptic",
+      "bcp_47_code": "zu",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Basa Koptik",
+      "bcp_47_code": "jv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "język koptyjski",
+      "bcp_47_code": "pl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "koptoera",
+      "bcp_47_code": "eu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Koptitongo",
+      "bcp_47_code": "srn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Κοπτική γλώσσα",
+      "bcp_47_code": "el",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lingwa Kopta",
+      "bcp_47_code": "mt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "An Choptais",
+      "bcp_47_code": "ga",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Копт теле",
+      "bcp_47_code": "ba",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "copto",
+      "bcp_47_code": "pt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "коптский язык",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "коптски језик",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "koptin kieli",
+      "bcp_47_code": "fi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "коптська мова",
+      "bcp_47_code": "uk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "koptisk",
+      "bcp_47_code": "nn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Копт кыв",
+      "bcp_47_code": "kv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "qibti dili",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "koptski jezik",
+      "bcp_47_code": "hr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Idioma copto",
+      "bcp_47_code": "an",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Còptich",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Koptischi Sprooch",
+      "bcp_47_code": "gsw",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Coptic",
+      "bcp_47_code": "pam",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "копцкая мова",
+      "bcp_47_code": "be",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "لغه قبطى",
+      "bcp_47_code": "arz",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lingua copta",
+      "bcp_47_code": "gl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "コプト・エジプト語",
+      "bcp_47_code": "ja",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "കോപ്റ്റിക് ഭാഷ",
+      "bcp_47_code": "ml",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "koptski jezik",
+      "bcp_47_code": "sh",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Копт чĕлхи",
+      "bcp_47_code": "cv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "limba coptă",
+      "bcp_47_code": "ro",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua Coptica",
+      "bcp_47_code": "la",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Koptiko",
+      "bcp_47_code": "ilo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kopta",
+      "bcp_47_code": "mg",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "زبان قبطی",
+      "bcp_47_code": "fa",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "коптски език",
+      "bcp_47_code": "bg",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "კოპტური ენა",
+      "bcp_47_code": "ka",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "koptšćina",
+      "bcp_47_code": "dsb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "koptišćina",
+      "bcp_47_code": "hsb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "còpte",
+      "bcp_47_code": "oc",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kopti keel",
+      "bcp_47_code": "et",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "koptu valoda",
+      "bcp_47_code": "lv",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "coptu",
+      "bcp_47_code": "ast",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bahasa Kubti",
+      "bcp_47_code": "id",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lingua copta",
+      "bcp_47_code": "scn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Wikang kupta",
+      "bcp_47_code": "tl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kopta lingvo",
+      "bcp_47_code": "eo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "qibtiy tili",
+      "bcp_47_code": "uz",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "قبطي ژبه",
+      "bcp_47_code": "ps",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "कोप्टिक",
+      "bcp_47_code": "hi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kıptîce",
+      "bcp_47_code": "tr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "copta",
+      "bcp_47_code": "lfn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bahasa Qibti",
+      "bcp_47_code": "ms",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Koptisk spriak",
+      "bcp_47_code": "frr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ಕಾಪ್ಟಿಕ್ ಭಾಷೆ ಮತ್ತು ಸಾಹಿತ್ಯ",
+      "bcp_47_code": "kn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kopte",
+      "bcp_47_code": "sq",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "коптски јазик",
+      "bcp_47_code": "mk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kopto",
+      "bcp_47_code": "war",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Копт мацI",
+      "bcp_47_code": "av",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "科普特语",
+      "bcp_47_code": "wuu",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ܠܫܢܐ ܩܘܦܛܝܐ",
+      "bcp_47_code": "arc",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "কিবতীয় ভাষা",
+      "bcp_47_code": "bn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ꯀꯣꯞꯇꯤꯛ ꯂꯣꯟ",
+      "bcp_47_code": "mni",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "забони қибтӣ",
+      "bcp_47_code": "tg",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kybty dili",
+      "bcp_47_code": "tk",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "copto",
+      "bcp_47_code": "vec",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ภาษาคอปติก",
+      "bcp_47_code": "th",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kinopto",
+      "bcp_47_code": "krj",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "قىبتىي تىلى",
+      "bcp_47_code": "ug",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "قبطی دیلی",
+      "bcp_47_code": "azb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Reo Coptic",
+      "bcp_47_code": "mi",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Copt-gú",
+      "bcp_47_code": "nan",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Léngoa còpta",
+      "bcp_47_code": "lij",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "قبطی زبان",
+      "bcp_47_code": "pnb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Coptic",
+      "bcp_47_code": "sw",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "科普特語",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "柯普特文",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "koptiko",
+      "bcp_47_code": "eu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kopto",
+      "bcp_47_code": "eu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lengua copta",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idioma copto",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "egipcio copto",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "egipcio moderno",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Koptische taal",
+      "bcp_47_code": "nl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "överegyptiska",
+      "bcp_47_code": "sv",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "قبطية",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "خط قبطي",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "لغه قبطيه",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "اللغة القبطية",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "coopta",
+      "bcp_47_code": "pt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "copita",
+      "bcp_47_code": "pt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "língua copta",
+      "bcp_47_code": "pt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Qibti dili",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Copto",
+      "bcp_47_code": "an",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Luenga copta",
+      "bcp_47_code": "an",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Egissi",
+      "bcp_47_code": "pms",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "꼽트어",
+      "bcp_47_code": "ko",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "langue copte",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "اللغه القبطيه",
+      "bcp_47_code": "arz",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "اللغة القبطية",
+      "bcp_47_code": "arz",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "اللغه القبطى",
+      "bcp_47_code": "arz",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua copta",
+      "bcp_47_code": "it",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Boárico",
+      "bcp_47_code": "gl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Saítico",
+      "bcp_47_code": "gl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "koptische Sprache",
+      "bcp_47_code": "de",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "現代エジプト語",
+      "bcp_47_code": "ja",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "口語コプト語",
+      "bcp_47_code": "ja",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "koptski",
+      "bcp_47_code": "sh",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "neoegipci",
+      "bcp_47_code": "ca",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Copte",
+      "bcp_47_code": "la",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Coptice",
+      "bcp_47_code": "la",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Pagsasao a Coptico",
+      "bcp_47_code": "ilo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "koptský jazyk",
+      "bcp_47_code": "cs",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Coptic Egyptian",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "कोप्टिक भाषा",
+      "bcp_47_code": "hi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "koptiska rěč",
+      "bcp_47_code": "hsb",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Koptikja egjyptjane",
+      "bcp_47_code": "sq",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Gjuha kopte",
+      "bcp_47_code": "sq",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kopt",
+      "bcp_47_code": "sq",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Κοπτική",
+      "bcp_47_code": "el",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kopt nyelv",
+      "bcp_47_code": "hu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Inehiptohanën Moderno",
+      "bcp_47_code": "krj",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Inehipsiyo Moderno",
+      "bcp_47_code": "krj",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bahasa Koptik",
+      "bcp_47_code": "id",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kopt dili",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "source": "LEXVO"
+    },
+    {
+      "name": "koptisk språk",
+      "bcp_47_code": "nn",
+      "source": "LEXVO"
+    },
+    {
+      "name": "لغة قبطية",
+      "bcp_47_code": "ar",
+      "source": "LEXVO"
+    },
+    {
+      "name": "ϯⲙⲉⲧⲣⲉⲙⲛ̀ⲭⲏⲙⲓ",
+      "bcp_47_code": "cop",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "copt",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "eg",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 0,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 29.472,
+        "longitude": 31.2053,
+        "source": "GOOGLE_RESEARCH"
+      }
+    }
+  ]
+}

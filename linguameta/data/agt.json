@@ -1,0 +1,87 @@
+{
+  "bcp_47_code": "agt",
+  "iso_639_3_code": "agt",
+  "glottocode": "cent2084",
+  "wikidata_id": "Q5017296",
+  "total_population": 780,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Central Cagayan Agta",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Cagayan Agta",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "centralni cagayan agta",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "cagayan sentral Lenga agta",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kiagta ya Cagayan",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Agta ti Tengnga a Cagayan",
+      "bcp_47_code": "ilo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tataramon na Sentral Cagayan Agta",
+      "bcp_47_code": "bcl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "agta du cagayan central",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "centralni cagayan agta jezik",
+      "bcp_47_code": "hr",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "ph",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 780,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 17.9571,
+        "longitude": 121.857,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

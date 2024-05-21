@@ -1,0 +1,982 @@
+{
+  "bcp_47_code": "cbk",
+  "iso_639_3_code": "cbk",
+  "glottocode": "chav1241",
+  "wikidata_id": "Q33281",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Spanish-based creole language spoken in the Philippines",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Chavacano",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Chavacano",
+      "bcp_47_code": "af",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ቻቫካኖኛ",
+      "bcp_47_code": "am",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "تشاباكانو",
+      "bcp_47_code": "ar",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "চাভাকানো",
+      "bcp_47_code": "as",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Çabakano",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "чабакана",
+      "bcp_47_code": "be",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "чавакано",
+      "bcp_47_code": "bg",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "সাভাক্যানো",
+      "bcp_47_code": "bn",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "chavacano",
+      "bcp_47_code": "bs",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "chavacano",
+      "bcp_47_code": "ca",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "chavacano",
+      "bcp_47_code": "cs",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "chavacano",
+      "bcp_47_code": "da",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Chabacano",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Chavacano",
+      "bcp_47_code": "el",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "chabacano",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "tšavakano",
+      "bcp_47_code": "et",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "chavacanera",
+      "bcp_47_code": "eu",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "چاباکانو",
+      "bcp_47_code": "fa",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "chavacano",
+      "bcp_47_code": "fi",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Chavacano",
+      "bcp_47_code": "fil",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "chavacano",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Chavacano",
+      "bcp_47_code": "gl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Chabacano",
+      "bcp_47_code": "gsw",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ચાવાકાનો",
+      "bcp_47_code": "gu",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "चाबाकानो",
+      "bcp_47_code": "hi",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "chavacano",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "chavacano",
+      "bcp_47_code": "hu",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "չաբականո",
+      "bcp_47_code": "hy",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Chavacano",
+      "bcp_47_code": "id",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Chavacano",
+      "bcp_47_code": "in",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "chavacano",
+      "bcp_47_code": "is",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "chavacano",
+      "bcp_47_code": "it",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "צ'בקנו",
+      "bcp_47_code": "he",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "チャバカノ語",
+      "bcp_47_code": "ja",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ჩავაკანო",
+      "bcp_47_code": "ka",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Чавакано",
+      "bcp_47_code": "kk",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ឆាវ៉ាកាណូ",
+      "bcp_47_code": "km",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ಚಾವಕಾನೊ",
+      "bcp_47_code": "kn",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "차바카노어",
+      "bcp_47_code": "ko",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Чабаканочо",
+      "bcp_47_code": "ky",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Chavacano",
+      "bcp_47_code": "ln",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ຊາວາຄາໂນ",
+      "bcp_47_code": "lo",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "čavakano kalba",
+      "bcp_47_code": "lt",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "čavakano",
+      "bcp_47_code": "lv",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "чавакано",
+      "bcp_47_code": "mk",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ചാവാകാനോ",
+      "bcp_47_code": "ml",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Чавакано",
+      "bcp_47_code": "mn",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Chavacano",
+      "bcp_47_code": "mo",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "छावाकानो",
+      "bcp_47_code": "mr",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Chavacano",
+      "bcp_47_code": "ms",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ချာဗာကာနို",
+      "bcp_47_code": "my",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "chavacano",
+      "bcp_47_code": "nb",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "चाभकानो",
+      "bcp_47_code": "ne",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Chavacano",
+      "bcp_47_code": "nl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "chavacano",
+      "bcp_47_code": "no",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ଚାଭାକାନୋ",
+      "bcp_47_code": "or",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ਚਾਵਾਕੈਨੋ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "chavacano",
+      "bcp_47_code": "pl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "chavacano",
+      "bcp_47_code": "pt",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "chavacano",
+      "bcp_47_code": "ro",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "чабакано",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "චාවකානෝ",
+      "bcp_47_code": "si",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Chavacano",
+      "bcp_47_code": "sk",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "kavakano",
+      "bcp_47_code": "sl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Çavakanoisht",
+      "bcp_47_code": "sq",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "чавакано",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "chavacano",
+      "bcp_47_code": "sv",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Kichavakano",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "சாவாகானோ",
+      "bcp_47_code": "ta",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "చావకనో",
+      "bcp_47_code": "te",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ชาบากาโน",
+      "bcp_47_code": "th",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Chavacano",
+      "bcp_47_code": "tl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Chabacano",
+      "bcp_47_code": "tr",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "чавакано",
+      "bcp_47_code": "uk",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "چاواکانو",
+      "bcp_47_code": "ur",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "chabakano",
+      "bcp_47_code": "uz",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "tiếng Chavacano",
+      "bcp_47_code": "vi",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "查瓦卡诺语",
+      "bcp_47_code": "cmn",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "isi-Chavacano",
+      "bcp_47_code": "zu",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "查瓦卡諾語",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga chavacano",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "język chavacano",
+      "bcp_47_code": "pl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "chavacano",
+      "bcp_47_code": "eu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "criollo chabacano",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "சவகான மொழி",
+      "bcp_47_code": "ta",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Pinulongang Tsabakano",
+      "bcp_47_code": "ceb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "chabacano",
+      "bcp_47_code": "hu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Chavacano",
+      "bcp_47_code": "cbk",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ciavacano",
+      "bcp_47_code": "it",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "chabacano",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua chavacan",
+      "bcp_47_code": "ia",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tataramon na Tsabakano",
+      "bcp_47_code": "bcl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ĉabakana lingvo",
+      "bcp_47_code": "eo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ภาษาชาบากาโน",
+      "bcp_47_code": "th",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Chavacano-ngî",
+      "bcp_47_code": "hak",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Chavacano",
+      "bcp_47_code": "la",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Chabacano",
+      "bcp_47_code": "ilo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "chavacano jezik",
+      "bcp_47_code": "hr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Wikang Chavacano",
+      "bcp_47_code": "tl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "زبان چاباکانو",
+      "bcp_47_code": "fa",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "чавакански јазик",
+      "bcp_47_code": "mk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "chavacan",
+      "bcp_47_code": "oc",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "لغة تشاباكانو",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tšavakano keel",
+      "bcp_47_code": "et",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "criollu chabacanu",
+      "bcp_47_code": "ast",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "چاباکانو دیلی",
+      "bcp_47_code": "azb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Basa Chavacano",
+      "bcp_47_code": "jv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Xavacano",
+      "bcp_47_code": "lfn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "查瓦卡諾語",
+      "bcp_47_code": "lzh",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "চাভাকানো ভাষা",
+      "bcp_47_code": "bn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "查巴卡諾文",
+      "bcp_47_code": "yue",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "τσαβακάνο",
+      "bcp_47_code": "el",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ᱪᱟᱵᱷᱟᱠᱟᱱᱳ ᱯᱟᱹᱨᱥᱤ",
+      "bcp_47_code": "sat",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Чавакано теле",
+      "bcp_47_code": "tt",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ciavacan",
+      "bcp_47_code": "vec",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ਚਾਵਾਕਾਨੋ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bahasa Cabakano",
+      "bcp_47_code": "id",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tsinabakano",
+      "bcp_47_code": "krj",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bahasa Cabakanu",
+      "bcp_47_code": "ms",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "chavacano",
+      "bcp_47_code": "sl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "三寶顏查瓦卡諾語",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "txabakano",
+      "bcp_47_code": "eu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "chabacano",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "criollo chavacano",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idioma chabacano",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idioma chavacano",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Chabacano",
+      "bcp_47_code": "ceb",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tsinabakano",
+      "bcp_47_code": "ceb",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tsabakano",
+      "bcp_47_code": "ceb",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "fülöp-szigeteki spanyol kreol nyelv",
+      "bcp_47_code": "hu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "chavacano nyelv",
+      "bcp_47_code": "hu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "chabacano nyelv",
+      "bcp_47_code": "hu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Chabacano",
+      "bcp_47_code": "cbk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua chabakana",
+      "bcp_47_code": "it",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua ciavacana",
+      "bcp_47_code": "it",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Chavakano",
+      "bcp_47_code": "de",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "サンボアンガ・チャバカノ語",
+      "bcp_47_code": "ja",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua chavacano",
+      "bcp_47_code": "ia",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "chabacano",
+      "bcp_47_code": "ia",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "chabacano",
+      "bcp_47_code": "sv",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "chabacano",
+      "bcp_47_code": "pt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "língua chavacana",
+      "bcp_47_code": "pt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ĉavaka lingvo",
+      "bcp_47_code": "eo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ĉavakano",
+      "bcp_47_code": "eo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "чавакано",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "чавакано язык",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ภาษาชาวาคาโน",
+      "bcp_47_code": "th",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Chabacani",
+      "bcp_47_code": "la",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Chabacano",
+      "bcp_47_code": "la",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Pagsasao a Chavacano",
+      "bcp_47_code": "ilo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Wikang Chabacano",
+      "bcp_47_code": "tl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Wikang Tsabakano",
+      "bcp_47_code": "tl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Chabacano",
+      "bcp_47_code": "tl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tsabakano",
+      "bcp_47_code": "tl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Chabacano",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Zamboangueño",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ਚਾਵਾਕਾਨੋ ਭਾਸ਼ਾ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "léngua ciavacana",
+      "bcp_47_code": "vec",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "léngua ciabacana",
+      "bcp_47_code": "vec",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ciabacan",
+      "bcp_47_code": "vec",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bahasa Cavakano",
+      "bcp_47_code": "id",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "chabacano",
+      "bcp_47_code": "ca",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "chabakano",
+      "bcp_47_code": "ca",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua zamboangueña",
+      "bcp_47_code": "it",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Tataramon na Zamboangueño",
+      "bcp_47_code": "bcl",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Wikang Zamboangueño",
+      "bcp_47_code": "tl",
+      "source": "LEXVO"
+    },
+    {
+      "name": "ภาษาชาวากาโน",
+      "bcp_47_code": "th",
+      "source": "LEXVO"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "ph",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 7.435034,
+        "longitude": 122.18849,
+        "source": "GOOGLE_RESEARCH"
+      }
+    }
+  ]
+}

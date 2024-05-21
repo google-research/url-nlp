@@ -1,0 +1,691 @@
+{
+  "bcp_47_code": "crl",
+  "iso_639_3_code": "crl",
+  "macrolanguage_bcp_47_code": "cr",
+  "glottocode": "nort1552",
+  "wikidata_id": "Q12642195",
+  "total_population": 380,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "variety of East Cree spoken in Canada",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Northern East Cree",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Noordoos-Cree",
+      "bcp_47_code": "af",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ሰሜናዊ ምዕራብ ክሪ",
+      "bcp_47_code": "am",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "الكري شمال الشرقية",
+      "bcp_47_code": "ar",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "নৰ্দাৰ্ন ইষ্ট ক্ৰী",
+      "bcp_47_code": "as",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "şimal-şəqri kri",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "паўночна-ўсходняя кры",
+      "bcp_47_code": "be",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "североизточен крий",
+      "bcp_47_code": "bg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "উত্তর পূর্ব ক্রী",
+      "bcp_47_code": "bn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "krieg ar biz",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "साहायारि सानजा क्री",
+      "bcp_47_code": "brx",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "sjeveroistočni kri",
+      "bcp_47_code": "bs",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "cree nord-oriental",
+      "bcp_47_code": "ca",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ᏧᏴᏢ ᏗᎧᎸᎬ Ꮯ",
+      "bcp_47_code": "chr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "kríjština",
+      "bcp_47_code": "cs",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Gogledd Dwyrain Cree",
+      "bcp_47_code": "cy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "nordøstcree",
+      "bcp_47_code": "da",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Northern East Cree",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "dłujkozajtšna creešćina",
+      "bcp_47_code": "dsb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Βορειοανατολικά Κρι",
+      "bcp_47_code": "el",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "kria jakob-golfa norda",
+      "bcp_47_code": "eo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "cree nororiental",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "põhja-idakrii",
+      "bcp_47_code": "et",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ipar-ekialdeko creera",
+      "bcp_47_code": "eu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "کری شمال شرقی",
+      "bcp_47_code": "fa",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "east cree",
+      "bcp_47_code": "fi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Northern East Cree",
+      "bcp_47_code": "fil",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "cri de l’est",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Craís Thoir Thuaidh",
+      "bcp_47_code": "ga",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Cree Ear-thuathach",
+      "bcp_47_code": "gd",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "cree do nordeste",
+      "bcp_47_code": "gl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ઉત્તરી પૂર્વ ક્રી",
+      "bcp_47_code": "gu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Cree na Arewacin-Gabas",
+      "bcp_47_code": "ha",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "קרי צפון מזרחי",
+      "bcp_47_code": "he",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "नॉर्दन ईस्ट क्री",
+      "bcp_47_code": "hi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "sjevernoistočni cree",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "sewjernowuchodna creešćina",
+      "bcp_47_code": "hsb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "északkeleti krí",
+      "bcp_47_code": "hu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "հյուսիս-արևելյան քրի",
+      "bcp_47_code": "hy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "cree del nord-est",
+      "bcp_47_code": "ia",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "East Cree Utara",
+      "bcp_47_code": "id",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Nọrtan Eastị Kree",
+      "bcp_47_code": "ig",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "norðaustur-cree",
+      "bcp_47_code": "is",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "cree nord-orientale",
+      "bcp_47_code": "it",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "東部クリー語",
+      "bcp_47_code": "ja",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kree Lor Segara",
+      "bcp_47_code": "jv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ჩრდილო-აღმოსავლეთის კრი",
+      "bcp_47_code": "ka",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "солтүстік-шығыс кри тілі",
+      "bcp_47_code": "kk",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "គ្រីខាងកើត​ប៉ែកខាងជើង",
+      "bcp_47_code": "km",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ಉತ್ತರ ಪೂರ್ವ ಕ್ರೀ",
+      "bcp_47_code": "kn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "북동부 크리어",
+      "bcp_47_code": "ko",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ईशान्य क्री",
+      "bcp_47_code": "kok",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "чыгыш криче",
+      "bcp_47_code": "ky",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "cree do nòrd-levante",
+      "bcp_47_code": "lij",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ຄຣີຕາເວັນອອກສ່ຽງເໜືອ",
+      "bcp_47_code": "lo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "šiaurės rytų kri",
+      "bcp_47_code": "lt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ziemeļaustrumu krī",
+      "bcp_47_code": "lv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "उत्तर-पूरबी क्री",
+      "bcp_47_code": "mai",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kirī Raki-mā-Rāwhiti",
+      "bcp_47_code": "mi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "североисточен кријски",
+      "bcp_47_code": "mk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "നോർത്തേൺ ഈസ്റ്റ് ക്രീ",
+      "bcp_47_code": "ml",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "зүүн хойд кри",
+      "bcp_47_code": "mn",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "नॉर्दर्न ईस्ट क्री",
+      "bcp_47_code": "mr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Timur Laut Cree",
+      "bcp_47_code": "ms",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "မြောက်ပိုင်း အရှေ့ခရီ",
+      "bcp_47_code": "my",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "उत्तर पूर्वी क्री",
+      "bcp_47_code": "ne",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Noordoost-Cree",
+      "bcp_47_code": "nl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "nordleg aust-cree",
+      "bcp_47_code": "nn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "nordlig østcree",
+      "bcp_47_code": "no",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ଉତ୍ତର ପୂର୍ବ କ୍ରୀ",
+      "bcp_47_code": "or",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ਉੱਤਰੀ ਪੂਰਬੀ ਕ੍ਰੀ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Nọ́tán Íst Krií Lángwej",
+      "bcp_47_code": "pcm",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "kri północno-wschodni",
+      "bcp_47_code": "pl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "شمالي ختیځ کری",
+      "bcp_47_code": "ps",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "cree do nordeste",
+      "bcp_47_code": "pt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Cree del Noreste Simi",
+      "bcp_47_code": "qu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "cree de nord-est",
+      "bcp_47_code": "ro",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "северо-восточный кри",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ᱮᱛᱚᱢ ᱥᱟᱢᱟᱝ ᱠᱨᱤ",
+      "bcp_47_code": "sat",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "cree nord-orientale",
+      "bcp_47_code": "sc",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "اترين اوڀر ڪري",
+      "bcp_47_code": "sd",
+      "iso_15924_code": "arab",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "උතුරු නැගෙනහිර ක්‍රී",
+      "bcp_47_code": "si",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "northern east cree",
+      "bcp_47_code": "sk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "severovzhodna krijščina",
+      "bcp_47_code": "sl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Northern East Cree",
+      "bcp_47_code": "so",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "krijishte verilindore",
+      "bcp_47_code": "sq",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "североисточни кри",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "nordost-cree",
+      "bcp_47_code": "sv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kikrii cha Kaskazini Mashariki",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "வடகிழக்கு க்ரீ",
+      "bcp_47_code": "ta",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ఉత్తర తూర్పు క్రీ",
+      "bcp_47_code": "te",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ครีตะวันออกเฉียงเหนือ",
+      "bcp_47_code": "th",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ሰሜናዊ ምብራቕ ክሪ",
+      "bcp_47_code": "ti",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Demirgazyk-gündogar kri dili",
+      "bcp_47_code": "tk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "lea fakakilī-tokelauhahake",
+      "bcp_47_code": "to",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kuzey Doğu Kricesi",
+      "bcp_47_code": "tr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "північна іст-крі",
+      "bcp_47_code": "uk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "شمال مشرقی کری",
+      "bcp_47_code": "ur",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "shomoli-sharqiy kri",
+      "bcp_47_code": "uz",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tiếng Cree Đông Bắc",
+      "bcp_47_code": "vi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Èdè ti Ila oorun Ariwa Kri",
+      "bcp_47_code": "yo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "東北克里文",
+      "bcp_47_code": "yue",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "东北部克里语",
+      "bcp_47_code": "cmn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "isi-Northern East Cree",
+      "bcp_47_code": "zu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "sjeveroistočni cree jezik",
+      "bcp_47_code": "hr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "dialecte du nord cri de l’est",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "cri de l'est",
+      "bcp_47_code": "vec",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "nordöstlig cree",
+      "bcp_47_code": "sv",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "cans",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "ca",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 380,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 55.1928,
+        "longitude": -77.7505,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

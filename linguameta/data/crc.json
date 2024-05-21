@@ -1,0 +1,88 @@
+{
+  "bcp_47_code": "crc",
+  "iso_639_3_code": "crc",
+  "glottocode": "lonw1238",
+  "wikidata_id": "Q3259216",
+  "total_population": 1200,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Lonwolwol",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "lonwolwol",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Lonwolwol",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kilonwolwol",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lonwolwol mál",
+      "bcp_47_code": "fo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ロンウォルウォル語",
+      "bcp_47_code": "ja",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lonwolwol",
+      "bcp_47_code": "ilo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lonwolwolki",
+      "bcp_47_code": "diq",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "West Ambrym",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "vu",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 1200,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": -16.2286,
+        "longitude": 168.016,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

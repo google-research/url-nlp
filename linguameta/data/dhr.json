@@ -1,0 +1,75 @@
+{
+  "bcp_47_code": "dhr",
+  "iso_639_3_code": "dhr",
+  "glottocode": "dhar1247",
+  "wikidata_id": "Q10470289",
+  "total_population": 2,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Dhargari",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Tharrgari",
+      "bcp_47_code": "en",
+      "source": "WIKTIONARY"
+    },
+    {
+      "name": "dhargari",
+      "bcp_47_code": "sv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga dhargari",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kidhargari",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "dhargari",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tharrkari",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "au",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 2,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": -24.0601,
+        "longitude": 114.847,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

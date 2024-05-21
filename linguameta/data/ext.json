@@ -1,0 +1,941 @@
+{
+  "bcp_47_code": "ext",
+  "iso_639_3_code": "ext",
+  "glottocode": "extr1243",
+  "wikidata_id": "Q30007",
+  "total_population": 250000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Romance language spoken in Spain",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Extremaduran",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "estremeñu",
+      "bcp_47_code": "ast",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "extremeny",
+      "bcp_47_code": "ca",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "extremadurština",
+      "bcp_47_code": "cs",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Extremadureg",
+      "bcp_47_code": "cy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Extremadurisch",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "estremenju",
+      "bcp_47_code": "et",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "extremadura",
+      "bcp_47_code": "fi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "estrémègne",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Cànan na h-Extremadura",
+      "bcp_47_code": "gd",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "estremegno",
+      "bcp_47_code": "it",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "エストレマドゥーラ語",
+      "bcp_47_code": "ja",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Extremaduresch",
+      "bcp_47_code": "lb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ispanų kalbos ekstremadūros tarmė",
+      "bcp_47_code": "lt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "екстремадурски",
+      "bcp_47_code": "mk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "एक्सट्रेमादुराली",
+      "bcp_47_code": "ne",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Extremeens",
+      "bcp_47_code": "nl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ekstremaduransk",
+      "bcp_47_code": "no",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "estremadurski",
+      "bcp_47_code": "pl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "extremaduriska",
+      "bcp_47_code": "sv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "เอกซ์เตรมาดูรา",
+      "bcp_47_code": "th",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "lea fakaʻekisitematula",
+      "bcp_47_code": "to",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Ekstremadura dili",
+      "bcp_47_code": "tr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tiếng Extremadura",
+      "bcp_47_code": "vi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "埃斯特雷馬杜拉文",
+      "bcp_47_code": "yue",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Ekstremeens",
+      "bcp_47_code": "af",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ኤክስትራማዱራንኛ",
+      "bcp_47_code": "am",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "الإكستريمادورية",
+      "bcp_47_code": "ar",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "এক্সট্ৰিমাডুৰান",
+      "bcp_47_code": "as",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Ekstremadura dili",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "экстрэмадурская",
+      "bcp_47_code": "be",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "екстремадурски",
+      "bcp_47_code": "bg",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "এক্সট্রিমাডুরান",
+      "bcp_47_code": "bn",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "estremadurska",
+      "bcp_47_code": "bs",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "extremadurisk",
+      "bcp_47_code": "da",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Εξτρεμαδουρικά",
+      "bcp_47_code": "el",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "extremeño",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "extremadurarra",
+      "bcp_47_code": "eu",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "اکسترمادورایی",
+      "bcp_47_code": "fa",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Extremaduran",
+      "bcp_47_code": "fil",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Estremeño",
+      "bcp_47_code": "gl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Extremadurisch",
+      "bcp_47_code": "gsw",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "એક્સ્ટ્રીમડુરન",
+      "bcp_47_code": "gu",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "एक्स्त्रेमदूरा",
+      "bcp_47_code": "hi",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "estremadurski",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "extremadurai",
+      "bcp_47_code": "hu",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "էքստրեմադուրերեն",
+      "bcp_47_code": "hy",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Extremaduran",
+      "bcp_47_code": "id",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Extremaduran",
+      "bcp_47_code": "in",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "extremaduran",
+      "bcp_47_code": "is",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "אקסטרמדורה",
+      "bcp_47_code": "he",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ექსტრემადურული",
+      "bcp_47_code": "ka",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Эстремадур",
+      "bcp_47_code": "kk",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "អិចស្ទ្រីមម៉ាជូរាន",
+      "bcp_47_code": "km",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ಎಕ್ಸ್ಟ್ರಾಮಾಡುರಾನ್",
+      "bcp_47_code": "kn",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "에스트레마두라어",
+      "bcp_47_code": "ko",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Эстремадурча",
+      "bcp_47_code": "ky",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Estrémègne",
+      "bcp_47_code": "ln",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ເອັກທຣີມາດູແຣນ",
+      "bcp_47_code": "lo",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "estremadūriečių kalba",
+      "bcp_47_code": "lt",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ekstremadūriešu",
+      "bcp_47_code": "lv",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "екстремадурска",
+      "bcp_47_code": "mk",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "എക്സ്ട്രീമെഡുരൻ",
+      "bcp_47_code": "ml",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Эстремадуран",
+      "bcp_47_code": "mn",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Extremaduran",
+      "bcp_47_code": "mo",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "एक्सट्रीमॅज्युरन",
+      "bcp_47_code": "mr",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Extremaduran",
+      "bcp_47_code": "ms",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "အိတ်စ်ထရမ်းမာဒူရန်",
+      "bcp_47_code": "my",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ekstremaduransk",
+      "bcp_47_code": "nb",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "एक्स्ट्रेमादुराली",
+      "bcp_47_code": "ne",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ଏକ୍ସଟ୍ରିମାଡୁରାନ୍",
+      "bcp_47_code": "or",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ਐਕਸਟ੍ਰੀਮਾਡੂਰਨ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "estremenho",
+      "bcp_47_code": "pt",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "extremaduran",
+      "bcp_47_code": "ro",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "эстремадурский",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "එක්ස්ට්රිමදුරන්",
+      "bcp_47_code": "si",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "extremadurčina",
+      "bcp_47_code": "sk",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ekstremadurščina",
+      "bcp_47_code": "sl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Ekstremaduranisht",
+      "bcp_47_code": "sq",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "екстремадурска",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Kiekstremadura",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "எக்ஸ்ட்ரிமெட்யூரன்",
+      "bcp_47_code": "ta",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ఎక్స్ట్రీమడురన్",
+      "bcp_47_code": "te",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "เอซเตรมาดูรา",
+      "bcp_47_code": "th",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Extremaduran",
+      "bcp_47_code": "tl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Extremaduran",
+      "bcp_47_code": "tr",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "естремадурська",
+      "bcp_47_code": "uk",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "اِکسٹریمَڈورَن",
+      "bcp_47_code": "ur",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "estremadur",
+      "bcp_47_code": "uz",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "埃斯特雷马杜拉语",
+      "bcp_47_code": "cmn",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "isi-Extremaduran",
+      "bcp_47_code": "zu",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Estremenyo",
+      "bcp_47_code": "an",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Εξτρεμαδουρική γλώσσα",
+      "bcp_47_code": "el",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ekstremadura lingvo",
+      "bcp_47_code": "eo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "extremadurera",
+      "bcp_47_code": "eu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Luenga estremeña",
+      "bcp_47_code": "ext",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "زبان اکسترامادورایی",
+      "bcp_47_code": "fa",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua estremeña",
+      "bcp_47_code": "gl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Âi-sṳ̂-thi̍t-lùi-mâ-thu-lâ-ngî",
+      "bcp_47_code": "hak",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "estremadurski jezik",
+      "bcp_47_code": "hr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Extremadurana linguo",
+      "bcp_47_code": "io",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua Extremadurensis",
+      "bcp_47_code": "la",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lingua estremenya",
+      "bcp_47_code": "lad",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lengua estremegna",
+      "bcp_47_code": "lmo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lhéngua stremenha",
+      "bcp_47_code": "mwl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Extremaduratlahtōlli",
+      "bcp_47_code": "nah",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "język estremadurski",
+      "bcp_47_code": "pl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga estremaduran-a",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ایکسٹریماڈورن",
+      "bcp_47_code": "pnb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "língua estremenha",
+      "bcp_47_code": "pt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "эстремадурский язык",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Estremadursko godka",
+      "bcp_47_code": "szl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "естремадурська мова",
+      "bcp_47_code": "uk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "埃斯特雷馬杜拉語",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "estremadureg",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Amanung Estremenyu",
+      "bcp_47_code": "pam",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "естремадурски јазик",
+      "bcp_47_code": "mk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "estremenju keel",
+      "bcp_47_code": "et",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "اکسترامادورایی",
+      "bcp_47_code": "mzn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Wikipedia tiếng Extremadura",
+      "bcp_47_code": "vi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Wikang Estremenyo",
+      "bcp_47_code": "tl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "اکسترمادورایی دیلی",
+      "bcp_47_code": "azb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Estremaduran",
+      "bcp_47_code": "lfn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "এক্সত্রেমাদুরীয় ভাষা",
+      "bcp_47_code": "bn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "易斯特里馬杜拉文",
+      "bcp_47_code": "yue",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "اكستريمادوران",
+      "bcp_47_code": "arz",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bahasa Estremeñu",
+      "bcp_47_code": "id",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "эстрэмадурская мова",
+      "bcp_47_code": "be",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ภาษาเอซเตรมาดูรา",
+      "bcp_47_code": "th",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ᱮᱠᱥᱴᱨᱤᱢᱟᱰᱩᱨᱟᱱ ᱯᱟᱹᱨᱥᱤ",
+      "bcp_47_code": "sat",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "لغة إكستريمادورا",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Эстремадура теле",
+      "bcp_47_code": "tt",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "estremaduran",
+      "bcp_47_code": "vec",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Inekstremaduranhën",
+      "bcp_47_code": "krj",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ਐਕਸਟਰੀਮਾਡੂਰਨ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "toki Ekematula",
+      "bcp_47_code": "tok",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Extremeño",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Estremeñu",
+      "bcp_47_code": "ext",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idioma extremeño",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lengua extremeña",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "estremeñu",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua estremadurana",
+      "bcp_47_code": "it",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua estremegna",
+      "bcp_47_code": "it",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "екстремадурски јазик",
+      "bcp_47_code": "mk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "extremaduran kieli",
+      "bcp_47_code": "fi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "extremadurische Sprache",
+      "bcp_47_code": "de",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Inikstrimadoranhun",
+      "bcp_47_code": "krj",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Inekstremenyo",
+      "bcp_47_code": "krj",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Inikstriminyo",
+      "bcp_47_code": "krj",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ਐਕਸਟਰੀਮਾਡੂਰਨ ਭਾਸ਼ਾ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "estremeño",
+      "bcp_47_code": "gl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ekstremadurski jezik",
+      "bcp_47_code": "sl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "estremadurano",
+      "bcp_47_code": "it",
+      "source": "LEXVO"
+    },
+    {
+      "name": "estrémaduran",
+      "bcp_47_code": "fr",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Extremaduran Dialect",
+      "bcp_47_code": "en",
+      "source": "LEXVO"
+    },
+    {
+      "name": "extremenho",
+      "bcp_47_code": "pt",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Lingua estremeña",
+      "bcp_47_code": "gl",
+      "source": "LEXVO"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "es",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 250000,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 39.1926,
+        "longitude": -6.10179,
+        "source": "GOOGLE_RESEARCH"
+      }
+    }
+  ]
+}

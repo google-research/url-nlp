@@ -1,0 +1,59 @@
+{
+  "bcp_47_code": "azm",
+  "iso_639_3_code": "azm",
+  "glottocode": "ipal1235",
+  "wikidata_id": "Q12633013",
+  "total_population": 60000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Ipalapa Amuzgo",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "ipalapa amuzgo jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ipalapa Lenga amuzgo",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "amuzgo d'ipalapa",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "mx",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 60000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 16.5053,
+        "longitude": -98.0129,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

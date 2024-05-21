@@ -1,0 +1,87 @@
+{
+  "bcp_47_code": "amu",
+  "iso_639_3_code": "amu",
+  "glottocode": "guer1243",
+  "wikidata_id": "Q3501942",
+  "total_population": 31000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Guerrero Amuzgo",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Lenga amuzgo",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "guerrerski amuzgo",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "геррерский амусго",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "amuzgo du guerrero",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Amuzgo",
+      "bcp_47_code": "nl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "amuzgo de guerrero",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "nomndaa jezik",
+      "bcp_47_code": "hr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Guerrero-Amuzgo",
+      "bcp_47_code": "nl",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "mx",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 31000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 16.77226,
+        "longitude": -98.18953,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

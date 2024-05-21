@@ -1,0 +1,80 @@
+{
+  "bcp_47_code": "etx",
+  "iso_639_3_code": "etx",
+  "glottocode": "eten1239",
+  "wikidata_id": "Q3915392",
+  "total_population": 40000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "language in Nigeria",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Eten",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Kieten",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Eten",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Eten",
+      "bcp_47_code": "nl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "eten",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tyen",
+      "bcp_47_code": "kcg",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Iten",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "ng",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 40000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 9.73073,
+        "longitude": 8.61443,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

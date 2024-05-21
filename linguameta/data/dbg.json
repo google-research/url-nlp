@@ -1,0 +1,74 @@
+{
+  "bcp_47_code": "dbg",
+  "iso_639_3_code": "dbg",
+  "glottocode": "dogu1235",
+  "wikidata_id": "Q3912880",
+  "total_population": 16000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Dogul Dom Dogon",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Dogul Dom",
+      "bcp_47_code": "en",
+      "source": "WIKTIONARY"
+    },
+    {
+      "name": "Dogul Dom Kidogon",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Dogul Dom Lenga Dogon",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Dogul Dogon",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "dogul dom",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kidogul",
+      "bcp_47_code": "sw",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "ml",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 16000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 14.5872,
+        "longitude": -3.56855,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

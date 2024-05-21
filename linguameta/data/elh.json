@@ -1,0 +1,59 @@
+{
+  "bcp_47_code": "elh",
+  "iso_639_3_code": "elh",
+  "glottocode": "elhu1238",
+  "wikidata_id": "Q5351410",
+  "total_population": 50,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "El Hugeirat",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Lenga El Hugeirat",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kielhugeirat",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "el hugeirat",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "sd",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 50,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 11.948,
+        "longitude": 28.5901,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

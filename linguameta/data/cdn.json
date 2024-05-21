@@ -1,0 +1,81 @@
+{
+  "bcp_47_code": "cdn",
+  "iso_639_3_code": "cdn",
+  "glottocode": "chau1259",
+  "wikidata_id": "Q5088056",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Sino-Tibetan language spoken in the Indian state of Uttarakhand",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Chaudangsi",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Lenga Chaudangsi",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tchaodangsieg",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kichaudangsi",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "chaudangsi jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "chaudangsi",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "xxxx",
+        "is_canonical": true,
+        "source": "SOURCE_UNSPECIFIED"
+      },
+      "locale": {
+        "iso_3166_code": "in",
+        "source": "GLOTTOLOG"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "xxxx",
+        "is_canonical": true,
+        "source": "SOURCE_UNSPECIFIED"
+      },
+      "locale": {
+        "iso_3166_code": "np",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": 29.7033,
+        "longitude": 80.4832,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

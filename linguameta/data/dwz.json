@@ -1,0 +1,62 @@
+{
+  "bcp_47_code": "dwz",
+  "iso_639_3_code": "dwz",
+  "glottocode": "dhan1265",
+  "wikidata_id": "Q62663667",
+  "total_population": 46000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Dewas Rai",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Dewas-Done Danuwar",
+      "bcp_47_code": "en",
+      "source": "GLOTTOLOG"
+    },
+    {
+      "name": "Danuwar",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "dewas rai",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Dhanwar",
+      "bcp_47_code": "en",
+      "source": "LEXVO"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "xxxx",
+        "is_canonical": true,
+        "source": "SOURCE_UNSPECIFIED"
+      },
+      "locale": {
+        "iso_3166_code": "np",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 46000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 27.362013,
+        "longitude": 85.411514,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

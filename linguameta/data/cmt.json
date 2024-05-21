@@ -1,0 +1,60 @@
+{
+  "bcp_47_code": "cmt",
+  "iso_639_3_code": "cmt",
+  "glottocode": "camt1236",
+  "wikidata_id": "Q10441336",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Camtho",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "camtho",
+      "bcp_47_code": "sv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "camtho jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga camtho",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "camtho",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "za",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": -26.247,
+        "longitude": 27.942,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2307 @@
+{
+  "bcp_47_code": "bg",
+  "iso_639_3_code": "bul",
+  "glottocode": "bulg1262",
+  "wikidata_id": "Q7918",
+  "total_population": 7000000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "South Slavic language",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "аболгар",
+      "bcp_47_code": "ab",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Bulgaars",
+      "bcp_47_code": "af",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Bùugɨlìa",
+      "bcp_47_code": "agq",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Bɔlgeria kasa",
+      "bcp_47_code": "ak",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ቡልጋሪኛ",
+      "bcp_47_code": "am",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "البلغارية",
+      "bcp_47_code": "ar",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "বুলগেৰীয়",
+      "bcp_47_code": "as",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kibulgaria",
+      "bcp_47_code": "asa",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "búlgaru",
+      "bcp_47_code": "ast",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bolqar",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Hɔp u bûlgâr",
+      "bcp_47_code": "bas",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "балгарская",
+      "bcp_47_code": "be",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Ichi Bulgariani",
+      "bcp_47_code": "bem",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Hibulgaria",
+      "bcp_47_code": "bez",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "بلغاری",
+      "bcp_47_code": "bgn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "buligarikan",
+      "bcp_47_code": "bm",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "বুলগেরিয়",
+      "bcp_47_code": "bn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bulgareg",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "बुल्गारियान",
+      "bcp_47_code": "brx",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bugarski",
+      "bcp_47_code": "bs",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ቡልጋሪኛ",
+      "bcp_47_code": "byn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "búlgar",
+      "bcp_47_code": "ca",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "𑄝𑄪𑄣𑄴𑄉𑄬𑄢𑄨𑄠𑄧",
+      "bcp_47_code": "ccp",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "болгарийн",
+      "bcp_47_code": "ce",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Oruburugariya",
+      "bcp_47_code": "cgg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ᏊᎵᎨᎵᎠᏂ",
+      "bcp_47_code": "chr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "بۆلگاری",
+      "bcp_47_code": "ckb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bulharština",
+      "bcp_47_code": "cs",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "бо́лгарскїй",
+      "bcp_47_code": "cu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Bwlgareg",
+      "bcp_47_code": "cy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bulgarsk",
+      "bcp_47_code": "da",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kibulgaria",
+      "bcp_47_code": "dav",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Bulgarisch",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Bulagaari senni",
+      "bcp_47_code": "dje",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bulgaršćina",
+      "bcp_47_code": "dsb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bulgaari",
+      "bcp_47_code": "dyo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "བཱལ་གེ་རི་ཡཱན་ཁ",
+      "bcp_47_code": "dz",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kĩbulgaria",
+      "bcp_47_code": "ebu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bulgariagbe",
+      "bcp_47_code": "ee",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Βουλγαρικά",
+      "bcp_47_code": "el",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bulgara",
+      "bcp_47_code": "eo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "búlgaro",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bulgaaria",
+      "bcp_47_code": "et",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bulgariera",
+      "bcp_47_code": "eu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Ǹkɔ́bɔ buləgárian",
+      "bcp_47_code": "ewo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "بلغاری",
+      "bcp_47_code": "fa",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Bulgariire",
+      "bcp_47_code": "ff",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bulgaria",
+      "bcp_47_code": "fi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Bulgarian",
+      "bcp_47_code": "fil",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bulgarskt",
+      "bcp_47_code": "fo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bulgare",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bulgar",
+      "bcp_47_code": "fur",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Bulgaarsk",
+      "bcp_47_code": "fy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Bulgáiris",
+      "bcp_47_code": "ga",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Bulgarian",
+      "bcp_47_code": "gaa",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Bulgarais",
+      "bcp_47_code": "gd",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ቡልጋሪኛ",
+      "bcp_47_code": "gez",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "búlgaro",
+      "bcp_47_code": "gl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Bulgaarisch",
+      "bcp_47_code": "gsw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "બલ્ગેરિયન",
+      "bcp_47_code": "gu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kibulgaria",
+      "bcp_47_code": "guz",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Bulgariyanci",
+      "bcp_47_code": "ha",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "בולגרית",
+      "bcp_47_code": "he",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "बुल्गारियाई",
+      "bcp_47_code": "hi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bugarski",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bołharšćina",
+      "bcp_47_code": "hsb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bolgár",
+      "bcp_47_code": "hu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "բուլղարերեն",
+      "bcp_47_code": "hy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bulgaro",
+      "bcp_47_code": "ia",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Bulgaria",
+      "bcp_47_code": "id",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Bọlụgarịa",
+      "bcp_47_code": "ig",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "búlgarska",
+      "bcp_47_code": "is",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bulgaro",
+      "bcp_47_code": "it",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ブルガリア語",
+      "bcp_47_code": "ja",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kyibulgaryia",
+      "bcp_47_code": "jmc",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Bulgaria",
+      "bcp_47_code": "jv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ბულგარული",
+      "bcp_47_code": "ka",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tabulgarit",
+      "bcp_47_code": "kab",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kibulgaria",
+      "bcp_47_code": "kam",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Chibulgalia",
+      "bcp_47_code": "kde",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "búlgaru",
+      "bcp_47_code": "kea",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "mugaru",
+      "bcp_47_code": "kgp",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Bulagaari senni",
+      "bcp_47_code": "khq",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kibulgaria",
+      "bcp_47_code": "ki",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "болгар тілі",
+      "bcp_47_code": "kk",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "kutitab Bulgaria",
+      "bcp_47_code": "kln",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ប៊ុលហ្ការី",
+      "bcp_47_code": "km",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ಬಲ್ಗೇರಿಯನ್",
+      "bcp_47_code": "kn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "불가리아어",
+      "bcp_47_code": "ko",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "बल्गेरियन",
+      "bcp_47_code": "kok",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "بینا",
+      "bcp_47_code": "ks",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kibulgalia",
+      "bcp_47_code": "ksb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ribulgarí",
+      "bcp_47_code": "ksf",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Bulljahresch",
+      "bcp_47_code": "ksh",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bulgarî",
+      "bcp_47_code": "ku",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "болгарча",
+      "bcp_47_code": "ky",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Bulgarica",
+      "bcp_47_code": "la",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kɨbulugária",
+      "bcp_47_code": "lag",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Bulgaresch",
+      "bcp_47_code": "lb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Lubulugariya",
+      "bcp_47_code": "lg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "burgao",
+      "bcp_47_code": "lij",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Bulgar Iyápi",
+      "bcp_47_code": "lkt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "libiligali",
+      "bcp_47_code": "ln",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ບັງກາຣຽນ",
+      "bcp_47_code": "lo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "بولغاری",
+      "bcp_47_code": "lrc",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bulgarų",
+      "bcp_47_code": "lt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Bulegari",
+      "bcp_47_code": "lu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kibulgaria",
+      "bcp_47_code": "luo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kibulgaria",
+      "bcp_47_code": "luy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bulgāru",
+      "bcp_47_code": "lv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "बुलगेरियाई",
+      "bcp_47_code": "mai",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "nkʉtʉ́k ɔ́ɔ̄ lBulgaria",
+      "bcp_47_code": "mas",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kĩbulugĩria",
+      "bcp_47_code": "mer",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bilgar",
+      "bcp_47_code": "mfe",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Biolgara",
+      "bcp_47_code": "mg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Ibulgaria",
+      "bcp_47_code": "mgh",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Pukēriana",
+      "bcp_47_code": "mi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "бугарски",
+      "bcp_47_code": "mk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ബൾഗേറിയൻ",
+      "bcp_47_code": "ml",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "болгар",
+      "bcp_47_code": "mn",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "बल्गेरियन",
+      "bcp_47_code": "mr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Bulgaria",
+      "bcp_47_code": "ms",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Bulgaru",
+      "bcp_47_code": "mt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bulgaria",
+      "bcp_47_code": "mua",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ဘူလ်ဂေးရီးယား",
+      "bcp_47_code": "my",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "بلغاری",
+      "bcp_47_code": "mzn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Bulgariaǁî gowab",
+      "bcp_47_code": "naq",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "isi-Bulgaria",
+      "bcp_47_code": "nd",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Bulgaarsch",
+      "bcp_47_code": "nds",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "बुल्गेरियाली",
+      "bcp_47_code": "ne",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Bulgaars",
+      "bcp_47_code": "nl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kiɛl bulgaria",
+      "bcp_47_code": "nmg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bulgarsk",
+      "bcp_47_code": "no",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ߓߌߟߑߜ߭ߊߙߌߞߊ߲",
+      "bcp_47_code": "nqo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Thok bälga̱a̱riani",
+      "bcp_47_code": "nus",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Oruburugariya",
+      "bcp_47_code": "nyn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bulgar",
+      "bcp_47_code": "oc",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Afaan Bulgariya",
+      "bcp_47_code": "om",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ବୁଲଗେରିଆନ୍",
+      "bcp_47_code": "or",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "болгайраг",
+      "bcp_47_code": "os",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ਬੁਲਗਾਰੀਆਈ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Bọlgériá Lángwej",
+      "bcp_47_code": "pcm",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bułgarski",
+      "bcp_47_code": "pl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "بلغاري",
+      "bcp_47_code": "ps",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "búlgaro",
+      "bcp_47_code": "pt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Bulgaro Simi",
+      "bcp_47_code": "qu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bulgar",
+      "bcp_47_code": "rm",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Ikinyabuligariya",
+      "bcp_47_code": "rn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bulgară",
+      "bcp_47_code": "ro",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kibulgaria",
+      "bcp_47_code": "rof",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "болгарский",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Urunyabuligariya",
+      "bcp_47_code": "rw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kyibulgaryia",
+      "bcp_47_code": "rwk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Булҕаардыы",
+      "bcp_47_code": "sah",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kibulgaria",
+      "bcp_47_code": "saq",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ᱵᱩᱞᱜᱮᱨᱤ",
+      "bcp_47_code": "sat",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Ishibulugalia",
+      "bcp_47_code": "sbp",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bùlgaru",
+      "bcp_47_code": "sc",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bùrgaru",
+      "bcp_47_code": "scn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "بلغاريائي",
+      "bcp_47_code": "sd",
+      "iso_15924_code": "arab",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bulgáriagiella",
+      "bcp_47_code": "se",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "búlgaro",
+      "bcp_47_code": "seh",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Bulagaari senni",
+      "bcp_47_code": "ses",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Bulugäri",
+      "bcp_47_code": "sg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ⵜⴰⴱⵍⵖⴰⵔⵉⵜ",
+      "bcp_47_code": "shi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "බල්ගේරියානු",
+      "bcp_47_code": "si",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bulharčina",
+      "bcp_47_code": "sk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bolgarščina",
+      "bcp_47_code": "sl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bulgariakielâ",
+      "bcp_47_code": "smn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "chiBulgarian",
+      "bcp_47_code": "sn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Bulgeeriyaan",
+      "bcp_47_code": "so",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bullgarisht",
+      "bcp_47_code": "sq",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "бугарски",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Se-bulgaria",
+      "bcp_47_code": "st",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bulgariska",
+      "bcp_47_code": "sv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kibulgaria",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bułgarski",
+      "bcp_47_code": "szl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "பல்கேரியன்",
+      "bcp_47_code": "ta",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "బల్గేరియన్",
+      "bcp_47_code": "te",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kibulgaria",
+      "bcp_47_code": "teo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "булғорӣ",
+      "bcp_47_code": "tg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "บัลแกเรีย",
+      "bcp_47_code": "th",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ቡልጋርኛ",
+      "bcp_47_code": "ti",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ቡልጋሪኛ",
+      "bcp_47_code": "tig",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bolgar dili",
+      "bcp_47_code": "tk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Bulgarian",
+      "bcp_47_code": "tn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "lea fakapulukalia",
+      "bcp_47_code": "to",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Bulgarca",
+      "bcp_47_code": "tr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "بلغاری",
+      "bcp_47_code": "trw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "болгар",
+      "bcp_47_code": "tt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Bulagaari senni",
+      "bcp_47_code": "twq",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tabelɣarit",
+      "bcp_47_code": "tzm",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "بۇلغارچە",
+      "bcp_47_code": "ug",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "болгарська",
+      "bcp_47_code": "uk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "بلغاری",
+      "bcp_47_code": "ur",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bolgar",
+      "bcp_47_code": "uz",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ꗂꔠꗸꘋ",
+      "bcp_47_code": "vai",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tiếng Bulgaria",
+      "bcp_47_code": "vi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kyibulgaryia",
+      "bcp_47_code": "vun",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Bulgariš",
+      "bcp_47_code": "wae",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Bilgaar",
+      "bcp_47_code": "wo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "isi-Bulgaria",
+      "bcp_47_code": "xh",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Olubulugariya",
+      "bcp_47_code": "xog",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "bulgálɛ",
+      "bcp_47_code": "yav",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "בולגאַריש",
+      "bcp_47_code": "yi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Èdè Bugaria",
+      "bcp_47_code": "yo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "búgaru",
+      "bcp_47_code": "yrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "保加利亞文",
+      "bcp_47_code": "yue",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ⵜⴰⴱⵍⵖⴰⵔⵉⵜ",
+      "bcp_47_code": "zgh",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "保加利亚语",
+      "bcp_47_code": "cmn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "isi-Bulgari",
+      "bcp_47_code": "zu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "баўгарская мова",
+      "bcp_47_code": "be",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Абылгар бызшәа",
+      "bcp_47_code": "ab",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Idioma bulgaro",
+      "bcp_47_code": "an",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bolqar dili",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "балгарская мова",
+      "bcp_47_code": "be",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "български език",
+      "bcp_47_code": "bg",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "বুলগেরীয় ভাষা",
+      "bcp_47_code": "bn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bugarski jezik",
+      "bcp_47_code": "bs",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bō̤-gă-lê-ā-ngṳ̄",
+      "bcp_47_code": "cdo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "زمانی بولگاری",
+      "bcp_47_code": "ckb",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lingua bulgara",
+      "bcp_47_code": "co",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Блъгарьскъ ѩꙁꙑкъ",
+      "bcp_47_code": "cu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Полхар чĕлхи",
+      "bcp_47_code": "cv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bulğarki",
+      "bcp_47_code": "diq",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bulgaŕska rěc",
+      "bcp_47_code": "dsb",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bulgara lingvo",
+      "bcp_47_code": "eo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bulgaaria keel",
+      "bcp_47_code": "et",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "زبان بلغاری",
+      "bcp_47_code": "fa",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bulgaro",
+      "bcp_47_code": "frp",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "An Bhulgáiris",
+      "bcp_47_code": "ga",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bulgar dili",
+      "bcp_47_code": "gag",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bulgàiris",
+      "bcp_47_code": "gd",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua búlgara",
+      "bcp_47_code": "gl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bulgeyrish",
+      "bcp_47_code": "gv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "बुल्गारियाई भाषा",
+      "bcp_47_code": "hi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bulgarian",
+      "bcp_47_code": "hif",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bugarski jezik",
+      "bcp_47_code": "hr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bahasa Bulgaria",
+      "bcp_47_code": "id",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bulgariana linguo",
+      "bcp_47_code": "io",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Basa Bulgaria",
+      "bcp_47_code": "jv",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ბულგარული ენა",
+      "bcp_47_code": "ka",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Болгар кыв",
+      "bcp_47_code": "kv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bulgarek",
+      "bcp_47_code": "kw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua Bulgarica",
+      "bcp_47_code": "la",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Болгар чӀал",
+      "bcp_47_code": "lez",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bölgaars",
+      "bcp_47_code": "li",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lengua bulgara",
+      "bcp_47_code": "lij",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lengua bulghera",
+      "bcp_47_code": "lmo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bulgarų kalba",
+      "bcp_47_code": "lt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bulgāru valoda",
+      "bcp_47_code": "lv",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "болгар йылме",
+      "bcp_47_code": "mhr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "бугарски јазик",
+      "bcp_47_code": "mk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Болгар хэл",
+      "bcp_47_code": "mn",
+      "iso_15924_code": "cyrl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "बल्गेरियन भाषा",
+      "bcp_47_code": "mr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bahasa Bulgaria",
+      "bcp_47_code": "ms",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bulgarsk",
+      "bcp_47_code": "nn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "болгайраг æвзаг",
+      "bcp_47_code": "os",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "język bułgarski",
+      "bcp_47_code": "pl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga bùlgara",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "بلغاری",
+      "bcp_47_code": "pnb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "بلغاريايي ژبه",
+      "bcp_47_code": "ps",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "língua búlgara",
+      "bcp_47_code": "pt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bulgarya simi",
+      "bcp_47_code": "qu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bulgarikani chib",
+      "bcp_47_code": "rmy",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "limba bulgară",
+      "bcp_47_code": "ro",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "болгарский язык",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ikibulugariya",
+      "bcp_47_code": "rw",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bulgarie",
+      "bcp_47_code": "sco",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bugarski jezik",
+      "bcp_47_code": "sh",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "бугарски језик",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "பல்கேரிய மொழி",
+      "bcp_47_code": "ta",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "забони булғорӣ",
+      "bcp_47_code": "tg",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ภาษาบัลแกเรีย",
+      "bcp_47_code": "th",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Wikang Bulgaro",
+      "bcp_47_code": "tl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tok Balgeria",
+      "bcp_47_code": "tpi",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "болгар теле",
+      "bcp_47_code": "tt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Болгар кыл",
+      "bcp_47_code": "udm",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "بۇلغارىيە تىلى",
+      "bcp_47_code": "ug",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "болгарська мова",
+      "bcp_47_code": "uk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bolgarijan kel’",
+      "bcp_47_code": "vep",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "保加利亞語",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "保加利亞話",
+      "bcp_47_code": "yue",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bulgarsk",
+      "bcp_47_code": "nb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "בולגאריש",
+      "bcp_47_code": "yi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bolgar tili",
+      "bcp_47_code": "kaa",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Булгарьскый язык",
+      "bcp_47_code": "rue",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bulgeriyan",
+      "bcp_47_code": "pih",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Vugariañe'ẽ",
+      "bcp_47_code": "gn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Pó-kâ-li-â-ngî",
+      "bcp_47_code": "hak",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bulgaro",
+      "bcp_47_code": "ilo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bulgaränapük",
+      "bcp_47_code": "vo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Болгар теле",
+      "bcp_47_code": "ba",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bulgarskt mál",
+      "bcp_47_code": "fo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Болгаронь кель",
+      "bcp_47_code": "myv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bolgaru kalba",
+      "bcp_47_code": "sgs",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Èdè Bùlgáríà",
+      "bcp_47_code": "yo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bolgar tili",
+      "bcp_47_code": "uz",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bułgarskŏ gŏdka",
+      "bcp_47_code": "szl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ቡልጋርኛ",
+      "bcp_47_code": "am",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bùlgaru",
+      "bcp_47_code": "scn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ਬਲਗਾਰੀ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Болгарийн мотт",
+      "bcp_47_code": "ce",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bulgarisch",
+      "bcp_47_code": "frr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bulgåre",
+      "bcp_47_code": "wa",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Болгар тили",
+      "bcp_47_code": "ky",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Болгар тілі",
+      "bcp_47_code": "kk",
+      "iso_15924_code": "cyrl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "बुल्गेरियन भाषा",
+      "bcp_47_code": "new",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ბულგარული ნინა",
+      "bcp_47_code": "xmf",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ബൾഗേറിയൻ ഭാഷ",
+      "bcp_47_code": "ml",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "బల్గేరియా భాష",
+      "bcp_47_code": "te",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Pinulongang Bulgaro",
+      "bcp_47_code": "ceb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bulgarisc",
+      "bcp_47_code": "ang",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tabulgart",
+      "bcp_47_code": "kab",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "البلغاري",
+      "bcp_47_code": "aeb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "balgarsce",
+      "bcp_47_code": "lfn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bulgaria-gí",
+      "bcp_47_code": "nan",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Булгарой мотт",
+      "bcp_47_code": "inh",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "بلغاری زبان",
+      "bcp_47_code": "ur",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Limba bùlgara",
+      "bcp_47_code": "sc",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "保加利亚语",
+      "bcp_47_code": "wuu",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bùlgaro",
+      "bcp_47_code": "vec",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "لغه بلجارى",
+      "bcp_47_code": "arz",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "بولغار دیلی",
+      "bcp_47_code": "azb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bulgaro",
+      "bcp_47_code": "war",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Fiteny bolgariana",
+      "bcp_47_code": "mg",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "保加利亞文",
+      "bcp_47_code": "gan",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Болгаар тыла",
+      "bcp_47_code": "sah",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "لبلغارية",
+      "bcp_47_code": "ary",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Պուլկարերէն",
+      "bcp_47_code": "hyw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bulğar tili",
+      "bcp_47_code": "crh",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bulgariaǩiõll",
+      "bcp_47_code": "sms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "بَلغٲرؠ زَبان",
+      "bcp_47_code": "ks",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ꯕꯜꯒꯦꯔꯤꯌꯥꯟ ꯂꯣꯟ",
+      "bcp_47_code": "mni",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua bulgare",
+      "bcp_47_code": "ia",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bułgarsczi jãzëk",
+      "bcp_47_code": "csb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "болгаронь кяль",
+      "bcp_47_code": "mdf",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "toki Pokasi",
+      "bcp_47_code": "tok",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "બ્લગેરિયન",
+      "bcp_47_code": "gu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "බල්ගේරියානු භාෂාව",
+      "bcp_47_code": "si",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "बल्गेरियाई भाषा",
+      "bcp_47_code": "anp",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "بولخاری",
+      "bcp_47_code": "mzn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Binulgaro",
+      "bcp_47_code": "krj",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua bulgara",
+      "bcp_47_code": "it",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bulgarian kieli",
+      "bcp_47_code": "fi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idioma búlgaro",
+      "bcp_47_code": "pt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "linguagem búlgara",
+      "bcp_47_code": "pt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "български",
+      "bcp_47_code": "pt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bulgarische Sprache",
+      "bcp_47_code": "de",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua bùlgara",
+      "bcp_47_code": "scn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "لغة بلغارية",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "اللغة البلغارية",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "بلغارية",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Βουλγαρική",
+      "bcp_47_code": "el",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "български",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bołharska rěč",
+      "bcp_47_code": "hsb",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bulgaro",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bulharský jazyk",
+      "bcp_47_code": "cs",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bulgara",
+      "bcp_47_code": "ro",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "болгарча",
+      "bcp_47_code": "tt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "gjuha bullgare",
+      "bcp_47_code": "sq",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bulgar dili",
+      "bcp_47_code": "tr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bulgaristan dili",
+      "bcp_47_code": "tr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idioma búlgaru",
+      "bcp_47_code": "ast",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "llingua búlgara",
+      "bcp_47_code": "ast",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "zimanê bulgarî",
+      "bcp_47_code": "ku",
+      "iso_15924_code": "latn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bolgarski jezik",
+      "bcp_47_code": "sl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bułgarski język",
+      "bcp_47_code": "pl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "pulong Binulgaro",
+      "bcp_47_code": "krj",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bolqarca",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bolgarščina",
+      "bcp_47_code": "sl",
+      "source": "LEXVO"
+    },
+    {
+      "name": "bolgár nyelv",
+      "bcp_47_code": "hu",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Bolqar dili",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Bulgarie leid",
+      "bcp_47_code": "sco",
+      "source": "LEXVO"
+    },
+    {
+      "name": "bulgarsk språk",
+      "bcp_47_code": "nn",
+      "source": "LEXVO"
+    },
+    {
+      "name": "bulgarska rěc",
+      "bcp_47_code": "dsb",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Bulgáriagiella",
+      "bcp_47_code": "se",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Bulharčina",
+      "bcp_47_code": "sk",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Gjuha bullgare",
+      "bcp_47_code": "sq",
+      "source": "LEXVO"
+    },
+    {
+      "name": "idioma búlgaro",
+      "bcp_47_code": "es",
+      "source": "LEXVO"
+    },
+    {
+      "name": "isi-Bulgaria",
+      "bcp_47_code": "zu",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Lingua búlgara",
+      "bcp_47_code": "gl",
+      "source": "LEXVO"
+    },
+    {
+      "name": "tiếng Bungary",
+      "bcp_47_code": "vi",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Zimanê bulgarî",
+      "bcp_47_code": "ku",
+      "iso_15924_code": "latn",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Βουλγαρική γλώσσα",
+      "bcp_47_code": "el",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Блъга́рьскъ ѩꙁꙑ́къ",
+      "bcp_47_code": "cu",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Болгайраг æвзаг",
+      "bcp_47_code": "os",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Болгар йылме",
+      "bcp_47_code": "mhr",
+      "source": "LEXVO"
+    },
+    {
+      "name": "बुल्गारियन भाषा",
+      "bcp_47_code": "hi",
+      "source": "LEXVO"
+    },
+    {
+      "name": "български",
+      "bcp_47_code": "bg",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Bulgarian",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "cyrl",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "bg",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 7000000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 43.3646,
+        "longitude": 25.047,
+        "source": "GOOGLE_RESEARCH"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": false,
+        "is_for_transliteration": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "bg",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 7000000,
+        "source": "CLDR"
+      }
+    }
+  ]
+}

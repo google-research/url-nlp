@@ -1,0 +1,77 @@
+{
+  "bcp_47_code": "czn",
+  "iso_639_3_code": "czn",
+  "glottocode": "zenz1235",
+  "wikidata_id": "Q603106",
+  "total_population": 8500,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Zenzontepec Chatino",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "chatino de zenzontepec",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "zenzontepec Lenga chatino",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "сенсонтепекский чатино",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "chatino de zenzontepec",
+      "bcp_47_code": "ca",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tchatineg zenzontepec",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "zenzontepec chatino jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "mx",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 8500,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 16.52799,
+        "longitude": -97.45546,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

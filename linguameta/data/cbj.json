@@ -1,0 +1,93 @@
+{
+  "bcp_47_code": "cbj",
+  "iso_639_3_code": "cbj",
+  "glottocode": "edec1238",
+  "wikidata_id": "Q33112829",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Yoruboid language of Benin, part of Ede dialect continuum",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Ede Cabe",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "ede cabe",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Cabe",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Ede Cabe",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kiede-Cabe",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ede cabe jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Èdè Cabe",
+      "bcp_47_code": "yo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "cabe",
+      "bcp_47_code": "oc",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "bj",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": 7.78176,
+        "longitude": 2.48128,
+        "source": "GLOTTOLOG"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "ng",
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

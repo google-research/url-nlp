@@ -1,0 +1,99 @@
+{
+  "bcp_47_code": "bcb",
+  "iso_639_3_code": "bcb",
+  "glottocode": "bain1260",
+  "wikidata_id": "Q36390",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "language of Senegal",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Bainouk-Samik",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Kibainouk-Samik",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Bainouk-Samik",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Samik",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "samikeg",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "바이누크사미크어",
+      "bcp_47_code": "ko",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bainouk-samik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bainouk-samik",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bainuko-samik",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "gw",
+        "source": "GLOTTOLOG"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "sn",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": 12.5053,
+        "longitude": -15.9969,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

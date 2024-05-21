@@ -1,0 +1,47 @@
+{
+  "bcp_47_code": "aou",
+  "iso_639_3_code": "aou",
+  "glottocode": "aoua1234",
+  "wikidata_id": "Q17284871",
+  "total_population": 50,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "A'Ou",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "a'ou de hongfeng",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "cn",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 50,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 26.8,
+        "longitude": 105.85,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

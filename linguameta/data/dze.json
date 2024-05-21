@@ -1,0 +1,35 @@
+{
+  "bcp_47_code": "dze",
+  "iso_639_3_code": "dze",
+  "glottocode": "djiw1241",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Djiwarli",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "au",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": -24.10724,
+        "longitude": 116.98858,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

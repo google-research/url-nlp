@@ -1,0 +1,93 @@
+{
+  "bcp_47_code": "bvf",
+  "iso_639_3_code": "bvf",
+  "glottocode": "boor1242",
+  "wikidata_id": "Q56250",
+  "total_population": 100,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Endangered language spoken in Chad",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Boor",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Kiboor",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Boor",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "boreg",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "boor jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "boor",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "boor",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "борски јазик",
+      "bcp_47_code": "mk",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Boor",
+      "bcp_47_code": "ig",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "td",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 100,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 10.0904,
+        "longitude": 17.5648,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

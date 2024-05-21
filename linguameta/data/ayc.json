@@ -1,0 +1,61 @@
+{
+  "bcp_47_code": "ayc",
+  "iso_639_3_code": "ayc",
+  "macrolanguage_bcp_47_code": "ay",
+  "glottocode": "sout2996",
+  "wikidata_id": "Q3508036",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Southern Aymara",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Lenga aymara meridional",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "južnoajmarski jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "aymara du sud",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Southern Aymara",
+      "bcp_47_code": "hif",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "pe",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": -17.1417,
+        "longitude": -70.3442,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

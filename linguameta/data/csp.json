@@ -1,0 +1,45 @@
+{
+  "bcp_47_code": "csp",
+  "iso_639_3_code": "csp",
+  "macrolanguage_bcp_47_code": "zh",
+  "total_population": 7000000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Southern Ping Chinese",
+      "bcp_47_code": "en",
+      "source": "ISO_639"
+    },
+    {
+      "name": "Southern Pinghua",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "IETF"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "hani",
+        "is_canonical": true,
+        "source": "WIKIDATA"
+      },
+      "locale": {
+        "iso_3166_code": "cn",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 7000000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 23.01,
+        "longitude": 108.09,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "bcp_47_code": "bht",
+  "iso_639_3_code": "bht",
+  "glottocode": "bhat1263",
+  "wikidata_id": "Q4901452",
+  "total_population": 100000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Bhattiyali",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "bhattiyali jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bhateali",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga bhattiyali",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kibhattiyali",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "バッティヤリ語",
+      "bcp_47_code": "ja",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ভটিয়ালী ভাষা",
+      "bcp_47_code": "bn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "بھٹیالی",
+      "bcp_47_code": "pnb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ਭਟਿਆਲੀ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "भटियाली",
+      "bcp_47_code": "hi",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ভটিয়ালী",
+      "bcp_47_code": "as",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "בהאטיאלי",
+      "bcp_47_code": "he",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bhatteali",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Bhattiyali",
+      "bcp_47_code": "pms",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "deva",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "in",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 100000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 32.4022,
+        "longitude": 76.0311,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

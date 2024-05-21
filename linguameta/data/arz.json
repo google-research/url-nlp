@@ -1,0 +1,797 @@
+{
+  "bcp_47_code": "arz",
+  "iso_639_3_code": "arz",
+  "macrolanguage_bcp_47_code": "ar",
+  "glottocode": "egyp1253",
+  "wikidata_id": "Q29919",
+  "total_population": 78000000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Arabic dialect spoken in Egypt",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Egyptian Arabic",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "árabe d’exiptu",
+      "bcp_47_code": "ast",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arabeg egipt",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "àrab egipci",
+      "bcp_47_code": "ca",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arabština",
+      "bcp_47_code": "cs",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arabeg Yr Aifft",
+      "bcp_47_code": "cy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Ägyptisches Arabisch",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "egiptuse araabia",
+      "bcp_47_code": "et",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "عربی مصری",
+      "bcp_47_code": "fa",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "egyptinarabia",
+      "bcp_47_code": "fi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arabe égyptien",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arabais Èipheiteach",
+      "bcp_47_code": "gd",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ઈજિપ્શિયન અરબી",
+      "bcp_47_code": "gu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "եգիպտական արաբերեն",
+      "bcp_47_code": "hy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arab Mesir",
+      "bcp_47_code": "id",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arabo egiziano",
+      "bcp_47_code": "it",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "エジプト・アラビア語",
+      "bcp_47_code": "ja",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "이집트 아랍어",
+      "bcp_47_code": "ko",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Äjiptesch Arahbesch",
+      "bcp_47_code": "ksh",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Egyptescht Arabesch",
+      "bcp_47_code": "lb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "egipto arabų",
+      "bcp_47_code": "lt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "египетски арапски",
+      "bcp_47_code": "mk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arab Mesir",
+      "bcp_47_code": "ms",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "इजिप्ट अरबी",
+      "bcp_47_code": "ne",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Egyptisch Arabisch",
+      "bcp_47_code": "nl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "egyptisk arabisk",
+      "bcp_47_code": "no",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "egipski arabski",
+      "bcp_47_code": "pl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "egyptisk arabiska",
+      "bcp_47_code": "sv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kiarabu cha Misri",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ఈజిప్షియన్ అరబిక్",
+      "bcp_47_code": "te",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "อาหรับพื้นเมืองอียิปต์",
+      "bcp_47_code": "th",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "lea fakaʻalepea-ʻisipite",
+      "bcp_47_code": "to",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Mısır Arapçası",
+      "bcp_47_code": "tr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tiếng Ả Rập Ai Cập",
+      "bcp_47_code": "vi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "埃及阿拉伯文",
+      "bcp_47_code": "yue",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "የምስር አረብኛ",
+      "bcp_47_code": "am",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Arabe echipcián",
+      "bcp_47_code": "an",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "اللهجة المصرية",
+      "bcp_47_code": "ar",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "اللغه المصريه الحديثه",
+      "bcp_47_code": "arz",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "египетски арабски език",
+      "bcp_47_code": "bg",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "egyptská arabština",
+      "bcp_47_code": "cs",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "egyptisk arabisk",
+      "bcp_47_code": "da",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ägyptisch-Arabisch",
+      "bcp_47_code": "de",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "egipt-araba lingvo",
+      "bcp_47_code": "eo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "árabe egipcio",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ערבית מצרית",
+      "bcp_47_code": "he",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "egipatski arapski",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "egyiptomi arab",
+      "bcp_47_code": "hu",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "アラビア語エジプト方言",
+      "bcp_47_code": "ja",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Basa Arab Mesir",
+      "bcp_47_code": "jv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "egipto arabų kalba",
+      "bcp_47_code": "lt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "египетски арапски јазик",
+      "bcp_47_code": "mk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bahasa Arab Mesir",
+      "bcp_47_code": "ms",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "dialekt egipski języka arabskiego",
+      "bcp_47_code": "pl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga aràbica egissian-a",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "مصری عربی",
+      "bcp_47_code": "pnb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "árabe egípcio",
+      "bcp_47_code": "pt",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "araba egipteană",
+      "bcp_47_code": "ro",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "египетский диалект арабского языка",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "எகிப்திய அரபு",
+      "bcp_47_code": "ta",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "єгипетська арабська мова",
+      "bcp_47_code": "uk",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "مصری عربی",
+      "bcp_47_code": "ur",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "埃及阿拉伯語",
+      "bcp_47_code": "cmn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "egyptisk arabisk",
+      "bcp_47_code": "nb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Араб тілінің Мысыр диалектісі",
+      "bcp_47_code": "kk",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Egyptisch-Arabisch",
+      "bcp_47_code": "nl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Egyptisch Arabisch",
+      "bcp_47_code": "li",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Egiptiese Arabies",
+      "bcp_47_code": "af",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ਮਿਸਰੀ ਅਰਬੀ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Árabe exipcio",
+      "bcp_47_code": "gl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "مصري عربي",
+      "bcp_47_code": "ps",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Egyptysk-Arabysk",
+      "bcp_47_code": "fy",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "المصري",
+      "bcp_47_code": "aeb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "árabe exipcianu",
+      "bcp_47_code": "ast",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Għarbi Eġizzjan",
+      "bcp_47_code": "mt",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bahasa Arab Mesir",
+      "bcp_47_code": "id",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Âi-khi̍p Â-lâ-pak-ngî",
+      "bcp_47_code": "hak",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "মিশরীয় আরবি ভাষা",
+      "bcp_47_code": "bn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "埃及阿拉伯语",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "არაბული ნინაშ ეგვიპტური დიალექტი",
+      "bcp_47_code": "xmf",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Αιγυπτιακά Αραβικά",
+      "bcp_47_code": "el",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "эгіпецкая арабская мова",
+      "bcp_47_code": "be",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ᱢᱤᱥᱚᱨᱤᱭᱟᱹ ᱟᱨᱚᱵᱤᱠ",
+      "bcp_47_code": "sat",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Taɛrabt n Maser",
+      "bcp_47_code": "kab",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "میصر عربجه‌سی",
+      "bcp_47_code": "azb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Erebkiyê Mısıri",
+      "bcp_47_code": "diq",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "埃及阿拉伯语",
+      "bcp_47_code": "wuu",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ꯏꯖꯤꯞ ꯀꯤ ꯑꯔꯥꯕꯤꯛ ꯂꯣꯟ",
+      "bcp_47_code": "mni",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "इजिप्ती अरबी",
+      "bcp_47_code": "mr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "егіпецкі дыялект арабскай мовы",
+      "bcp_47_code": "be",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "араббаг æвзаджы мысираг диалект",
+      "bcp_47_code": "os",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "àrabo ezìsio",
+      "bcp_47_code": "vec",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Arabeg Yr Aift",
+      "bcp_47_code": "cy",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "အီဂျစ် အာရဗီ",
+      "bcp_47_code": "my",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "egiptoar arabiera",
+      "bcp_47_code": "eu",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Եգիպտական արաբերէն",
+      "bcp_47_code": "hyw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "erebiya misrî",
+      "bcp_47_code": "ku",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "toki Alapi pi ma Masu",
+      "bcp_47_code": "tok",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "لهجة مصرية",
+      "bcp_47_code": "ary",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "អេហ្ស៊ីបអារ៉ាប់",
+      "bcp_47_code": "km",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "египатски арапски",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ərəb dilinin Misir dialekti",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "egiptovska arabščina",
+      "bcp_47_code": "sl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Egyptian Dialect",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Egyptian Colloquial",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Masri",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Colloquial Egyptian",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Egyptian Colloquial Arabic",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Eca",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "масри",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "египетский арабский язык",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "arabe egipcio",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "مصري",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "مصرى",
+      "bcp_47_code": "arz",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "اللغه المصريه",
+      "bcp_47_code": "arz",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "埃及方言",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "эгіпецкі дыялект арабскай мовы",
+      "bcp_47_code": "be",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua araba egiziana",
+      "bcp_47_code": "it",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "araba egipta",
+      "bcp_47_code": "eo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "masra lingvo",
+      "bcp_47_code": "eo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Мысыр араб тілі",
+      "bcp_47_code": "kk",
+      "iso_15924_code": "cyrl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "егіпецкая арабская мова",
+      "bcp_47_code": "be",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "мысираг араббаг",
+      "bcp_47_code": "os",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "масри",
+      "bcp_47_code": "os",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "egiptoko arabiera",
+      "bcp_47_code": "eu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "egyiptomi arab nyelv",
+      "bcp_47_code": "hu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ਅਰਬੀ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "egiptovsko narečje",
+      "bcp_47_code": "sl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "pogovorna egipčanščina",
+      "bcp_47_code": "sl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Arabe echipcio",
+      "bcp_47_code": "an",
+      "source": "LEXVO"
+    },
+    {
+      "name": "لهجة مصرية",
+      "bcp_47_code": "ar",
+      "source": "LEXVO"
+    },
+    {
+      "name": "이집트 구어체 아랍어",
+      "bcp_47_code": "ko",
+      "source": "LEXVO"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "arab",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "eg",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 78000000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 31.0,
+        "longitude": 31.0,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

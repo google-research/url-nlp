@@ -1,0 +1,103 @@
+{
+  "bcp_47_code": "czt",
+  "iso_639_3_code": "czt",
+  "glottocode": "zotu1235",
+  "wikidata_id": "Q8074599",
+  "total_population": 52000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Sino-Tibetan language spoken in Burma",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Zotung Chin",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Zotung",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ภาษาโซตุง",
+      "bcp_47_code": "th",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "zotoungeg",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Zotung Lenga Chin",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "zotung chin jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kichin ya Zotung",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Wikang Zotung",
+      "bcp_47_code": "tl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ဇိုတုန်ဘာသာစကား",
+      "bcp_47_code": "my",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "zotung",
+      "bcp_47_code": "cs",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "jazyk zotung",
+      "bcp_47_code": "cs",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "mm",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 52000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 22.5298,
+        "longitude": 93.29,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

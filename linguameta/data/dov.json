@@ -1,0 +1,79 @@
+{
+  "bcp_47_code": "dov",
+  "iso_639_3_code": "dov",
+  "glottocode": "domb1246",
+  "wikidata_id": "Q11001779",
+  "total_population": 1500000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Dombe",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Toka-Leya-Dombe",
+      "bcp_47_code": "en",
+      "source": "GLOTTOLOG"
+    },
+    {
+      "name": "Toka-Leya",
+      "bcp_47_code": "en",
+      "source": "WIKTIONARY"
+    },
+    {
+      "name": "Lenga Dombe",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kidombe",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "dombe jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "dombe",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "zw",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 1500000,
+        "source": "WIKIPEDIA"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": -18.37,
+        "longitude": 26.502,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

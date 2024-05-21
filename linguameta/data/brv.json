@@ -1,0 +1,67 @@
+{
+  "bcp_47_code": "brv",
+  "iso_639_3_code": "brv",
+  "glottocode": "west2397",
+  "wikidata_id": "Q16113806",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Western Bru",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "laoo",
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "la",
+        "source": "GLOTTOLOG"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "la",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": 16.518442,
+        "longitude": 104.80801,
+        "source": "GOOGLE_RESEARCH"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "th",
+        "source": "GLOTTOLOG"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "thai",
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "th",
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

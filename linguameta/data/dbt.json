@@ -1,0 +1,58 @@
+{
+  "bcp_47_code": "dbt",
+  "iso_639_3_code": "dbt",
+  "glottocode": "bent1238",
+  "wikidata_id": "Q4886561",
+  "total_population": 3000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Ben Tey Dogon",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Ben Tey",
+      "bcp_47_code": "en",
+      "source": "WIKTIONARY"
+    },
+    {
+      "name": "ben tey",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Wikang Ben Tey",
+      "bcp_47_code": "tl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "ml",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 3000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 14.78,
+        "longitude": -2.94,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

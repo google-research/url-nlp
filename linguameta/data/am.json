@@ -1,0 +1,2006 @@
+{
+  "bcp_47_code": "am",
+  "iso_639_3_code": "amh",
+  "glottocode": "amha1245",
+  "wikidata_id": "Q28244",
+  "total_population": 36000000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Semitic language of Ethiopia",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "амхар",
+      "bcp_47_code": "ab",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Amharies",
+      "bcp_47_code": "af",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Àmalì",
+      "bcp_47_code": "agq",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Amarik",
+      "bcp_47_code": "ak",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "الأمهرية",
+      "bcp_47_code": "ar",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "আমহাৰিক",
+      "bcp_47_code": "as",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kiamhari",
+      "bcp_47_code": "asa",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amháricu",
+      "bcp_47_code": "ast",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amhar",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Hɔp u amhārìk",
+      "bcp_47_code": "bas",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "амхарская",
+      "bcp_47_code": "be",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Ichi Amhari",
+      "bcp_47_code": "bem",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Hiamhari",
+      "bcp_47_code": "bez",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "амхарски",
+      "bcp_47_code": "bg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "امهاری",
+      "bcp_47_code": "bgn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amarikikan",
+      "bcp_47_code": "bm",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "আমহারিক",
+      "bcp_47_code": "bn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amhareg",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "आम्हारिक",
+      "bcp_47_code": "brx",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amharski",
+      "bcp_47_code": "bs",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "አማርኛ",
+      "bcp_47_code": "byn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amhàric",
+      "bcp_47_code": "ca",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "𑄃𑄟𑄴𑄦𑄢𑄨𑄇𑄴",
+      "bcp_47_code": "ccp",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "амхаройн",
+      "bcp_47_code": "ce",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Orumariki",
+      "bcp_47_code": "cgg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ᎠᎹᎭᎵᎩ",
+      "bcp_47_code": "chr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ئەمھەری",
+      "bcp_47_code": "ckb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amharština",
+      "bcp_47_code": "cs",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Amhareg",
+      "bcp_47_code": "cy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amharisk",
+      "bcp_47_code": "da",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kiamhari",
+      "bcp_47_code": "dav",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Amharisch",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Amhaarik senni",
+      "bcp_47_code": "dje",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amharšćina",
+      "bcp_47_code": "dsb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amharik",
+      "bcp_47_code": "dyo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ཨམ་ཧ་རིཀ་ཁ",
+      "bcp_47_code": "dz",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kĩamhari",
+      "bcp_47_code": "ebu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amhariagbe",
+      "bcp_47_code": "ee",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Αμχαρικά",
+      "bcp_47_code": "el",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amhara",
+      "bcp_47_code": "eo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amárico",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amhara",
+      "bcp_47_code": "et",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amharera",
+      "bcp_47_code": "eu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Ǹkɔ́bɔ amária",
+      "bcp_47_code": "ewo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "امهری",
+      "bcp_47_code": "fa",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Amarik",
+      "bcp_47_code": "ff",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amhara",
+      "bcp_47_code": "fi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Amharic",
+      "bcp_47_code": "fil",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amhariskt",
+      "bcp_47_code": "fo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amharique",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amaric",
+      "bcp_47_code": "fur",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Amhaarsk",
+      "bcp_47_code": "fy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Amáiris",
+      "bcp_47_code": "ga",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Amharic",
+      "bcp_47_code": "gaa",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Amtharais",
+      "bcp_47_code": "gd",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "አምሐረኛ",
+      "bcp_47_code": "gez",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amhárico",
+      "bcp_47_code": "gl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Amharisch",
+      "bcp_47_code": "gsw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "એમ્હારિક",
+      "bcp_47_code": "gu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kiamhari",
+      "bcp_47_code": "guz",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Amharik",
+      "bcp_47_code": "ha",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "אמהרית",
+      "bcp_47_code": "he",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "अम्हेरी",
+      "bcp_47_code": "hi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amharski",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amharšćina",
+      "bcp_47_code": "hsb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amhara",
+      "bcp_47_code": "hu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ամհարերեն",
+      "bcp_47_code": "hy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amharico",
+      "bcp_47_code": "ia",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Amharik",
+      "bcp_47_code": "id",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Amariikị",
+      "bcp_47_code": "ig",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amharíska",
+      "bcp_47_code": "is",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amarico",
+      "bcp_47_code": "it",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "アムハラ語",
+      "bcp_47_code": "ja",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kiamharyi",
+      "bcp_47_code": "jmc",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Amharik",
+      "bcp_47_code": "jv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ამჰარული",
+      "bcp_47_code": "ka",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tamahrict",
+      "bcp_47_code": "kab",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kiamhari",
+      "bcp_47_code": "kam",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Chamhali",
+      "bcp_47_code": "kde",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amáriku",
+      "bcp_47_code": "kea",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amỹriko",
+      "bcp_47_code": "kgp",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Amhaarik senni",
+      "bcp_47_code": "khq",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kiamhari",
+      "bcp_47_code": "ki",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "амхар тілі",
+      "bcp_47_code": "kk",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "kutitab Amariek",
+      "bcp_47_code": "kln",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "អាំហារិក",
+      "bcp_47_code": "km",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ಅಂಹರಿಕ್",
+      "bcp_47_code": "kn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "암하라어",
+      "bcp_47_code": "ko",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "अमहारिक्",
+      "bcp_47_code": "kok",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "اَمہاری",
+      "bcp_47_code": "ks",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kiamhali",
+      "bcp_47_code": "ksb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "riamarik",
+      "bcp_47_code": "ksf",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Amhahresch",
+      "bcp_47_code": "ksh",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amharî",
+      "bcp_47_code": "ku",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "амхарча",
+      "bcp_47_code": "ky",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Amharica",
+      "bcp_47_code": "la",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kɨmʉháari",
+      "bcp_47_code": "lag",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Amharesch",
+      "bcp_47_code": "lb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Lu-amhariki",
+      "bcp_47_code": "lg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amarico",
+      "bcp_47_code": "lij",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Amharic Iyápi",
+      "bcp_47_code": "lkt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "liamariki",
+      "bcp_47_code": "ln",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ອຳຮາຣິກ",
+      "bcp_47_code": "lo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "أمھأری",
+      "bcp_47_code": "lrc",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amharų",
+      "bcp_47_code": "lt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Liamhariki",
+      "bcp_47_code": "lu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kiamhari",
+      "bcp_47_code": "luo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kiamhari",
+      "bcp_47_code": "luy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amharu",
+      "bcp_47_code": "lv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "अम्हरिक",
+      "bcp_47_code": "mai",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "nkʉtʉ́k ɔ́ɔ̄ lAmhari",
+      "bcp_47_code": "mas",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kĩamarĩki",
+      "bcp_47_code": "mer",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amarik",
+      "bcp_47_code": "mfe",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Amharika",
+      "bcp_47_code": "mg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Imhari",
+      "bcp_47_code": "mgh",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Amahereka",
+      "bcp_47_code": "mi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "амхарски",
+      "bcp_47_code": "mk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "അംഹാരിക്",
+      "bcp_47_code": "ml",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "амхар",
+      "bcp_47_code": "mn",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "अम्हारिक",
+      "bcp_47_code": "mr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Amharic",
+      "bcp_47_code": "ms",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Amhariku",
+      "bcp_47_code": "mt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amharik",
+      "bcp_47_code": "mua",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "အမ်ဟာရစ်ခ်",
+      "bcp_47_code": "my",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "امهری",
+      "bcp_47_code": "mzn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Amharicgowab",
+      "bcp_47_code": "naq",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "isi-Amaharikhi",
+      "bcp_47_code": "nd",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Amhaarsch",
+      "bcp_47_code": "nds",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "अम्हारिक",
+      "bcp_47_code": "ne",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Amhaars",
+      "bcp_47_code": "nl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kiɛl amaria",
+      "bcp_47_code": "nmg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amharisk",
+      "bcp_47_code": "no",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ߊߡߑߤߊߙߌ",
+      "bcp_47_code": "nqo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Thok bunyni",
+      "bcp_47_code": "nus",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Orumariki",
+      "bcp_47_code": "nyn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amaric",
+      "bcp_47_code": "oc",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Afaan Sidaamaa",
+      "bcp_47_code": "om",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ଆମହାରକି",
+      "bcp_47_code": "or",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ਅਮਹਾਰਿਕ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Amhárík Lángwej",
+      "bcp_47_code": "pcm",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amharski",
+      "bcp_47_code": "pl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "امهاري",
+      "bcp_47_code": "ps",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amárico",
+      "bcp_47_code": "pt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Amarico Simi",
+      "bcp_47_code": "qu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amaric",
+      "bcp_47_code": "rm",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Ikimuhariki",
+      "bcp_47_code": "rn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amharică",
+      "bcp_47_code": "ro",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kiamhari",
+      "bcp_47_code": "rof",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "амхарский",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Inyamuhariki",
+      "bcp_47_code": "rw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kiamharyi",
+      "bcp_47_code": "rwk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "अंहाऱिक्",
+      "bcp_47_code": "sa",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Амхаардыы",
+      "bcp_47_code": "sah",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kiamhari",
+      "bcp_47_code": "saq",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ᱟᱢᱦᱟᱨᱤᱠ",
+      "bcp_47_code": "sat",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Ishiyamuhali",
+      "bcp_47_code": "sbp",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amàricu",
+      "bcp_47_code": "sc",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amàricu",
+      "bcp_47_code": "scn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "امهاري",
+      "bcp_47_code": "sd",
+      "iso_15924_code": "arab",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amárico",
+      "bcp_47_code": "seh",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Amhaarik senni",
+      "bcp_47_code": "ses",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Amarîki",
+      "bcp_47_code": "sg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ⵜⴰⵎⵀⴰⵔⵉⵜ",
+      "bcp_47_code": "shi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ඇම්හාරික්",
+      "bcp_47_code": "si",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amharčina",
+      "bcp_47_code": "sk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amharščina",
+      "bcp_47_code": "sl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amharakielâ",
+      "bcp_47_code": "smn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "chiAmaric",
+      "bcp_47_code": "sn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Axmaar",
+      "bcp_47_code": "so",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amarisht",
+      "bcp_47_code": "sq",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "амхарски",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Se-amhari",
+      "bcp_47_code": "st",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amhariska",
+      "bcp_47_code": "sv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kiamhari",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ܐܡܪܢܝܬ",
+      "bcp_47_code": "syr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amharski",
+      "bcp_47_code": "szl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "அம்ஹாரிக்",
+      "bcp_47_code": "ta",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "అమ్హారిక్",
+      "bcp_47_code": "te",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kiamhari",
+      "bcp_47_code": "teo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "амҳарӣ",
+      "bcp_47_code": "tg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "อัมฮารา",
+      "bcp_47_code": "th",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ኣምሓርኛ",
+      "bcp_47_code": "ti",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "አምሐረኛ",
+      "bcp_47_code": "tig",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amhar dili",
+      "bcp_47_code": "tk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Amhariki",
+      "bcp_47_code": "tn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "lea fakaʻameliki",
+      "bcp_47_code": "to",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Amharca",
+      "bcp_47_code": "tr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "امھاریک",
+      "bcp_47_code": "trw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "амхар",
+      "bcp_47_code": "tt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Amhaarik senni",
+      "bcp_47_code": "twq",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tamharit",
+      "bcp_47_code": "tzm",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ئامھارچە",
+      "bcp_47_code": "ug",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "амхарська",
+      "bcp_47_code": "uk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "امہاری",
+      "bcp_47_code": "ur",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amxar",
+      "bcp_47_code": "uz",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ꕉꕆꕌꔸ",
+      "bcp_47_code": "vai",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amàrego",
+      "bcp_47_code": "vec",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tiếng Amharic",
+      "bcp_47_code": "vi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kiamharyi",
+      "bcp_47_code": "vun",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Amhariš",
+      "bcp_47_code": "wae",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Amharik",
+      "bcp_47_code": "wo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "isi-Amharic",
+      "bcp_47_code": "xh",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Oluamhariki",
+      "bcp_47_code": "xog",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amalíke",
+      "bcp_47_code": "yav",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "אַמהאַריש",
+      "bcp_47_code": "yi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Èdè Amariki",
+      "bcp_47_code": "yo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amáriku",
+      "bcp_47_code": "yrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "阿姆哈拉文",
+      "bcp_47_code": "yue",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ⵜⴰⵎⵀⴰⵔⵉⵜ",
+      "bcp_47_code": "zgh",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "阿姆哈拉语",
+      "bcp_47_code": "cmn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "isi-Amharic",
+      "bcp_47_code": "zu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "amhar dili",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "амхарская мова",
+      "bcp_47_code": "be",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "амхарски език",
+      "bcp_47_code": "bg",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bahasa Amhar",
+      "bcp_47_code": "bjn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "আমহারীয় ভাষা",
+      "bcp_47_code": "bn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "amharski jezik",
+      "bcp_47_code": "bs",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "زمانی ئەمھەری",
+      "bcp_47_code": "ckb",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Амхарьскъ ѩꙁꙑкъ",
+      "bcp_47_code": "cu",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Αμχαρική γλώσσα",
+      "bcp_47_code": "el",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "amhara lingvo",
+      "bcp_47_code": "eo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "amhárico",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "amhara keel",
+      "bcp_47_code": "et",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "زبان امهری",
+      "bcp_47_code": "fa",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "amharan kieli",
+      "bcp_47_code": "fi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "An Amairis",
+      "bcp_47_code": "ga",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "અમ્હારિક ભાષા",
+      "bcp_47_code": "gu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "अम्हारिक",
+      "bcp_47_code": "hi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Amharic bhasa",
+      "bcp_47_code": "hif",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "amharski jezik",
+      "bcp_47_code": "hr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bahasa Amhar",
+      "bcp_47_code": "id",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Amhara linguo",
+      "bcp_47_code": "io",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ამჰარული ენა",
+      "bcp_47_code": "ka",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Амхара кыв",
+      "bcp_47_code": "kv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Amharek",
+      "bcp_47_code": "kw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Амхар чӀал",
+      "bcp_47_code": "lez",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lengua amharica",
+      "bcp_47_code": "lij",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "amharų kalba",
+      "bcp_47_code": "lt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "amharu valoda",
+      "bcp_47_code": "lv",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Fiteny amharika",
+      "bcp_47_code": "mg",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "амхарски јазик",
+      "bcp_47_code": "mk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "അംഹാറിക്ക്",
+      "bcp_47_code": "ml",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "अम्हारिक भाषा",
+      "bcp_47_code": "mr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bahasa Amhara",
+      "bcp_47_code": "ms",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "आम्हारिक भाषा",
+      "bcp_47_code": "new",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "amharisk",
+      "bcp_47_code": "nn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "język amharski",
+      "bcp_47_code": "pl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga amàrica",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "امہاری",
+      "bcp_47_code": "pnb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "língua amárica",
+      "bcp_47_code": "pt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Amhara simi",
+      "bcp_47_code": "qu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "limba amharică",
+      "bcp_47_code": "ro",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "амхарский язык",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "limba amarica",
+      "bcp_47_code": "sc",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "amharski jezik",
+      "bcp_47_code": "sh",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Amxaari",
+      "bcp_47_code": "so",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "амхарски језик",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "அம்காரியம்",
+      "bcp_47_code": "ta",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ቋንቋ ኣምሓርኛ",
+      "bcp_47_code": "ti",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ئامخارا تىلى",
+      "bcp_47_code": "ug",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "амхарська мова",
+      "bcp_47_code": "uk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tiếng Amhara",
+      "bcp_47_code": "vi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Èdè Àmháríkì",
+      "bcp_47_code": "yo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "amharisk",
+      "bcp_47_code": "nb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Amharish",
+      "bcp_47_code": "gv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "amharagiella",
+      "bcp_47_code": "se",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Â-mê-ha̍p-lâ-ngî",
+      "bcp_47_code": "hak",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Idioma amarico",
+      "bcp_47_code": "an",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ਅਮਹਾਰੀ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lingua amhárica",
+      "bcp_47_code": "gl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "amhara tili",
+      "bcp_47_code": "uz",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "амхарийн мотт",
+      "bcp_47_code": "ce",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Amariko",
+      "bcp_47_code": "ilo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Amharu kalba",
+      "bcp_47_code": "sgs",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Amarais",
+      "bcp_47_code": "gd",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "امہری زبان",
+      "bcp_47_code": "ur",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Amharice",
+      "bcp_47_code": "la",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Amharisk",
+      "bcp_47_code": "frr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Seamhare",
+      "bcp_47_code": "nso",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "阿姆哈拉語",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ამჰარული ნინა",
+      "bcp_47_code": "xmf",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Amħariku",
+      "bcp_47_code": "mt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "الأمهري",
+      "bcp_47_code": "aeb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "amarina",
+      "bcp_47_code": "lfn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Amharikii kʊnʊŋ",
+      "bcp_47_code": "kbp",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "amáricu",
+      "bcp_47_code": "ast",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Амхар мотт",
+      "bcp_47_code": "inh",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Amhara-gí",
+      "bcp_47_code": "nan",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Wikang Amharico",
+      "bcp_47_code": "tl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "امهرى",
+      "bcp_47_code": "arz",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "amaricu",
+      "bcp_47_code": "co",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tamharit",
+      "bcp_47_code": "kab",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Амһара теле",
+      "bcp_47_code": "tt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "阿姆哈拉语",
+      "bcp_47_code": "wuu",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ամհարերէն",
+      "bcp_47_code": "hyw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "امهري ژبه",
+      "bcp_47_code": "ps",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Amharic",
+      "bcp_47_code": "ak",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "amharaǩiõll",
+      "bcp_47_code": "sms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ภาษาอามารา",
+      "bcp_47_code": "th",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ᱟᱢᱦᱟᱨᱤᱠ ᱯᱟᱹᱨᱥᱤ",
+      "bcp_47_code": "sat",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "אמהאריש",
+      "bcp_47_code": "yi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "amhariko",
+      "bcp_47_code": "lad",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Амхар чĕлхи",
+      "bcp_47_code": "cv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "aramàego",
+      "bcp_47_code": "vec",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ߊߡߑߤߊߙߌߞߊ߲",
+      "bcp_47_code": "nqo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Amharic",
+      "bcp_47_code": "ig",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Амхар тили",
+      "bcp_47_code": "ky",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "अम्हारिक भाषा",
+      "bcp_47_code": "anp",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idioma amhárico",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lengua amhárica",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "abisinio",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "etíope",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "amharico",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idioma amharico",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lengua amharica",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "amarico",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "etiope",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua amarica",
+      "bcp_47_code": "it",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "amharico",
+      "bcp_47_code": "it",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua amharica",
+      "bcp_47_code": "it",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "لغة أمهرية",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "اللغة الأمهرية",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "أمهرية",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Amairis",
+      "bcp_47_code": "ga",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "la amhara",
+      "bcp_47_code": "eo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "amharo",
+      "bcp_47_code": "eo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "אמהאריקו",
+      "bcp_47_code": "lad",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua amharika",
+      "bcp_47_code": "lad",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "לינגואה אמהאריקה",
+      "bcp_47_code": "lad",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "amarinya",
+      "bcp_47_code": "ca",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "etíop modern",
+      "bcp_47_code": "ca",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "امہارک بولی",
+      "bcp_47_code": "pnb",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ਅਮਹਾਰੀ ਭਾਸ਼ਾ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "amharca",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "amharski jezik",
+      "bcp_47_code": "sl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "አማርኛ",
+      "bcp_47_code": "am",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Amharic",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "ethi",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "et",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 36000000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 11.708182,
+        "longitude": 39.543457,
+        "source": "GOOGLE_RESEARCH"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": false,
+        "is_for_transliteration": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "et",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 36000000,
+        "source": "CLDR"
+      }
+    }
+  ]
+}

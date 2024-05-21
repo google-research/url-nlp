@@ -1,0 +1,2160 @@
+{
+  "bcp_47_code": "ar",
+  "iso_639_3_code": "ara",
+  "individual_language_bcp_47_codes": [
+    "aao",
+    "abh",
+    "abv",
+    "acm",
+    "acq",
+    "acw",
+    "acx",
+    "acy",
+    "adf",
+    "aeb",
+    "aec",
+    "afb",
+    "ajp",
+    "apc",
+    "apd",
+    "arb",
+    "arq",
+    "ars",
+    "ary",
+    "arz",
+    "auz",
+    "avl",
+    "ayh",
+    "ayl",
+    "ayn",
+    "ayp",
+    "pga",
+    "shu",
+    "ssh"
+  ],
+  "total_population": 346277000,
+  "language_scope": {
+    "scope": "MACROLANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "араб",
+      "bcp_47_code": "ab",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arabies",
+      "bcp_47_code": "af",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Àlabì",
+      "bcp_47_code": "agq",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arabik",
+      "bcp_47_code": "ak",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ዓረብኛ",
+      "bcp_47_code": "am",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arabe",
+      "bcp_47_code": "an",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "আৰবী",
+      "bcp_47_code": "as",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kiarabu",
+      "bcp_47_code": "asa",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "árabe",
+      "bcp_47_code": "ast",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ərəb",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Hɔp u arâb",
+      "bcp_47_code": "bas",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "арабская",
+      "bcp_47_code": "be",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Ichi Arab",
+      "bcp_47_code": "bem",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Hiharabu",
+      "bcp_47_code": "bez",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "арабски",
+      "bcp_47_code": "bg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "عربی",
+      "bcp_47_code": "bgn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "larabukan",
+      "bcp_47_code": "bm",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "আরবী",
+      "bcp_47_code": "bn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arabeg",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "आराबिक",
+      "bcp_47_code": "brx",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arapski",
+      "bcp_47_code": "bs",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ዐርቢኛ",
+      "bcp_47_code": "byn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "àrab",
+      "bcp_47_code": "ca",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "𑄃𑄢𑄧𑄝𑄩",
+      "bcp_47_code": "ccp",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Ӏаьрбийн",
+      "bcp_47_code": "ce",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arabic",
+      "bcp_47_code": "ceb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Oruharabu",
+      "bcp_47_code": "cgg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ᎡᎳᏈ",
+      "bcp_47_code": "chr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "عەرەبی",
+      "bcp_47_code": "ckb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arabu",
+      "bcp_47_code": "co",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arabština",
+      "bcp_47_code": "cs",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "а҆ра́вскїй",
+      "bcp_47_code": "cu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "арап",
+      "bcp_47_code": "cv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arabeg",
+      "bcp_47_code": "cy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arabisk",
+      "bcp_47_code": "da",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kiarabu",
+      "bcp_47_code": "dav",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arabisch",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Laaraw senni",
+      "bcp_47_code": "dje",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arabšćina",
+      "bcp_47_code": "dsb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arab",
+      "bcp_47_code": "dyo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ཨེ་ར་བིཀ་ཁ",
+      "bcp_47_code": "dz",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kĩarabu",
+      "bcp_47_code": "ebu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arabiagbe",
+      "bcp_47_code": "ee",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Αραβικά",
+      "bcp_47_code": "el",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "araba",
+      "bcp_47_code": "eo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "árabe",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "araabia",
+      "bcp_47_code": "et",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arabiera",
+      "bcp_47_code": "eu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Ǹkɔ́bɔ arábia",
+      "bcp_47_code": "ewo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "عربی",
+      "bcp_47_code": "fa",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Aarabeere",
+      "bcp_47_code": "ff",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arabia",
+      "bcp_47_code": "fi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arabic",
+      "bcp_47_code": "fil",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arabiskt",
+      "bcp_47_code": "fo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arabe",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Araabisk",
+      "bcp_47_code": "frr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arap",
+      "bcp_47_code": "fur",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arabysk",
+      "bcp_47_code": "fy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Araibis",
+      "bcp_47_code": "ga",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arabik",
+      "bcp_47_code": "gaa",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arabais",
+      "bcp_47_code": "gd",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ዐርቢኛ",
+      "bcp_47_code": "gez",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "árabe",
+      "bcp_47_code": "gl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arabisch",
+      "bcp_47_code": "gsw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "અરબી",
+      "bcp_47_code": "gu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kiarabu",
+      "bcp_47_code": "guz",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Larabci",
+      "bcp_47_code": "ha",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ʻAlapia",
+      "bcp_47_code": "haw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ערבית",
+      "bcp_47_code": "he",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "अरबी",
+      "bcp_47_code": "hi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "𞄤𞄣",
+      "bcp_47_code": "hnj",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arapski",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arabšćina",
+      "bcp_47_code": "hsb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arab",
+      "bcp_47_code": "hu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "արաբերեն",
+      "bcp_47_code": "hy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arabe",
+      "bcp_47_code": "ia",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arab",
+      "bcp_47_code": "id",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arabiikị",
+      "bcp_47_code": "ig",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arabíska",
+      "bcp_47_code": "is",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arabo",
+      "bcp_47_code": "it",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "アラビア語",
+      "bcp_47_code": "ja",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Alâbɛ",
+      "bcp_47_code": "jgo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kyiarabu",
+      "bcp_47_code": "jmc",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arab",
+      "bcp_47_code": "jv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "არაბული",
+      "bcp_47_code": "ka",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Taɛrabt",
+      "bcp_47_code": "kab",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kiarabu",
+      "bcp_47_code": "kam",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Chalabu",
+      "bcp_47_code": "kde",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "árabi",
+      "bcp_47_code": "kea",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arame",
+      "bcp_47_code": "kgp",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Laaraw senni",
+      "bcp_47_code": "khq",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kĩarabu",
+      "bcp_47_code": "ki",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "араб тілі",
+      "bcp_47_code": "kk",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arabiamiusut",
+      "bcp_47_code": "kl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "kutitab Arabuk",
+      "bcp_47_code": "kln",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "អារ៉ាប់",
+      "bcp_47_code": "km",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ಅರೇಬಿಕ್",
+      "bcp_47_code": "kn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "아랍어",
+      "bcp_47_code": "ko",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "अरेबिक",
+      "bcp_47_code": "kok",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "عربی",
+      "bcp_47_code": "ks",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kialabu",
+      "bcp_47_code": "ksb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "riarab",
+      "bcp_47_code": "ksf",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arahbesch",
+      "bcp_47_code": "ksh",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "erebî",
+      "bcp_47_code": "ku",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arabek",
+      "bcp_47_code": "kw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "арабча",
+      "bcp_47_code": "ky",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arabica",
+      "bcp_47_code": "la",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kɨaráabu",
+      "bcp_47_code": "lag",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arabesch",
+      "bcp_47_code": "lb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Luwarabu",
+      "bcp_47_code": "lg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arabo",
+      "bcp_47_code": "lij",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arab Iyápi",
+      "bcp_47_code": "lkt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "lialabo",
+      "bcp_47_code": "ln",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ອາຣັບ",
+      "bcp_47_code": "lo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "أرأڤی",
+      "bcp_47_code": "lrc",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arabų",
+      "bcp_47_code": "lt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arabi",
+      "bcp_47_code": "lu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kiarabu",
+      "bcp_47_code": "luo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kiarabu",
+      "bcp_47_code": "luy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arābu",
+      "bcp_47_code": "lv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "अरबी",
+      "bcp_47_code": "mai",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "nkʉtʉ́k ɔ́ɔ̄ lmarabu",
+      "bcp_47_code": "mas",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kĩarabu",
+      "bcp_47_code": "mer",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arab",
+      "bcp_47_code": "mfe",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arabo",
+      "bcp_47_code": "mg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Iarabu",
+      "bcp_47_code": "mgh",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Ārapi",
+      "bcp_47_code": "mi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "арапски",
+      "bcp_47_code": "mk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "അറബിക്",
+      "bcp_47_code": "ml",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "араб",
+      "bcp_47_code": "mn",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "আরাবিক",
+      "bcp_47_code": "mni",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "अरबी",
+      "bcp_47_code": "mr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arab",
+      "bcp_47_code": "ms",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Għarbi",
+      "bcp_47_code": "mt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arabiya",
+      "bcp_47_code": "mua",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "အာရဗီ",
+      "bcp_47_code": "my",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "عربی",
+      "bcp_47_code": "mzn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arabiǁî gowab",
+      "bcp_47_code": "naq",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "isi-Alabhu",
+      "bcp_47_code": "nd",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Araabsch",
+      "bcp_47_code": "nds",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "अरबी",
+      "bcp_47_code": "ne",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arabisch",
+      "bcp_47_code": "nl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kiɛl b’árabe",
+      "bcp_47_code": "nmg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arabisk",
+      "bcp_47_code": "no",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ߊߙߓߎߞߊ߲",
+      "bcp_47_code": "nqo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Thok Jalabni",
+      "bcp_47_code": "nus",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Oruharabu",
+      "bcp_47_code": "nyn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arabi",
+      "bcp_47_code": "oc",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arabiffaa",
+      "bcp_47_code": "om",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ଆରବିକ୍",
+      "bcp_47_code": "or",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "араббаг",
+      "bcp_47_code": "os",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ਅਰਬੀ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arábík Lángwej",
+      "bcp_47_code": "pcm",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arabski",
+      "bcp_47_code": "pl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arābiskan",
+      "bcp_47_code": "prg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "عربي",
+      "bcp_47_code": "ps",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "árabe",
+      "bcp_47_code": "pt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arabe Simi",
+      "bcp_47_code": "qu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arab",
+      "bcp_47_code": "rm",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Icarabu",
+      "bcp_47_code": "rn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arabă",
+      "bcp_47_code": "ro",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kiarabu",
+      "bcp_47_code": "rof",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "арабский",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Icyarabu",
+      "bcp_47_code": "rw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kyiarabu",
+      "bcp_47_code": "rwk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "अऱबिक्",
+      "bcp_47_code": "sa",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Араабтыы",
+      "bcp_47_code": "sah",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kiarabu",
+      "bcp_47_code": "saq",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ᱚᱨᱵᱤ",
+      "bcp_47_code": "sat",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Ishiyalabu",
+      "bcp_47_code": "sbp",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "àrabu",
+      "bcp_47_code": "sc",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "àrabbu",
+      "bcp_47_code": "scn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "عربي",
+      "bcp_47_code": "sd",
+      "iso_15924_code": "arab",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arábagiella",
+      "bcp_47_code": "se",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "árabe",
+      "bcp_47_code": "seh",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Laaraw senni",
+      "bcp_47_code": "ses",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arâbo",
+      "bcp_47_code": "sg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ⵜⴰⵄⵔⴰⴱⵜ",
+      "bcp_47_code": "shi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "අරාබි",
+      "bcp_47_code": "si",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arabčina",
+      "bcp_47_code": "sk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arabščina",
+      "bcp_47_code": "sl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arabiakielâ",
+      "bcp_47_code": "smn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arabia",
+      "bcp_47_code": "sms",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "chiArabu",
+      "bcp_47_code": "sn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Carabi",
+      "bcp_47_code": "so",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arabisht",
+      "bcp_47_code": "sq",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "арапски",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Se-arab",
+      "bcp_47_code": "st",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arabiska",
+      "bcp_47_code": "sv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kiarabu",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ܥܪܒܝܬ",
+      "bcp_47_code": "syr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arabski",
+      "bcp_47_code": "szl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "அரபிக்",
+      "bcp_47_code": "ta",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "అరబిక్",
+      "bcp_47_code": "te",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kiarabu",
+      "bcp_47_code": "teo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "арабӣ",
+      "bcp_47_code": "tg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "อาหรับ",
+      "bcp_47_code": "th",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ዓረብ",
+      "bcp_47_code": "ti",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ዐርቢኛ",
+      "bcp_47_code": "tig",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arap dili",
+      "bcp_47_code": "tk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arabic",
+      "bcp_47_code": "tn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "lea fakaʻalepea",
+      "bcp_47_code": "to",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "toki Alapi",
+      "bcp_47_code": "tok",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arapça",
+      "bcp_47_code": "tr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "عربی",
+      "bcp_47_code": "trw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "гарәп",
+      "bcp_47_code": "tt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Laaraw senni",
+      "bcp_47_code": "twq",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Taεrabt",
+      "bcp_47_code": "tzm",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ئەرەبچە",
+      "bcp_47_code": "ug",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "арабська",
+      "bcp_47_code": "uk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "عربی",
+      "bcp_47_code": "ur",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arab",
+      "bcp_47_code": "uz",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ꕞꕌꖝ",
+      "bcp_47_code": "vai",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "àrabo",
+      "bcp_47_code": "vec",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tiếng Ả Rập",
+      "bcp_47_code": "vi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kyiarabu",
+      "bcp_47_code": "vun",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Arabiš",
+      "bcp_47_code": "wae",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ዐርቢኛ",
+      "bcp_47_code": "wal",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Araab",
+      "bcp_47_code": "wo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "isi-Arabhu",
+      "bcp_47_code": "xh",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Oluwarabu",
+      "bcp_47_code": "xog",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "́pakas",
+      "bcp_47_code": "yav",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "אַראַביש",
+      "bcp_47_code": "yi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Èdè Árábìkì",
+      "bcp_47_code": "yo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arabi",
+      "bcp_47_code": "yrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "阿拉伯文",
+      "bcp_47_code": "yue",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ⵜⴰⵄⵔⴰⴱⵜ",
+      "bcp_47_code": "zgh",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "阿拉伯语",
+      "bcp_47_code": "cmn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "isi-Arabic",
+      "bcp_47_code": "zu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "আৰৱী",
+      "bcp_47_code": "as",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Ərəb",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "আরবি",
+      "bcp_47_code": "bn",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "arapska",
+      "bcp_47_code": "bs",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "arabiarra",
+      "bcp_47_code": "eu",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Árabe",
+      "bcp_47_code": "gl",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Arab",
+      "bcp_47_code": "in",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "arabískt",
+      "bcp_47_code": "is",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "アラビア語（バーレーン）",
+      "bcp_47_code": "ja",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Араб",
+      "bcp_47_code": "kk",
+      "iso_15924_code": "cyrl",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Арабча",
+      "bcp_47_code": "ky",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Arabe",
+      "bcp_47_code": "ln",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ອາຣາບິກ",
+      "bcp_47_code": "lo",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "arabų kalba",
+      "bcp_47_code": "lt",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Араб",
+      "bcp_47_code": "mn",
+      "iso_15924_code": "cyrl",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Arabă",
+      "bcp_47_code": "mo",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "arabisk",
+      "bcp_47_code": "nb",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ଆରବୀୟ",
+      "bcp_47_code": "or",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Arabčina",
+      "bcp_47_code": "sk",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Arabisht",
+      "bcp_47_code": "sq",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "арапска",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Arabic",
+      "bcp_47_code": "tl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "阿拉伯语（巴林）",
+      "bcp_47_code": "cmn",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Arabic",
+      "bcp_47_code": "zu",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "العربية",
+      "bcp_47_code": "ar",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Arabic",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "arab",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "ae",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 7800000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 24.46667,
+        "longitude": 54.36667,
+        "source": "GLOTTOLOG"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "arab",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "bh",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 1300000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 26.22787,
+        "longitude": 50.58565,
+        "source": "GLOTTOLOG"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "arab",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "dj",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 67000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "arab",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "dz",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 32000000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 36.73225,
+        "longitude": 3.08746,
+        "source": "GLOTTOLOG"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "arab",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "eg",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 98000000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 30.033333,
+        "longitude": 31.233334,
+        "source": "GLOTTOLOG"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "arab",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "eh",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 650000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "arab",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "er",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 300000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_de_facto_official_status": true,
+        "source": "GOOGLE_RESEARCH"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "arab",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "il",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 1700000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 32.866,
+        "longitude": 35.403,
+        "source": "GLOTTOLOG"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "arab",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "iq",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 26000000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 33.01,
+        "longitude": 43.61,
+        "source": "GLOTTOLOG"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "arab",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "jo",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 11000000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 31.66,
+        "longitude": 36.38,
+        "source": "GLOTTOLOG"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "arab",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "km",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 560000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "arab",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "kw",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 3000000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 29.39,
+        "longitude": 47.56,
+        "source": "GLOTTOLOG"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "arab",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "lb",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 4700000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 33.85,
+        "longitude": 35.62,
+        "source": "GLOTTOLOG"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "arab",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "ly",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 5100000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 27.84988,
+        "longitude": 17.660198,
+        "source": "GOOGLE_RESEARCH"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "arab",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "ma",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 22000000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 32.5,
+        "longitude": -7.5,
+        "source": "GLOTTOLOG"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "arab",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "mr",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 3400000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "arab",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "om",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 3800000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 23.25,
+        "longitude": 58.5,
+        "source": "GLOTTOLOG"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "arab",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "ps",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 4800000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 32.06,
+        "longitude": 35.35,
+        "source": "GLOTTOLOG"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "arab",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "qa",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 2200000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 25.137,
+        "longitude": 51.2,
+        "source": "GLOTTOLOG"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "arab",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "sa",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 34000000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 24.69,
+        "longitude": 46.0,
+        "source": "GLOTTOLOG"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "arab",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "sd",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 28000000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 17.8021,
+        "longitude": 33.3179,
+        "source": "GLOTTOLOG"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "arab",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "so",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 4000000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "arab",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "sy",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 16000000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "arab",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "td",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 2900000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 12.1,
+        "longitude": 16.033333,
+        "source": "GOOGLE_RESEARCH"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "arab",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "tn",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 11000000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "arab",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "xa",
+        "source": "GOOGLE_RESEARCH"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "arab",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "ye",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 22000000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 14.98,
+        "longitude": 44.74,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

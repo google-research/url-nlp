@@ -1,0 +1,70 @@
+{
+  "bcp_47_code": "cns",
+  "iso_639_3_code": "cns",
+  "glottocode": "cent2117",
+  "wikidata_id": "Q11732048",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Papuan language of West New Guinea",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Central Asmat",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "język asmat centralny",
+      "bcp_47_code": "pl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "centralnoasmatski jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kiasmat ya Katikati",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Asmat sentral",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "asmat central",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "id",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": -5.80391,
+        "longitude": 138.471,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

@@ -1,0 +1,602 @@
+{
+  "bcp_47_code": "abq",
+  "iso_639_3_code": "abq",
+  "glottocode": "abaz1241",
+  "wikidata_id": "Q27567",
+  "total_population": 48000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "language of the Caucasus mountains in the Russian Karachay–Cherkess Republic by the Abazins",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Abaza",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Abazyns",
+      "bcp_47_code": "af",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "الأباظية",
+      "bcp_47_code": "ar",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Abazin dili",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "абазінская мова",
+      "bcp_47_code": "be",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "абазински език",
+      "bcp_47_code": "bg",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "abazeg",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "abazí",
+      "bcp_47_code": "ca",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Abasinisch",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "abaza lingvo",
+      "bcp_47_code": "eo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "abaza",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "abasiini keel",
+      "bcp_47_code": "et",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "زبان آبازا",
+      "bcp_47_code": "fa",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "abazan kieli",
+      "bcp_47_code": "fi",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "abaza",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lingua abaza",
+      "bcp_47_code": "gl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "אבזית",
+      "bcp_47_code": "he",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "abazinski jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "abaza",
+      "bcp_47_code": "hu",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "աբազերեն",
+      "bcp_47_code": "hy",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "abasínska",
+      "bcp_47_code": "is",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua abazina",
+      "bcp_47_code": "it",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "アバザ語",
+      "bcp_47_code": "ja",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "აბაზური ენა",
+      "bcp_47_code": "ka",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Абазэбзэ",
+      "bcp_47_code": "kbd",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "아바자어",
+      "bcp_47_code": "ko",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Абаза тил",
+      "bcp_47_code": "krc",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Абазин кыв",
+      "bcp_47_code": "kv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "abazinų kalba",
+      "bcp_47_code": "lt",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Абазин йылме",
+      "bcp_47_code": "mhr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "абазински јазик",
+      "bcp_47_code": "mk",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Abazijns",
+      "bcp_47_code": "nl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "język abazyński",
+      "bcp_47_code": "pl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Abaza",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "língua abaza",
+      "bcp_47_code": "pt",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "limba abazină",
+      "bcp_47_code": "ro",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "абазинский язык",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "abazinska",
+      "bcp_47_code": "sv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ภาษาอาบาซา",
+      "bcp_47_code": "th",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Abazaca",
+      "bcp_47_code": "tr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "абазинська мова",
+      "bcp_47_code": "uk",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "აბაზური ნინა",
+      "bcp_47_code": "xmf",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "abazinsk",
+      "bcp_47_code": "nb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Абазин теле",
+      "bcp_47_code": "tt",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "abaza",
+      "bcp_47_code": "oc",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "阿巴扎语",
+      "bcp_47_code": "cmn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Abasiini kiil",
+      "bcp_47_code": "vro",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "abazera",
+      "bcp_47_code": "eu",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Abaziens",
+      "bcp_47_code": "li",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Абазинийн мотт",
+      "bcp_47_code": "ce",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "اباظہ زبان",
+      "bcp_47_code": "ur",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "آبازا",
+      "bcp_47_code": "lrc",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Абазин тили",
+      "bcp_47_code": "ky",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Abaskŏ gŏdka",
+      "bcp_47_code": "szl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Абазэбзэ",
+      "bcp_47_code": "ady",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "阿巴扎語",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kiabaza",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Abaza",
+      "bcp_47_code": "ga",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "الأباظي",
+      "bcp_47_code": "aeb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idioma abaza",
+      "bcp_47_code": "ast",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "آبازین دیلی",
+      "bcp_47_code": "azb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Абаза бызшәа",
+      "bcp_47_code": "ab",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Wikang Abaza",
+      "bcp_47_code": "tl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "abazinšćina",
+      "bcp_47_code": "hsb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "abaza",
+      "bcp_47_code": "nn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "abazīnu valoda",
+      "bcp_47_code": "lv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "забони обозинӣ",
+      "bcp_47_code": "tg",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "abazština",
+      "bcp_47_code": "cs",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Abasiinisk",
+      "bcp_47_code": "frr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Абазань кель",
+      "bcp_47_code": "myv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "الاباظيه",
+      "bcp_47_code": "arz",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Абзой мотт",
+      "bcp_47_code": "inh",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "阿巴扎语",
+      "bcp_47_code": "wuu",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "γλώσσα Αμπάζα",
+      "bcp_47_code": "el",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "u kamu nu Apaca",
+      "bcp_47_code": "szy",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua Abassinica",
+      "bcp_47_code": "la",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "абазаг æвзаг",
+      "bcp_47_code": "os",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "abázština",
+      "bcp_47_code": "sk",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bahasa Abaza",
+      "bcp_47_code": "id",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "abazin",
+      "bcp_47_code": "vec",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "abazin tili",
+      "bcp_47_code": "uz",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "abazinsk",
+      "bcp_47_code": "da",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "abasinische Sprache",
+      "bcp_47_code": "de",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "abazina",
+      "bcp_47_code": "it",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "abaza",
+      "bcp_47_code": "pt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "لغة أليوتية",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "اللغة الأليوتية",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "أباظية",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "abazu valoda",
+      "bcp_47_code": "lv",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "abazinština",
+      "bcp_47_code": "cs",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "abaza nyelv",
+      "bcp_47_code": "hu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "abaza",
+      "bcp_47_code": "da",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idioma abaza",
+      "bcp_47_code": "es",
+      "source": "LEXVO"
+    },
+    {
+      "name": "абаза јазик",
+      "bcp_47_code": "mk",
+      "source": "LEXVO"
+    },
+    {
+      "name": "ภาษาอบาซา",
+      "bcp_47_code": "th",
+      "source": "LEXVO"
+    },
+    {
+      "name": "абаза",
+      "bcp_47_code": "abq",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "cyrl",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "ru",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 48000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 44.25,
+        "longitude": 42.0,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

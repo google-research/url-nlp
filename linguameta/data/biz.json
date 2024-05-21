@@ -1,0 +1,56 @@
+{
+  "bcp_47_code": "biz",
+  "iso_639_3_code": "biz",
+  "glottocode": "balo1261",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Baloi",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Loi-Likila",
+      "bcp_47_code": "en",
+      "source": "GLOTTOLOG"
+    },
+    {
+      "name": "Loi",
+      "bcp_47_code": "en",
+      "source": "LEXVO"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "cd",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": 0.93777,
+        "longitude": 18.1266,
+        "source": "GLOTTOLOG"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "cg",
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

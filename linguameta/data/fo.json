@@ -1,0 +1,2020 @@
+{
+  "bcp_47_code": "fo",
+  "iso_639_3_code": "fao",
+  "glottocode": "faro1244",
+  "wikidata_id": "Q25258",
+  "total_population": 49000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "insular Nordic language spoken as a native language by the people of Faroe Islands",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Faroese",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "афарер",
+      "bcp_47_code": "ab",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Faroëes",
+      "bcp_47_code": "af",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ፋሮኛ",
+      "bcp_47_code": "am",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "الفاروية",
+      "bcp_47_code": "ar",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ফাৰোইজ",
+      "bcp_47_code": "as",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "feroés",
+      "bcp_47_code": "ast",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "farer",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "фарэрская",
+      "bcp_47_code": "be",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "фарьорски",
+      "bcp_47_code": "bg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "فاروئی",
+      "bcp_47_code": "bgn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ফেরোইস",
+      "bcp_47_code": "bn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "faeroeg",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "फेर’वीज",
+      "bcp_47_code": "brx",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "farski",
+      "bcp_47_code": "bs",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ፋሮኛ",
+      "bcp_47_code": "byn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "feroès",
+      "bcp_47_code": "ca",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "𑄜𑄢𑄮𑄌𑄴",
+      "bcp_47_code": "ccp",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "фарерийн",
+      "bcp_47_code": "ce",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ᏇᎶᎡᏍ",
+      "bcp_47_code": "chr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "فەرۆیی",
+      "bcp_47_code": "ckb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "faerština",
+      "bcp_47_code": "cs",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Ffaröeg",
+      "bcp_47_code": "cy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "færøsk",
+      "bcp_47_code": "da",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Färöisch",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ferejšćina",
+      "bcp_47_code": "dsb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ཕཱ་རོ་ཨིས་ཁ",
+      "bcp_47_code": "dz",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "faroegbe",
+      "bcp_47_code": "ee",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Φεροϊκά",
+      "bcp_47_code": "el",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "feroa",
+      "bcp_47_code": "eo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "feroés",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "fääri",
+      "bcp_47_code": "et",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "faroera",
+      "bcp_47_code": "eu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "فارویی",
+      "bcp_47_code": "fa",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "fääri",
+      "bcp_47_code": "fi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Faroese",
+      "bcp_47_code": "fil",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "føroyskt",
+      "bcp_47_code": "fo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "féroïen",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "faroês",
+      "bcp_47_code": "fur",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Faeröersk",
+      "bcp_47_code": "fy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Faróis",
+      "bcp_47_code": "ga",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Fàrothais",
+      "bcp_47_code": "gd",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ፋሮኛ",
+      "bcp_47_code": "gez",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "feroés",
+      "bcp_47_code": "gl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Färöisch",
+      "bcp_47_code": "gsw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ફોરિસ્ત",
+      "bcp_47_code": "gu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Faroese",
+      "bcp_47_code": "ha",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "פארואזית",
+      "bcp_47_code": "he",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "फ़ैरोइज़",
+      "bcp_47_code": "hi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ferojski",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "färöšćina",
+      "bcp_47_code": "hsb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "feröeri",
+      "bcp_47_code": "hu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ֆարյորերեն",
+      "bcp_47_code": "hy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "feroese",
+      "bcp_47_code": "ia",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Faroe",
+      "bcp_47_code": "id",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Farọse",
+      "bcp_47_code": "ig",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "færeyska",
+      "bcp_47_code": "is",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "faroese",
+      "bcp_47_code": "it",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "フェロー語",
+      "bcp_47_code": "ja",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Faroe",
+      "bcp_47_code": "jv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ფარერული",
+      "bcp_47_code": "ka",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tafirwanit",
+      "bcp_47_code": "kab",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "faroes",
+      "bcp_47_code": "kea",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "fervej",
+      "bcp_47_code": "kgp",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "фарер тілі",
+      "bcp_47_code": "kk",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "savalimmiutut",
+      "bcp_47_code": "kl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ហ្វារូស",
+      "bcp_47_code": "km",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ಫರೋಸಿ",
+      "bcp_47_code": "kn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "페로어",
+      "bcp_47_code": "ko",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "फेरोस",
+      "bcp_47_code": "kok",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "فَروس",
+      "bcp_47_code": "ks",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Färröhresch",
+      "bcp_47_code": "ksh",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ferî",
+      "bcp_47_code": "ku",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "фарерче",
+      "bcp_47_code": "ky",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Faroensis",
+      "bcp_47_code": "la",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Färöesch",
+      "bcp_47_code": "lb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "faroeise",
+      "bcp_47_code": "lij",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Faroese Iyápi",
+      "bcp_47_code": "lkt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ຟາໂຣສ",
+      "bcp_47_code": "lo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "فاروٙسی",
+      "bcp_47_code": "lrc",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "farerų",
+      "bcp_47_code": "lt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "fēru",
+      "bcp_47_code": "lv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "फेरोइज",
+      "bcp_47_code": "mai",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Wharoīhi",
+      "bcp_47_code": "mi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "фарски",
+      "bcp_47_code": "mk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ഫാറോസ്",
+      "bcp_47_code": "ml",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "фарер",
+      "bcp_47_code": "mn",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "फरोइज",
+      "bcp_47_code": "mr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Faroe",
+      "bcp_47_code": "ms",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Faroese",
+      "bcp_47_code": "mt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ဖာရို",
+      "bcp_47_code": "my",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "فارویی",
+      "bcp_47_code": "mzn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Färöösch",
+      "bcp_47_code": "nds",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "फारोज",
+      "bcp_47_code": "ne",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Faeröers",
+      "bcp_47_code": "nl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "færøysk",
+      "bcp_47_code": "no",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ߝߋߙߏߞߊ",
+      "bcp_47_code": "nqo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "feroés",
+      "bcp_47_code": "oc",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Afaan Faroese",
+      "bcp_47_code": "om",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ଫାରୋଏସେ",
+      "bcp_47_code": "or",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "фарераг",
+      "bcp_47_code": "os",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ਫ਼ੇਰੋਸੇ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Fáróís Lángwej",
+      "bcp_47_code": "pcm",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "farerski",
+      "bcp_47_code": "pl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "فاروئې",
+      "bcp_47_code": "ps",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "feroês",
+      "bcp_47_code": "pt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Feroes Simi",
+      "bcp_47_code": "qu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "feroais",
+      "bcp_47_code": "rm",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "feroeză",
+      "bcp_47_code": "ro",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "фарерский",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Inyefaroyizi",
+      "bcp_47_code": "rw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ᱯᱷᱟᱨᱚᱤᱥ",
+      "bcp_47_code": "sat",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "faroesu",
+      "bcp_47_code": "sc",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "فيروايس",
+      "bcp_47_code": "sd",
+      "iso_15924_code": "arab",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "fearagiella",
+      "bcp_47_code": "se",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ෆාරෝස්",
+      "bcp_47_code": "si",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "faerčina",
+      "bcp_47_code": "sk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ferščina",
+      "bcp_47_code": "sl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "fäärikielâ",
+      "bcp_47_code": "smn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Farowsi",
+      "bcp_47_code": "so",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "faroisht",
+      "bcp_47_code": "sq",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "фарски",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Se-foroese",
+      "bcp_47_code": "st",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "färöiska",
+      "bcp_47_code": "sv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kifaroe",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "farerski",
+      "bcp_47_code": "szl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ஃபரோயிஸ்",
+      "bcp_47_code": "ta",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ఫారోస్",
+      "bcp_47_code": "te",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "фарерӣ",
+      "bcp_47_code": "tg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "แฟโร",
+      "bcp_47_code": "th",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ፋሮእይና",
+      "bcp_47_code": "ti",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ፋሮኛ",
+      "bcp_47_code": "tig",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "farer dili",
+      "bcp_47_code": "tk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Faroese",
+      "bcp_47_code": "tn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "lea fakafaloe",
+      "bcp_47_code": "to",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Faroe dili",
+      "bcp_47_code": "tr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "фарер",
+      "bcp_47_code": "tt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "فائېروچە",
+      "bcp_47_code": "ug",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "фарерська",
+      "bcp_47_code": "uk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "فیروئیز",
+      "bcp_47_code": "ur",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "farercha",
+      "bcp_47_code": "uz",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tiếng Faroe",
+      "bcp_47_code": "vi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Feroos",
+      "bcp_47_code": "wo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "isi-Faroese",
+      "bcp_47_code": "xh",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "פֿאַראיש",
+      "bcp_47_code": "yi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Èdè Faroesi",
+      "bcp_47_code": "yo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "faruwesi",
+      "bcp_47_code": "yrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "法羅文",
+      "bcp_47_code": "yue",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "法罗语",
+      "bcp_47_code": "cmn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "isi-Faroese",
+      "bcp_47_code": "zu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "język farerski",
+      "bcp_47_code": "pl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "farski jezik",
+      "bcp_47_code": "bs",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Faroisc sprǣc",
+      "bcp_47_code": "ang",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lèngoa farœnse",
+      "bcp_47_code": "lij",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Farer tili",
+      "bcp_47_code": "crh",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "An Fharóis",
+      "bcp_47_code": "ga",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Faroyek",
+      "bcp_47_code": "kw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "língua feroesa",
+      "bcp_47_code": "pt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "feroa lingvo",
+      "bcp_47_code": "eo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ферјарски језик",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "fäärin kieli",
+      "bcp_47_code": "fi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "фарерська мова",
+      "bcp_47_code": "uk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "фарэрская мова",
+      "bcp_47_code": "be",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Faroese leid",
+      "bcp_47_code": "sco",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Фарер кыв",
+      "bcp_47_code": "kv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Farer dili",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ferojski jezik",
+      "bcp_47_code": "hr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lengua faroesa",
+      "bcp_47_code": "lmo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Idioma feroés",
+      "bcp_47_code": "an",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "faroezo",
+      "bcp_47_code": "vec",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga faroèisa",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "لغه فاروى",
+      "bcp_47_code": "arz",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Färöisk",
+      "bcp_47_code": "frr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "feroeyî",
+      "bcp_47_code": "ku",
+      "iso_15924_code": "latn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "алифбои фароесӣ",
+      "bcp_47_code": "tg",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ภาษาแฟโร",
+      "bcp_47_code": "th",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua Faroensis",
+      "bcp_47_code": "la",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Føroyskt mál",
+      "bcp_47_code": "fo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Фарераг æвзаг",
+      "bcp_47_code": "os",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Farėru kalba",
+      "bcp_47_code": "sgs",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "фарьорски език",
+      "bcp_47_code": "bg",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Faaroish",
+      "bcp_47_code": "gv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "பரோசு மொழி",
+      "bcp_47_code": "ta",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bahasa Faroe",
+      "bcp_47_code": "ms",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "fääri keel",
+      "bcp_47_code": "et",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ফ্যারো ভাষা",
+      "bcp_47_code": "bn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "φεροϊκή γλώσσα",
+      "bcp_47_code": "el",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Igifero",
+      "bcp_47_code": "rw",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "فیروئی بولی",
+      "bcp_47_code": "pnb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "фарерский язык",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Faroece",
+      "bcp_47_code": "tr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Savalimmiutut",
+      "bcp_47_code": "kl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "фарски јазик",
+      "bcp_47_code": "mk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Färöisk",
+      "bcp_47_code": "stq",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "færøysk",
+      "bcp_47_code": "nn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Faerana linguo",
+      "bcp_47_code": "io",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "faeroyès",
+      "bcp_47_code": "wa",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "فائېروس تىل",
+      "bcp_47_code": "ug",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Färöische Språch",
+      "bcp_47_code": "bar",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "fēru valoda",
+      "bcp_47_code": "lv",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Faeröers",
+      "bcp_47_code": "li",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua feroesa",
+      "bcp_47_code": "gl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bahasa Faroe",
+      "bcp_47_code": "id",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "farski jezik",
+      "bcp_47_code": "sh",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lingua faruisa",
+      "bcp_47_code": "scn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "फ़रोइस भाषा",
+      "bcp_47_code": "hi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Фарер теле",
+      "bcp_47_code": "tt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "limba feroeză",
+      "bcp_47_code": "ro",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Faeröars",
+      "bcp_47_code": "nds",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lingua faroesa",
+      "bcp_47_code": "co",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Fareran kel'",
+      "bcp_47_code": "vep",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "фарер йылме",
+      "bcp_47_code": "mhr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "زبان فاروئی",
+      "bcp_47_code": "fa",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ພາສາແຟໂລ",
+      "bcp_47_code": "lo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ფარერული ენა",
+      "bcp_47_code": "ka",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "farerų kalba",
+      "bcp_47_code": "lt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "færøysk",
+      "bcp_47_code": "nb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Limba faroesa",
+      "bcp_47_code": "sc",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "farer tili",
+      "bcp_47_code": "uz",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Fap-lò-ngî",
+      "bcp_47_code": "hak",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Faroeki",
+      "bcp_47_code": "diq",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Färövuänaspük",
+      "bcp_47_code": "vo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Faroese",
+      "bcp_47_code": "hif",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Faroiż",
+      "bcp_47_code": "mt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "الفاروي",
+      "bcp_47_code": "aeb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "faroisce",
+      "bcp_47_code": "lfn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "فاروی زبان",
+      "bcp_47_code": "ur",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Gjuha Faroese",
+      "bcp_47_code": "sq",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Wikang Perowes",
+      "bcp_47_code": "tl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Faroe-gí",
+      "bcp_47_code": "nan",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Faaroyean",
+      "bcp_47_code": "pih",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Fiteny feroiana",
+      "bcp_47_code": "mg",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "法罗语",
+      "bcp_47_code": "wuu",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ֆարյոն",
+      "bcp_47_code": "hyw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Foroyava",
+      "bcp_47_code": "avk",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ᱯᱷᱮᱨᱚᱭᱤᱡᱽ ᱯᱟᱹᱨᱥᱤ",
+      "bcp_47_code": "sat",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Фарер кыл",
+      "bcp_47_code": "udm",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "färkielâ",
+      "bcp_47_code": "smn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "fäärǩiõll",
+      "bcp_47_code": "sms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ʻōlelo Falo",
+      "bcp_47_code": "haw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "فاروئی",
+      "bcp_47_code": "mzn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "法羅群島語",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "法羅文",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "法羅語",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "法羅斯語",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "法罗斯语",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "feroera",
+      "bcp_47_code": "eu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "faroeera",
+      "bcp_47_code": "eu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lengua feroesa",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "feroes",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idioma feroés",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idioma feroes",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lengua farœnse",
+      "bcp_47_code": "lij",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "färöi nyelv",
+      "bcp_47_code": "hu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ferői",
+      "bcp_47_code": "hu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Faerøers",
+      "bcp_47_code": "nl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Fareurs",
+      "bcp_47_code": "nl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Faeroers",
+      "bcp_47_code": "nl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Færøers",
+      "bcp_47_code": "nl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Faroers",
+      "bcp_47_code": "nl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Faröers",
+      "bcp_47_code": "nl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Farœrs",
+      "bcp_47_code": "nl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "لغه فارويه",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "اللغة الفاروية",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "فاروية",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "língua faroesa",
+      "bcp_47_code": "pt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "língua faroense",
+      "bcp_47_code": "pt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "língua feróica",
+      "bcp_47_code": "pt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "feroe",
+      "bcp_47_code": "eo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "фарски језик",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "феројски језик",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "farski jezik",
+      "bcp_47_code": "hr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "farski",
+      "bcp_47_code": "hr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Faroes",
+      "bcp_47_code": "lmo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Feroés",
+      "bcp_47_code": "an",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "færøsk sprog",
+      "bcp_47_code": "da",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "faroexe",
+      "bcp_47_code": "vec",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua faroese",
+      "bcp_47_code": "vec",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "faeroéxe",
+      "bcp_47_code": "vec",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "łéngoa faroexe",
+      "bcp_47_code": "vec",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "פרואזית",
+      "bcp_47_code": "he",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "فاروئي",
+      "bcp_47_code": "arz",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "فاروئى",
+      "bcp_47_code": "arz",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "فاروى",
+      "bcp_47_code": "arz",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ファロー語",
+      "bcp_47_code": "ja",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "フェーロー語",
+      "bcp_47_code": "ja",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "zimanê feroeyî",
+      "bcp_47_code": "ku",
+      "iso_15924_code": "latn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ภาษาฟาโร",
+      "bcp_47_code": "th",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "feroés",
+      "bcp_47_code": "ca",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua Faeroensis",
+      "bcp_47_code": "la",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Føroyskt",
+      "bcp_47_code": "fo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Фарерагау",
+      "bcp_47_code": "os",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Farėrū ruoda",
+      "bcp_47_code": "sgs",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Faeröers",
+      "bcp_47_code": "af",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bahasa Faroese",
+      "bcp_47_code": "ms",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Føroyskt",
+      "bcp_47_code": "ms",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "faroeg",
+      "bcp_47_code": "br",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Gifero",
+      "bcp_47_code": "rw",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "färiska",
+      "bcp_47_code": "sv",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ферейский язык",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Färoisk",
+      "bcp_47_code": "stq",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "færøysk språk",
+      "bcp_47_code": "nn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "패로어",
+      "bcp_47_code": "ko",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "langue féroïenne",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Faéros til",
+      "bcp_47_code": "ug",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "فاروي ئاراللىرى",
+      "bcp_47_code": "ug",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Färöisch",
+      "bcp_47_code": "bar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "farēru valoda",
+      "bcp_47_code": "lv",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "fēriešu valoda",
+      "bcp_47_code": "lv",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idioma feroés",
+      "bcp_47_code": "gl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Neufäröisch",
+      "bcp_47_code": "de",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "färingische Sprache",
+      "bcp_47_code": "de",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "färöische Sprache",
+      "bcp_47_code": "de",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bahasa Faeroer",
+      "bcp_47_code": "id",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bahasa Faeroe",
+      "bcp_47_code": "id",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Føroyskt",
+      "bcp_47_code": "id",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ferojski jezik",
+      "bcp_47_code": "sh",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Færoese",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Faeroese",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Føroyskt",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Modern Faroese",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Føroyskt Mál",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "limba faroeză",
+      "bcp_47_code": "ro",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Faeröers",
+      "bcp_47_code": "nds",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Fareurs",
+      "bcp_47_code": "nds",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "زبان فارویی",
+      "bcp_47_code": "fa",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "færøysk språk",
+      "bcp_47_code": "nb",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "færøyisk språk",
+      "bcp_47_code": "nb",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "faringio",
+      "bcp_47_code": "it",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "feringio",
+      "bcp_47_code": "it",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua faroese",
+      "bcp_47_code": "it",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "iaith Ffaröeg",
+      "bcp_47_code": "cy",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ffaroeg",
+      "bcp_47_code": "cy",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "iaith Ffaroeg",
+      "bcp_47_code": "cy",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "iaith Yr Ynysoedd Ffaröe",
+      "bcp_47_code": "cy",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "iaith Y Ffaröe",
+      "bcp_47_code": "cy",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ferejšćina",
+      "bcp_47_code": "hsb",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "färöska rěč",
+      "bcp_47_code": "hsb",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ferejska rěč",
+      "bcp_47_code": "hsb",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "färösce",
+      "bcp_47_code": "hsb",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ferejsce",
+      "bcp_47_code": "hsb",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ferski jezik",
+      "bcp_47_code": "sl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Faerčina",
+      "bcp_47_code": "sk",
+      "source": "LEXVO"
+    },
+    {
+      "name": "farėru kalba",
+      "bcp_47_code": "lt",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Fearagiella",
+      "bcp_47_code": "se",
+      "source": "LEXVO"
+    },
+    {
+      "name": "feröeri nyelv",
+      "bcp_47_code": "hu",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Ferščina",
+      "bcp_47_code": "sl",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Lingua feroesa",
+      "bcp_47_code": "gl",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Zimanê feroeyî",
+      "bcp_47_code": "ku",
+      "iso_15924_code": "latn",
+      "source": "LEXVO"
+    },
+    {
+      "name": "łéngua faroexe",
+      "bcp_47_code": "vec",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Фарер йылме",
+      "bcp_47_code": "mhr",
+      "source": "LEXVO"
+    },
+    {
+      "name": "ферьорски език",
+      "bcp_47_code": "bg",
+      "source": "LEXVO"
+    },
+    {
+      "name": "لغة فاروية",
+      "bcp_47_code": "ar",
+      "source": "LEXVO"
+    },
+    {
+      "name": "ফারোয়েজীয় ভাষা",
+      "bcp_47_code": "bn",
+      "source": "LEXVO"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "fo",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 49000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 62.0732,
+        "longitude": -6.88497,
+        "source": "GOOGLE_RESEARCH"
+      }
+    }
+  ]
+}

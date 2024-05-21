@@ -1,0 +1,87 @@
+{
+  "bcp_47_code": "asi",
+  "iso_639_3_code": "asi",
+  "glottocode": "buru1308",
+  "wikidata_id": "Q5001031",
+  "total_population": 1000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Asmat–Kamoro language spoken in New Guinea",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Buruwai",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "lingua buruwai",
+      "bcp_47_code": "it",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "buruwai jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Buruwai",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kiburuwai",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "język asienara",
+      "bcp_47_code": "pl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Buruwai",
+      "bcp_47_code": "ilo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "buruwai",
+      "bcp_47_code": "vec",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "id",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 1000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": -3.54561,
+        "longitude": 133.327,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

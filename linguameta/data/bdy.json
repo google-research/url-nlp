@@ -1,0 +1,40 @@
+{
+  "bcp_47_code": "bdy",
+  "iso_639_3_code": "bdy",
+  "glottocode": "midd1357",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Bandjalang",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Middle Clarence Bandjalang",
+      "bcp_47_code": "en",
+      "source": "GLOTTOLOG"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "au",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": -29.042736,
+        "longitude": 152.78024,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

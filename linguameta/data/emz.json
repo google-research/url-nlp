@@ -1,0 +1,39 @@
+{
+  "bcp_47_code": "emz",
+  "iso_639_3_code": "emz",
+  "total_population": 25000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Mbessa",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "xxxx",
+        "is_canonical": true,
+        "source": "SOURCE_UNSPECIFIED"
+      },
+      "locale": {
+        "iso_3166_code": "cm",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 25000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 6.31,
+        "longitude": 10.41,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

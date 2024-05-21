@@ -1,0 +1,107 @@
+{
+  "bcp_47_code": "djk",
+  "iso_639_3_code": "djk",
+  "glottocode": "ndyu1242",
+  "wikidata_id": "Q2659044",
+  "total_population": 34000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Eastern Maroon Creole",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Aukan",
+      "bcp_47_code": "en",
+      "source": "GLOTTOLOG"
+    },
+    {
+      "name": "Nenge",
+      "bcp_47_code": "en",
+      "source": "IETF"
+    },
+    {
+      "name": "Marrontaal",
+      "bcp_47_code": "nl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "aluku-ndjuka-paramaka",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Businenge Tongo",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ndjuka y paramaka idioma de los aluku",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "nenge-tongo",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "nengee-tongo",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Aukaans",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "ndjuka",
+      "bcp_47_code": "fr",
+      "source": "LEXVO"
+    },
+    {
+      "name": "ндюка",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "은쥬카어",
+      "bcp_47_code": "ko",
+      "is_canonical": true,
+      "source": "LEXVO"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "sr",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 34000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 4.3126,
+        "longitude": -54.6419,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "bcp_47_code": "eki",
+  "iso_639_3_code": "eki",
+  "glottocode": "ekii1241",
+  "wikidata_id": "Q5350418",
+  "total_population": 5000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Eki",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Kieki",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Eki",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Eki",
+      "bcp_47_code": "ig",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "ng",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 5000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 5.1503,
+        "longitude": 8.13613,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

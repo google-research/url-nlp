@@ -1,0 +1,80 @@
+{
+  "bcp_47_code": "bqm",
+  "iso_639_3_code": "bqm",
+  "glottocode": "wumb1241",
+  "wikidata_id": "Q37051",
+  "total_population": 25000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "language of Cameroon",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Wumboko",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Wumboko-Bubia",
+      "bcp_47_code": "en",
+      "source": "GLOTTOLOG"
+    },
+    {
+      "name": "Wumboko",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Wumboko",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "wumboko jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kiwumboko",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "wumboko",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "cm",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 25000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 4.24717,
+        "longitude": 9.08026,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

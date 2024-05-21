@@ -1,0 +1,40 @@
+{
+  "bcp_47_code": "dur",
+  "iso_639_3_code": "dur",
+  "glottocode": "diii1241",
+  "total_population": 60000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Dii",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "cm",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 60000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 7.77412,
+        "longitude": 13.9884,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

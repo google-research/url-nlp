@@ -1,0 +1,64 @@
+{
+  "bcp_47_code": "dgn",
+  "iso_639_3_code": "dgn",
+  "glottocode": "dago1245",
+  "wikidata_id": "Q10465931",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "aboriginal language of Northern Territory, Australia",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Dagoman",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "dagoman",
+      "bcp_47_code": "sv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga dagoman",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kidagoman",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "dagoman",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "au",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": -15.764,
+        "longitude": 132.379,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

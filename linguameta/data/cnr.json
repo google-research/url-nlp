@@ -1,0 +1,761 @@
+{
+  "bcp_47_code": "cnr",
+  "iso_639_3_code": "cnr",
+  "macrolanguage_bcp_47_code": "sh",
+  "glottocode": "mont1282",
+  "wikidata_id": "Q8821",
+  "total_population": 200000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "normative variety of Serbo-Croatian in Montenegro",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Montenegrin",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Montenegrin Standard",
+      "bcp_47_code": "en",
+      "source": "GLOTTOLOG"
+    },
+    {
+      "name": "Montenegrinisch",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "المونتنغرية",
+      "bcp_47_code": "ar",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Çernoqor dili",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "черногорски език",
+      "bcp_47_code": "bg",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "crnogorski jezik",
+      "bcp_47_code": "bs",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "montenegrí",
+      "bcp_47_code": "ca",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lingua montinigrina",
+      "bcp_47_code": "co",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "černohorština",
+      "bcp_47_code": "cs",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "montenegrinsk",
+      "bcp_47_code": "da",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "carnogórska rěc",
+      "bcp_47_code": "dsb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "montenegra lingvo",
+      "bcp_47_code": "eo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "montenegrino",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "montenegroera",
+      "bcp_47_code": "eu",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "زبان مونته‌نگروئی",
+      "bcp_47_code": "fa",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "montenegro",
+      "bcp_47_code": "fi",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "monténégrin",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Montènègrin",
+      "bcp_47_code": "frp",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lingua montenegrina",
+      "bcp_47_code": "gl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "מונטנגרית",
+      "bcp_47_code": "he",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "crnogorski jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "čornohoršćina",
+      "bcp_47_code": "hsb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "montenegrói",
+      "bcp_47_code": "hu",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Pagsasao a Montenegrino",
+      "bcp_47_code": "ilo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Montenegrana linguo",
+      "bcp_47_code": "io",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "montenegrino",
+      "bcp_47_code": "it",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "モンテネグロ語",
+      "bcp_47_code": "ja",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "몬테네그로어",
+      "bcp_47_code": "ko",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Черногор тил",
+      "bcp_47_code": "krc",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Черногор кыв",
+      "bcp_47_code": "kv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lengua môntenegrinn-a",
+      "bcp_47_code": "lij",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "juodkalniečių kalba",
+      "bcp_47_code": "lt",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "melnkalniešu valoda",
+      "bcp_47_code": "lv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "црногорски јазик",
+      "bcp_47_code": "mk",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Montenegrijns",
+      "bcp_47_code": "nl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "język czarnogórski",
+      "bcp_47_code": "pl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga montneigrin-a",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "língua montenegrina",
+      "bcp_47_code": "pt",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "limba muntenegreană",
+      "bcp_47_code": "ro",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "черногорский язык",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Montenegrin leid",
+      "bcp_47_code": "sco",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "crnogorski jezik",
+      "bcp_47_code": "sh",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Čiernohorčina",
+      "bcp_47_code": "sk",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "črnogorščina",
+      "bcp_47_code": "sl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Gagana Montenegro",
+      "bcp_47_code": "sm",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Gjuha malazeze",
+      "bcp_47_code": "sq",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "црногорски језик",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "montenegrinska",
+      "bcp_47_code": "sv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Karadağca",
+      "bcp_47_code": "tr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "чорногорська мова",
+      "bcp_47_code": "uk",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "montenegrin",
+      "bcp_47_code": "vec",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tiếng Montenegro",
+      "bcp_47_code": "vi",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "蒙特內哥羅語",
+      "bcp_47_code": "cmn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "չեռնոգորերեն",
+      "bcp_47_code": "hy",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "माँटेनिग्रिन भाषा",
+      "bcp_47_code": "mr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Montenegreg",
+      "bcp_47_code": "cy",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "montenegrinsk",
+      "bcp_47_code": "nn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "montenegrinsk",
+      "bcp_47_code": "nb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "чарнагорская мова",
+      "bcp_47_code": "be",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Μαυροβουνιακή γλώσσα",
+      "bcp_47_code": "el",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ӏаьржаламанхойн мотт",
+      "bcp_47_code": "ce",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "svartfellska",
+      "bcp_47_code": "is",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Черногори хэлэн",
+      "bcp_47_code": "bxr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Joudkalnėitiu kalba",
+      "bcp_47_code": "sgs",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Czŏrnogōrskŏ gŏdka",
+      "bcp_47_code": "szl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "muntinigrinu",
+      "bcp_47_code": "scn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ჩერნოგორული ენა",
+      "bcp_47_code": "ka",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "An Mhontainéigris",
+      "bcp_47_code": "ga",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Idioma montenegrín",
+      "bcp_47_code": "an",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bahasa Montenegro",
+      "bcp_47_code": "id",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Montenegryns",
+      "bcp_47_code": "af",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Montenegränapük",
+      "bcp_47_code": "vo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Чорногорьскый язык",
+      "bcp_47_code": "rue",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "montenegro keel",
+      "bcp_47_code": "et",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "каратау теле",
+      "bcp_47_code": "tt",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "黑山语",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "黑山語",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Montenegro-gí",
+      "bcp_47_code": "nan",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "montenegrín",
+      "bcp_47_code": "ast",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "المونتنڨري",
+      "bcp_47_code": "aeb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tsernagorsce",
+      "bcp_47_code": "lfn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ਮਾਂਟੇਨੀਗਰਿਨ ਭਾਸ਼ਾ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "مونٹینیگری زبان",
+      "bcp_47_code": "ur",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Montenegrinesch",
+      "bcp_47_code": "lb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Montenégyro ñe'ẽ",
+      "bcp_47_code": "gn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Montenegriins spriak",
+      "bcp_47_code": "frr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ภาษามอนเตเนโกร",
+      "bcp_47_code": "th",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "黑山语",
+      "bcp_47_code": "wuu",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bahasa Montenegro",
+      "bcp_47_code": "ms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lengua montenegrina",
+      "bcp_47_code": "lmo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "المونتنغريه",
+      "bcp_47_code": "arz",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "黑山文",
+      "bcp_47_code": "yue",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Չեռնոգորերէն",
+      "bcp_47_code": "hyw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "montenegrinische Sprache",
+      "bcp_47_code": "de",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ЧIегIермегIер мацI",
+      "bcp_47_code": "av",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "لمونطينيݣرية",
+      "bcp_47_code": "ary",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Cernagorava",
+      "bcp_47_code": "avk",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "черногориаг æвзаг",
+      "bcp_47_code": "os",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "montenegroǩiõll",
+      "bcp_47_code": "sms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "montenegrogiella",
+      "bcp_47_code": "se",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "montenegrokielâ",
+      "bcp_47_code": "smn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "მონტენეგრული ნინა",
+      "bcp_47_code": "xmf",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "मोंटेनीग्रिन भाषा",
+      "bcp_47_code": "hi",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "मोंटेनेग्रिन भाषा",
+      "bcp_47_code": "anp",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "montenegrino",
+      "bcp_47_code": "pt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua muntinigrina",
+      "bcp_47_code": "scn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "dialettu muntinigrinu",
+      "bcp_47_code": "scn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua montenegrina",
+      "bcp_47_code": "it",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "dialetto montenegrino",
+      "bcp_47_code": "it",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "црногорски",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "لغة مونتنغرية",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "اللغة المونتنغرية",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "مونتنغرية",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "montenegron kieli",
+      "bcp_47_code": "fi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "montenegrin",
+      "bcp_47_code": "lfn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Karadağlıca",
+      "bcp_47_code": "tr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "црногорски језик",
+      "bcp_47_code": "bs",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "蒙特内哥罗语",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "črnogorski jezik",
+      "bcp_47_code": "sl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "crnogorski",
+      "bcp_47_code": "cnr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "cyrl",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "me",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 200000,
+        "source": "GOOGLE_RESEARCH"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "me",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 200000,
+        "source": "GOOGLE_RESEARCH"
+      }
+    }
+  ]
+}

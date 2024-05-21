@@ -1,0 +1,114 @@
+{
+  "bcp_47_code": "cae",
+  "iso_639_3_code": "cae",
+  "glottocode": "leha1242",
+  "wikidata_id": "Q35564",
+  "total_population": 12000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Cangin language spoken in Senegal",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Lehar",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Laalaa",
+      "bcp_47_code": "en",
+      "source": "IETF"
+    },
+    {
+      "name": "Kilaalaa",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Lehar",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Laalaa",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lehareg",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "léhar",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "laalaa jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Laalaa mál",
+      "bcp_47_code": "fo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "língua laalaa",
+      "bcp_47_code": "pt",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Wikang Laalaa",
+      "bcp_47_code": "tl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kilehar",
+      "bcp_47_code": "sw",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "sérère-léhar",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "sn",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 12000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 14.9387,
+        "longitude": -16.8816,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

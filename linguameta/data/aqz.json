@@ -1,0 +1,64 @@
+{
+  "bcp_47_code": "aqz",
+  "iso_639_3_code": "aqz",
+  "glottocode": "akun1241",
+  "wikidata_id": "Q4701960",
+  "total_population": 4,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Akuntsu",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "акунтсу",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "akuntsu",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "língua acuntsú",
+      "bcp_47_code": "pt",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Akuntsú",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "br",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 4,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": -12.8322,
+        "longitude": -60.9716,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

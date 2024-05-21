@@ -1,0 +1,59 @@
+{
+  "bcp_47_code": "fom",
+  "iso_639_3_code": "fom",
+  "glottocode": "foma1238",
+  "wikidata_id": "Q5464911",
+  "total_population": 160000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Foma",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Lenga Foma",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kifoma",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "foma",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "cd",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 160000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 0.88032,
+        "longitude": 24.3202,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

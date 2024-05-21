@@ -1,0 +1,73 @@
+{
+  "bcp_47_code": "dti",
+  "iso_639_3_code": "dti",
+  "glottocode": "anat1248",
+  "wikidata_id": "Q4750346",
+  "total_population": 500,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Ana Tinga Dogon",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Ana Dogon",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ana Tinga Kidogon",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Wikang Ana Dogon",
+      "bcp_47_code": "tl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ana Dogon",
+      "bcp_47_code": "ig",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kiana-Tinga",
+      "bcp_47_code": "sw",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "ml",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 500,
+        "source": "WIKIPEDIA"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 14.6669,
+        "longitude": -3.1168,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

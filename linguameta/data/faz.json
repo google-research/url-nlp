@@ -1,0 +1,43 @@
+{
+  "bcp_47_code": "faz",
+  "iso_639_3_code": "faz",
+  "glottocode": "nort2640",
+  "wikidata_id": "Q7060307",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Northwestern Fars",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Lenga Fars nòrd-ossidental",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "زبان شمال غربی فارس",
+      "bcp_47_code": "fa",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "xxxx",
+        "is_canonical": true,
+        "source": "SOURCE_UNSPECIFIED"
+      },
+      "locale": {
+        "iso_3166_code": "ir",
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

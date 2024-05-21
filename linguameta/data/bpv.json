@@ -1,0 +1,65 @@
+{
+  "bcp_47_code": "bpv",
+  "iso_639_3_code": "bpv",
+  "glottocode": "bian1251",
+  "wikidata_id": "Q8841889",
+  "total_population": 10000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Bian Marind",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "bian marind jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bian Lenga Marind",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "język bian marind",
+      "bcp_47_code": "pl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kimarind ya Bian",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "id",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 10000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": -7.35942,
+        "longitude": 140.568,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

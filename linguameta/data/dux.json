@@ -1,0 +1,85 @@
+{
+  "bcp_47_code": "dux",
+  "iso_639_3_code": "dux",
+  "glottocode": "duun1242",
+  "wikidata_id": "Q3914880",
+  "total_population": 70000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Mande language",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Duungooma",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Duun",
+      "bcp_47_code": "en",
+      "source": "WIKTIONARY"
+    },
+    {
+      "name": "Kiduungooma",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Duungooma",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "duungooma",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ߘߎ߲ߜߎߡߊ",
+      "bcp_47_code": "nqo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "duun",
+      "bcp_47_code": "oc",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "West Duun",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "ml",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 70000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 10.9234,
+        "longitude": -5.85872,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

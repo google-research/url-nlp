@@ -1,0 +1,53 @@
+{
+  "bcp_47_code": "azd",
+  "iso_639_3_code": "azd",
+  "glottocode": "east2695",
+  "wikidata_id": "Q16115449",
+  "total_population": 1300,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Eastern Durango Nahuatl",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "istočni durango nahuatl jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "nahuatl du durango oriental",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "mx",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 1300,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 22.676,
+        "longitude": -104.6259,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

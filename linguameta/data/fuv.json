@@ -1,0 +1,92 @@
+{
+  "bcp_47_code": "fuv",
+  "iso_639_3_code": "fuv",
+  "macrolanguage_bcp_47_code": "ff",
+  "glottocode": "nige1253",
+  "wikidata_id": "Q36129",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "language of Nigeria",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Nigerian Fulfulde",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Hausa States Fulfulde",
+      "bcp_47_code": "en",
+      "source": "GLOTTOLOG"
+    },
+    {
+      "name": "Kifulfulde-Kano",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Nigerianisches Fulfulde",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Fulfulde Nigeria",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "nigerijski fulfulde",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "peul nigérian",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "פופולדה ניגרית",
+      "bcp_47_code": "he",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kifulfulde-Kati",
+      "bcp_47_code": "sw",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Nigeria-Fulfulde",
+      "bcp_47_code": "de",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "ng",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 10.9972,
+        "longitude": 11.1188,
+        "source": "GOOGLE_RESEARCH"
+      }
+    }
+  ]
+}

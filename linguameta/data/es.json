@@ -1,0 +1,4353 @@
+{
+  "bcp_47_code": "es",
+  "iso_639_3_code": "spa",
+  "glottocode": "stan1288",
+  "wikidata_id": "Q1321",
+  "total_population": 468360000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Romanic language originating in the Iberian Peninsula",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Castilian",
+      "bcp_47_code": "en",
+      "source": "IETF"
+    },
+    {
+      "name": "аиспан",
+      "bcp_47_code": "ab",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Spaans",
+      "bcp_47_code": "af",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Sɨ̀kpanìs",
+      "bcp_47_code": "agq",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Spain kasa",
+      "bcp_47_code": "ak",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ስፓንሽኛ",
+      "bcp_47_code": "am",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "espanyol",
+      "bcp_47_code": "an",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "الإسبانية",
+      "bcp_47_code": "ar",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "স্পেনিচ",
+      "bcp_47_code": "as",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kihithpania",
+      "bcp_47_code": "asa",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "español",
+      "bcp_47_code": "ast",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ispan",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "اِسپانیایی",
+      "bcp_47_code": "bal",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Hɔp u panyā",
+      "bcp_47_code": "bas",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "іспанская",
+      "bcp_47_code": "be",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Ichi Spanishi",
+      "bcp_47_code": "bem",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Hihispania",
+      "bcp_47_code": "bez",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "испански",
+      "bcp_47_code": "bg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "هسپانوی",
+      "bcp_47_code": "bgn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "esipaɲolkan",
+      "bcp_47_code": "bm",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "স্প্যানিশ",
+      "bcp_47_code": "bn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ཞི་པན་ཡའི།",
+      "bcp_47_code": "bo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "spagnoleg",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "स्पेनिश",
+      "bcp_47_code": "brx",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "španski",
+      "bcp_47_code": "bs",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ስፓኒሽ",
+      "bcp_47_code": "byn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "espanyol",
+      "bcp_47_code": "ca",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "𑄥𑄳𑄛𑄳𑄠𑄚𑄨𑄌𑄴",
+      "bcp_47_code": "ccp",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "испанхойн",
+      "bcp_47_code": "ce",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Espanyol",
+      "bcp_47_code": "ceb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Orusupaani",
+      "bcp_47_code": "cgg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ᏍᏆᏂ",
+      "bcp_47_code": "chr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ئیسپانی",
+      "bcp_47_code": "ckb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "spagnolu",
+      "bcp_47_code": "co",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "španělština",
+      "bcp_47_code": "cs",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "і҆спа́нскїй",
+      "bcp_47_code": "cu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "испани",
+      "bcp_47_code": "cv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Sbaeneg",
+      "bcp_47_code": "cy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "spansk",
+      "bcp_47_code": "da",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kihispania",
+      "bcp_47_code": "dav",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Spanisch",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Espaaɲe senni",
+      "bcp_47_code": "dje",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "स्पैनिश",
+      "bcp_47_code": "doi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "špańšćina",
+      "bcp_47_code": "dsb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "español",
+      "bcp_47_code": "dyo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ཨིས་པེ་ནིཤ་ཁ",
+      "bcp_47_code": "dz",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kĩhispania",
+      "bcp_47_code": "ebu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Spanishgbe",
+      "bcp_47_code": "ee",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Ισπανικά",
+      "bcp_47_code": "el",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "hispana",
+      "bcp_47_code": "eo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "español",
+      "bcp_47_code": "es",
+      "source": "CLDR"
+    },
+    {
+      "name": "hispaania",
+      "bcp_47_code": "et",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "espainiera",
+      "bcp_47_code": "eu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ǹkɔ́bɔ kpənyá",
+      "bcp_47_code": "ewo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "اسپانیایی",
+      "bcp_47_code": "fa",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Español",
+      "bcp_47_code": "ff",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "espanja",
+      "bcp_47_code": "fi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Spanish",
+      "bcp_47_code": "fil",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "spanskt",
+      "bcp_47_code": "fo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "espagnol",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Spaans",
+      "bcp_47_code": "frr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "spagnûl",
+      "bcp_47_code": "fur",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Spaansk",
+      "bcp_47_code": "fy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Spáinnis",
+      "bcp_47_code": "ga",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Spanish",
+      "bcp_47_code": "gaa",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Spàinntis",
+      "bcp_47_code": "gd",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ስፓኒሽ",
+      "bcp_47_code": "gez",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "español",
+      "bcp_47_code": "gl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Schpanisch",
+      "bcp_47_code": "gsw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "સ્પેનિશ",
+      "bcp_47_code": "gu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kihispania",
+      "bcp_47_code": "guz",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Sifaniyanci",
+      "bcp_47_code": "ha",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Paniolo",
+      "bcp_47_code": "haw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ספרדית",
+      "bcp_47_code": "he",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "स्पेनिश",
+      "bcp_47_code": "hi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "španjolski",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "španišćina",
+      "bcp_47_code": "hsb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "spanyol",
+      "bcp_47_code": "hu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "իսպաներեն",
+      "bcp_47_code": "hy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "espaniol",
+      "bcp_47_code": "ia",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Spanyol",
+      "bcp_47_code": "id",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Spanishi",
+      "bcp_47_code": "ig",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ꑭꀠꑸꉙ",
+      "bcp_47_code": "ii",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "spænska",
+      "bcp_47_code": "is",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "spagnolo",
+      "bcp_47_code": "it",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "スペイン語",
+      "bcp_47_code": "ja",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kyihispania",
+      "bcp_47_code": "jmc",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Spanyol",
+      "bcp_47_code": "jv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ესპანური",
+      "bcp_47_code": "ka",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Taspenyulit",
+      "bcp_47_code": "kab",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kihispania",
+      "bcp_47_code": "kam",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Chihispania",
+      "bcp_47_code": "kde",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "spanhol",
+      "bcp_47_code": "kea",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "enhpỹjór",
+      "bcp_47_code": "kgp",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Espaaɲe senni",
+      "bcp_47_code": "khq",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kihispania",
+      "bcp_47_code": "ki",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "испан тілі",
+      "bcp_47_code": "kk",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "spanskisut",
+      "bcp_47_code": "kl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "kutitab Espianik",
+      "bcp_47_code": "kln",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "អេស្ប៉ាញ",
+      "bcp_47_code": "km",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ಸ್ಪ್ಯಾನಿಷ್",
+      "bcp_47_code": "kn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "스페인어",
+      "bcp_47_code": "ko",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "स्पॅनीश",
+      "bcp_47_code": "kok",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ہسپانوی",
+      "bcp_47_code": "ks",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kihispania",
+      "bcp_47_code": "ksb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "rikpanyá",
+      "bcp_47_code": "ksf",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Schpahnesch",
+      "bcp_47_code": "ksh",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "spanî",
+      "bcp_47_code": "ku",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Spaynek",
+      "bcp_47_code": "kw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "испанча",
+      "bcp_47_code": "ky",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Hispanica",
+      "bcp_47_code": "la",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kɨhispánia",
+      "bcp_47_code": "lag",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Spuenesch",
+      "bcp_47_code": "lb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Lusipanya",
+      "bcp_47_code": "lg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "spagnòllo",
+      "bcp_47_code": "lij",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Spayóla Iyápi",
+      "bcp_47_code": "lkt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "lisipanye",
+      "bcp_47_code": "ln",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ສະແປນນິຊ",
+      "bcp_47_code": "lo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ئسپانیایی",
+      "bcp_47_code": "lrc",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ispanų",
+      "bcp_47_code": "lt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Lihispania",
+      "bcp_47_code": "lu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kihispania",
+      "bcp_47_code": "luo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kihispania",
+      "bcp_47_code": "luy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "spāņu",
+      "bcp_47_code": "lv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "स्पेनिश",
+      "bcp_47_code": "mai",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "nkʉtʉ́k ɔ́ɔ̄ lspania",
+      "bcp_47_code": "mas",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Испаниянь кяль",
+      "bcp_47_code": "mdf",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kĩspĩni",
+      "bcp_47_code": "mer",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "espagnol",
+      "bcp_47_code": "mfe",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Espaniola",
+      "bcp_47_code": "mg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Ihispaniola",
+      "bcp_47_code": "mgh",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Pāniora",
+      "bcp_47_code": "mi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "шпански",
+      "bcp_47_code": "mk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "സ്‌പാനിഷ്",
+      "bcp_47_code": "ml",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "испани",
+      "bcp_47_code": "mn",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "স্পেনিস",
+      "bcp_47_code": "mni",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "स्पॅनिश",
+      "bcp_47_code": "mr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Sepanyol",
+      "bcp_47_code": "ms",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Spanjol",
+      "bcp_47_code": "mt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Espaniya",
+      "bcp_47_code": "mua",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "စပိန်",
+      "bcp_47_code": "my",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "испанонь кель",
+      "bcp_47_code": "myv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ایسپانیولی",
+      "bcp_47_code": "mzn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Spaans",
+      "bcp_47_code": "naq",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "isi-Sipeyini",
+      "bcp_47_code": "nd",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Spaansch",
+      "bcp_47_code": "nds",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "स्पेनी",
+      "bcp_47_code": "ne",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Spaans",
+      "bcp_47_code": "nl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Paŋá",
+      "bcp_47_code": "nmg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "spansk",
+      "bcp_47_code": "no",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ߊߛߌߔߞߊ߲",
+      "bcp_47_code": "nqo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Thok i̱thpaaniani",
+      "bcp_47_code": "nus",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Orusupaani",
+      "bcp_47_code": "nyn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "espanhòl",
+      "bcp_47_code": "oc",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Afaan Ispeen",
+      "bcp_47_code": "om",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ସ୍ପେନିୟ",
+      "bcp_47_code": "or",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "испайнаг",
+      "bcp_47_code": "os",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ਸਪੇਨੀ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Spánish Lángwej",
+      "bcp_47_code": "pcm",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "hiszpański",
+      "bcp_47_code": "pl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "špāniskan",
+      "bcp_47_code": "prg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "هسپانوي",
+      "bcp_47_code": "ps",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "espanhol",
+      "bcp_47_code": "pt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Español Simi",
+      "bcp_47_code": "qu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "spagnol",
+      "bcp_47_code": "rm",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Icesipanyolo",
+      "bcp_47_code": "rn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "spaniolă",
+      "bcp_47_code": "ro",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kihispania",
+      "bcp_47_code": "rof",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "испанский",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Icyesipanyolo",
+      "bcp_47_code": "rw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kyihispania",
+      "bcp_47_code": "rwk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "स्पेनीय भाषा",
+      "bcp_47_code": "sa",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Ыспаанныы",
+      "bcp_47_code": "sah",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kihispania",
+      "bcp_47_code": "saq",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ᱥᱯᱮᱱᱤᱥ",
+      "bcp_47_code": "sat",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Ishihisipaniya",
+      "bcp_47_code": "sbp",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ispagnolu",
+      "bcp_47_code": "sc",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "spagnolu",
+      "bcp_47_code": "scn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "هسپانوي",
+      "bcp_47_code": "sd",
+      "iso_15924_code": "arab",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "spánskkagiella",
+      "bcp_47_code": "se",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "espanhol",
+      "bcp_47_code": "seh",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Espaaɲe senni",
+      "bcp_47_code": "ses",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Espanyöl",
+      "bcp_47_code": "sg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ⵜⴰⵙⴱⵏⵢⵓⵍⵉⵜ",
+      "bcp_47_code": "shi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ස්පාඤ්ඤ",
+      "bcp_47_code": "si",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "španielčina",
+      "bcp_47_code": "sk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "španščina",
+      "bcp_47_code": "sl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "espanjakielâ",
+      "bcp_47_code": "smn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "espaanǩiõll",
+      "bcp_47_code": "sms",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "chiSpanish",
+      "bcp_47_code": "sn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Isbaanish",
+      "bcp_47_code": "so",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "spanjisht",
+      "bcp_47_code": "sq",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "шпански",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Sespain",
+      "bcp_47_code": "st",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Spanyol",
+      "bcp_47_code": "su",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "spanska",
+      "bcp_47_code": "sv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kihispania",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ܣܦܢܝܝܐ",
+      "bcp_47_code": "syr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "hiszpański",
+      "bcp_47_code": "szl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ஸ்பானிஷ்",
+      "bcp_47_code": "ta",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "స్పానిష్",
+      "bcp_47_code": "te",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kihispania",
+      "bcp_47_code": "teo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "испанӣ",
+      "bcp_47_code": "tg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "สเปน",
+      "bcp_47_code": "th",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ስጳንኛ",
+      "bcp_47_code": "ti",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ስፓኒሽ",
+      "bcp_47_code": "tig",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ispan dili",
+      "bcp_47_code": "tk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Spanish",
+      "bcp_47_code": "tn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "lea fakasipēnisi",
+      "bcp_47_code": "to",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "toki Epanja",
+      "bcp_47_code": "tok",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Spenis",
+      "bcp_47_code": "tpi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "İspanyolca",
+      "bcp_47_code": "tr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "patas Espanniu",
+      "bcp_47_code": "trv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ہسپانوی",
+      "bcp_47_code": "trw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Xi spain",
+      "bcp_47_code": "ts",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "испан",
+      "bcp_47_code": "tt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Espaaɲe senni",
+      "bcp_47_code": "twq",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tasbelyunit",
+      "bcp_47_code": "tzm",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ئىسپانچە",
+      "bcp_47_code": "ug",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "іспанська",
+      "bcp_47_code": "uk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ہسپانوی",
+      "bcp_47_code": "ur",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ispancha",
+      "bcp_47_code": "uz",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ꕐꘊꔧ",
+      "bcp_47_code": "vai",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tiếng Tây Ban Nha",
+      "bcp_47_code": "vi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Spanyänapük",
+      "bcp_47_code": "vo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kyihispania",
+      "bcp_47_code": "vun",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Schpaniš",
+      "bcp_47_code": "wae",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ስፓኒሽ",
+      "bcp_47_code": "wal",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Español",
+      "bcp_47_code": "wo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "isi-Spanish",
+      "bcp_47_code": "xh",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Olusipanya",
+      "bcp_47_code": "xog",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "nuɛspanyɔ́lɛ",
+      "bcp_47_code": "yav",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "שפּאַניש",
+      "bcp_47_code": "yi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Èdè Sípáníìṣì",
+      "bcp_47_code": "yo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "isipãyu",
+      "bcp_47_code": "yrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "西班牙文",
+      "bcp_47_code": "yue",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ⵜⴰⵙⴱⵏⵢⵓⵍⵉⵜ",
+      "bcp_47_code": "zgh",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "西班牙语",
+      "bcp_47_code": "cmn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "isi-Spanish",
+      "bcp_47_code": "zu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ስፓኒሽኛ",
+      "bcp_47_code": "am",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "İspan dili",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "gaztelania",
+      "bcp_47_code": "eu",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Español",
+      "bcp_47_code": "gl",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Spanisch",
+      "bcp_47_code": "gsw",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Spanyol",
+      "bcp_47_code": "in",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Испан",
+      "bcp_47_code": "kk",
+      "iso_15924_code": "cyrl",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "អេស៉្បាញ",
+      "bcp_47_code": "km",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Испанча",
+      "bcp_47_code": "ky",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Espagnol",
+      "bcp_47_code": "ln",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ພາສາສະເປນ",
+      "bcp_47_code": "lo",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "സ്പാനിഷ്",
+      "bcp_47_code": "ml",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Испани хэл",
+      "bcp_47_code": "mn",
+      "iso_15924_code": "cyrl",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Spaniolă",
+      "bcp_47_code": "mo",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "spansk",
+      "bcp_47_code": "nb",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "स्पेनिस",
+      "bcp_47_code": "ne",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ସ୍ପେନୀୟ",
+      "bcp_47_code": "or",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Španielčina",
+      "bcp_47_code": "sk",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Spanish",
+      "bcp_47_code": "tl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ispan",
+      "bcp_47_code": "uz",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "tiếng tiếngBan Nha",
+      "bcp_47_code": "vi",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "i-Spanish",
+      "bcp_47_code": "zu",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "испониёӣ",
+      "bcp_47_code": "tg",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kastilla aru",
+      "bcp_47_code": "ay",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "سپینی",
+      "bcp_47_code": "pnb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Dorerin Pain",
+      "bcp_47_code": "na",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "шпански јазик",
+      "bcp_47_code": "mk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "isiSpeyini",
+      "bcp_47_code": "zu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "isiSpain",
+      "bcp_47_code": "xh",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "स्पेनिश भाषा",
+      "bcp_47_code": "hi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Isbanish",
+      "bcp_47_code": "so",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Panish",
+      "bcp_47_code": "jam",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "іспанська мова",
+      "bcp_47_code": "uk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "испан теле",
+      "bcp_47_code": "tt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Испани хэлэн",
+      "bcp_47_code": "bxr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Vah Sihbanhyaz",
+      "bcp_47_code": "za",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Èdè Spéìn",
+      "bcp_47_code": "yo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lengua castellana",
+      "bcp_47_code": "ext",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Spaons",
+      "bcp_47_code": "zea",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "स्पेनी भाषा",
+      "bcp_47_code": "new",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Spanish",
+      "bcp_47_code": "ve",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "שפאניש",
+      "bcp_47_code": "yi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "An Spáinnis",
+      "bcp_47_code": "ga",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Szpańsczi jãzëk",
+      "bcp_47_code": "csb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "İspan dili",
+      "bcp_47_code": "gag",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "espanhòu",
+      "bcp_47_code": "oc",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Schbanisch Schbrooch",
+      "bcp_47_code": "pfl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ايسپانيايي زوؤن",
+      "bcp_47_code": "glk",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Icyesipanyole",
+      "bcp_47_code": "rw",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Spainish",
+      "bcp_47_code": "sco",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ispanu kalba",
+      "bcp_47_code": "sgs",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Spanīšu volūda",
+      "bcp_47_code": "ltg",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Naakaii bizaad",
+      "bcp_47_code": "nv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lia-español",
+      "bcp_47_code": "tet",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ispan dili",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "西班牙語",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bahaso Spanyol",
+      "bcp_47_code": "min",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ಸ್ಪ್ಯಾನಿಷ್ ಭಾಷೆ",
+      "bcp_47_code": "kn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Испан чӀал",
+      "bcp_47_code": "lez",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Sespan",
+      "bcp_47_code": "tn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "castellanu",
+      "bcp_47_code": "ast",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Espankan",
+      "bcp_47_code": "bm",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "எசுப்பானியம்",
+      "bcp_47_code": "ta",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Basa Spanyol",
+      "bcp_47_code": "jv",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ХIиспаной мотт",
+      "bcp_47_code": "inh",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ispanų kalba",
+      "bcp_47_code": "lt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga spagneula",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "İspan tili",
+      "bcp_47_code": "crh",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bahasa Sepanyol",
+      "bcp_47_code": "ms",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bahasa spanyol",
+      "bcp_47_code": "bjn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "limba spaniolă",
+      "bcp_47_code": "ro",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "स्पेनिश भाषा",
+      "bcp_47_code": "bho",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Галисий мацІ",
+      "bcp_47_code": "av",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "İspan tili",
+      "bcp_47_code": "kaa",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Españót",
+      "bcp_47_code": "ch",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "السبانيوري",
+      "bcp_47_code": "aeb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ພາສາເອັສປາໂຍນ",
+      "bcp_47_code": "lo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Salitan Espanyol",
+      "bcp_47_code": "pag",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tataramon na Espanyol",
+      "bcp_47_code": "bcl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "هسپاني",
+      "bcp_47_code": "ps",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "castellà",
+      "bcp_47_code": "ca",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "spāņu valoda",
+      "bcp_47_code": "lv",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Испаныбзэ",
+      "bcp_47_code": "ady",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Reo Paniora",
+      "bcp_47_code": "ty",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Spaainish",
+      "bcp_47_code": "gv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ɛsɩpaañɔlɩ kʊnʊŋ",
+      "bcp_47_code": "kbp",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Spanyorotongo",
+      "bcp_47_code": "srn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "স্পেনীয় ভাষা",
+      "bcp_47_code": "bn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Spanish",
+      "bcp_47_code": "pih",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Szpańelsko godka",
+      "bcp_47_code": "szl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bahsa Seupanyo",
+      "bcp_47_code": "ace",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Испан чĕлхи",
+      "bcp_47_code": "cv",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Spanish",
+      "bcp_47_code": "ak",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Hispaniana linguo",
+      "bcp_47_code": "io",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "испанский язык",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tok Spen",
+      "bcp_47_code": "tpi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kastila",
+      "bcp_47_code": "tl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ایسپانیا دیلی",
+      "bcp_47_code": "azb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "西班牙語",
+      "bcp_47_code": "lzh",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Spagnôl",
+      "bcp_47_code": "eml",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ispanijan kel'",
+      "bcp_47_code": "vep",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "स्पेनी भाषा",
+      "bcp_47_code": "mai",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "spanum",
+      "bcp_47_code": "nov",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "स्पेनी भाषा",
+      "bcp_47_code": "ne",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "hispana lingvo",
+      "bcp_47_code": "eo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Gagana spaniolo",
+      "bcp_47_code": "sm",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "amánung Kastílâ",
+      "bcp_47_code": "pam",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kinatsila",
+      "bcp_47_code": "war",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "sanbau",
+      "bcp_47_code": "jbo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Эспаныбзэ",
+      "bcp_47_code": "kbd",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lhéngua castelhana",
+      "bcp_47_code": "mwl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "زون اسپانیایی",
+      "bcp_47_code": "lrc",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "স্পেনীছ ভাষা",
+      "bcp_47_code": "as",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ᨅᨔ ᨔᨄᨎᨚᨒ",
+      "bcp_47_code": "bug",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "испайнаг æвзаг",
+      "bcp_47_code": "os",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "စပိန်ဘာသာစကား",
+      "bcp_47_code": "my",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ಸ್ಪ್ಯಾನಿಷ್ ಪಾತೆರೊ",
+      "bcp_47_code": "tcy",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "hispaania keel",
+      "bcp_47_code": "et",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lengua Español",
+      "bcp_47_code": "cbk",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Wu-ispaañ",
+      "bcp_47_code": "wo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ᓯᐸᐃᓂᑎᑐᑦ",
+      "bcp_47_code": "iu",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "spansk",
+      "bcp_47_code": "nn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ᏍᏆᏂ ᎧᏬᏂᎯᏍᏗ",
+      "bcp_47_code": "chr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "西班牙语",
+      "bcp_47_code": "wuu",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Espangno",
+      "bcp_47_code": "nrm",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua castelá",
+      "bcp_47_code": "gl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Спанс маз",
+      "bcp_47_code": "lbe",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Spangbe",
+      "bcp_47_code": "ee",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lingua spagnola",
+      "bcp_47_code": "rm",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "സ്പാനിഷ്‌ ഭാഷ",
+      "bcp_47_code": "ml",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lispanyoli",
+      "bcp_47_code": "ln",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Castilyan",
+      "bcp_47_code": "frp",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Sespan",
+      "bcp_47_code": "nso",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua Hispanica",
+      "bcp_47_code": "la",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ispanjolã",
+      "bcp_47_code": "rup",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Spoonsk",
+      "bcp_47_code": "frr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "İspanyolki",
+      "bcp_47_code": "diq",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "स्पॅनिश भाषा",
+      "bcp_47_code": "mr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Spanskt mál",
+      "bcp_47_code": "fo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Castiliaans",
+      "bcp_47_code": "li",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Hispaania kiil",
+      "bcp_47_code": "vro",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "স্প্যানিশ ঠার",
+      "bcp_47_code": "bpy",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bahasa Spanyol",
+      "bcp_47_code": "id",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "સ્પેનિશ ભાષા",
+      "bcp_47_code": "gu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ภาษาสเปน",
+      "bcp_47_code": "th",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "espagnol",
+      "bcp_47_code": "wa",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Espaniol",
+      "bcp_47_code": "ilo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lènga spagnole",
+      "bcp_47_code": "roa",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "schpanische Sproch",
+      "bcp_47_code": "ksh",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Chispanezi",
+      "bcp_47_code": "ny",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kinastila",
+      "bcp_47_code": "ceb",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Испан тил",
+      "bcp_47_code": "krc",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Spanischi Sprooch",
+      "bcp_47_code": "gsw",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ස්පාඤ්ඤ භාෂාව",
+      "bcp_47_code": "si",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ភាសាអេស្ប៉ាញ",
+      "bcp_47_code": "km",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Аиспан бызшәа",
+      "bcp_47_code": "ab",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Taspenyult",
+      "bcp_47_code": "kab",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "испански език",
+      "bcp_47_code": "bg",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ესპანური ნინა",
+      "bcp_47_code": "xmf",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Испан дыл",
+      "bcp_47_code": "tyv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ᱥᱯᱮᱱᱤᱥ ᱯᱟᱹᱨᱥᱤ",
+      "bcp_47_code": "sat",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Schpaanisch",
+      "bcp_47_code": "pdc",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "spaño",
+      "bcp_47_code": "pap",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "espaniol",
+      "bcp_47_code": "lfn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "‘Ōlelo Sepania",
+      "bcp_47_code": "haw",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "西班牙語",
+      "bcp_47_code": "gan",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Éspaingnol",
+      "bcp_47_code": "pcd",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Spanskisut",
+      "bcp_47_code": "kl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "اسپيني ٻولي",
+      "bcp_47_code": "sd",
+      "iso_15924_code": "arab",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "spanjoło",
+      "bcp_47_code": "vec",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Să̤-băng-ngà-ngṳ̄",
+      "bcp_47_code": "cdo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Se-pan-gâ-gí",
+      "bcp_47_code": "nan",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Karaiñe'ẽ",
+      "bcp_47_code": "gn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "زبان اسپانیایی",
+      "bcp_47_code": "fa",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "španski jezik",
+      "bcp_47_code": "bs",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Испан тили",
+      "bcp_47_code": "ky",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "španski jezik",
+      "bcp_47_code": "sh",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "స్పానిష్ భాష",
+      "bcp_47_code": "te",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Эспаннёл кыв",
+      "bcp_47_code": "koi",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Испан теле",
+      "bcp_47_code": "ba",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Испаан тыла",
+      "bcp_47_code": "sah",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Spēonisc",
+      "bcp_47_code": "ang",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "एस्पन्योलषा",
+      "bcp_47_code": "pi",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ispan tili",
+      "bcp_47_code": "uz",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ispan dili",
+      "bcp_47_code": "tk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Spanish bhasa",
+      "bcp_47_code": "hif",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Эспанмудин келн",
+      "bcp_47_code": "xal",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Їспанїискъ ѩꙁꙑкъ",
+      "bcp_47_code": "cu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Spanisch",
+      "bcp_47_code": "bar",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenghe spagnole",
+      "bcp_47_code": "fur",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "гішпанская мова",
+      "bcp_47_code": "be",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ChiSpanish",
+      "bcp_47_code": "sn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Hispan",
+      "bcp_47_code": "ie",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Panyòl",
+      "bcp_47_code": "ht",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "іспанская мова",
+      "bcp_47_code": "be",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ესპანური ენა",
+      "bcp_47_code": "ka",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Испанхойн мотт",
+      "bcp_47_code": "ce",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Испан кыв",
+      "bcp_47_code": "kv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Spoanisk",
+      "bcp_47_code": "stq",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Spaans",
+      "bcp_47_code": "nds",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "སེ་པན་སྐད།",
+      "bcp_47_code": "bo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Reo Pāniora",
+      "bcp_47_code": "mi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "język hiszpański",
+      "bcp_47_code": "pl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Spanish",
+      "bcp_47_code": "tw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "እስፓንኛ",
+      "bcp_47_code": "am",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Испан кыл",
+      "bcp_47_code": "udm",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Испан тілі",
+      "bcp_47_code": "kk",
+      "iso_15924_code": "cyrl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lengua spagnuola",
+      "bcp_47_code": "nap",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Spoans",
+      "bcp_47_code": "vls",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kispanya",
+      "bcp_47_code": "kg",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Fiteny espaniola",
+      "bcp_47_code": "mg",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "испан йылме",
+      "bcp_47_code": "mhr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ئىسپان تىلى",
+      "bcp_47_code": "ug",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Шпанєльскый язык",
+      "bcp_47_code": "rue",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Limba ispagnola",
+      "bcp_47_code": "sc",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ispanien kieli",
+      "bcp_47_code": "olo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ܠܫܢܐ ܐܣܦܢܝܐ",
+      "bcp_47_code": "arc",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "sipanishi",
+      "bcp_47_code": "ss",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Xipaniya",
+      "bcp_47_code": "ts",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "އިސްޕެނިޝް",
+      "bcp_47_code": "dv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Basa Spanyol",
+      "bcp_47_code": "su",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "لغه اسبانى",
+      "bcp_47_code": "arz",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "espánnjagiella",
+      "bcp_47_code": "se",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Caxtillāntlahtōlli",
+      "bcp_47_code": "nah",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kastilla simi",
+      "bcp_47_code": "qu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Spagnòllo",
+      "bcp_47_code": "lij",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lingua castilyana",
+      "bcp_47_code": "lad",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Испани йӹлмӹ",
+      "bcp_47_code": "mrj",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "španjolski jezik",
+      "bcp_47_code": "hr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Idioma castellán",
+      "bcp_47_code": "an",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "स्पैनिश भाषा",
+      "bcp_47_code": "sa",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lèngua spagnöla",
+      "bcp_47_code": "lmo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Sî-pân-ngà-ngî",
+      "bcp_47_code": "hak",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "шпански језик",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Սպաներէն",
+      "bcp_47_code": "hyw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Basa Spanyol",
+      "bcp_47_code": "ban",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Èspangnòl",
+      "bcp_47_code": "gcr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ߊߛߑߔߊ߲ߞߊ߲",
+      "bcp_47_code": "nqo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "صبليونية",
+      "bcp_47_code": "ary",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "spanuel",
+      "bcp_47_code": "lld",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ꯁ꯭ꯄꯦꯅꯤꯁ ꯂꯣꯟ",
+      "bcp_47_code": "mni",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "بهاس سڤاڽول",
+      "bcp_47_code": "ms",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tutlayt Taṣbnyulit",
+      "bcp_47_code": "shi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Spanish",
+      "bcp_47_code": "dag",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Mé'šeeséve'ho'énestse",
+      "bcp_47_code": "chy",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Chiyowoyelo cha Spanish",
+      "bcp_47_code": "tum",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ہِسپٲنوؠ",
+      "bcp_47_code": "ks",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "espanjaǩiõll",
+      "bcp_47_code": "sms",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kinatsilà",
+      "bcp_47_code": "krj",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "에스빠냐어",
+      "bcp_47_code": "ko",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "سبنيولية",
+      "bcp_47_code": "arq",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Yaren Sifen",
+      "bcp_47_code": "ha",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Alijunaiki",
+      "bcp_47_code": "guc",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "spanskegïele",
+      "bcp_47_code": "sma",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "spánskagiella",
+      "bcp_47_code": "smj",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "स्पेनिश भाषा",
+      "bcp_47_code": "anp",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kari Si-pan-ya",
+      "bcp_47_code": "trv",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Spanish",
+      "bcp_47_code": "gpe",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "すぺーんぐち",
+      "bcp_47_code": "ryu",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Castillisc",
+      "bcp_47_code": "ang",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Spēonisc sprǣc",
+      "bcp_47_code": "ang",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Castillisc sprǣc",
+      "bcp_47_code": "ang",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ہسپانوی زبان",
+      "bcp_47_code": "ur",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "اسپینش زبان",
+      "bcp_47_code": "ur",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "اسپینش",
+      "bcp_47_code": "ur",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "سپینش زبان",
+      "bcp_47_code": "ur",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "سپینش",
+      "bcp_47_code": "ur",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Se-pan-gâ-gú",
+      "bcp_47_code": "nan",
+      "iso_15924_code": "latn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "castillan",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua spagnola",
+      "bcp_47_code": "it",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "castigliano",
+      "bcp_47_code": "it",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "spagnuolo",
+      "bcp_47_code": "it",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ispagnuolo",
+      "bcp_47_code": "it",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "španiska rěč",
+      "bcp_47_code": "hsb",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lingwa Spanjola",
+      "bcp_47_code": "mt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Hispaania kiil'",
+      "bcp_47_code": "vro",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "espanjan kieli",
+      "bcp_47_code": "fi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kastilia",
+      "bcp_47_code": "fi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kastilian kieli",
+      "bcp_47_code": "fi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "испанча",
+      "bcp_47_code": "tt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "еспанська",
+      "bcp_47_code": "uk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "еспанська мова",
+      "bcp_47_code": "uk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "кастильська",
+      "bcp_47_code": "uk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "кастильська мова",
+      "bcp_47_code": "uk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bahasa Kastilia",
+      "bcp_47_code": "id",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Español",
+      "bcp_47_code": "id",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "castelhano",
+      "bcp_47_code": "pt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idioma espanhol",
+      "bcp_47_code": "pt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "língua espanhola",
+      "bcp_47_code": "pt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idioma castelhano",
+      "bcp_47_code": "pt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "linguagem espanhola",
+      "bcp_47_code": "pt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "linguagem castelhana",
+      "bcp_47_code": "pt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "língua castelhana",
+      "bcp_47_code": "pt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua espaniol",
+      "bcp_47_code": "ia",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "castiliano",
+      "bcp_47_code": "ia",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua castilian",
+      "bcp_47_code": "ia",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Sihbanhyij",
+      "bcp_47_code": "za",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Sihbanhyazyij",
+      "bcp_47_code": "za",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tiếng Y Pha Nho",
+      "bcp_47_code": "vi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Spaons",
+      "bcp_47_code": "nds",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kastila",
+      "bcp_47_code": "ilo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lingua spagnola",
+      "bcp_47_code": "roa",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga spagnole",
+      "bcp_47_code": "roa",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Castigliane",
+      "bcp_47_code": "roa",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Español",
+      "bcp_47_code": "lzh",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Espanol",
+      "bcp_47_code": "lzh",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Spanska",
+      "bcp_47_code": "lzh",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "castellano",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idioma español",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lengua española",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idioma castellano",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lengua castellana",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "esp",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lengua de cervantes",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idioma de cervantes",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lengua hispana",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idioma hispano",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "hispanohablante",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "hispanoparlante",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lengua de castilla",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idioma de castilla",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Español",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Castellano",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "castilhan",
+      "bcp_47_code": "oc",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kasztíliai nyelv",
+      "bcp_47_code": "hu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "spanyol nyelv",
+      "bcp_47_code": "hu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Limba ispanjolã",
+      "bcp_47_code": "rup",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Limba ispańolâ",
+      "bcp_47_code": "rup",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ėspanū kalba",
+      "bcp_47_code": "sgs",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ėspanū ruoda",
+      "bcp_47_code": "sgs",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ėspanu ruoda",
+      "bcp_47_code": "sgs",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ėspanu kalba",
+      "bcp_47_code": "sgs",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua spagnola",
+      "bcp_47_code": "scn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "castigghianu",
+      "bcp_47_code": "scn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua castigghiana",
+      "bcp_47_code": "scn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "amánung Espaniol",
+      "bcp_47_code": "pam",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "кастильский язык",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "لغة إسبانية",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "اللغة الإسبانية",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "اللغة الاسبانية",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "إسبانية",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ईस्पान्योल",
+      "bcp_47_code": "new",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "इस्पान्योल भाषा",
+      "bcp_47_code": "new",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "spanische Sprache",
+      "bcp_47_code": "de",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kastilisch",
+      "bcp_47_code": "de",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kastilische Sprache",
+      "bcp_47_code": "de",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "wikang Kastila",
+      "bcp_47_code": "tl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Espanyol",
+      "bcp_47_code": "tl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "wikang Espanyol",
+      "bcp_47_code": "tl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "wikang Español",
+      "bcp_47_code": "tl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "castellán",
+      "bcp_47_code": "ast",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "španělský jazyk",
+      "bcp_47_code": "cs",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "španski jezik",
+      "bcp_47_code": "sl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kastilščina",
+      "bcp_47_code": "sl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kastiljščina",
+      "bcp_47_code": "sl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kastilyano",
+      "bcp_47_code": "lad",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "castelán",
+      "bcp_47_code": "gl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua española",
+      "bcp_47_code": "gl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kastiljanski",
+      "bcp_47_code": "hr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kastiljski",
+      "bcp_47_code": "hr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "西語",
+      "bcp_47_code": "ja",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "西班牙語",
+      "bcp_47_code": "ja",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "카스티야어",
+      "bcp_47_code": "ko",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "španjolski",
+      "bcp_47_code": "bs",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kastiljanski",
+      "bcp_47_code": "bs",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kastiljski",
+      "bcp_47_code": "bs",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idioma espanyol",
+      "bcp_47_code": "an",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "西班牙語",
+      "bcp_47_code": "yue",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "西班牙話",
+      "bcp_47_code": "yue",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "кастиљански",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "кастиљски",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kastiliya dili",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "እስፓንኛ",
+      "bcp_47_code": "ti",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ካስቲልያን",
+      "bcp_47_code": "ti",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ቋንቋ ስጳንኛ",
+      "bcp_47_code": "ti",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "spaniola",
+      "bcp_47_code": "ro",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "زمانی ئیسپانی",
+      "bcp_47_code": "ckb",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ισπανική γλώσσα",
+      "bcp_47_code": "el",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua spagnola",
+      "bcp_47_code": "co",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "castiglianu",
+      "bcp_47_code": "co",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "kastilhaneg",
+      "bcp_47_code": "br",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Spaingie",
+      "bcp_47_code": "sco",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Spainish leid",
+      "bcp_47_code": "sco",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Spaingie leid",
+      "bcp_47_code": "sco",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Castellano",
+      "bcp_47_code": "pap",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Spaanse taal",
+      "bcp_47_code": "nl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "castijan",
+      "bcp_47_code": "lmo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "castełano",
+      "bcp_47_code": "vec",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "西語",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "卡斯提亞語",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "呂文",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "سڤاڽول",
+      "bcp_47_code": "ms",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "קסטליאנית",
+      "bcp_47_code": "he",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "קסטיליאנית",
+      "bcp_47_code": "he",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "španjolski jezik",
+      "bcp_47_code": "sh",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "zimanê spanî",
+      "bcp_47_code": "ku",
+      "iso_15924_code": "latn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Inespanyol",
+      "bcp_47_code": "krj",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kinastilyanhën",
+      "bcp_47_code": "krj",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ਸਪੇਨੀ ਭਾਸ਼ਾ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ہسپانوی",
+      "bcp_47_code": "pnb",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ภาษากัสติยา",
+      "bcp_47_code": "th",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "เอสปาญอล",
+      "bcp_47_code": "th",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "กัสตีลยาโน",
+      "bcp_47_code": "th",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "spánskagiella",
+      "bcp_47_code": "se",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bahasa Sepanyol",
+      "bcp_47_code": "ms",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Castila",
+      "bcp_47_code": "pam",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Gjuha spanjolle",
+      "bcp_47_code": "sq",
+      "source": "LEXVO"
+    },
+    {
+      "name": "isiSpanish",
+      "bcp_47_code": "zu",
+      "source": "LEXVO"
+    },
+    {
+      "name": "ėspanu kalba",
+      "bcp_47_code": "lt",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Kinatsila",
+      "bcp_47_code": "ceb",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Lengua spagnòlla",
+      "bcp_47_code": "lij",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Lingua castelá",
+      "bcp_47_code": "gl",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Lingua spagnola",
+      "bcp_47_code": "co",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Luenga española",
+      "bcp_47_code": "ext",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Pagsasao nga Espaniol",
+      "bcp_47_code": "ilo",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Schbanisch",
+      "bcp_47_code": "bar",
+      "source": "LEXVO"
+    },
+    {
+      "name": "spaansche Spraak",
+      "bcp_47_code": "nds",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Spagnö",
+      "bcp_47_code": "lmo",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Spainyie leid",
+      "bcp_47_code": "sco",
+      "source": "LEXVO"
+    },
+    {
+      "name": "spansk språk",
+      "bcp_47_code": "nn",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Spanum",
+      "bcp_47_code": "nov",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Spánskagiella",
+      "bcp_47_code": "se",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Wikang Kastila",
+      "bcp_47_code": "tl",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Zimanê spanî",
+      "bcp_47_code": "ku",
+      "iso_15924_code": "latn",
+      "source": "LEXVO"
+    },
+    {
+      "name": "łéngoa spagnoła",
+      "bcp_47_code": "vec",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Španščina",
+      "bcp_47_code": "sl",
+      "source": "LEXVO"
+    },
+    {
+      "name": "забони испанӣ",
+      "bcp_47_code": "tg",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Испайнаг æвзаг",
+      "bcp_47_code": "os",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Испан йылме",
+      "bcp_47_code": "mhr",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Испан теле",
+      "bcp_47_code": "tt",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Испан тыла",
+      "bcp_47_code": "sah",
+      "source": "LEXVO"
+    },
+    {
+      "name": "اسبانى",
+      "bcp_47_code": "arz",
+      "source": "LEXVO"
+    },
+    {
+      "name": "ܠܫܢܐ ܐܣܦܢܝܐ",
+      "bcp_47_code": "aii",
+      "iso_15924_code": "syrn",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "𐌷𐌴𐌹𐍃𐍀𐌰𐌽𐍃𐌺𐍃",
+      "bcp_47_code": "got",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "Heispansks",
+      "bcp_47_code": "got",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "sipainititut",
+      "bcp_47_code": "iu",
+      "source": "LEXVO"
+    },
+    {
+      "name": "español",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Spanish",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "419",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 320000000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 40.4414,
+        "longitude": -1.11788,
+        "source": "GOOGLE_RESEARCH"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "ar",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 45000000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_de_facto_official_status": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": -34.61315,
+        "longitude": -58.37723,
+        "source": "GOOGLE_RESEARCH"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "bo",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 7100000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": -18.35,
+        "longitude": -64.33,
+        "source": "GOOGLE_RESEARCH"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "cl",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 18000000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": -33.49,
+        "longitude": -70.78,
+        "source": "GOOGLE_RESEARCH"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "co",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 46000000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 4.22,
+        "longitude": -73.75,
+        "source": "GOOGLE_RESEARCH"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "cr",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 4800000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 9.75,
+        "longitude": -83.9,
+        "source": "GOOGLE_RESEARCH"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "cu",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 11000000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "do",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 8200000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 18.85,
+        "longitude": -70.31,
+        "source": "GOOGLE_RESEARCH"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "ec",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 16000000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": -1.44,
+        "longitude": -78.97,
+        "source": "GOOGLE_RESEARCH"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "es",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 50000000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 40.35,
+        "longitude": -3.75,
+        "source": "GOOGLE_RESEARCH"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "gq",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 730000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "gt",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 16000000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 14.59,
+        "longitude": -90.54,
+        "source": "GOOGLE_RESEARCH"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "hn",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 7200000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 24.97,
+        "longitude": -86.24,
+        "source": "GOOGLE_RESEARCH"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "mx",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 107000000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_de_facto_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 21.1,
+        "longitude": -100.4,
+        "source": "GOOGLE_RESEARCH"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "ni",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 4800000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 12.5,
+        "longitude": -86.3,
+        "source": "GOOGLE_RESEARCH"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "pa",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 2700000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 9.07,
+        "longitude": -79.59,
+        "source": "GOOGLE_RESEARCH"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "pe",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 23000000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": -11.73,
+        "longitude": -75.94,
+        "source": "GOOGLE_RESEARCH"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "ph",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 34000000,
+        "source": "CLDR"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "pr",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 2800000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 18.29,
+        "longitude": -66.14,
+        "source": "GOOGLE_RESEARCH"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "py",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 230000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": -24.8,
+        "longitude": -57.05,
+        "source": "GOOGLE_RESEARCH"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "sv",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 5800000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 13.7,
+        "longitude": -89.12,
+        "source": "GOOGLE_RESEARCH"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "us",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 32000000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_regional_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 31.61,
+        "longitude": -108.66,
+        "source": "GOOGLE_RESEARCH"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "uy",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 3000000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": -34.17,
+        "longitude": -56.1,
+        "source": "GOOGLE_RESEARCH"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "ve",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 23000000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 8.37,
+        "longitude": -66.59,
+        "source": "GOOGLE_RESEARCH"
+      }
+    }
+  ]
+}

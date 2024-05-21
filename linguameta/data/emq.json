@@ -1,0 +1,39 @@
+{
+  "bcp_47_code": "emq",
+  "iso_639_3_code": "emq",
+  "total_population": 2000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Eastern Minyag",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "xxxx",
+        "is_canonical": true,
+        "source": "SOURCE_UNSPECIFIED"
+      },
+      "locale": {
+        "iso_3166_code": "cn",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 2000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 29.23,
+        "longitude": 102.17,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

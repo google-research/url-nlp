@@ -1,0 +1,54 @@
+{
+  "bcp_47_code": "atc",
+  "iso_639_3_code": "atc",
+  "glottocode": "atsa1242",
+  "wikidata_id": "Q4817730",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Atsahuaca",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "atsahuaca jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga atsahuaca",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "atsawaka",
+      "bcp_47_code": "ca",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "pe",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": -14.1666,
+        "longitude": -69.5,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

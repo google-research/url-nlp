@@ -1,0 +1,62 @@
+{
+  "bcp_47_code": "cbq",
+  "iso_639_3_code": "cbq",
+  "glottocode": "cuba1236",
+  "wikidata_id": "Q62603062",
+  "total_population": 6000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Tsucuba",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Cuba",
+      "bcp_47_code": "en",
+      "source": "GLOTTOLOG"
+    },
+    {
+      "name": "Shuba",
+      "bcp_47_code": "en",
+      "source": "WIKTIONARY"
+    },
+    {
+      "name": "tsucuba",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "cuba",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "ng",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 6000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 10.260725,
+        "longitude": 4.684594,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

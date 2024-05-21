@@ -1,0 +1,60 @@
+{
+  "bcp_47_code": "dry",
+  "iso_639_3_code": "dry",
+  "glottocode": "dara1250",
+  "wikidata_id": "Q46995026",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Darai",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "darai",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga darai",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "दरै भाषा",
+      "bcp_47_code": "mai",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kidarai",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "deva",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "np",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": 27.8623,
+        "longitude": 84.1357,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

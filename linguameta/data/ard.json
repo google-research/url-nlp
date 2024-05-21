@@ -1,0 +1,111 @@
+{
+  "bcp_47_code": "ard",
+  "iso_639_3_code": "ard",
+  "glottocode": "arab1267",
+  "wikidata_id": "Q3507959",
+  "total_population": 31,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Arabana",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Lenga arabana",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "arabana jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "arabana",
+      "bcp_47_code": "sv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "arabana",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kiarabana",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "arabanan kieli",
+      "bcp_47_code": "fi",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "アラバナ語",
+      "bcp_47_code": "ja",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ikinyarabana",
+      "bcp_47_code": "rw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Liarabana",
+      "bcp_47_code": "ln",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "isi-Arabana",
+      "bcp_47_code": "zu",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Icyarabana",
+      "bcp_47_code": "rw",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "i-Arabana",
+      "bcp_47_code": "zu",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "au",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 31,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": -28.705,
+        "longitude": 135.449,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "bcp_47_code": "aoe",
+  "iso_639_3_code": "aoe",
+  "glottocode": "anga1294",
+  "wikidata_id": "Q10951638",
+  "total_population": 80000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Angal Enen",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "angal enen jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Angal Enen",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "South Angal",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kiangal-Enen",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "pg",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 80000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": -6.23296,
+        "longitude": 143.583,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

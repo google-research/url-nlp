@@ -1,0 +1,34 @@
+{
+  "bcp_47_code": "ckn",
+  "iso_639_3_code": "ckn",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Kaang Chin",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKIDATA"
+      },
+      "locale": {
+        "iso_3166_code": "mm",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": 21.51,
+        "longitude": 93.63,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

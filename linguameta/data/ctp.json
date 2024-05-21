@@ -1,0 +1,81 @@
+{
+  "bcp_47_code": "ctp",
+  "iso_639_3_code": "ctp",
+  "glottocode": "west2644",
+  "wikidata_id": "Q32861734",
+  "total_population": 27000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Western Highland Chatino",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "chatino des hauts-plateaux de l'ouest",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Highland ossidental Lenga chatino",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "chatino central",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idioma chatino",
+      "bcp_47_code": "es",
+      "source": "LEXVO"
+    },
+    {
+      "name": "langues chatino",
+      "bcp_47_code": "fr",
+      "source": "LEXVO"
+    },
+    {
+      "name": "língua chatina",
+      "bcp_47_code": "pt",
+      "is_canonical": true,
+      "source": "LEXVO"
+    },
+    {
+      "name": "tchatineg",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "LEXVO"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "mx",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 27000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 16.2495,
+        "longitude": -97.3244,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "bcp_47_code": "ctt",
+  "iso_639_3_code": "ctt",
+  "glottocode": "waya1264",
+  "wikidata_id": "Q7975850",
+  "total_population": 5000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Wayanad Chetti",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Kichetti ya Wayanad",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ווייאנאד צ'טי",
+      "bcp_47_code": "he",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "வயநாடு செட்டி மொழி",
+      "bcp_47_code": "ta",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "വയനാട് ചെട്ടി",
+      "bcp_47_code": "ml",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "taml",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "in",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 5000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 11.6702,
+        "longitude": 76.3704,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

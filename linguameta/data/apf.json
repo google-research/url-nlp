@@ -1,0 +1,90 @@
+{
+  "bcp_47_code": "apf",
+  "iso_639_3_code": "apf",
+  "glottocode": "agta1234",
+  "wikidata_id": "Q7135432",
+  "total_population": 1700,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "language in the Philippines",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Pahanan Agta",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Agta-Pahanan",
+      "bcp_47_code": "en",
+      "source": "GLOTTOLOG"
+    },
+    {
+      "name": "Paranan Agta",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kiagta ya Pahanan",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Agta ti Paranan",
+      "bcp_47_code": "ilo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "pahanan agta jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tataramon na Paranan Agta",
+      "bcp_47_code": "bcl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "pahanani keel",
+      "bcp_47_code": "et",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "pagsasao idiay Filipinas",
+      "bcp_47_code": "ilo",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "ph",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 1700,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 17.0538,
+        "longitude": 122.2802,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "bcp_47_code": "bxf",
+  "iso_639_3_code": "bxf",
+  "glottocode": "bilu1244",
+  "wikidata_id": "Q2903788",
+  "total_population": 4200,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Oceanic language of the Papua New Guinea",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Bilur",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Minigir",
+      "bcp_47_code": "en",
+      "source": "IETF"
+    },
+    {
+      "name": "bilur",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bilur jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Bilur",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kiminigir",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bilur",
+      "bcp_47_code": "ilo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bilur tili",
+      "bcp_47_code": "uz",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "pg",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 4200,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": -4.39732,
+        "longitude": 152.334,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

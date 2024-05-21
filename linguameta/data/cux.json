@@ -1,0 +1,74 @@
+{
+  "bcp_47_code": "cux",
+  "iso_639_3_code": "cux",
+  "glottocode": "tepe1280",
+  "wikidata_id": "Q20527242",
+  "total_population": 13000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "language from Mexico",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Tepeuxila Cuicatec",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "tepeuxila cuicatec jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "cuicatèque de tepeuxila",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tepeuxila lenga cuicatec",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tepeuxila kuikateegi keel",
+      "bcp_47_code": "et",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Iso 639-3:Cux",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "mx",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 13000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 17.756,
+        "longitude": -96.788,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

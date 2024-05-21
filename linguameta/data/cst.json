@@ -1,0 +1,76 @@
+{
+  "bcp_47_code": "cst",
+  "iso_639_3_code": "cst",
+  "glottocode": "nort2969",
+  "wikidata_id": "Q25559666",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Northern Ohlone",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "setentrional Lenga ohlone",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ohlone du nord",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "севернокостаноанские языка",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ohlone del nord",
+      "bcp_47_code": "ca",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "севернокостаноанская группа",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "северные языки олони",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "chocheño",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "LEXVO"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "us",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 37.436485,
+        "longitude": -121.827675,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

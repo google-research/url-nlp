@@ -1,0 +1,97 @@
+{
+  "bcp_47_code": "bfr",
+  "iso_639_3_code": "bfr",
+  "glottocode": "bazi1237",
+  "wikidata_id": "Q8829558",
+  "total_population": 58000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Bazigar",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "bazigar jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Bazigar",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "বাজিগর ভাষা",
+      "bcp_47_code": "bn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ਬਾਜ਼ੀਗਰ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kibazigar",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "بازيگر ٻولي",
+      "bcp_47_code": "sd",
+      "iso_15924_code": "arab",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "באזיגאר",
+      "bcp_47_code": "he",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "பாசிகர் மொழி",
+      "bcp_47_code": "ta",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "بزیگر",
+      "bcp_47_code": "pnb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "xxxx",
+        "is_canonical": true,
+        "source": "SOURCE_UNSPECIFIED"
+      },
+      "locale": {
+        "iso_3166_code": "in",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 58000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 25.2977,
+        "longitude": 77.2213,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

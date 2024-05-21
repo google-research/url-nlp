@@ -1,0 +1,42 @@
+{
+  "bcp_47_code": "apv",
+  "iso_639_3_code": "apv",
+  "glottocode": "alap1235",
+  "wikidata_id": "Q16110782",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Alapmunte",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "alapmunte jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "br",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": -12.329886,
+        "longitude": -59.9967,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

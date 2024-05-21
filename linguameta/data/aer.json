@@ -1,0 +1,93 @@
+{
+  "bcp_47_code": "aer",
+  "iso_639_3_code": "aer",
+  "glottocode": "east2379",
+  "wikidata_id": "Q10728232",
+  "total_population": 4500,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Pama-Nyungan language spoken in Northern Territory, Australia",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Eastern Arrernte",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "östlig arrernte",
+      "bcp_47_code": "sv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "istočni arrernte jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga arrernte oriental",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idaaranda keel",
+      "bcp_47_code": "et",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kiarrernte cha Mashariki",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "arrernte de l'est",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Gjuha Arrernte Lindore",
+      "bcp_47_code": "sq",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "мова усходняя аррернте",
+      "bcp_47_code": "be",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "au",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 4500,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": -23.3583,
+        "longitude": 135.046,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

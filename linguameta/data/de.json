@@ -1,0 +1,3527 @@
+{
+  "bcp_47_code": "de",
+  "iso_639_3_code": "deu",
+  "iso_639_2b_code": "ger",
+  "glottocode": "stan1295",
+  "wikidata_id": "Q188",
+  "total_population": 91739000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "West Germanic language spoken mainly in Central Europe",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "агерман",
+      "bcp_47_code": "ab",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Duits",
+      "bcp_47_code": "af",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Dzamɛ̀",
+      "bcp_47_code": "agq",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Gyaaman",
+      "bcp_47_code": "ak",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ጀርመን",
+      "bcp_47_code": "am",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "alemán",
+      "bcp_47_code": "an",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "الألمانية",
+      "bcp_47_code": "ar",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "জাৰ্মান",
+      "bcp_47_code": "as",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kijerumani",
+      "bcp_47_code": "asa",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "alemán",
+      "bcp_47_code": "ast",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "alman",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "جرمن",
+      "bcp_47_code": "bal",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Hɔp u jamân",
+      "bcp_47_code": "bas",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "нямецкая",
+      "bcp_47_code": "be",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Ichi Jemani",
+      "bcp_47_code": "bem",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Hijerumani",
+      "bcp_47_code": "bez",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "немски",
+      "bcp_47_code": "bg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "جرمنی",
+      "bcp_47_code": "bgn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "alimaɲikan",
+      "bcp_47_code": "bm",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "জার্মান",
+      "bcp_47_code": "bn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "འཇར་མན་གྱི།",
+      "bcp_47_code": "bo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "alamaneg",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "जार्मान",
+      "bcp_47_code": "brx",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "njemački",
+      "bcp_47_code": "bs",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ጀርመን",
+      "bcp_47_code": "byn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "alemany",
+      "bcp_47_code": "ca",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "𑄎𑄢𑄴𑄟𑄚𑄴",
+      "bcp_47_code": "ccp",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "немцойн",
+      "bcp_47_code": "ce",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "German",
+      "bcp_47_code": "ceb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Orugirimaani",
+      "bcp_47_code": "cgg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ᏙᎢᏥ",
+      "bcp_47_code": "chr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ئەڵمانی",
+      "bcp_47_code": "ckb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tedescu",
+      "bcp_47_code": "co",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "němčina",
+      "bcp_47_code": "cs",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "нѣме́цкїй",
+      "bcp_47_code": "cu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "нимӗҫ",
+      "bcp_47_code": "cv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Almaeneg",
+      "bcp_47_code": "cy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tysk",
+      "bcp_47_code": "da",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kijerumani",
+      "bcp_47_code": "dav",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Almaŋ senni",
+      "bcp_47_code": "dje",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "जर्मन",
+      "bcp_47_code": "doi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "nimšćina",
+      "bcp_47_code": "dsb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "alman",
+      "bcp_47_code": "dyo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ཇཱར་མཱན་ཁ",
+      "bcp_47_code": "dz",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kĩnjeremani",
+      "bcp_47_code": "ebu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Germaniagbe",
+      "bcp_47_code": "ee",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Γερμανικά",
+      "bcp_47_code": "el",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "germana",
+      "bcp_47_code": "eo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "alemán",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "saksa",
+      "bcp_47_code": "et",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "alemana",
+      "bcp_47_code": "eu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Ǹkɔ́bɔ ndzáman",
+      "bcp_47_code": "ewo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "آلمانی",
+      "bcp_47_code": "fa",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Docceere",
+      "bcp_47_code": "ff",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "saksa",
+      "bcp_47_code": "fi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "German",
+      "bcp_47_code": "fil",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "týskt",
+      "bcp_47_code": "fo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "allemand",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tjiisk",
+      "bcp_47_code": "frr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "todesc",
+      "bcp_47_code": "fur",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Dútsk",
+      "bcp_47_code": "fy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Gearmáinis",
+      "bcp_47_code": "ga",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "German",
+      "bcp_47_code": "gaa",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Gearmailtis",
+      "bcp_47_code": "gd",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ጀርመን",
+      "bcp_47_code": "gez",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "alemán",
+      "bcp_47_code": "gl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tüütsch",
+      "bcp_47_code": "gsw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "જર્મન",
+      "bcp_47_code": "gu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kijerumani",
+      "bcp_47_code": "guz",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Jamusanci",
+      "bcp_47_code": "ha",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kelemānia",
+      "bcp_47_code": "haw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "גרמנית",
+      "bcp_47_code": "he",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "जर्मन",
+      "bcp_47_code": "hi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "njemački",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "němčina",
+      "bcp_47_code": "hsb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "német",
+      "bcp_47_code": "hu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "գերմաներեն",
+      "bcp_47_code": "hy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "germano",
+      "bcp_47_code": "ia",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Jerman",
+      "bcp_47_code": "id",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Jamanị",
+      "bcp_47_code": "ig",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ꄓꇩꉙ",
+      "bcp_47_code": "ii",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "þýska",
+      "bcp_47_code": "is",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tedesco",
+      "bcp_47_code": "it",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ドイツ語",
+      "bcp_47_code": "ja",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Njáman",
+      "bcp_47_code": "jgo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kyijerumani",
+      "bcp_47_code": "jmc",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Jérman",
+      "bcp_47_code": "jv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "გერმანული",
+      "bcp_47_code": "ka",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Talmant",
+      "bcp_47_code": "kab",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kijerumani",
+      "bcp_47_code": "kam",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Chidyelumani",
+      "bcp_47_code": "kde",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "alemon",
+      "bcp_47_code": "kea",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "arimỹv",
+      "bcp_47_code": "kgp",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Almaŋ senni",
+      "bcp_47_code": "khq",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kĩnjeremani",
+      "bcp_47_code": "ki",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "неміс тілі",
+      "bcp_47_code": "kk",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tyskisut",
+      "bcp_47_code": "kl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "kutitab Chermani",
+      "bcp_47_code": "kln",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "អាល្លឺម៉ង់",
+      "bcp_47_code": "km",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ಜರ್ಮನ್",
+      "bcp_47_code": "kn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "독일어",
+      "bcp_47_code": "ko",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "जर्मन",
+      "bcp_47_code": "kok",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "جٔرمَن",
+      "bcp_47_code": "ks",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kijeumani",
+      "bcp_47_code": "ksb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ridjɛrman",
+      "bcp_47_code": "ksf",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Deutsch",
+      "bcp_47_code": "ksh",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "elmanî",
+      "bcp_47_code": "ku",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Almaynek",
+      "bcp_47_code": "kw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "немисче",
+      "bcp_47_code": "ky",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Germanica",
+      "bcp_47_code": "la",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kɨjerʉmáani",
+      "bcp_47_code": "lag",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Däitsch",
+      "bcp_47_code": "lb",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Ludaaki",
+      "bcp_47_code": "lg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tedesco",
+      "bcp_47_code": "lij",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Iyášiča Iyápi",
+      "bcp_47_code": "lkt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "lialemá",
+      "bcp_47_code": "ln",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ເຢຍລະມັນ",
+      "bcp_47_code": "lo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "آلمانی",
+      "bcp_47_code": "lrc",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "vokiečių",
+      "bcp_47_code": "lt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Lizelumani",
+      "bcp_47_code": "lu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kijerumani",
+      "bcp_47_code": "luo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kijerumani",
+      "bcp_47_code": "luy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "vācu",
+      "bcp_47_code": "lv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "जर्मन",
+      "bcp_47_code": "mai",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "nkʉtʉ́k ɔ́ɔ̄ ljerumani",
+      "bcp_47_code": "mas",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Саксонь кяль",
+      "bcp_47_code": "mdf",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kĩnjamanĩ",
+      "bcp_47_code": "mer",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "alman",
+      "bcp_47_code": "mfe",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Alemanina",
+      "bcp_47_code": "mg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Ijerimani",
+      "bcp_47_code": "mgh",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Tiamana",
+      "bcp_47_code": "mi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "германски",
+      "bcp_47_code": "mk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ജർമ്മൻ",
+      "bcp_47_code": "ml",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "герман",
+      "bcp_47_code": "mn",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "জর্মন",
+      "bcp_47_code": "mni",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "जर्मन",
+      "bcp_47_code": "mr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Jerman",
+      "bcp_47_code": "ms",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Ġermaniż",
+      "bcp_47_code": "mt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "germaŋ",
+      "bcp_47_code": "mua",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ဂျာမန်",
+      "bcp_47_code": "my",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "немецень кель",
+      "bcp_47_code": "myv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "آلمانی",
+      "bcp_47_code": "mzn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Duits",
+      "bcp_47_code": "naq",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "isi-Jalimani",
+      "bcp_47_code": "nd",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Hoochdüütsch",
+      "bcp_47_code": "nds",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "जर्मन",
+      "bcp_47_code": "ne",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Duits",
+      "bcp_47_code": "nl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Jáman",
+      "bcp_47_code": "nmg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "nzǎmɔ̂ɔn",
+      "bcp_47_code": "nnh",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tysk",
+      "bcp_47_code": "no",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ߊߟߑߡߊ߲ߞߊ߲",
+      "bcp_47_code": "nqo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Thok jarmani",
+      "bcp_47_code": "nus",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Orugirimaani",
+      "bcp_47_code": "nyn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "alemand",
+      "bcp_47_code": "oc",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Afaan Jarmanii",
+      "bcp_47_code": "om",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ଜର୍ମାନ",
+      "bcp_47_code": "or",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "немыцаг",
+      "bcp_47_code": "os",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ਜਰਮਨ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Jámán Lángwej",
+      "bcp_47_code": "pcm",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "niemiecki",
+      "bcp_47_code": "pl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "miksiskan",
+      "bcp_47_code": "prg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "الماني",
+      "bcp_47_code": "ps",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "alemão",
+      "bcp_47_code": "pt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Aleman Simi",
+      "bcp_47_code": "qu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tudestg",
+      "bcp_47_code": "rm",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Ikidage",
+      "bcp_47_code": "rn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "germană",
+      "bcp_47_code": "ro",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kijerumani",
+      "bcp_47_code": "rof",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "немецкий",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Ikidage",
+      "bcp_47_code": "rw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kyijerumani",
+      "bcp_47_code": "rwk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "जर्मनभाषा",
+      "bcp_47_code": "sa",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Ниэмэстии",
+      "bcp_47_code": "sah",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kijerumani",
+      "bcp_47_code": "saq",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ᱡᱟᱨᱢᱟᱱ",
+      "bcp_47_code": "sat",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Ishijelumani",
+      "bcp_47_code": "sbp",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tedescu",
+      "bcp_47_code": "sc",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tidiscu",
+      "bcp_47_code": "scn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "جرمن",
+      "bcp_47_code": "sd",
+      "iso_15924_code": "arab",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "duiskkagiella",
+      "bcp_47_code": "se",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "alemão",
+      "bcp_47_code": "seh",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Almaŋ senni",
+      "bcp_47_code": "ses",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Zâmani",
+      "bcp_47_code": "sg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ⵜⴰⵍⵉⵎⴰⵏⵜ",
+      "bcp_47_code": "shi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ජර්මන්",
+      "bcp_47_code": "si",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "nemčina",
+      "bcp_47_code": "sk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "nemščina",
+      "bcp_47_code": "sl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "saksakielâ",
+      "bcp_47_code": "smn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "sakslaǩiõl",
+      "bcp_47_code": "sms",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "chiJerimani",
+      "bcp_47_code": "sn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Jarmal",
+      "bcp_47_code": "so",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "gjermanisht",
+      "bcp_47_code": "sq",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "немачки",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Se-jeremane",
+      "bcp_47_code": "st",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Jérman",
+      "bcp_47_code": "su",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tyska",
+      "bcp_47_code": "sv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kijerumani",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ܐܠܡܢܝܐ",
+      "bcp_47_code": "syr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "niymiecki",
+      "bcp_47_code": "szl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ஜெர்மன்",
+      "bcp_47_code": "ta",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "జర్మన్",
+      "bcp_47_code": "te",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kijerumani",
+      "bcp_47_code": "teo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "немисӣ",
+      "bcp_47_code": "tg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "เยอรมัน",
+      "bcp_47_code": "th",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ጀርመን",
+      "bcp_47_code": "ti",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ጀርመን",
+      "bcp_47_code": "tig",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "nemes dili",
+      "bcp_47_code": "tk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "German",
+      "bcp_47_code": "tn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "lea fakasiamane",
+      "bcp_47_code": "to",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "toki Tosi",
+      "bcp_47_code": "tok",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Jeman",
+      "bcp_47_code": "tpi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Almanca",
+      "bcp_47_code": "tr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "patas Towjih",
+      "bcp_47_code": "trv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "جرمن",
+      "bcp_47_code": "trw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Xi Jarimani",
+      "bcp_47_code": "ts",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "алман",
+      "bcp_47_code": "tt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Almaŋ senni",
+      "bcp_47_code": "twq",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Talmanit",
+      "bcp_47_code": "tzm",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "گېرمانچە",
+      "bcp_47_code": "ug",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "німецька",
+      "bcp_47_code": "uk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "جرمن",
+      "bcp_47_code": "ur",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "nemischa",
+      "bcp_47_code": "uz",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ꕧꕮꔧ",
+      "bcp_47_code": "vai",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tiếng Đức",
+      "bcp_47_code": "vi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Deutänapük",
+      "bcp_47_code": "vo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kyijerumani",
+      "bcp_47_code": "vun",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Titš",
+      "bcp_47_code": "wae",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ጀርመን",
+      "bcp_47_code": "wal",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Almaa",
+      "bcp_47_code": "wo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "isiJamani",
+      "bcp_47_code": "xh",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Oludaaki",
+      "bcp_47_code": "xog",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ŋndiáman",
+      "bcp_47_code": "yav",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "דײַטש",
+      "bcp_47_code": "yi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Èdè Jámánì",
+      "bcp_47_code": "yo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "aremãu",
+      "bcp_47_code": "yrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "德文",
+      "bcp_47_code": "yue",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ⵜⴰⵍⵉⵎⴰⵏⵜ",
+      "bcp_47_code": "zgh",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "德语",
+      "bcp_47_code": "cmn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "isi-German",
+      "bcp_47_code": "zu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ጀርመንኛ",
+      "bcp_47_code": "am",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Alman",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Alemán",
+      "bcp_47_code": "gl",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Deutsch",
+      "bcp_47_code": "gsw",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Jerman",
+      "bcp_47_code": "in",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ドイツ語（オーストリア）",
+      "bcp_47_code": "ja",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Неміс",
+      "bcp_47_code": "kk",
+      "iso_15924_code": "cyrl",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Немисче",
+      "bcp_47_code": "ky",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Allemand",
+      "bcp_47_code": "ln",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "vokiečių kalba",
+      "bcp_47_code": "lt",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Герман",
+      "bcp_47_code": "mn",
+      "iso_15924_code": "cyrl",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Germană",
+      "bcp_47_code": "mo",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Bahasa Jerman",
+      "bcp_47_code": "ms",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "tysk",
+      "bcp_47_code": "nb",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ଜର୍ମାନ୍",
+      "bcp_47_code": "or",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Nemčina",
+      "bcp_47_code": "sk",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Gjermanisht",
+      "bcp_47_code": "sq",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "German",
+      "bcp_47_code": "tl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "nemis",
+      "bcp_47_code": "uz",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "德语（奥地利）",
+      "bcp_47_code": "cmn",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "German",
+      "bcp_47_code": "zu",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "забони олмонӣ",
+      "bcp_47_code": "tg",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Aliman aru",
+      "bcp_47_code": "ay",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "جرمن",
+      "bcp_47_code": "pnb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Dorerin Djermani",
+      "bcp_47_code": "na",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "германски јазик",
+      "bcp_47_code": "mk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "জার্মান ভাষা",
+      "bcp_47_code": "bn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "isiJalimani",
+      "bcp_47_code": "zu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "জার্মান ঠার",
+      "bcp_47_code": "bpy",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Joerman",
+      "bcp_47_code": "jam",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Af-Jarmal",
+      "bcp_47_code": "so",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Wikang Aleman",
+      "bcp_47_code": "tl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "німецька мова",
+      "bcp_47_code": "uk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Герман хэлэн",
+      "bcp_47_code": "bxr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Almankoore",
+      "bcp_47_code": "ff",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Vah Dwzgoz",
+      "bcp_47_code": "za",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Èdè Jẹ́mánì",
+      "bcp_47_code": "yo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Luenga alemana",
+      "bcp_47_code": "ext",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Duuts",
+      "bcp_47_code": "zea",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Немецень кель",
+      "bcp_47_code": "myv",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "דייטשיש",
+      "bcp_47_code": "yi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Miemiecczi jãzëk",
+      "bcp_47_code": "csb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tyskisut",
+      "bcp_47_code": "kl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "德語",
+      "bcp_47_code": "gan",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Daitschi Sprooch",
+      "bcp_47_code": "pfl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "German",
+      "bcp_47_code": "sco",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Vuokītiu kalba",
+      "bcp_47_code": "sgs",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "vuocu volūda",
+      "bcp_47_code": "ltg",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bééshbichʼahii bizaad",
+      "bcp_47_code": "nv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lia-alemaun",
+      "bcp_47_code": "tet",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "alman dili",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "آلمانی زبون",
+      "bcp_47_code": "mzn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "nemački jezik",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "latn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ಜರ್ಮನ್ ಭಾಷೆ",
+      "bcp_47_code": "kn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Немец чӀал",
+      "bcp_47_code": "lez",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Sejeremane",
+      "bcp_47_code": "tn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "இடாய்ச்சு மொழி",
+      "bcp_47_code": "ta",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Basa Jerman",
+      "bcp_47_code": "jv",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "алман теле",
+      "bcp_47_code": "tt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga tedësca",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Alman tili",
+      "bcp_47_code": "crh",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bahasa Jerman",
+      "bcp_47_code": "ms",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "limba germană",
+      "bcp_47_code": "ro",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "जर्मन भाषा",
+      "bcp_47_code": "bho",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Nemis tili",
+      "bcp_47_code": "kaa",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "S'aksa kiil",
+      "bcp_47_code": "vro",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "الألماني",
+      "bcp_47_code": "aeb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Düütsch",
+      "bcp_47_code": "nds",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Dütsche Sprooch",
+      "bcp_47_code": "ksh",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Aleman",
+      "bcp_47_code": "bcl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "vācu valoda",
+      "bcp_47_code": "lv",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "𐌸𐌹𐌿𐌳𐌹𐍃𐌺𐌰𐍂𐌰𐌶𐌳𐌰",
+      "bcp_47_code": "got",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Германыбзэ",
+      "bcp_47_code": "ady",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Reo Heremani",
+      "bcp_47_code": "ty",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Germaanish",
+      "bcp_47_code": "gv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Caama kʊnʊŋ",
+      "bcp_47_code": "kbp",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Almanki",
+      "bcp_47_code": "diq",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Jirman",
+      "bcp_47_code": "pih",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Mjymjecko godka",
+      "bcp_47_code": "szl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Немшин келн",
+      "bcp_47_code": "xal",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Нимĕç чĕлхи",
+      "bcp_47_code": "cv",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Germaniana linguo",
+      "bcp_47_code": "io",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "немецкий язык",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tok Jeman",
+      "bcp_47_code": "tpi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ภาษาเยอรมัน",
+      "bcp_47_code": "th",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "آلمان دیلی",
+      "bcp_47_code": "azb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Idioma alemán",
+      "bcp_47_code": "an",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tedèsch",
+      "bcp_47_code": "eml",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ພາສາເຢຍລະມັນ",
+      "bcp_47_code": "lo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "saksan kel'",
+      "bcp_47_code": "vep",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "जर्मन भाषा",
+      "bcp_47_code": "mai",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "germanum",
+      "bcp_47_code": "nov",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "जर्मन भाषा",
+      "bcp_47_code": "ne",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "анемец бызшәа",
+      "bcp_47_code": "ab",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Fa'asiamani",
+      "bcp_47_code": "sm",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Salitan Alemano",
+      "bcp_47_code": "pag",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Inaleman",
+      "bcp_47_code": "war",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Jermanikani chib",
+      "bcp_47_code": "rmy",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "dotybau",
+      "bcp_47_code": "jbo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Джэрмэныбзэ",
+      "bcp_47_code": "kbd",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "نېمىس تىلى",
+      "bcp_47_code": "ug",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "дойчень кяль",
+      "bcp_47_code": "mdf",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lhéngua almana",
+      "bcp_47_code": "mwl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "زون آلمانی",
+      "bcp_47_code": "lrc",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ဂျာမန်ဘာသာစကား",
+      "bcp_47_code": "my",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ಜರ್ಮನ್ ಭಾಷೆ",
+      "bcp_47_code": "tcy",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "saksa keel",
+      "bcp_47_code": "et",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "немыцаг æвзаг",
+      "bcp_47_code": "os",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "德語",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tysk",
+      "bcp_47_code": "nn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ᎠᏂᏙᎢᏥ ᎧᏬᏂᎯᏍᏗ",
+      "bcp_47_code": "chr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "德语",
+      "bcp_47_code": "wuu",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Allemaund",
+      "bcp_47_code": "nrm",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua alemá",
+      "bcp_47_code": "gl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lènga tedesche",
+      "bcp_47_code": "roa",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "germana lingvo",
+      "bcp_47_code": "eo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lingua tudestga",
+      "bcp_47_code": "rm",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Modern Hochdeitsch",
+      "bcp_47_code": "pdc",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lialémani",
+      "bcp_47_code": "ln",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Alemand",
+      "bcp_47_code": "frp",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Se-jeremane",
+      "bcp_47_code": "nso",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua Theodisca",
+      "bcp_47_code": "la",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Limba ghermãnescã",
+      "bcp_47_code": "rup",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tjüsch",
+      "bcp_47_code": "frr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "немис тили",
+      "bcp_47_code": "ky",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "जर्मन भाषा",
+      "bcp_47_code": "mr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Týskt mál",
+      "bcp_47_code": "fo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Герман хэл",
+      "bcp_47_code": "mn",
+      "iso_15924_code": "cyrl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Duits",
+      "bcp_47_code": "li",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "آلماني ژبه",
+      "bcp_47_code": "ps",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "bahasa Jerman",
+      "bcp_47_code": "id",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "જર્મન ભાષા",
+      "bcp_47_code": "gu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Basa Jérman",
+      "bcp_47_code": "su",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Немций мотт",
+      "bcp_47_code": "inh",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "almand",
+      "bcp_47_code": "wa",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Aleman",
+      "bcp_47_code": "ilo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Inaleman",
+      "bcp_47_code": "ceb",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Немец тил",
+      "bcp_47_code": "krc",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ditsch",
+      "bcp_47_code": "gsw",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ភាសាអាល្លឺម៉ង់",
+      "bcp_47_code": "km",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "немски език",
+      "bcp_47_code": "bg",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "aleman",
+      "bcp_47_code": "eu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "გერმანული ნინა",
+      "bcp_47_code": "xmf",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ᱡᱚᱨᱢᱟᱱ ᱯᱟᱹᱨᱥᱤ",
+      "bcp_47_code": "sat",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "deitsche Sproch",
+      "bcp_47_code": "bar",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Alemán",
+      "bcp_47_code": "pap",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "deutx",
+      "bcp_47_code": "lfn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Basa Jerman",
+      "bcp_47_code": "map",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Alemant",
+      "bcp_47_code": "pcd",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Fiteny alemana",
+      "bcp_47_code": "mg",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "нямецкая мова",
+      "bcp_47_code": "be",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "todesco",
+      "bcp_47_code": "vec",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Dáik-ngṳ̄",
+      "bcp_47_code": "cdo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tek-gí",
+      "bcp_47_code": "nan",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Alemañañe'ẽ",
+      "bcp_47_code": "gn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "زبان آلمانی",
+      "bcp_47_code": "fa",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "njemački jezik",
+      "bcp_47_code": "bs",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "nemački jezik",
+      "bcp_47_code": "sh",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "జర్మన్ భాష",
+      "bcp_47_code": "te",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Немеч кыв",
+      "bcp_47_code": "koi",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Немец теле",
+      "bcp_47_code": "ba",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ниэмэс тыла",
+      "bcp_47_code": "sah",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Þēodsc sprǣc",
+      "bcp_47_code": "ang",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "nemis tili",
+      "bcp_47_code": "uz",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Nemes dili",
+      "bcp_47_code": "tk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "German bhasa",
+      "bcp_47_code": "hif",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bahsa Jeureuman",
+      "bcp_47_code": "ace",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Нѣмьчьскъ ѩꙁꙑкъ",
+      "bcp_47_code": "cu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "जर्मन भाषा",
+      "bcp_47_code": "new",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenghe todescje",
+      "bcp_47_code": "fur",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Alman",
+      "bcp_47_code": "ht",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "German",
+      "bcp_47_code": "ie",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "გერმანული ენა",
+      "bcp_47_code": "ka",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "немцойн мотт",
+      "bcp_47_code": "ce",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Немеч кыв",
+      "bcp_47_code": "kv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Düütsk",
+      "bcp_47_code": "stq",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Duuts",
+      "bcp_47_code": "nds",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "འཇར་མན་སྐད།",
+      "bcp_47_code": "bo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Reo Tiamana",
+      "bcp_47_code": "mi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "język niemiecki",
+      "bcp_47_code": "pl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bahaso Jerman",
+      "bcp_47_code": "min",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Немец кыл",
+      "bcp_47_code": "udm",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Неміс тілі",
+      "bcp_47_code": "kk",
+      "iso_15924_code": "cyrl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lengua germanese",
+      "bcp_47_code": "nap",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Duuts",
+      "bcp_47_code": "vls",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kidoitce",
+      "bcp_47_code": "kg",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Немыч йылме",
+      "bcp_47_code": "mhr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ജർമ്മൻ ഭാഷ",
+      "bcp_47_code": "ml",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Нїмецькый язык",
+      "bcp_47_code": "rue",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Limba tedesca",
+      "bcp_47_code": "sc",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "almanî",
+      "bcp_47_code": "ku",
+      "iso_15924_code": "latn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Germuanien kieli",
+      "bcp_47_code": "olo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ܠܫܢܐ ܓܪܡܢܝܐ",
+      "bcp_47_code": "arc",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "síJalimáne",
+      "bcp_47_code": "ss",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "އަލްމާނީ",
+      "bcp_47_code": "dv",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "لغه المانى",
+      "bcp_47_code": "arz",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Teutontlahtōlli",
+      "bcp_47_code": "nah",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Aliman simi",
+      "bcp_47_code": "qu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lengua tedesca",
+      "bcp_47_code": "lij",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lingua alemana",
+      "bcp_47_code": "lad",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "njemački jezik",
+      "bcp_47_code": "hr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "德語",
+      "bcp_47_code": "lzh",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "जर्मन् भाषा",
+      "bcp_47_code": "sa",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lengua Tudesca",
+      "bcp_47_code": "lmo",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tet-ngî",
+      "bcp_47_code": "hak",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "немачки језик",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Talmanit",
+      "bcp_47_code": "kab",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ʻōlelo Kelemānia",
+      "bcp_47_code": "haw",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ජර්මානු භාෂාව",
+      "bcp_47_code": "si",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "գերմաներէն",
+      "bcp_47_code": "hyw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Anlman",
+      "bcp_47_code": "gcr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ߊߟߏߡߊ߲ߞߊ߲",
+      "bcp_47_code": "nqo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "آلماني زوؤن",
+      "bcp_47_code": "glk",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "لألمانية",
+      "bcp_47_code": "ary",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tudësch",
+      "bcp_47_code": "lld",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "জাৰ্মান ভাষা",
+      "bcp_47_code": "as",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "جرمن ٻولي",
+      "bcp_47_code": "sd",
+      "iso_15924_code": "arab",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "بهاس جرمن",
+      "bcp_47_code": "ms",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Герман мацӀ",
+      "bcp_47_code": "av",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "оaamani",
+      "bcp_47_code": "dag",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tutlayt Talimant",
+      "bcp_47_code": "shi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "جَرمَن زَبان",
+      "bcp_47_code": "ks",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "zaboni olmonī",
+      "bcp_47_code": "tg",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Chijemeni",
+      "bcp_47_code": "sn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ꯖꯔꯃꯟ ꯂꯣꯟ",
+      "bcp_47_code": "mni",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "saksslaǩiõll",
+      "bcp_47_code": "sms",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Basa Jerman",
+      "bcp_47_code": "ban",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Ma'ėhoéseotse",
+      "bcp_47_code": "chy",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Doysritongo",
+      "bcp_47_code": "srn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Inaleman",
+      "bcp_47_code": "krj",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "도이췰란드어",
+      "bcp_47_code": "ko",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "الألمانية",
+      "bcp_47_code": "arq",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "जर्मन भाषा",
+      "bcp_47_code": "anp",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ドゥイチ口",
+      "bcp_47_code": "ryu",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "German",
+      "bcp_47_code": "gpe",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "German",
+      "bcp_47_code": "tw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Bahasa Jerman",
+      "bcp_47_code": "gor",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "олмонӣ",
+      "bcp_47_code": "tg",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "забони германӣ",
+      "bcp_47_code": "tg",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "забони немисӣ",
+      "bcp_47_code": "tg",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "nemški jezik",
+      "bcp_47_code": "sl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "لغة ألمانية",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "اللغة الألمانية",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ألمانية",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "اللغة الالمانية",
+      "bcp_47_code": "ar",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "deutsch",
+      "bcp_47_code": "pt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "língua alemã",
+      "bcp_47_code": "pt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idioma alemão",
+      "bcp_47_code": "pt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "linguagem alemã",
+      "bcp_47_code": "pt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "langue allemande",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "langue de goethe",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua tedesca",
+      "bcp_47_code": "it",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "němska rěč",
+      "bcp_47_code": "hsb",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "llingua alemana",
+      "bcp_47_code": "ast",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "德語",
+      "bcp_47_code": "yue",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "德意志文",
+      "bcp_47_code": "yue",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "德意志話",
+      "bcp_47_code": "yue",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "德意志語",
+      "bcp_47_code": "yue",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "德國話",
+      "bcp_47_code": "yue",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "saksan kieli",
+      "bcp_47_code": "fi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "deutsch",
+      "bcp_47_code": "fi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "deutsche sprache",
+      "bcp_47_code": "fi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "герман теле",
+      "bcp_47_code": "tt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "немец теле",
+      "bcp_47_code": "tt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "алманча",
+      "bcp_47_code": "tt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "deutsch",
+      "bcp_47_code": "uk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "hochdeutsch",
+      "bcp_47_code": "uk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "дойч",
+      "bcp_47_code": "uk",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "deutsch",
+      "bcp_47_code": "be",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "جرمن زبان",
+      "bcp_47_code": "ur",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ਜਰਮਨ ਬੋਲੀ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ਜਰਮਨ ਭਾਸ਼ਾ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ਜ੍ਰਮਨ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua german",
+      "bcp_47_code": "ia",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "německý jazyk",
+      "bcp_47_code": "cs",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "deutsch",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "hochdeutsch",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "высоконемецкий язык",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "верхненемецкий",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "дойч",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "хохдойч",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tysk språk",
+      "bcp_47_code": "nn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lengua alemana",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "deutsch",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "idioma alemán",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tudesco",
+      "bcp_47_code": "es",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tek-gú",
+      "bcp_47_code": "nan",
+      "iso_15924_code": "latn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Tek-kok-oē",
+      "bcp_47_code": "nan",
+      "iso_15924_code": "latn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "独語",
+      "bcp_47_code": "ja",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "독어",
+      "bcp_47_code": "ko",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ଜର୍ମାନ ଭାଷା",
+      "bcp_47_code": "or",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Dütschi Sprooch",
+      "bcp_47_code": "gsw",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "njemački jezik",
+      "bcp_47_code": "sh",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Duitse taal",
+      "bcp_47_code": "nl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "deutsche Sprache",
+      "bcp_47_code": "de",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "њемачки",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "њемачки језик",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "tudiscu",
+      "bcp_47_code": "scn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua tidisca",
+      "bcp_47_code": "scn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua tudisca",
+      "bcp_47_code": "scn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Yr Laith Almaeneg",
+      "bcp_47_code": "cy",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "الالمانيه",
+      "bcp_47_code": "arz",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "német nyelv",
+      "bcp_47_code": "hu",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua tedesca",
+      "bcp_47_code": "co",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "an Ghearmáinis",
+      "bcp_47_code": "ga",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ߊߟߏߡߊ߲߫ ߞߊ߲",
+      "bcp_47_code": "nqo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ߜ߭ߏߋߕ ߞߊ߲",
+      "bcp_47_code": "nqo",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "germana",
+      "bcp_47_code": "ro",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "deutsch",
+      "bcp_47_code": "ro",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "germanijan kel'",
+      "bcp_47_code": "vep",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "nemcan kel'",
+      "bcp_47_code": "vep",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Dütsk Tjiisk Sjiisk",
+      "bcp_47_code": "frr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Deutsch",
+      "bcp_47_code": "ms",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "德文",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "德国话",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "德意志语",
+      "bcp_47_code": "cmn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "德文",
+      "bcp_47_code": "lzh",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "德意志語",
+      "bcp_47_code": "lzh",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "德意志文",
+      "bcp_47_code": "lzh",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "獨逸語",
+      "bcp_47_code": "lzh",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "獨逸文",
+      "bcp_47_code": "lzh",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "زمانی ئەڵمانی",
+      "bcp_47_code": "ckb",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ئاڵمانی",
+      "bcp_47_code": "ckb",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ڊي اي",
+      "bcp_47_code": "sd",
+      "iso_15924_code": "arab",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "دٽيسچ",
+      "bcp_47_code": "sd",
+      "iso_15924_code": "arab",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "vuocīšu volūda",
+      "bcp_47_code": "ltg",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Harshen Jamus",
+      "bcp_47_code": "ha",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Deutsch",
+      "bcp_47_code": "ha",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ałeman",
+      "bcp_47_code": "vec",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "zermànego",
+      "bcp_47_code": "vec",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "zimanê elmanî",
+      "bcp_47_code": "ku",
+      "iso_15924_code": "latn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "zimanê almanî",
+      "bcp_47_code": "ku",
+      "iso_15924_code": "latn",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Joerman languij",
+      "bcp_47_code": "jam",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "जर्मन भाषा",
+      "bcp_47_code": "hi",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "däitsch Sprooch",
+      "bcp_47_code": "lb",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Germanice",
+      "bcp_47_code": "la",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingua Germanica",
+      "bcp_47_code": "la",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Theodisce",
+      "bcp_47_code": "la",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "lingwa Ġermaniża",
+      "bcp_47_code": "mt",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ด็อยทส์",
+      "bcp_47_code": "th",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ger",
+      "bcp_47_code": "th",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "alemanh",
+      "bcp_47_code": "oc",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Deutsch",
+      "bcp_47_code": "ab",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "доич",
+      "bcp_47_code": "ab",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "New High German",
+      "bcp_47_code": "en",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Neuhochdeutsch",
+      "bcp_47_code": "de",
+      "source": "LEXVO"
+    },
+    {
+      "name": "nyhøytysk",
+      "bcp_47_code": "no",
+      "source": "LEXVO"
+    },
+    {
+      "name": "Deutsch",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "German",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "at",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 8600000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 48.21827,
+        "longitude": 16.322117,
+        "source": "GOOGLE_RESEARCH"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "be",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 2600000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 50.469673,
+        "longitude": 5.84683,
+        "source": "GOOGLE_RESEARCH"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "ch",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 6100000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 47.362896,
+        "longitude": 8.306176,
+        "source": "GOOGLE_RESEARCH"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "de",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 73000000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 51.57,
+        "longitude": 10.32,
+        "source": "GOOGLE_RESEARCH"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "dk",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "official_status": {
+        "has_regional_official_status": true,
+        "source": "GOOGLE_RESEARCH"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "it",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 1000000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_regional_official_status": true,
+        "source": "GOOGLE_RESEARCH"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "li",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 39000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 47.13658,
+        "longitude": 9.552901,
+        "source": "GOOGLE_RESEARCH"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "lu",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 400000,
+        "source": "CLDR"
+      },
+      "official_status": {
+        "has_official_status": true,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 49.79235,
+        "longitude": 6.298667,
+        "source": "GOOGLE_RESEARCH"
+      }
+    }
+  ]
+}

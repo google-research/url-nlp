@@ -1,0 +1,47 @@
+{
+  "bcp_47_code": "daj",
+  "iso_639_3_code": "daj",
+  "glottocode": "darf1239",
+  "wikidata_id": "Q56370",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Dar Fur Daju",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "nyaleg",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Nyala",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "sd",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": 12.2598,
+        "longitude": 25.3127,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

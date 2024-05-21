@@ -1,0 +1,71 @@
+{
+  "bcp_47_code": "fuh",
+  "iso_639_3_code": "fuh",
+  "macrolanguage_bcp_47_code": "ff",
+  "glottocode": "west2454",
+  "wikidata_id": "Q12952430",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Western Niger Fulfulde",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Lenga Fulfulde Nìger ossidental",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "peul du niger occidental",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "zimanê fulfulde yê Nîjera rojava",
+      "bcp_47_code": "ku",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Fulfulde Niger ossidental",
+      "bcp_47_code": "pms",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "peul du nord-est du burkina faso",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "peul de gorgal",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "ne",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 14.259644,
+        "longitude": 1.956449,
+        "source": "GOOGLE_RESEARCH"
+      }
+    }
+  ]
+}

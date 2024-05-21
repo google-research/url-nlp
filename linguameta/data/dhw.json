@@ -1,0 +1,45 @@
+{
+  "bcp_47_code": "dhw",
+  "iso_639_3_code": "dhw",
+  "glottocode": "koch1253",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Dhanwar",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Kochariya-East Danuwar",
+      "bcp_47_code": "en",
+      "source": "GLOTTOLOG"
+    },
+    {
+      "name": "Danuwar",
+      "bcp_47_code": "en",
+      "source": "WIKTIONARY"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "deva",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "np",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": 27.094496,
+        "longitude": 85.91008,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "bcp_47_code": "dna",
+  "iso_639_3_code": "dna",
+  "glottocode": "uppe1430",
+  "wikidata_id": "Q12952361",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Upper Grand Valley Dani",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Lenga Dani dla Gran Valada Àuta",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kidani ya Juu",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Dani dla Gran Valada Auta",
+      "bcp_47_code": "pms",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "id",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": -3.94368,
+        "longitude": 138.901,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

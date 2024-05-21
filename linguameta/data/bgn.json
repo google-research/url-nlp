@@ -1,0 +1,948 @@
+{
+  "bcp_47_code": "bgn",
+  "iso_639_3_code": "bgn",
+  "macrolanguage_bcp_47_code": "bal",
+  "glottocode": "west2368",
+  "wikidata_id": "Q12645561",
+  "total_population": 1300000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "group of Balochi dialects",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Western Balochi",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Wes-Balochi",
+      "bcp_47_code": "af",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "የምዕራብ ባሎቺ",
+      "bcp_47_code": "am",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "البلوشية الغربية",
+      "bcp_47_code": "ar",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "balochi occidental",
+      "bcp_47_code": "ast",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "qərbi bəluc",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "заходняя белуджская",
+      "bcp_47_code": "be",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "западен балочи",
+      "bcp_47_code": "bg",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "بلوچی",
+      "bcp_47_code": "bgn",
+      "source": "CLDR"
+    },
+    {
+      "name": "পশ্চিম বালোচি",
+      "bcp_47_code": "bn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "baloutchi ar cʼhornôg",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "zapadni belučki",
+      "bcp_47_code": "bs",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "balutxi occidental",
+      "bcp_47_code": "ca",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "𑄛𑄧𑄏𑄨𑄟𑄴 𑄝𑄣𑄮𑄌𑄨",
+      "bcp_47_code": "ccp",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "малхбузен-белуджийн",
+      "bcp_47_code": "ce",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "balúčština",
+      "bcp_47_code": "cs",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Balochi Gorllewinol",
+      "bcp_47_code": "cy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "vestbaluchi",
+      "bcp_47_code": "da",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Westliches Belutschi",
+      "bcp_47_code": "de",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Δυτικά Μπαλοχικά",
+      "bcp_47_code": "el",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "baluchi occidental",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "läänebelutši",
+      "bcp_47_code": "et",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "بلوچی غربی",
+      "bcp_47_code": "fa",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "länsibelutši",
+      "bcp_47_code": "fi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kanlurang Balochi",
+      "bcp_47_code": "fil",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "vestur balochi",
+      "bcp_47_code": "fo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "baloutchi occidental",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Balochi Shiarach",
+      "bcp_47_code": "gd",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "baluchi occidental",
+      "bcp_47_code": "gl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "પશ્ચિમી બાલોચી",
+      "bcp_47_code": "gu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "באלוצ׳י מערבית",
+      "bcp_47_code": "he",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "पश्चिमी बलोची",
+      "bcp_47_code": "hi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "zapadnobaludžijski",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "nyugati beludzs",
+      "bcp_47_code": "hu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "արևմտաբելուջիերեն",
+      "bcp_47_code": "hy",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Balochi Barat",
+      "bcp_47_code": "id",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "vesturbalotsí",
+      "bcp_47_code": "is",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "beluci occidentale",
+      "bcp_47_code": "it",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "西バローチー語",
+      "bcp_47_code": "ja",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "დასავლეთ ბელუჯი",
+      "bcp_47_code": "ka",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "marusi-rãpurja",
+      "bcp_47_code": "kgp",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "батыс балучи тілі",
+      "bcp_47_code": "kk",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "បាឡូជីខាងលិច",
+      "bcp_47_code": "km",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ಪಶ್ಚಿಮ ಬಲೊಚಿ",
+      "bcp_47_code": "kn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "서부 발로치어",
+      "bcp_47_code": "ko",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "чыгыш балучиче",
+      "bcp_47_code": "ky",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ບາໂລຈີ ພາກຕາເວັນຕົກ",
+      "bcp_47_code": "lo",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "بألوٙچی أقتوٙنئشین",
+      "bcp_47_code": "lrc",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "vakarų beludžių",
+      "bcp_47_code": "lt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "rietumbeludžu",
+      "bcp_47_code": "lv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "западен балочи",
+      "bcp_47_code": "mk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "പശ്ചിമ ബലൂചി",
+      "bcp_47_code": "ml",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "पश्चिमी बालोची",
+      "bcp_47_code": "mr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Balochi Barat",
+      "bcp_47_code": "ms",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "အနောက် ဘဲလိုချီ",
+      "bcp_47_code": "my",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "غربی بلوچی",
+      "bcp_47_code": "mzn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "पश्चिम बालोची",
+      "bcp_47_code": "ne",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Westers Beloetsji",
+      "bcp_47_code": "nl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "vestbalutsji",
+      "bcp_47_code": "no",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "ਪੱਛਮੀ ਬਲੂਚੀ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "beludżi północny",
+      "bcp_47_code": "pl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "balúchi ocidental",
+      "bcp_47_code": "pt",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "baluchi occidentală",
+      "bcp_47_code": "ro",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "западный белуджский",
+      "bcp_47_code": "ru",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "බටහිර බලොචි",
+      "bcp_47_code": "si",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "západná balúčtina",
+      "bcp_47_code": "sk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "zahodnobalučijščina",
+      "bcp_47_code": "sl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "balokishte perëndimore",
+      "bcp_47_code": "sq",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "западни белучки",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "västbaluchiska",
+      "bcp_47_code": "sv",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Kibalochi cha Magharibi",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "மேற்கு பலோச்சி",
+      "bcp_47_code": "ta",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "పశ్చిమ బలూచీ",
+      "bcp_47_code": "te",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "บาลูจิตะวันตก",
+      "bcp_47_code": "th",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "lea fakapalusi-hihifo",
+      "bcp_47_code": "to",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Batı Balochi",
+      "bcp_47_code": "tr",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "східнобелуджійська",
+      "bcp_47_code": "uk",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "مغربی بلوچی",
+      "bcp_47_code": "ur",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "g‘arbiy baluj",
+      "bcp_47_code": "uz",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "tiếng Tây Balochi",
+      "bcp_47_code": "vi",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "baruxi usidẽtawara",
+      "bcp_47_code": "yrl",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "西俾路支文",
+      "bcp_47_code": "yue",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "西俾路支语",
+      "bcp_47_code": "cmn",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "isi-Western Balochi",
+      "bcp_47_code": "zu",
+      "is_canonical": true,
+      "source": "CLDR"
+    },
+    {
+      "name": "Wes-Baloetsji",
+      "bcp_47_code": "af",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ምዕራባዊ ባሎቺኛ",
+      "bcp_47_code": "am",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "পশ্চিম বালোচী",
+      "bcp_47_code": "as",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Qərbi Bəluc dili",
+      "bcp_47_code": "az",
+      "iso_15924_code": "latn",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "заходнебелуджская",
+      "bcp_47_code": "be",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "западнобелуджки",
+      "bcp_47_code": "bg",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ওয়েস্টার্ন বালোচি",
+      "bcp_47_code": "bn",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "zapadnobelučka",
+      "bcp_47_code": "bs",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "balutxi oriental",
+      "bcp_47_code": "ca",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "zapadní balúčština",
+      "bcp_47_code": "cs",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Westbelutschi",
+      "bcp_47_code": "de",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "mendebaldeko baluxtarra",
+      "bcp_47_code": "eu",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Western Balochi",
+      "bcp_47_code": "fil",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "baloutchi de l'ouest",
+      "bcp_47_code": "fr",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Baluchi occidental",
+      "bcp_47_code": "gl",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Westbelutschi",
+      "bcp_47_code": "gsw",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "પશ્ચિમી બલોચિ",
+      "bcp_47_code": "gu",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "באלוצ'ית מערבית",
+      "bcp_47_code": "he",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "पश्चिमी बलूची",
+      "bcp_47_code": "hi",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "zapadnobelučki",
+      "bcp_47_code": "hr",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "արևմտյան բալոչի",
+      "bcp_47_code": "hy",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Balochi Barat",
+      "bcp_47_code": "in",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "vestur-balochi",
+      "bcp_47_code": "is",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "დასავლეთბელუჯური",
+      "bcp_47_code": "ka",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Батыс балучи",
+      "bcp_47_code": "kk",
+      "iso_15924_code": "cyrl",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "បាឡូឈីខាងលិច",
+      "bcp_47_code": "km",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ಪಶ್ಚಿಮ ಬಲೂಚಿ",
+      "bcp_47_code": "kn",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "서부 발루치어",
+      "bcp_47_code": "ko",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Батыш балочиче",
+      "bcp_47_code": "ky",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Baloutchi de l'Ouest",
+      "bcp_47_code": "ln",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ບາໂລຊີຕາເວັນຕົກ",
+      "bcp_47_code": "lo",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "vakarų baluči kalba",
+      "bcp_47_code": "lt",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "rietumbaloču",
+      "bcp_47_code": "lv",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "പടിഞ്ഞാറൻ ബലോചി",
+      "bcp_47_code": "ml",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Баруун Балочи",
+      "bcp_47_code": "mn",
+      "iso_15924_code": "cyrl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Balochi din vest",
+      "bcp_47_code": "mo",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "वेस्टर्न बलुची",
+      "bcp_47_code": "mr",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "အနောက် ဘလိုချီ",
+      "bcp_47_code": "my",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "vest-balutsji",
+      "bcp_47_code": "nb",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "पश्चिमी बलुची",
+      "bcp_47_code": "ne",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "West-Balochi",
+      "bcp_47_code": "nl",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "vest-balutsji",
+      "bcp_47_code": "no",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ପଶ୍ଚିମ ବେଲୁଚି",
+      "bcp_47_code": "or",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "ਪੱਛਮੀ ਬਲੋਚੀ",
+      "bcp_47_code": "pa",
+      "iso_15924_code": "guru",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "beludżi zachodni",
+      "bcp_47_code": "pl",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "balochi din vest",
+      "bcp_47_code": "ro",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "zahodna beludžijščina",
+      "bcp_47_code": "sl",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Baloçishte perëndimore",
+      "bcp_47_code": "sq",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "западни белуџи",
+      "bcp_47_code": "sr",
+      "iso_15924_code": "cyrl",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "västbaluchi",
+      "bcp_47_code": "sv",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "పశ్చిమ బలోచి",
+      "bcp_47_code": "te",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Western Balochi",
+      "bcp_47_code": "tl",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Batı Beluçça",
+      "bcp_47_code": "tr",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "західнобелуджійська",
+      "bcp_47_code": "uk",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "gʻarbiy balochi",
+      "bcp_47_code": "uz",
+      "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "zapadnobaludžijski jezik",
+      "bcp_47_code": "hr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "رخشاني بلوڅي ژبه",
+      "bcp_47_code": "ps",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "западный белуджский язык",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Balochi ossidental",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "baloutche de l'ouest",
+      "bcp_47_code": "fr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "بەلۆچی ڕۆژاوا",
+      "bcp_47_code": "ckb",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "West-Beloetsji",
+      "bcp_47_code": "nl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "balochi de l'est",
+      "bcp_47_code": "vec",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "balotcheg ar c'hornôg",
+      "bcp_47_code": "br",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "zahodna baločijščina",
+      "bcp_47_code": "sl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "zapadnobelučki jezik",
+      "bcp_47_code": "hr",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Western Baluchi",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Northern Balochi",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Northern Baluchi",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "западный диалект белуджского языка",
+      "bcp_47_code": "ru",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "بلوچی رخشانی",
+      "bcp_47_code": "fa",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "baloutcheg ar c'hornôg",
+      "bcp_47_code": "br",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "baloutcheg ar c'hornaoueg",
+      "bcp_47_code": "br",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "balotcheg ar c'hornaoueg",
+      "bcp_47_code": "br",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "zahodnobaločijski jezik",
+      "bcp_47_code": "sl",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "رخشانین بلوچی",
+      "bcp_47_code": "bgn",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "arab",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "pk",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 1300000,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 27.983051,
+        "longitude": 64.608955,
+        "source": "GOOGLE_RESEARCH"
+      }
+    }
+  ]
+}

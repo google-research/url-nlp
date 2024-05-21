@@ -1,0 +1,53 @@
+{
+  "bcp_47_code": "dmb",
+  "iso_639_3_code": "dmb",
+  "glottocode": "momb1254",
+  "wikidata_id": "Q6897074",
+  "total_population": 19000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Mombo Dogon",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "mombo",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Wikang Mombo",
+      "bcp_47_code": "tl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "ml",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 19000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 14.376155,
+        "longitude": -3.664799,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "bcp_47_code": "daq",
+  "iso_639_3_code": "daq",
+  "glottocode": "dand1238",
+  "wikidata_id": "Q12952805",
+  "total_population": 380000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Dandami Maria",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Dandami Lenga Maria",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "தந்தாமி மாரியா மொழி",
+      "bcp_47_code": "ta",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "dandami maria",
+      "bcp_47_code": "fi",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kimaria ya Dandami",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Madiya",
+      "bcp_47_code": "daq",
+      "is_canonical": true,
+      "source": "GOOGLE_RESEARCH"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "in",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 380000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 18.7475,
+        "longitude": 81.3598,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "bcp_47_code": "baa",
+  "iso_639_3_code": "baa",
+  "glottocode": "baba1268",
+  "total_population": 7100,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Babatana",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "sb",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 7100,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": -7.22281,
+        "longitude": 157.149,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

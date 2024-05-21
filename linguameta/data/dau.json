@@ -1,0 +1,74 @@
+{
+  "bcp_47_code": "dau",
+  "iso_639_3_code": "dau",
+  "glottocode": "dars1235",
+  "wikidata_id": "Q7514020",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "language of Africa",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Dar Sila Daju",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Sila",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "silaeg",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Dar Sila Kidaju",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "sila",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "sd",
+        "source": "GLOTTOLOG"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "td",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": 11.9861,
+        "longitude": 22.2013,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

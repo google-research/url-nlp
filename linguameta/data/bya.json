@@ -1,0 +1,46 @@
+{
+  "bcp_47_code": "bya",
+  "iso_639_3_code": "bya",
+  "glottocode": "bata1301",
+  "wikidata_id": "Q50934420",
+  "total_population": 200,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Batak",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Palawan Batak",
+      "bcp_47_code": "en",
+      "source": "WIKTIONARY"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "tagb",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "ph",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 200,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 10.1115,
+        "longitude": 119.025,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

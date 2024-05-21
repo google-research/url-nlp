@@ -1,0 +1,71 @@
+{
+  "bcp_47_code": "dao",
+  "iso_639_3_code": "dao",
+  "glottocode": "daai1236",
+  "wikidata_id": "Q860029",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Daai Chin",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Daai",
+      "bcp_47_code": "en",
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ภาษาดาไอ",
+      "bcp_47_code": "th",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Daai Lenga Chin",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kichin ya Daai",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Wikang Daai",
+      "bcp_47_code": "tl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ဒိုင်ဘာသာစကား",
+      "bcp_47_code": "my",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "mm",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": 20.7347,
+        "longitude": 93.7853,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

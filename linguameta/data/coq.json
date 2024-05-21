@@ -1,0 +1,54 @@
+{
+  "bcp_47_code": "coq",
+  "iso_639_3_code": "coq",
+  "glottocode": "coqu1236",
+  "wikidata_id": "Q12953452",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Coquille",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Lenga coquille",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Coquille spriak",
+      "bcp_47_code": "frr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "coquille",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "us",
+        "source": "GLOTTOLOG"
+      },
+      "geolocation": {
+        "latitude": 44.5177,
+        "longitude": -119.605,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "bcp_47_code": "fif",
+  "iso_639_3_code": "fif",
+  "total_population": 50000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Faifi",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "xxxx",
+        "is_canonical": true,
+        "source": "SOURCE_UNSPECIFIED"
+      },
+      "locale": {
+        "iso_3166_code": "sa",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 50000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 17.29,
+        "longitude": 43.15,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

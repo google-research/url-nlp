@@ -1,0 +1,99 @@
+{
+  "bcp_47_code": "doz",
+  "iso_639_3_code": "doz",
+  "glottocode": "dorz1235",
+  "wikidata_id": "Q56336",
+  "total_population": 21000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "language spoken in southern Ethiopia",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Dorze",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "dorzeg",
+      "bcp_47_code": "br",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "dorzé",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "dorze jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kidorze",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Dorze",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "ዶርዝኛ",
+      "bcp_47_code": "am",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "דורזית",
+      "bcp_47_code": "he",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Wikang Dorze",
+      "bcp_47_code": "tl",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Asụsụ Dorze",
+      "bcp_47_code": "ig",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "et",
+        "source": "GLOTTOLOG"
+      },
+      "speaker_data": {
+        "number_of_speakers": 21000,
+        "source": "WIKIPEDIA"
+      },
+      "geolocation": {
+        "latitude": 6.25237,
+        "longitude": 37.5554,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

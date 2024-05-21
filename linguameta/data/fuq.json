@@ -1,0 +1,65 @@
+{
+  "bcp_47_code": "fuq",
+  "iso_639_3_code": "fuq",
+  "macrolanguage_bcp_47_code": "ff",
+  "glottocode": "cent2018",
+  "wikidata_id": "Q12628799",
+  "total_population": 1600000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "Central-Eastern Niger Fulfulde",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "centralni-istočni nigerski fulfulde jezik",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Fulfulde Nìger oriental",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "peul du niger centre-oriental",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Lenga Fulfulde Niger oriental",
+      "bcp_47_code": "pms",
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "ne",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 1600000,
+        "source": "CLDR"
+      },
+      "geolocation": {
+        "latitude": 15.0907,
+        "longitude": 8.43261,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

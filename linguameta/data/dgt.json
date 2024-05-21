@@ -1,0 +1,52 @@
+{
+  "bcp_47_code": "dgt",
+  "iso_639_3_code": "dgt",
+  "glottocode": "ndra1239",
+  "wikidata_id": "Q6983809",
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "language_description": {
+    "description": "Extinct Australian Aboriginal language",
+    "source": "WIKIDATA"
+  },
+  "name_data": [
+    {
+      "name": "Ndra'Ngith",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "Ntra'Ngith",
+      "bcp_47_code": "en",
+      "source": "WIKTIONARY"
+    },
+    {
+      "name": "idioma mangarla",
+      "bcp_47_code": "es",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "Kindra'ngith",
+      "bcp_47_code": "sw",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "WIKTIONARY"
+      },
+      "locale": {
+        "iso_3166_code": "au",
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}

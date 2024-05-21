@@ -1,0 +1,59 @@
+{
+  "bcp_47_code": "azg",
+  "iso_639_3_code": "azg",
+  "glottocode": "sanp1260",
+  "wikidata_id": "Q60611109",
+  "total_population": 51000,
+  "language_scope": {
+    "scope": "LANGUAGE",
+    "source": "ISO_639"
+  },
+  "name_data": [
+    {
+      "name": "San Pedro Amuzgos Amuzgo",
+      "bcp_47_code": "en",
+      "is_canonical": true,
+      "source": "ISO_639"
+    },
+    {
+      "name": "amuzgo de san pedro amuzgos",
+      "bcp_47_code": "fr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "San Pedro amuzgos Lenga amuzgo",
+      "bcp_47_code": "pms",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    },
+    {
+      "name": "amuzgo de san pedro amuzgos",
+      "bcp_47_code": "hr",
+      "is_canonical": true,
+      "source": "WIKIDATA"
+    }
+  ],
+  "language_script_locale": [
+    {
+      "script": {
+        "iso_15924_code": "latn",
+        "is_canonical": true,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "mx",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 51000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 16.5198,
+        "longitude": -98.0464,
+        "source": "GLOTTOLOG"
+      }
+    }
+  ]
+}
