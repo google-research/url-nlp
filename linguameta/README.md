@@ -11,7 +11,7 @@ We make LinguaMeta available as a series of JSON files, as well as an overview T
 
 The ``data`` folder contains a JSON file for each language, named according to its BCP-47 code (e.g. ``en.json`` for English, ``pa.json`` for Punjabi, ``zu.json`` for Zulu). Each JSON file contains metadata for the language as a whole followed by a repeated field ``language_script_locale``, which contains language metadata specific to a particular script and locale combination (e.g. Punjabi written in Gurmukhi script and spoken in India).
 
-The structure of the JSON files is as follows. Fields are absent when they are not filled except for unknown scripts and locales, which are represented by the placeholder string 'xxxx'.
+The structure of the language JSON files is as follows. Fields are absent when they are not filled except for unknown scripts and locales, which are represented by the placeholder string 'xxxx'.
 
 * ``bcp_47_code``
 * ``deprecated_bcp_47_code``
@@ -64,6 +64,19 @@ The structure of the JSON files is as follows. Fields are absent when they are n
         * ``longitude``
         * ``source``
 
+The ``data`` folder also contains a file ``locales.json``, which provides a mapping between ISO 3166 locale codes and the full name of the locale or region. It also provides mappings from a locale to its corresponding region, subregion, and regional group, if applicable. The structure of ``locales.json`` is as follows:
+
+* ``locale_map`` (repeated)
+    * ``locale``
+        * ``locale_code``
+        * ``locale_name``
+        * ``locale_population``
+            * ``population``
+            * ``source``
+    * ``region``
+    * ``subregion``
+    * ``regional_group``
+
 ### TSV file
 
 The TSV file is organized by BCP-47 code (i.e. by language) and is intended as an accessible summary of LinguaMeta. The TSV **is not comprehensive**, as it lacks the following information:
@@ -71,7 +84,7 @@ The TSV file is organized by BCP-47 code (i.e. by language) and is intended as a
 * Source information
 * Extended language name metadata (aside from English names and endonyms)
 * Script use tags
-* Official statuses asserted by Google
+* Official statuses researched by Google
 * Geographic coordinates
 
 This information is available in JSON format only.
@@ -179,7 +192,7 @@ For corrections to information pulled in from an external repository (e.g. Glott
 If you found this data helpful, please consider citing it as follows:
 
 ```
-@InProceedings{Ritchie-EtAl:2024:LREC,
+@InProceedings{ritchie-etal-2024-linguameta-unified,
   author    = {Ritchie, Sandy and van Esch, Daan and Okonkwo, Uche and Vashishth, Shikhar and Drummond, Emily},
   title     = {LinguaMeta: Unified metadata for thousands of languages},
   booktitle      = {Proceedings of the Joint International Conference on Computational Linguistics, Language Resources and Evaluation},
@@ -187,7 +200,9 @@ If you found this data helpful, please consider citing it as follows:
   year           = {2024},
   address        = {Torino, Italy},
   publisher      = {European Language Resources Association},
+  pages     = {10530–-10538},
   abstract  = {We introduce LinguaMeta, a unified resource for language metadata for thousands of languages, including language codes, names, number of speakers, writing systems, countries, official status, and geographic coordinates. The resources are drawn from various existing repositories and supplemented with our own research. Each data point is tagged for its origin, allowing us to easily trace back to and improve existing resources with more up-to-date and complete metadata. The resource is intended for use by researchers and organizations who aim to extend technology to thousands of languages.},
+  url       = {https://aclanthology.org/2024.lrec-main.921},
 }
 ```
 
