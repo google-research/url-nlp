@@ -1,6 +1,6 @@
 # LinguaMeta: Unified metadata for thousands of languages
 
-This folder contains data related to the LREC-COLING 2024 paper *LinguaMeta: Unified metadata for thousands of languages*.
+This folder contains data related to the LREC-COLING 2024 paper *[LinguaMeta: Unified metadata for thousands of languages](https://aclanthology.org/2024.lrec-main.921/)*.
 
 ## Structure of LinguaMeta
 
