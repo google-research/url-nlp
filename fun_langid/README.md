@@ -182,3 +182,5 @@ Latin.
 * This could be implemented in a much more efficient way. Do you want to make
   a C++ version??
 
+Disclaimer: This is not an officially supported Google product.
+

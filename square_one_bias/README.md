@@ -28,6 +28,8 @@ some contributions may be difficult to assign to a specific dimension.
 
 If you spot an inaccuracy or an error, please raise an issue or submit a PR with the change.
 
+Disclaimer: This is not an officially supported Google product.
+
 ## Citation
 
 If you found the annotations helpful, please consider citing them as follows:

@@ -19,6 +19,8 @@ languages, e.g. adding endonyms or alternative names that are not yet included.
 For fields that were pulled in from Glottolog, please incorporate changes
 upstream and then raise an issue or submit a PR for the changes to be pulled in.
 
+Disclaimer: This is not an officially supported Google product.
+
 ## Citation
 
 If you found this data helpful, please consider citing it as follows:

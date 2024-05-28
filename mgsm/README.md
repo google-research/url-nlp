@@ -16,3 +16,5 @@ The same 250 problems from [GSM8K](https://arxiv.org/abs/2110.14168) are each tr
 
 You can find the input and targets for each of the ten languages (and English) as `.tsv` files.
 We also include few-shot exemplars that are also manually translated from each language in `exemplars.py`.
+
+Disclaimer: This is not an officially supported Google product.

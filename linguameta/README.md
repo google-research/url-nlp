@@ -187,6 +187,8 @@ quickly, please reference the source of your information. We also welcome issues
 
 For corrections to information pulled in from an external repository (e.g. Glottolog, CLDR), please incorporate those changes upstream if possible, and then raise an issue here for the changes to be pulled in.
 
+Disclaimer: This is not an officially supported Google product.
+
 ## How to cite
 
 If you found this data helpful, please consider citing it as follows:

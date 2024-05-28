@@ -283,6 +283,8 @@ prefixes, yielding names like "Ganda", "Pedi" and so on, perhaps out of a desire
 for consistent handling of the noun class prefix. (Even the *ba* in *Bantu* is
 such a prefix, so these languages are sometimes called the *Ntu* languages!)
 
+Disclaimer: This is not an officially supported Google product.
+
 
 ### Contact
 

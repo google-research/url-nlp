@@ -38,6 +38,7 @@ We also provide the annotations of the human evaluation of system outputs in `al
 - `language`: Legacy field, ignore.
 - `lang`: The ISO 639-1 code of the language of the sentence.
 
+Disclaimer: This is not an officially supported Google product.
 
 ## How to load the data
 
