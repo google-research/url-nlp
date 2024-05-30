@@ -5,6 +5,8 @@ Speaker Metadata for 2,800+ Language Varieties*.
 
 We make this data available in the form of a .tsv file.
 
+**Note:** We are no longer making updates to this repository. Our new canonical source for language metadata is LinguaMeta (available [here](https://github.com/google-research/url-nlp/tree/main/linguameta)) which should be used instead.
+
 ## Change requests
 
 As our paper describes, gathering this information was a challenging process. We
