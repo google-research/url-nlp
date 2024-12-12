@@ -231,7 +231,7 @@ alu	alu	'Are'Are		18000	Latn	SB		Not endangered	False					area1240	Q5160	languag
 alw	alw	Alaba-K’Abeena		280000	Ethi	ET		Not endangered	False					alab1254	Q56652	
 alx	alx	Amol			Latn	PG		Definitely endangered	False					amol1235	Q3504260	language of Papua New Guinea
 aly	aly	Alyawarr		4500	Latn	AU		Vulnerable	False					alya1239	Q3327389	
-alz	alz	Alur	Lur		Latn	CD		Not endangered	False					alur1250	Q56507	
+alz	alz	Alur	Lur	1700000	Latn	CD		Not endangered	False					alur1250	Q56507	
 am	amh	Amharic	አማርኛ	36000000	Ethi, Latn	ET	Official [ET]	Not endangered	False					amha1245	Q28244	Semitic language of Ethiopia
 ama	ama	Amanayé			Latn	BR		Extinct	False					aman1266	Q3508053	
 amb	amb	Ambo		1000	Latn	NG		Vulnerable	False					ambo1249	Q3450142	Tivoid language of Nigeria
@@ -1148,7 +1148,7 @@ cbd	cbd	Carijona		6	Latn	CO		Critically endangered	False					cari1279	Q3446655
 cbg	cbg	Chimila		350	Latn	CO		Definitely endangered	False					chim1309	Q2963680	
 cbi	cbi	Chachi		9500	Latn	EC		Definitely endangered	False					chac1249	Q2591329	Barbacoan language spoken in northern Ecuador by ethnic Chachi people
 cbj	cbj	Ede Cabe			Latn	BJ, NG		Not endangered	False					edec1238	Q33112829	Yoruboid language of Benin, part of Ede dialect continuum
-cbk	cbk	Chavacano	Chavacano		Latn	PH		Not endangered	False					chav1241	Q33281	Spanish-based creole language spoken in the Philippines
+cbk	cbk	Chavacano	Chavacano	700000	Latn	PH		Not endangered	False					chav1241	Q33281	Spanish-based creole language spoken in the Philippines
 cbl	cbl	Bualkhaw Chin		50000	Latn	MM		Not endangered	False					bual1235	Q9229830	Sino-Tinetan language
 cbn	cbn	Nyahkur		1500	Thai	TH		Definitely endangered	False					nyah1250	Q116849	language spoken in Thailand
 cbo	cbo	Izora		19	Latn	NG		Definitely endangered	False					izor1238	Q3915454	
@@ -1216,7 +1216,7 @@ chp	chp	Chipewyan		13000	Cans, Latn	CA	Regional official [CA]	Definitely endange
 chq	chq	Quiotepec Chinantec		10000	Latn	MX		Vulnerable	False					quio1240	Q5758709	
 chr	chr	Cherokee	ᏣᎳᎩ	26000	Cher, Latn	US		Vulnerable	False					cher1273	Q33388	Iroquoian language spoken by the Cherokee people
 cht	cht	Cholón			Latn	PE		Extinct	False					chol1284	Q2591243	
-chw	chw	Chuwabu	Echuwabo		Latn	MZ		Not endangered	False					chuw1238	Q5118412	
+chw	chw	Chuwabu	Echuwabo	1000000	Latn	MZ		Not endangered	False					chuw1238	Q5118412	
 chx	chx	Chantyal		4300	Deva	NP		Definitely endangered	False					chan1310	Q4926344	
 chy	chy	Cheyenne	Tsêhesenêstsestôtse	1900	Latn	US		Definitely endangered	False					chey1247	Q33265	indigenous language of the United States
 chz	chz	Ozumacín Chinantec		3100	Latn	MX		Definitely endangered	False					ozum1235	Q5100111	
@@ -1293,7 +1293,7 @@ cni	cni	Asháninka		26000	Latn	PE		Vulnerable	False					asha1243	Q3437230	Arawak
 cnk	cnk	Khumi Chin		70000	Latn	MM		Not endangered	False					khum1248	Q56308	Sino-Tibetan language spoken in Bangladesh and Burma
 cnl	cnl	Lalana Chinantec		23000	Latn	MX		Vulnerable	False					lala1270	Q12953437	
 cno	cno	Con		2400		LA		Vulnerable	False					cona1234	Q3440883	Palaungic language of Luang Namtha Province, Laos
-cnp	cnp	Northern Pinghua		7000000	Hani	CN			False	zh						
+cnp	cnp	Northern Pinghua			Hans	CN			False	zh						
 cnq	cnq	Chung		1400		CM			False							
 cnr	cnr	Montenegrin	crnogorski	200000	Cyrl, Latn	ME		Not endangered	False	sh				mont1282	Q8821	normative variety of Serbo-Croatian in Montenegro
 cns	cns	Central Asmat			Latn	ID		Vulnerable	False					cent2117	Q11732048	Papuan language of West New Guinea
@@ -1368,7 +1368,7 @@ csj	csj	Songlai Chin				MM			False
 csk	csk	Jola-Kasa		45000	Latn	SN		Vulnerable	False					jola1262	Q3446622	
 csm	csm	Central Sierra Miwok		12	Latn	US		Critically endangered	False					cent2140	Q2944443	
 cso	cso	Sochiapam Chinantec		3600	Latn	MX		Definitely endangered	False					soch1239	Q7550388	
-csp	csp	Southern Pinghua		7000000	Hani	CN			False	zh						
+csp	csp	Southern Pinghua			Hans	CN			False	zh						
 css	css	Southern Ohlone			Latn	US		Extinct	False					sout2986	Q25559664	
 cst	cst	Northern Ohlone			Latn	US		Extinct	False					nort2969	Q25559666	
 csv	csv	Sumtu Chin		14000		MM		Not endangered	False					sumt1234	Q7638087	
@@ -1706,7 +1706,7 @@ dyi	dyi	Djimini Senoufo		96000	Latn	CI, ML		Not endangered	False					djim1235	Q3
 dym	dym	Yanda Dom Dogon		2000	Latn	ML		Definitely endangered	False					yand1257	Q8048316	
 dyn	dyn	Dyangadi			Latn	AU		Extinct	False					dyan1250	Q3913820	
 dyo	dyo	Jola-Fonyi	kujóolay	410000	Latn	SN	Regional official [SN]	Not endangered	False					jola1263	Q3507832	
-dyu	dyu	Dyula	Julakan	2600000	Latn, Nkoo	011		Not endangered	False					dyul1238	Q32706	Mande language spoken in Burkina Faso, Côte d'Ivoire, and Mali
+dyu	dyu	Dyula	Julakan	2500000	Latn, Nkoo	011		Not endangered	False					dyul1238	Q32706	Mande language spoken in Burkina Faso, Côte d'Ivoire, and Mali
 dyy	dyy	Djabugay		81	Latn	AU		Critically endangered	False					dyaa1242	Q2591320	endangered Australian Aboriginal language
 dz	dzo	Dzongkha	རྫོང་ཁ་	370000	Tibt	BT	Official [BT]	Vulnerable	False				adp	dzon1239	Q33081	Sino-Tibetan language spoken in Bhutan
 dza	dza	Tunzu		2500	Latn	NG		Definitely endangered	False					tunz1235	Q3915845	
@@ -1909,7 +1909,7 @@ fuq	fuq	Central-Eastern Niger Fulfulde		1600000	Latn	NE		Not endangered	False	ff
 fur	fur	Friulian	Furlan	37000	Latn	IT		Vulnerable	False					friu1240	Q33441	Romance language belonging to the Rhaeto-Romance family, spoken in the Friuli region of northeastern Italy
 fut	fut	Futuna-Aniwa			Latn	VU		Not endangered	False					futu1245	Q3064409	
 fuu	fuu	Furu			Latn	CD, CF		Not endangered	False					furu1242	Q3441160	
-fuv	fuv	Nigerian Fulfulde			Latn	NG		Not endangered	False	ff				nige1253	Q36129	language of Nigeria
+fuv	fuv	Nigerian Fulfulde		14000000	Latn	NG		Not endangered	False	ff				nige1253	Q36129	language of Nigeria
 fuy	fuy	Fuyug			Latn	PG		Not endangered	False					fuyu1242	Q3073472	
 fvr	fvr	Fur	bèle fòòr	1200000	Latn	SD		Not endangered	False					furr1244	Q33364	Nilo-Saharan language spoken in Sudan
 fwa	fwa	Fwâi		1900	Latn	NC		Vulnerable	False					fwai1237	Q3091331	
@@ -2117,7 +2117,7 @@ goc	goc	Gorakor			Latn	PG		Not endangered	False					gora1262	Q12952463
 god	god	Godié				CI		Not endangered	False					godi1239	Q3914412	
 goe	goe	Gongduk		2000		BT		Definitely endangered	False					gong1251	Q2669221	
 gof	gof	Gofa	Gamo	390000	Ethi, Latn	ET		Not endangered	False					gofa1235	Q12631584	
-gog	gog	Gogo	Cigogo		Latn	TZ		Not endangered	False					gogo1263	Q3272630	
+gog	gog	Gogo	Cigogo	1400000	Latn	TZ		Not endangered	False					gogo1263	Q3272630	
 goi	goi	Gobasi			Latn	PG		Not endangered	False					goba1246	Q5575414	
 goj	goj	Gowlan				IN		Not endangered	False					gowl1242	Q12953532	
 gok	gok	Gowli				IN		Not endangered	False					gowl1241	Q12953534	
@@ -2321,7 +2321,7 @@ hmi	hmi	Northern Huishui Hmong				CN		Not endangered	False	hmn				nort2749	Q2743
 hmj	hmj	Ge		60000		CN		Vulnerable	False	hmn				geee1239	Q11251864	
 hml	hml	Luopohe Hmong		40000		CN		Not endangered	False	hmn				luop1235	Q14468943	
 hmm	hmm	Central Mashan Hmong				CN		Not endangered	False	hmn				cent1394	Q12953561	Hmongic language spoken by the Miao people in China
-hmn	hmn	Hmong	Hmong	7700000	Latn	CN			True		cqd, hea, hma, hmc, hmd, hme, hmg, hmh, hmi, hmj, hml, hmm, hmp, hmq, hms, hmw, hmy, hmz, hnj, hrm, huj, mmr, muq, mww, sfm					
+hmn	hmn	Hmong	𖬌𖬣𖬵	7700000	Latn	CN			True		cqd, hea, hma, hmc, hmd, hme, hmg, hmh, hmi, hmj, hml, hmm, hmp, hmq, hms, hmw, hmy, hmz, hnj, hrm, huj, mmr, muq, mww, sfm					
 hmp	hmp	Northern Mashan Hmong				CN		Not endangered	False	hmn				nort1546	Q12953564	Hmongic language spoken by the Miao people in China
 hmq	hmq	Eastern Qiandong Miao		350000	Latn	CN		Not endangered	False	hmn				east2370	Q27431369	Hmongic language spoken by the Miao people in China
 hmr	hmr	Hmar				IN		Vulnerable	False					hmar1241	Q2992841	
@@ -2359,7 +2359,7 @@ hop	hop	Hopi		6800	Latn	US		Definitely endangered	False					hopi1249	Q56421	Uto-
 hor	hor	Horo			Latn	TD		Extinct	False					horo1247	Q641748	
 hot	hot	Hote		2300	Latn	PG		Not endangered	False					hote1245	Q12632404	
 hov	hov	Hovongan				ID		Vulnerable	False					hovo1239	Q5917269	
-how	how	Honi		140000	Hani	CN		Not endangered	False					honi1244	Q56842	
+how	how	Honi		140000	Hani, Latn	CN		Not endangered	False					honi1244	Q56842	
 hoy	hoy	Holiya		500		IN		Vulnerable	False					holi1239	Q5880707	
 hoz	hoz	Hozo		6000		ET		Definitely endangered	False					hozo1236	Q5923010	
 hpo	hpo	Hpon				MM		Extinct	False					hpon1238	Q5923277	
@@ -4567,7 +4567,7 @@ nmy	nmy	Namuyi			Latn	CN		Definitely endangered	False					namu1246	Q56844	Langua
 nmz	nmz	Nawdm		150000	Latn	TG		Not endangered	False					nawd1238	Q36085	
 nn	nno	Norwegian Nynorsk	nynorsk	1400000	Latn	BV, NO, SJ	Official [NO]		False	no				norw1262	Q25164	one of two official written standards for the Norwegian language
 nna	nna	Nyangumarta		210	Latn	AU		Definitely endangered	False					nyan1301	Q33653	
-nnb	nnb	Nande	Yira		Latn	CD		Not endangered	False					nand1264	Q3196953	
+nnb	nnb	Nande	Yira	10000000	Latn	CD		Not endangered	False					nand1264	Q3196953	
 nnc	nnc	Nancere			Latn	TD		Not endangered	False					nanc1253	Q3140491	
 nnd	nnd	West Ambae		8700	Latn	VU		Not endangered	False					west2513	Q2841479	
 nne	nne	Ngandyera		1400000	Latn	AO		Not endangered	False					ngan1300	Q10961003	
@@ -5371,7 +5371,7 @@ rmt	rmt	Domari	دٛومَرِي	280000	Arab	EG		Severely endangered	False					do
 rmu	rmu	Tavringer Romani				NO, SE		Extinct	False					tavr1235	Q27808413	Swedish variant of Scandoromani
 rmw	rmw	Welsh Romani				GB		Definitely endangered	False	rom				wels1246	Q2097387	
 rmx	rmx	Romam				VN		Definitely endangered	False				lmm	roma1331	Q22694600	Austro-Asiatic language
-rmy	rmy	Vlax Romani	Romani čhib		Latn	AL, RO		Not endangered	False	rom				vlax1238	Q2669199	dialect group of the Romani language
+rmy	rmy	Vlax Romani	Romani čhib	310000	Latn	AL, RO		Not endangered	False	rom				vlax1238	Q2669199	dialect group of the Romani language
 rmz	rmz	Marma	ရက္ခိုင်ဘာသာ	1220000	Beng, Mymr	BD, MM		Not endangered	False					marm1234	Q21403256	Sino-Tibetan language of Bangladesh and India
 rn	run	Rundi	Ikirundi	7500000	Latn	BI	Official [BI]	Not endangered	False					rund1242	Q33583	Bantu language
 rnd	rnd	Ruund		250000	Latn	CD		Not endangered	False					ruun1238	Q7383564	
@@ -5491,7 +5491,7 @@ sch	sch	Sakachep		25000		IN		Not endangered	False					saka1283	Q37054
 sci	sci	Sri Lankan Creole Malay		46000	Latn	LK		Definitely endangered	False					sril1245	Q1089151	creole formed from the mix of Sinhala and Tamil with Malay
 sck	sck	Sadri	सदरी	2400000	Deva	IN		Not endangered	False					sadr1248		
 scl	scl	Shina	شینا‬	370000	Arab	PK		Not endangered	False					shin1264	Q1353320	language from the Dardic sub-group of the Indo-Aryan languages family spoken by the Shina people, living in Kashmir region in Pakistan and India
-scn	scn	Sicilian	Sicilianu	510000	Latn	IT		Vulnerable	False					sici1248	Q33973	Italo-Dalmatian language spoken in Southern Italy
+scn	scn	Sicilian	Sicilianu	5000000	Latn	IT		Vulnerable	False					sici1248	Q33973	Italo-Dalmatian language spoken in Southern Italy
 sco	sco	Scots	Scots	1600000	Latn	GB		Vulnerable	False					scot1243	Q14549	Germanic language
 scp	scp	Hyolmo		10000	Deva	NP		Definitely endangered	False					hela1238	Q19841092	Sino-Tibetan language
 scq	scq	Sa'Och		20		KH		Definitely endangered	False					saoc1239	Q6583617	
@@ -5637,7 +5637,7 @@ skc	skc	Ma Manda		1600	Latn	PG		Not endangered	False					sauk1252	Q6720783
 skd	skd	Southern Sierra Miwok		3	Latn	US		Critically endangered	False					sout2985	Q3492334	
 ske	ske	Seke		300	Latn	VU		Definitely endangered	False					seke1241	Q7534244	
 skf	skf	Sakirabiá		40	Latn	BR		Critically endangered	False					saki1248	Q3304806	
-skg	skg	Sakalava Malagasy	Sakalava		Latn	MG		Not endangered	False	mg				saka1291	Q12952768	
+skg	skg	Sakalava Malagasy	Sakalava	1210000	Latn	MG		Not endangered	False	mg				saka1291	Q12952768	
 skh	skh	Sikule		20000	Latn	ID		Vulnerable	False					siku1242	Q3121081	language in Aceh
 ski	ski	Sika		180000	Latn	ID		Not endangered	False					sika1262	Q33960	language spoken in Indonesia
 skj	skj	Seke		5900		NP		Definitely endangered	False					seke1240	Q30226846	Language of Nepal
@@ -5732,7 +5732,7 @@ soj	soj	Soi		7000		IR		Definitely endangered	False					soii1239	Q7930463
 sok	sok	Sokoro			Latn	TD		Definitely endangered	False					soko1263	Q3441303	
 sol	sol	Solos		7900	Latn	PG		Not endangered	False					solo1257	Q3489591	Austronesian language
 soo	soo	Songo		7100	Latn	CD		Not endangered	False					song1299	Q12953148	
-sop	sop	Songe	Kisongye		Latn	CD		Not endangered	False					song1303	Q3130911	
+sop	sop	Songe	Kisongye	1000000	Latn	CD		Not endangered	False					song1303	Q3130911	
 soq	soq	Kanasi		2200	Latn	PG		Not endangered	False					kana1288	Q11732656	
 sor	sor	Somrai		7400	Latn	TD		Not endangered	False					somr1248	Q3123566	
 sos	sos	Seeku		17000	Latn	BF		Not endangered	False					seek1238	Q36274	
@@ -5872,7 +5872,7 @@ swc	swc	Congo Swahili		9100000	Latn	CD		Not endangered	False	sw				cong1236	Q109
 swf	swf	Sere			Latn	CD, CF		Critically endangered	False					sere1264	Q7453056	
 swg	swg	Swabian	Schwäbisch	800000	Latn	DE		Vulnerable	False					swab1242	Q327274	Upper German dialect
 swh	swh	Swahili			Latn	BI, KE, MZ, RW, SO, TZ, UG		Not endangered	False	sw				swah1253	Q3197533	"language with code ""swh"", official variety of swahili"
-swi	swi	Sui		300000	Hani	CN		Not endangered	False					suii1243	Q3112388	Tai–Kadai language spoken by the Sui people of Guizhou, China
+swi	swi	Sui		300000	Hani, Latn, Shui	CN		Not endangered	False					suii1243	Q3112388	Tai–Kadai language spoken by the Sui people of Guizhou, China
 swj	swj	Sira			Latn	GA		Not endangered	False					sira1266	Q36599	Bantu language
 swk	swk	Malawi Sena	Cisena	1600000	Latn	MW, ZW		Not endangered	False					mala1475	Q11056292	
 swm	swm	Samosa		90	Latn	PG		Severely endangered	False					samo1306	Q7410037	
@@ -6297,7 +6297,7 @@ trz	trz	Torá			Latn	BR		Extinct	False					tora1263	Q7827518	Chapacuran language
 ts	tso	Tsonga	Xitsonga	2500000	Latn	ZA, ZW	Regional official [ZA]	Not endangered	False					tson1249	Q34327	Bantu language of the Tsonga people of southern Africa
 tsa	tsa	Tsaangi			Latn	CG, GA		Not endangered	False					tsaa1242	Q36675	Bantu language
 tsb	tsb	Tsamai		18000		ET		Definitely endangered	False					tsam1247	Q2371358	
-tsc	tsc	Tswa	Xitswa		Latn	MZ		Not endangered	False					tswa1255	Q2085051	
+tsc	tsc	Tswa	Xitswa	1200000	Latn	MZ		Not endangered	False					tswa1255	Q2085051	
 tsd	tsd	Tsakonian		200	Grek	GR		Severely endangered	False					tsak1248	Q220607	Doric dialect of Greek language
 tsg	tsg	Tausug	Bahasa Sūg	1200000	Latn	PH	Regional official [PH]	Not endangered	False					taus1251	Q34142	Visayan language spoken in the Philippines and Malaysia
 tsh	tsh	Tsuvan		2300	Latn	CM		Vulnerable	False					tsuv1243	Q3502326	
@@ -6828,7 +6828,7 @@ wru	wru	Waru				ID		Definitely endangered	False					waru1266	Q3566463
 wrv	wrv	Waruna		600	Latn	PG		Not endangered	False					waru1267	Q7971078	Papuan language of Gogodala-Suki family
 wrw	wrw	Gugu Warra			Latn	AU		Extinct	False					gugu1256	Q5615286	
 wrx	wrx	Wae Rana		3000		ID		Definitely endangered	False					waer1237	Q7959375	language in Indonesia
-wry	wry	Merwari	मेरवारी		Deva	IN		Not endangered	False	mwr				merw1238	Q11732445	
+wry	wry	Merwari	मेरवारी	3900000	Deva	IN		Not endangered	False	mwr				merw1238	Q11732445	
 wrz	wrz	Waray			Latn	AU		Extinct	False					wara1290	Q7969971	
 wsa	wsa	Warembori		600	Latn	ID		Definitely endangered	False					ware1253	Q56459	
 wsg	wsg	Adilabad Gondi		300000	Deva, Gonm, Tulu	IN			False	gon						

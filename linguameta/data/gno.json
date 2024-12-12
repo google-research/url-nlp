@@ -521,7 +521,6 @@
     {
       "script": {
         "iso_15924_code": "deva",
-        "is_canonical": true,
         "is_in_widespread_use": true,
         "source": "GOOGLE_RESEARCH"
       },
@@ -557,7 +556,7 @@
     {
       "script": {
         "iso_15924_code": "telu",
-        "is_canonical": false,
+        "is_canonical": true,
         "is_in_widespread_use": true,
         "source": "GOOGLE_RESEARCH"
       },

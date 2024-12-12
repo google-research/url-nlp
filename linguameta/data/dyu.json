@@ -3,7 +3,7 @@
   "iso_639_3_code": "dyu",
   "glottocode": "dyul1238",
   "wikidata_id": "Q32706",
-  "total_population": 2600000,
+  "total_population": 2500000,
   "language_scope": {
     "scope": "LANGUAGE",
     "source": "ISO_639"
@@ -1031,13 +1031,17 @@
       "name": "ߖߎ߬ߟߊ߬ߞߊ߲",
       "bcp_47_code": "dyu",
       "source": "GOOGLE_RESEARCH"
+    },
+    {
+      "name": "Dioula",
+      "bcp_47_code": "en",
+      "source": "WIKIPEDIA"
     }
   ],
   "language_script_locale": [
     {
       "script": {
         "iso_15924_code": "latn",
-        "is_canonical": true,
         "is_in_widespread_use": true,
         "has_official_status": true,
         "source": "GOOGLE_RESEARCH"
@@ -1059,6 +1063,7 @@
     {
       "script": {
         "iso_15924_code": "nkoo",
+        "is_canonical": true,
         "has_symbolic_value": true,
         "source": "GOOGLE_RESEARCH"
       },

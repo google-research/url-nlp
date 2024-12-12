@@ -3,6 +3,7 @@
   "iso_639_3_code": "nnb",
   "glottocode": "nand1264",
   "wikidata_id": "Q3196953",
+  "total_population": 10000000,
   "language_scope": {
     "scope": "LANGUAGE",
     "source": "ISO_639"
@@ -565,6 +566,10 @@
       "locale": {
         "iso_3166_code": "cd",
         "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 10000000,
+        "source": "WIKIPEDIA"
       },
       "geolocation": {
         "latitude": -0.24904,

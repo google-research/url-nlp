@@ -53,7 +53,6 @@
     {
       "script": {
         "iso_15924_code": "hani",
-        "is_canonical": true,
         "source": "WIKTIONARY"
       },
       "locale": {
@@ -69,6 +68,7 @@
     {
       "script": {
         "iso_15924_code": "latn",
+        "is_canonical": true,
         "is_for_transliteration": true,
         "source": "WIKTIONARY"
       },

@@ -1683,7 +1683,6 @@
     {
       "script": {
         "iso_15924_code": "beng",
-        "is_canonical": true,
         "source": "GOOGLE_RESEARCH"
       },
       "locale": {
@@ -1723,6 +1722,7 @@
     {
       "script": {
         "iso_15924_code": "mtei",
+        "is_canonical": true,
         "has_official_status": true,
         "source": "GOOGLE_RESEARCH"
       },

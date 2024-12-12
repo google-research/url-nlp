@@ -73,6 +73,25 @@
     {
       "script": {
         "iso_15924_code": "hani",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "locale": {
+        "iso_3166_code": "cn",
+        "source": "GOOGLE_RESEARCH"
+      },
+      "speaker_data": {
+        "number_of_speakers": 140000,
+        "source": "GOOGLE_RESEARCH"
+      },
+      "geolocation": {
+        "latitude": 23.2074,
+        "longitude": 101.886,
+        "source": "GLOTTOLOG"
+      }
+    },
+    {
+      "script": {
+        "iso_15924_code": "latn",
         "is_canonical": true,
         "source": "GOOGLE_RESEARCH"
       },
