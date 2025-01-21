@@ -197,7 +197,7 @@ Wolof is particularly noticeable in this regard, with notes like "xont (verb) wh
 | ts       | Tsonga        | Xitsonga     | Xitsonga              | Latn   |
 | tum |  Tumbuka |  Chitumbuka |   |  Latn |
 | ty |  Tahitian |  Reo Tahiti; Tahiti |   |  Latn |
-| tyv |  Tuvinian |  тувинский |   |  Cyrl |
+| tyv |  Tuvinian |  Тыва дыл |   |  Cyrl |
 | udm      | Udmurt |  Удмурт кыл | | Cyrl
 | ve       | Venda |  Tshivenḓa | Tshivenda, Setswetla | Latn
 | vec      | Venetian |  Veneto | | Latn
