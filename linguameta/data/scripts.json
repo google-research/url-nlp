@@ -1,0 +1,1042 @@
+{
+  "script_map": [
+    {
+      "script": {
+        "name": "adlm",
+        "full_name": "Adlam"
+      }
+    },
+    {
+      "script": {
+        "name": "aghb",
+        "full_name": "Caucasian Albanian"
+      }
+    },
+    {
+      "script": {
+        "name": "ahom",
+        "full_name": "Ahom"
+      }
+    },
+    {
+      "script": {
+        "name": "arab",
+        "full_name": "Arabic"
+      }
+    },
+    {
+      "script": {
+        "name": "armi",
+        "full_name": "Imperical Aramaic"
+      }
+    },
+    {
+      "script": {
+        "name": "armn",
+        "full_name": "Armenian"
+      }
+    },
+    {
+      "script": {
+        "name": "avst",
+        "full_name": "Avestan"
+      }
+    },
+    {
+      "script": {
+        "name": "bali",
+        "full_name": "Balinese"
+      }
+    },
+    {
+      "script": {
+        "name": "bamu",
+        "full_name": "Bamum"
+      }
+    },
+    {
+      "script": {
+        "name": "bass",
+        "full_name": "Bassa Vah"
+      }
+    },
+    {
+      "script": {
+        "name": "batk",
+        "full_name": "Batak"
+      }
+    },
+    {
+      "script": {
+        "name": "beng",
+        "full_name": "Bengali"
+      }
+    },
+    {
+      "script": {
+        "name": "bhks",
+        "full_name": "Bhaiksuki"
+      }
+    },
+    {
+      "script": {
+        "name": "bopo",
+        "full_name": "Bopomofo"
+      }
+    },
+    {
+      "script": {
+        "name": "brah",
+        "full_name": "Brahmi"
+      }
+    },
+    {
+      "script": {
+        "name": "brai",
+        "full_name": "Braille"
+      }
+    },
+    {
+      "script": {
+        "name": "bugi",
+        "full_name": "Buginese"
+      }
+    },
+    {
+      "script": {
+        "name": "buhd",
+        "full_name": "Buhid"
+      }
+    },
+    {
+      "script": {
+        "name": "cakm",
+        "full_name": "Chakma"
+      }
+    },
+    {
+      "script": {
+        "name": "cans",
+        "full_name": "Unified Canadian Aboriginal Syllabics"
+      }
+    },
+    {
+      "script": {
+        "name": "cari",
+        "full_name": "Carian"
+      }
+    },
+    {
+      "script": {
+        "name": "cham",
+        "full_name": "Cham"
+      }
+    },
+    {
+      "script": {
+        "name": "cher",
+        "full_name": "Cherokee"
+      }
+    },
+    {
+      "script": {
+        "name": "chrs",
+        "full_name": "Chorasmian"
+      }
+    },
+    {
+      "script": {
+        "name": "copt",
+        "full_name": "Coptic"
+      }
+    },
+    {
+      "script": {
+        "name": "cpmn",
+        "full_name": "Cypro-Minoan"
+      }
+    },
+    {
+      "script": {
+        "name": "cprt",
+        "full_name": "Cypriot syllabary"
+      }
+    },
+    {
+      "script": {
+        "name": "cyrl",
+        "full_name": "Cyrillic"
+      }
+    },
+    {
+      "script": {
+        "name": "cyrs",
+        "full_name": "Cyrillic (Old Church Slavonic variant)"
+      }
+    },
+    {
+      "script": {
+        "name": "deva",
+        "full_name": "Devanagari"
+      }
+    },
+    {
+      "script": {
+        "name": "diak",
+        "full_name": "Dives Akuru"
+      }
+    },
+    {
+      "script": {
+        "name": "dogr",
+        "full_name": "Dogra"
+      }
+    },
+    {
+      "script": {
+        "name": "dsrt",
+        "full_name": "Deseret"
+      }
+    },
+    {
+      "script": {
+        "name": "dupl",
+        "full_name": "Duployan"
+      }
+    },
+    {
+      "script": {
+        "name": "egyp",
+        "full_name": "Egyptian hieroglyphs"
+      }
+    },
+    {
+      "script": {
+        "name": "elba",
+        "full_name": "Elbasan"
+      }
+    },
+    {
+      "script": {
+        "name": "elym",
+        "full_name": "Elymaic"
+      }
+    },
+    {
+      "script": {
+        "name": "ethi",
+        "full_name": "Ethiopic"
+      }
+    },
+    {
+      "script": {
+        "name": "geok",
+        "full_name": "Khutsuri"
+      }
+    },
+    {
+      "script": {
+        "name": "geor",
+        "full_name": "Georgian"
+      }
+    },
+    {
+      "script": {
+        "name": "glag",
+        "full_name": "Glagolitic"
+      }
+    },
+    {
+      "script": {
+        "name": "gong",
+        "full_name": "Gunjala Gondi"
+      }
+    },
+    {
+      "script": {
+        "name": "gonm",
+        "full_name": "Masaram Gondi"
+      }
+    },
+    {
+      "script": {
+        "name": "goth",
+        "full_name": "Gothic"
+      }
+    },
+    {
+      "script": {
+        "name": "gran",
+        "full_name": "Grantha"
+      }
+    },
+    {
+      "script": {
+        "name": "grek",
+        "full_name": "Greek"
+      }
+    },
+    {
+      "script": {
+        "name": "gujr",
+        "full_name": "Gujarati"
+      }
+    },
+    {
+      "script": {
+        "name": "guru",
+        "full_name": "Gurmukhi"
+      }
+    },
+    {
+      "script": {
+        "name": "hanb",
+        "full_name": "Han with Bopomofo"
+      }
+    },
+    {
+      "script": {
+        "name": "hang",
+        "full_name": "Hangul"
+      }
+    },
+    {
+      "script": {
+        "name": "hani",
+        "full_name": "Han"
+      }
+    },
+    {
+      "script": {
+        "name": "hano",
+        "full_name": "Hanunoo"
+      }
+    },
+    {
+      "script": {
+        "name": "hans",
+        "full_name": "Han (Simplified variant)"
+      }
+    },
+    {
+      "script": {
+        "name": "hant",
+        "full_name": "Han (Traditional variant)"
+      }
+    },
+    {
+      "script": {
+        "name": "hatr",
+        "full_name": "Hatran"
+      }
+    },
+    {
+      "script": {
+        "name": "hebr",
+        "full_name": "Hebrew"
+      }
+    },
+    {
+      "script": {
+        "name": "hira",
+        "full_name": "Hiragana"
+      }
+    },
+    {
+      "script": {
+        "name": "hluw",
+        "full_name": "Anatolian Hieroglyphs"
+      }
+    },
+    {
+      "script": {
+        "name": "hmng",
+        "full_name": "Pahawh Hmong"
+      }
+    },
+    {
+      "script": {
+        "name": "hmnp",
+        "full_name": "Nyiakeng Puachue Hmong"
+      }
+    },
+    {
+      "script": {
+        "name": "hrkt",
+        "full_name": "Japanese syllabaries"
+      }
+    },
+    {
+      "script": {
+        "name": "hung",
+        "full_name": "Old Hungarian"
+      }
+    },
+    {
+      "script": {
+        "name": "ital",
+        "full_name": "Old Italic"
+      }
+    },
+    {
+      "script": {
+        "name": "jamo",
+        "full_name": "Jamo"
+      }
+    },
+    {
+      "script": {
+        "name": "java",
+        "full_name": "Javanese"
+      }
+    },
+    {
+      "script": {
+        "name": "jpan",
+        "full_name": "Japanese"
+      }
+    },
+    {
+      "script": {
+        "name": "kali",
+        "full_name": "Kayah Li"
+      }
+    },
+    {
+      "script": {
+        "name": "kana",
+        "full_name": "Katakana"
+      }
+    },
+    {
+      "script": {
+        "name": "kawi",
+        "full_name": "Chorasmian"
+      }
+    },
+    {
+      "script": {
+        "name": "khar",
+        "full_name": "Kharoshthi"
+      }
+    },
+    {
+      "script": {
+        "name": "khmr",
+        "full_name": "Khmer"
+      }
+    },
+    {
+      "script": {
+        "name": "khoj",
+        "full_name": "Khojki"
+      }
+    },
+    {
+      "script": {
+        "name": "kits",
+        "full_name": "Khitan small script"
+      }
+    },
+    {
+      "script": {
+        "name": "knda",
+        "full_name": "Kannada"
+      }
+    },
+    {
+      "script": {
+        "name": "kore",
+        "full_name": "Korean"
+      }
+    },
+    {
+      "script": {
+        "name": "kthi",
+        "full_name": "Kaithi"
+      }
+    },
+    {
+      "script": {
+        "name": "lana",
+        "full_name": "Tai Tham (Lanna)"
+      }
+    },
+    {
+      "script": {
+        "name": "laoo",
+        "full_name": "Lao"
+      }
+    },
+    {
+      "script": {
+        "name": "latn",
+        "full_name": "Latin"
+      }
+    },
+    {
+      "script": {
+        "name": "lepc",
+        "full_name": "Lepcha"
+      }
+    },
+    {
+      "script": {
+        "name": "limb",
+        "full_name": "Limbu"
+      }
+    },
+    {
+      "script": {
+        "name": "lina",
+        "full_name": "Linear A"
+      }
+    },
+    {
+      "script": {
+        "name": "linb",
+        "full_name": "Linear B"
+      }
+    },
+    {
+      "script": {
+        "name": "lisu",
+        "full_name": "Lisu"
+      }
+    },
+    {
+      "script": {
+        "name": "lyci",
+        "full_name": "Lycian"
+      }
+    },
+    {
+      "script": {
+        "name": "lydi",
+        "full_name": "Lydian"
+      }
+    },
+    {
+      "script": {
+        "name": "mahj",
+        "full_name": "Mahajani"
+      }
+    },
+    {
+      "script": {
+        "name": "maka",
+        "full_name": "Makasar"
+      }
+    },
+    {
+      "script": {
+        "name": "mand",
+        "full_name": "Mandaic"
+      }
+    },
+    {
+      "script": {
+        "name": "mani",
+        "full_name": "Manichaean"
+      }
+    },
+    {
+      "script": {
+        "name": "marc",
+        "full_name": "Marchen"
+      }
+    },
+    {
+      "script": {
+        "name": "medf",
+        "full_name": "Medefaidrin"
+      }
+    },
+    {
+      "script": {
+        "name": "mend",
+        "full_name": "Mende Kikakui"
+      }
+    },
+    {
+      "script": {
+        "name": "merc",
+        "full_name": "Meroitic Cursive"
+      }
+    },
+    {
+      "script": {
+        "name": "mero",
+        "full_name": "Meroitic Hieroglyphs"
+      }
+    },
+    {
+      "script": {
+        "name": "mlym",
+        "full_name": "Malayalam"
+      }
+    },
+    {
+      "script": {
+        "name": "modi",
+        "full_name": "Modi"
+      }
+    },
+    {
+      "script": {
+        "name": "mong",
+        "full_name": "Mongolian"
+      }
+    },
+    {
+      "script": {
+        "name": "mroo",
+        "full_name": "Mro"
+      }
+    },
+    {
+      "script": {
+        "name": "mtei",
+        "full_name": "Meetei Mayek"
+      }
+    },
+    {
+      "script": {
+        "name": "mult",
+        "full_name": "Multani"
+      }
+    },
+    {
+      "script": {
+        "name": "mymr",
+        "full_name": "Myanmar"
+      }
+    },
+    {
+      "script": {
+        "name": "nagm",
+        "full_name": "Nag Mundari"
+      }
+    },
+    {
+      "script": {
+        "name": "nand",
+        "full_name": "Nandinagari"
+      }
+    },
+    {
+      "script": {
+        "name": "narb",
+        "full_name": "Old North Arabian"
+      }
+    },
+    {
+      "script": {
+        "name": "nbat",
+        "full_name": "Nabataean"
+      }
+    },
+    {
+      "script": {
+        "name": "newa",
+        "full_name": "Newa"
+      }
+    },
+    {
+      "script": {
+        "name": "nkoo",
+        "full_name": "NKo"
+      }
+    },
+    {
+      "script": {
+        "name": "nshu",
+        "full_name": "Nushu"
+      }
+    },
+    {
+      "script": {
+        "name": "ogam",
+        "full_name": "Ogham"
+      }
+    },
+    {
+      "script": {
+        "name": "olck",
+        "full_name": "Ol Chiki"
+      }
+    },
+    {
+      "script": {
+        "name": "orkh",
+        "full_name": "Old Turkic"
+      }
+    },
+    {
+      "script": {
+        "name": "orya",
+        "full_name": "Oriya"
+      }
+    },
+    {
+      "script": {
+        "name": "osge",
+        "full_name": "Osage"
+      }
+    },
+    {
+      "script": {
+        "name": "osma",
+        "full_name": "Osmanya"
+      }
+    },
+    {
+      "script": {
+        "name": "ougr",
+        "full_name": "Old Uyghur"
+      }
+    },
+    {
+      "script": {
+        "name": "palm",
+        "full_name": "Palmyrene"
+      }
+    },
+    {
+      "script": {
+        "name": "pauc",
+        "full_name": "Pau Cin Hau"
+      }
+    },
+    {
+      "script": {
+        "name": "perm",
+        "full_name": "Old Permic"
+      }
+    },
+    {
+      "script": {
+        "name": "phag",
+        "full_name": "Phags-pa"
+      }
+    },
+    {
+      "script": {
+        "name": "phli",
+        "full_name": "Inscriptional Pahlavi"
+      }
+    },
+    {
+      "script": {
+        "name": "phlp",
+        "full_name": "Psalter Pahlavi"
+      }
+    },
+    {
+      "script": {
+        "name": "phnx",
+        "full_name": "Phoenician"
+      }
+    },
+    {
+      "script": {
+        "name": "plrd",
+        "full_name": "Miao (Pollard)"
+      }
+    },
+    {
+      "script": {
+        "name": "prti",
+        "full_name": "Inscriptional Parthian"
+      }
+    },
+    {
+      "script": {
+        "name": "rjng",
+        "full_name": "Rejang"
+      }
+    },
+    {
+      "script": {
+        "name": "rohg",
+        "full_name": "Hanifi Rohingya"
+      }
+    },
+    {
+      "script": {
+        "name": "runr",
+        "full_name": "Runic"
+      }
+    },
+    {
+      "script": {
+        "name": "samr",
+        "full_name": "Samaritan"
+      }
+    },
+    {
+      "script": {
+        "name": "sarb",
+        "full_name": "Old South Arabian"
+      }
+    },
+    {
+      "script": {
+        "name": "saur",
+        "full_name": "Saurashtra"
+      }
+    },
+    {
+      "script": {
+        "name": "sgnw",
+        "full_name": "SignWriting"
+      }
+    },
+    {
+      "script": {
+        "name": "shaw",
+        "full_name": "Shavian"
+      }
+    },
+    {
+      "script": {
+        "name": "shrd",
+        "full_name": "Sharada"
+      }
+    },
+    {
+      "script": {
+        "name": "sidd",
+        "full_name": "Siddham"
+      }
+    },
+    {
+      "script": {
+        "name": "sind",
+        "full_name": "Khudawadi"
+      }
+    },
+    {
+      "script": {
+        "name": "sinh",
+        "full_name": "Sinhala"
+      }
+    },
+    {
+      "script": {
+        "name": "sogd",
+        "full_name": "Sogdian"
+      }
+    },
+    {
+      "script": {
+        "name": "sogo",
+        "full_name": "Old Sogdian"
+      }
+    },
+    {
+      "script": {
+        "name": "sora",
+        "full_name": "Sora Sompeng"
+      }
+    },
+    {
+      "script": {
+        "name": "soyo",
+        "full_name": "Soyombo"
+      }
+    },
+    {
+      "script": {
+        "name": "sund",
+        "full_name": "Sundanese"
+      }
+    },
+    {
+      "script": {
+        "name": "sylo",
+        "full_name": "Syloti Nagri"
+      }
+    },
+    {
+      "script": {
+        "name": "syrc",
+        "full_name": "Syriac"
+      }
+    },
+    {
+      "script": {
+        "name": "syre",
+        "full_name": "Syriac (Estrangelo variant)"
+      }
+    },
+    {
+      "script": {
+        "name": "syrj",
+        "full_name": "Syriac (Western variant)"
+      }
+    },
+    {
+      "script": {
+        "name": "syrn",
+        "full_name": "Syriac (Eastern variant)"
+      }
+    },
+    {
+      "script": {
+        "name": "tagb",
+        "full_name": "Tagbanwa"
+      }
+    },
+    {
+      "script": {
+        "name": "takr",
+        "full_name": "Takri"
+      }
+    },
+    {
+      "script": {
+        "name": "tale",
+        "full_name": "Tai Le"
+      }
+    },
+    {
+      "script": {
+        "name": "talu",
+        "full_name": "New Tai Lue"
+      }
+    },
+    {
+      "script": {
+        "name": "taml",
+        "full_name": "Tamil"
+      }
+    },
+    {
+      "script": {
+        "name": "tang",
+        "full_name": "Tangut"
+      }
+    },
+    {
+      "script": {
+        "name": "tavt",
+        "full_name": "Tai Viet"
+      }
+    },
+    {
+      "script": {
+        "name": "telu",
+        "full_name": "Telugu"
+      }
+    },
+    {
+      "script": {
+        "name": "tfng",
+        "full_name": "Tifinagh (Berber)"
+      }
+    },
+    {
+      "script": {
+        "name": "tglg",
+        "full_name": "Tagalog"
+      }
+    },
+    {
+      "script": {
+        "name": "thaa",
+        "full_name": "Thaana"
+      }
+    },
+    {
+      "script": {
+        "name": "thai",
+        "full_name": "Thai"
+      }
+    },
+    {
+      "script": {
+        "name": "tibt",
+        "full_name": "Tibetan"
+      }
+    },
+    {
+      "script": {
+        "name": "tirh",
+        "full_name": "Tirhuta"
+      }
+    },
+    {
+      "script": {
+        "name": "tnsa",
+        "full_name": "Tangsa"
+      }
+    },
+    {
+      "script": {
+        "name": "toto",
+        "full_name": "Toto"
+      }
+    },
+    {
+      "script": {
+        "name": "ugar",
+        "full_name": "Ugaritic"
+      }
+    },
+    {
+      "script": {
+        "name": "vaii",
+        "full_name": "Vai"
+      }
+    },
+    {
+      "script": {
+        "name": "vith",
+        "full_name": "Vithkuqi"
+      }
+    },
+    {
+      "script": {
+        "name": "wara",
+        "full_name": "Warang Citi"
+      }
+    },
+    {
+      "script": {
+        "name": "wcho",
+        "full_name": "Wancho"
+      }
+    },
+    {
+      "script": {
+        "name": "xpeo",
+        "full_name": "Old Persian"
+      }
+    },
+    {
+      "script": {
+        "name": "xsux",
+        "full_name": "Cuneiform"
+      }
+    },
+    {
+      "script": {
+        "name": "yezi",
+        "full_name": "Yezidi"
+      }
+    },
+    {
+      "script": {
+        "name": "yiii",
+        "full_name": "Yi"
+      }
+    },
+    {
+      "script": {
+        "name": "zanb",
+        "full_name": "Zanabazar Square"
+      }
+    }
+  ]
+}
