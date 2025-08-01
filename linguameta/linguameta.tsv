@@ -337,7 +337,7 @@ aqp	aqp	Atakapa			Latn	US		Extinct	False					atak1252	Q10975683	extinct language
 aqr	aqr	Arhâ		170	Latn	NC		Severely endangered	False					arha1237	Q4790085	
 aqt	aqt	Angaité		1000	Latn	PY		Severely endangered	False					anga1316	Q15736037	
 aqz	aqz	Akuntsu		4	Latn	BR		Critically endangered	False					akun1241	Q4701960	
-ar	ara	Arabic	العربية	346277000	Arab	AE, BH, DJ, DZ, EG, EH, ER, IL, IQ, JO, KM, KW, LB, LY, MA, MR, OM, PS, QA, SA, SD, SO, SY, TD, TN, XA, YE	Official [AE], Official [BH], Official [DJ], Official [DZ], Official [EG], Official [EH], Official [IL], Official [IQ], Official [JO], Official [KM], Official [KW], Official [LB], Official [LY], Official [MA], Official [MR], Official [OM], Official [PS], Official [QA], Official [SA], Official [SD], Official [SO], Official [SY], Official [TD], Official [TN], Official [YE]		True		aao, abh, abv, acm, acq, acw, acx, acy, adf, aeb, aec, afb, ajp, apc, apd, arb, arq, ars, ary, arz, auz, avl, ayh, ayl, ayn, ayp, pga, shu, ssh					
+ar	ara	Arabic	العربية	346277000	Arab	AE, BH, DJ, DZ, EG, EH, ER, IL, IQ, JO, KM, KW, LB, LY, MA, MR, OM, PS, QA, SA, SD, SO, SY, TD, TN, XA, YE	Official [AE], Official [BH], Official [DJ], Official [DZ], Official [EG], Official [EH], Official [IL], Official [IQ], Official [JO], Official [KM], Official [KW], Official [LB], Official [LY], Official [MA], Official [MR], Official [OM], Official [PS], Official [QA], Official [SA], Official [SD], Official [SO], Official [SY], Official [TD], Official [TN], Official [YE]	Not endangered	True		aao, abh, abv, acm, acq, acw, acx, acy, adf, aeb, aec, afb, ajp, apc, apd, arb, arq, ars, ary, arz, auz, avl, ayh, ayl, ayn, ayp, pga, shu, ssh					
 arb	arb	Standard Arabic						Not endangered	False	ar				stan1318	Q56467	the standardized and literary variety of Arabic used in writing and in most formal speech
 ard	ard	Arabana		31	Latn	AU			False					arab1267	Q3507959	
 are	are	Western Arrarnta		4500	Latn	AU		Definitely endangered	False					west2441	Q12645549	Australian Aboriginal language
@@ -1828,7 +1828,7 @@ eya	eya	Eyak			Latn	US		Extinct	False					eyak1241	Q27480	indigenous language of
 eyo	eyo	Keiyo	Elgeyo	310000	Latn	KE		Not endangered	False	kln				keiy1238	Q56856	
 eza	eza	Ezaa	Ezza	590000	Latn	NG		Not endangered	False					ezaa1238	Q11921436	Igbo language of Nigeria
 eze	eze	Uzekwe		5000	Latn	NG		Not endangered	False					uzek1238	Q3502244	
-fa	fas	Persian	فارسی	82000000	Arab, Latn	AF, IR	Official [AF], Official [IR]		True		pes, prs	per				
+fa	fas	Persian	فارسی	82000000	Arab, Latn	AF, IR	Official [AF], Official [IR]	Not endangered	True		pes, prs	per				
 faa	faa	Fasu		1200	Latn	PG		Definitely endangered	False					fasu1242	Q3446687	
 fab	fab	Fa D'Ambu			Latn	GQ		Not endangered	False					fada1250	Q34992	
 fad	fad	Wagi		3400	Latn	PG		Vulnerable	False					wagi1249	Q7959569	
@@ -2271,7 +2271,7 @@ hca	hca	Andaman Creole Hindi		10000		IN		Not endangered	False					anda1280	Q7599
 hch	hch	Huichol		45000	Latn	MX		Vulnerable	False					huic1243	Q35575	indigenous language of Mexico
 hdn	hdn	Northern Haida		14	Latn	CA		Critically endangered	False	hai				nort2938	Q20054484	dialect of Haida, a Canadian/Alaskan indigenous language isolate
 hdy	hdy	Hadiyya	ሃድያኛ	250000	Ethi, Latn	ET		Not endangered	False					hadi1240	Q56613	language spoken in Ethiopia
-he	heb	Hebrew	Ivrit	8700000	Hebr, Latn	IL	Official [IL]	Not endangered	False				iw	hebr1245	Q8141	standard form of the revived Hebrew language spoken today mainly in Israel
+he	heb	Hebrew	עִבְרִית	8700000	Hebr, Latn	IL	Official [IL]	Not endangered	False				iw	hebr1245	Q8141	standard form of the revived Hebrew language spoken today mainly in Israel
 hea	hea	Northern Qiandong Miao	Hmub	1200000	Latn	CN		Not endangered	False	hmn				nort2747	Q3138832	
 hed	hed	Herdé			Latn	CM, TD		Not endangered	False					herd1236	Q56253	
 heg	heg	Helong		14000	Latn	ID		Vulnerable	False					helo1243	Q35432	language in Nusa Tenggara
@@ -7382,7 +7382,7 @@ zgh	zgh	Standard Moroccan Tamazight	ⵜⴰⵎⴰⵣⵉⵖⵜ	7800000	Latn, Tfng	
 zgm	zgm	Minz Zhuang		180000	Hani	CN		Not endangered	False	za				minz1236	Q6862618	
 zgn	zgn	Guibian Zhuang		1000000		CN		Not endangered	False	za				guib1244	Q17651536	
 zgr	zgr	Magori		100	Latn	PG		Definitely endangered	False					mago1248	Q3277370	
-zh	zho	Chinese							True		cdo, cjy, cmn, cnp, cpx, csp, czh, czo, gan, hak, hsn, mnp, nan, wuu, yue	chi				
+zh	zho	Chinese	中文	1288700000	Hans, Hant, Latn	CN, HK, SG, TW	Official [TW]	Not endangered	True		cdo, cjy, cmn, cnp, cpx, csp, czh, czo, gan, hak, hsn, mnp, nan, wuu, yue	chi				
 zhb	zhb	Zhaba				CN		Definitely endangered	False					zhab1238	Q56334	
 zhd	zhd	Dai Zhuang		100000	Hani, Latn	CN		Vulnerable	False	za				daiz1235	Q5209052	
 zhi	zhi	Zhire			Latn	NG		Not endangered	False					zhir1238	Q3914910	
